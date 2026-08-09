@@ -1,39 +1,12 @@
 {
-  "builtAt": "2026-08-09T17:51:14.732Z",
+  "builtAt": "2026-08-09T17:51:36.320Z",
   "sources": [
-    {
-      "id": "gnews-players-3",
-      "label": "Google News: Spears, Brown, Williams, Egbuka, Boutte",
-      "mode": "roster",
-      "ok": true,
-      "ms": 708,
-      "raw": 100,
-      "kept": 3
-    },
-    {
-      "id": "gnews-players-1",
-      "label": "Google News: Nix, Love, Penix, Jeanty, Brown",
-      "mode": "roster",
-      "ok": true,
-      "ms": 730,
-      "raw": 100,
-      "kept": 1
-    },
-    {
-      "id": "gnews-players-4",
-      "label": "Google News: McConkey, Lemon, Mims, Golden, Otton",
-      "mode": "roster",
-      "ok": true,
-      "ms": 701,
-      "raw": 100,
-      "kept": 1
-    },
     {
       "id": "espn-nfl",
       "label": "ESPN NFL",
       "mode": "roster",
       "ok": true,
-      "ms": 89,
+      "ms": 173,
       "raw": 0,
       "kept": 0
     },
@@ -42,7 +15,7 @@
       "label": "ProFootballTalk",
       "mode": "roster",
       "ok": true,
-      "ms": 422,
+      "ms": 265,
       "raw": 30,
       "kept": 0
     },
@@ -51,7 +24,7 @@
       "label": "CBS Sports NFL",
       "mode": "roster",
       "ok": true,
-      "ms": 141,
+      "ms": 217,
       "raw": 36,
       "kept": 0
     },
@@ -60,7 +33,7 @@
       "label": "Yahoo Sports NFL",
       "mode": "roster",
       "ok": true,
-      "ms": 965,
+      "ms": 352,
       "raw": 50,
       "kept": 0
     },
@@ -69,8 +42,17 @@
       "label": "r/fantasyfootball new",
       "mode": "roster",
       "ok": true,
-      "ms": 1912,
+      "ms": 957,
       "raw": 0,
+      "kept": 0
+    },
+    {
+      "id": "gnews-players-1",
+      "label": "Google News: Nix, Love, Penix, Jeanty, Brown",
+      "mode": "roster",
+      "ok": true,
+      "ms": 743,
+      "raw": 100,
       "kept": 0
     },
     {
@@ -78,7 +60,25 @@
       "label": "Google News: Pacheco, Brooks, Johnson, Gordon, Henderson",
       "mode": "roster",
       "ok": true,
-      "ms": 742,
+      "ms": 791,
+      "raw": 100,
+      "kept": 0
+    },
+    {
+      "id": "gnews-players-3",
+      "label": "Google News: Spears, Brown, Williams, Egbuka, Boutte",
+      "mode": "roster",
+      "ok": true,
+      "ms": 752,
+      "raw": 100,
+      "kept": 0
+    },
+    {
+      "id": "gnews-players-4",
+      "label": "Google News: McConkey, Lemon, Mims, Golden, Otton",
+      "mode": "roster",
+      "ok": true,
+      "ms": 706,
       "raw": 100,
       "kept": 0
     },
@@ -87,7 +87,7 @@
       "label": "Google News: Loveland, Sadiq, Pitts",
       "mode": "roster",
       "ok": true,
-      "ms": 689,
+      "ms": 783,
       "raw": 100,
       "kept": 0
     },
@@ -96,7 +96,7 @@
       "label": "Google News: Atlanta Falcons",
       "mode": "team",
       "ok": true,
-      "ms": 718,
+      "ms": 797,
       "raw": 102,
       "kept": 0
     },
@@ -105,7 +105,7 @@
       "label": "Google News: Carolina Panthers",
       "mode": "team",
       "ok": true,
-      "ms": 753,
+      "ms": 686,
       "raw": 102,
       "kept": 0
     },
@@ -114,7 +114,7 @@
       "label": "Google News: Chicago Bears",
       "mode": "team",
       "ok": true,
-      "ms": 770,
+      "ms": 743,
       "raw": 111,
       "kept": 0
     },
@@ -123,7 +123,7 @@
       "label": "Google News: Cincinnati Bengals",
       "mode": "team",
       "ok": true,
-      "ms": 652,
+      "ms": 729,
       "raw": 100,
       "kept": 0
     },
@@ -132,7 +132,7 @@
       "label": "Google News: Denver Broncos",
       "mode": "team",
       "ok": true,
-      "ms": 744,
+      "ms": 759,
       "raw": 104,
       "kept": 0
     },
@@ -142,7 +142,7 @@
       "mode": "team",
       "ok": true,
       "ms": 690,
-      "raw": 101,
+      "raw": 100,
       "kept": 0
     },
     {
@@ -150,8 +150,8 @@
       "label": "Google News: Green Bay Packers",
       "mode": "team",
       "ok": true,
-      "ms": 620,
-      "raw": 104,
+      "ms": 647,
+      "raw": 105,
       "kept": 0
     },
     {
@@ -159,8 +159,8 @@
       "label": "Google News: Los Angeles Chargers",
       "mode": "team",
       "ok": true,
-      "ms": 604,
-      "raw": 100,
+      "ms": 598,
+      "raw": 102,
       "kept": 0
     },
     {
@@ -168,7 +168,7 @@
       "label": "Google News: Las Vegas Raiders",
       "mode": "team",
       "ok": true,
-      "ms": 705,
+      "ms": 749,
       "raw": 104,
       "kept": 0
     },
@@ -177,7 +177,7 @@
       "label": "Google News: Miami Dolphins",
       "mode": "team",
       "ok": true,
-      "ms": 777,
+      "ms": 809,
       "raw": 108,
       "kept": 0
     },
@@ -186,7 +186,7 @@
       "label": "Google News: New England Patriots",
       "mode": "team",
       "ok": true,
-      "ms": 753,
+      "ms": 666,
       "raw": 99,
       "kept": 0
     },
@@ -195,7 +195,7 @@
       "label": "Google News: New York Jets",
       "mode": "team",
       "ok": true,
-      "ms": 675,
+      "ms": 716,
       "raw": 102,
       "kept": 0
     },
@@ -204,7 +204,7 @@
       "label": "Google News: Philadelphia Eagles",
       "mode": "team",
       "ok": true,
-      "ms": 770,
+      "ms": 800,
       "raw": 103,
       "kept": 0
     },
@@ -213,7 +213,7 @@
       "label": "Google News: Pittsburgh Steelers",
       "mode": "team",
       "ok": true,
-      "ms": 758,
+      "ms": 763,
       "raw": 104,
       "kept": 0
     },
@@ -222,7 +222,7 @@
       "label": "Google News: Tampa Bay Buccaneers",
       "mode": "team",
       "ok": true,
-      "ms": 724,
+      "ms": 618,
       "raw": 102,
       "kept": 0
     },
@@ -231,7 +231,7 @@
       "label": "Google News: Tennessee Titans",
       "mode": "team",
       "ok": true,
-      "ms": 713,
+      "ms": 631,
       "raw": 102,
       "kept": 0
     },
@@ -240,8 +240,8 @@
       "label": "Google News: Washington Commanders",
       "mode": "team",
       "ok": true,
-      "ms": 661,
-      "raw": 100,
+      "ms": 792,
+      "raw": 102,
       "kept": 0
     }
   ],
@@ -249,7 +249,7 @@
     "sources": 27,
     "ok": 27,
     "failed": 0,
-    "newThisRun": 5,
+    "newThisRun": 0,
     "inAllFeed": 467,
     "inUrgentFeed": 9
   },
