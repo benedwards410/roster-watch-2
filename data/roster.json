@@ -1,0 +1,232 @@
+{
+  "_comment": "SINGLE SOURCE OF TRUTH. Edit this file only. Every feed, filter, and query regenerates from it. 'verified' = team confirmed against a primary source in Aug 2026; false = inherited from your original notes, confirm before trusting the team-level feed.",
+  "players": [
+    {
+      "id": "nix",
+      "name": "Bo Nix",
+      "pos": "QB",
+      "team": "DEN",
+      "verified": false,
+      "aliases": ["Bo Nix"],
+      "exclude": []
+    },
+    {
+      "id": "jeanty",
+      "name": "Ashton Jeanty",
+      "pos": "RB",
+      "team": "LV",
+      "verified": false,
+      "aliases": ["Ashton Jeanty", "Jeanty"],
+      "exclude": []
+    },
+    {
+      "id": "cbrown",
+      "name": "Chase Brown",
+      "pos": "RB",
+      "team": "CIN",
+      "verified": false,
+      "aliases": ["Chase Brown"],
+      "exclude": []
+    },
+    {
+      "id": "ajbrown",
+      "name": "AJ Brown",
+      "pos": "WR",
+      "team": "NE",
+      "verified": false,
+      "aliases": ["AJ Brown", "A.J. Brown"],
+      "exclude": []
+    },
+    {
+      "id": "mcconkey",
+      "name": "Ladd McConkey",
+      "pos": "WR",
+      "team": "LAC",
+      "verified": false,
+      "aliases": ["Ladd McConkey", "McConkey"],
+      "exclude": []
+    },
+    {
+      "id": "loveland",
+      "name": "Colston Loveland",
+      "pos": "TE",
+      "team": "CHI",
+      "verified": false,
+      "aliases": ["Colston Loveland", "Loveland"],
+      "exclude": []
+    },
+    {
+      "id": "henderson",
+      "name": "TreVeyon Henderson",
+      "pos": "RB",
+      "team": "NE",
+      "verified": false,
+      "aliases": ["TreVeyon Henderson"],
+      "exclude": []
+    },
+    {
+      "id": "egbuka",
+      "name": "Emeka Egbuka",
+      "pos": "WR",
+      "team": "TB",
+      "verified": false,
+      "aliases": ["Emeka Egbuka", "Egbuka"],
+      "exclude": []
+    },
+    {
+      "id": "love",
+      "name": "Jordan Love",
+      "pos": "QB",
+      "team": "GB",
+      "verified": false,
+      "aliases": ["Jordan Love"],
+      "exclude": []
+    },
+    {
+      "id": "penix",
+      "name": "Michael Penix",
+      "pos": "QB",
+      "team": "ATL",
+      "verified": false,
+      "aliases": ["Michael Penix", "Michael Penix Jr", "Penix"],
+      "exclude": []
+    },
+    {
+      "id": "brooks",
+      "name": "Jonathon Brooks",
+      "pos": "RB",
+      "team": "CAR",
+      "verified": false,
+      "aliases": ["Jonathon Brooks"],
+      "exclude": []
+    },
+    {
+      "id": "gordon",
+      "name": "Ollie Gordon II",
+      "pos": "RB",
+      "team": "MIA",
+      "verified": false,
+      "aliases": ["Ollie Gordon", "Ollie Gordon II"],
+      "exclude": []
+    },
+    {
+      "id": "kjohnson",
+      "name": "Kaleb Johnson",
+      "pos": "RB",
+      "team": "PIT",
+      "verified": false,
+      "aliases": ["Kaleb Johnson"],
+      "exclude": []
+    },
+    {
+      "id": "pacheco",
+      "name": "Isiah Pacheco",
+      "pos": "RB",
+      "team": "DET",
+      "verified": false,
+      "aliases": ["Isiah Pacheco", "Pacheco"],
+      "exclude": []
+    },
+    {
+      "id": "spears",
+      "name": "Tyjae Spears",
+      "pos": "RB",
+      "team": "TEN",
+      "verified": false,
+      "aliases": ["Tyjae Spears", "Spears"],
+      "exclude": ["Britney Spears"]
+    },
+    {
+      "id": "golden",
+      "name": "Matthew Golden",
+      "pos": "WR",
+      "team": "GB",
+      "verified": false,
+      "aliases": ["Matthew Golden"],
+      "exclude": []
+    },
+    {
+      "id": "lemon",
+      "name": "Makai Lemon",
+      "pos": "WR",
+      "team": "PHI",
+      "verified": false,
+      "aliases": ["Makai Lemon", "Lemon"],
+      "exclude": []
+    },
+    {
+      "id": "awilliams",
+      "name": "Antonio Williams",
+      "pos": "WR",
+      "team": "WAS",
+      "verified": false,
+      "aliases": ["Antonio Williams"],
+      "exclude": []
+    },
+    {
+      "id": "mims",
+      "name": "Marvin Mims",
+      "pos": "WR",
+      "team": "DEN",
+      "verified": false,
+      "aliases": ["Marvin Mims", "Marvin Mims Jr", "Mims"],
+      "exclude": []
+    },
+    {
+      "id": "boutte",
+      "name": "Kayshon Boutte",
+      "pos": "WR",
+      "team": "NE",
+      "verified": false,
+      "aliases": ["Kayshon Boutte", "Boutte"],
+      "exclude": []
+    },
+    {
+      "id": "sadiq",
+      "name": "Kenyon Sadiq",
+      "pos": "TE",
+      "team": "NYJ",
+      "verified": false,
+      "aliases": ["Kenyon Sadiq", "Sadiq"],
+      "exclude": []
+    },
+    {
+      "id": "pitts",
+      "name": "Kyle Pitts",
+      "pos": "TE",
+      "team": "ATL",
+      "verified": false,
+      "aliases": ["Kyle Pitts", "Pitts"],
+      "exclude": ["Brad Pitt", "Pittsburgh"]
+    },
+    {
+      "id": "otton",
+      "name": "Cade Otton",
+      "pos": "TE",
+      "team": "TB",
+      "verified": false,
+      "aliases": ["Cade Otton", "Otton"],
+      "exclude": []
+    }
+  ],
+  "teams": {
+    "ATL": "Atlanta Falcons",
+    "BAL": "Baltimore Ravens",
+    "CAR": "Carolina Panthers",
+    "CHI": "Chicago Bears",
+    "CIN": "Cincinnati Bengals",
+    "DEN": "Denver Broncos",
+    "DET": "Detroit Lions",
+    "GB": "Green Bay Packers",
+    "LAC": "Los Angeles Chargers",
+    "LV": "Las Vegas Raiders",
+    "MIA": "Miami Dolphins",
+    "NE": "New England Patriots",
+    "NYJ": "New York Jets",
+    "PHI": "Philadelphia Eagles",
+    "PIT": "Pittsburgh Steelers",
+    "TB": "Tampa Bay Buccaneers",
+    "TEN": "Tennessee Titans",
+    "WAS": "Washington Commanders"
+  }
+}
