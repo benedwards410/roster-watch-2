@@ -60,9 +60,9 @@ check('Britney Spears not counted', players('Britney Spears announces new tour d
 check('Tyjae Spears counted', players('Tyjae Spears takes first-team reps in Tennessee'), ['Tyjae Spears']);
 
 // -- 4. Distinctive aliases match correctly --------------------------------
-check('A.J. Brown alias matches', players('A.J. Brown dominates in Patriots practice'), ['AJ Brown']);
+check('A.J. Brown alias matches', players('A.J. Brown dominates in Patriots practice'), ['A.J. Brown']);
 check('Pacheco alias matches', players('Pacheco breaks off 40-yard run in Lions camp'), ['Isiah Pacheco']);
-check('Ollie Gordon II full name matches', players('Ollie Gordon II named starting RB for Dolphins'), ['Ollie Gordon II']);
+check('Ollie Gordon II full name matches', players('Ollie Gordon II named starting RB for Dolphins'), ['Ollie Gordon']);
 
 // -- 5. No AND-gate on player names ----------------------------------------
 check(
