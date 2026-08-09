@@ -1,35 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - urgent only</title>
-    <link>https://benedwards410.github.io/roster-watch/public</link>
+    <link>https://example.netlify.app</link>
     <description>Availability and role changes only. Point your email service at this one.</description>
-    <lastBuildDate>Sun, 09 Aug 2026 00:10:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 00:33:35 GMT</lastBuildDate>
     <ttl>10</ttl>
-    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/urgent.xml" rel="self" type="application/rss+xml" />
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://example.netlify.app/urgent.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>C.J. Gardner-Johnson Blasts Texans Over How He Was Released - Sports Illustrated [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxOaHV1cWFqM0RiRTdxZE04b0h4SjVJZDI4WFBfRkQ1RTJFRDgzWFlqanpCZVUxSnRRV285U01uaUNkNVVwZ3BjUkV4R0ZyWWM1R0hzMFFsMV9LdWdLR0dNYmlPNnVLLW42U01BdEQwdFk5djhUdEl4eTU4YjJoT0VyWXBxbjZtcmxReHduSk4zdnJOUWdNU1EwRg?oc=5</link>
-      <guid isPermaLink="false">1cf4ec407ffcd697</guid>
-      <pubDate>Fri, 07 Aug 2026 18:00:02 GMT</pubDate>
-      <source>Google News: Houston Texans</source>
-      <description>C.J. Gardner-Johnson Blasts Texans Over How He Was Released &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
+      <title>Broncos DC Vance Joseph shares insights on Bo Nix&apos;s impressive training camp post-surgery - 9News [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMimAJBVV95cUxPQlJYMkV1M0QySnB5b3V0MG9zSVZ2ZW9JeXZvU3FCcnRBejZQNnkzb1ZPS3J5UVcySC1taU0zdE1Gd0JpSTNzUEREM3VzTDVaaWJqQmdNNDhucDRTVWNCUXdjQUR6OUxKRUZqSk1NbWFraF8zNkpuU3l0bjk5R3h1c2Vpa3BEQllfc3ZWbWNmbTYxcnY2aG9WOFR5dGlWRkF3RUZzdHZGX1pBWVJnMUJ1SDFNQXdFOHJOclFUcWNwc0pncnNrLU5uaTVSdmNqVE1EeEdJRkUtWEREcUs5U1FWVGdHWXdWZWpDRWVITjgya0dqOGVkeVFobzRHVVJzYzRxMTRqVVFBUTJRWHVObFhVdm1qTUhzeDJV?oc=5</link>
+      <guid isPermaLink="false">5c2da265cdeb55b7</guid>
+      <pubDate>Sat, 08 Aug 2026 23:06:00 GMT</pubDate>
+      <source>Google News: Nix, Jeanty, Brown, Brown, McConkey</source>
+      <description>Broncos DC Vance Joseph shares insights on Bo Nix&apos;s impressive training camp post-surgery &amp;nbsp;&amp;nbsp; 9News</description>
     </item>
     <item>
-      <title>Browns HC reveals plan for naming starter as QB battle continues between Deshaun Watson, Shedeur Sanders [Shedeur Sanders]</title>
-      <link>https://www.cbssports.com/nfl/news/browns-qb-battle-todd-monken-reveals-preseason-plan-shedeur-sanders-deshaun-watson/</link>
-      <guid isPermaLink="false">1f5e4ab9f745b68a</guid>
-      <pubDate>Wed, 05 Aug 2026 16:48:54 GMT</pubDate>
-      <source>CBS Sports NFL</source>
-      <description>Todd Monken plans to start each QB in one preseason game, before deciding who will start the third</description>
+      <title>Bo Nix on his recovery from ankle surgery, Jaylen Waddle joining team | &apos;Back Together Weekend&apos; - NFL.com [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa2pHOFhxV2dGXy1HTWMtWlBrOHdrWWxYYU5hSnZBei1FNGVRMVVDV25NWG1pRlllZ0RjVDZxVEE1clVZZW1pV24wcXhpNWxPWE5PTzBWcXNDM2N1dHlRYW5COFdyZWVsa3RMc1o4Wk9MX3NRRkdSSDN3MFFaLUhqX1FxWlhpRU1IZVN4TE1mZTdSbkRoY1BGdzBMeVV6cmROZnd0cmMxY2gwVXp0WFA5ZmdldjZRYnJ0?oc=5</link>
+      <guid isPermaLink="false">6ffd34f6cf466a18</guid>
+      <pubDate>Sun, 02 Aug 2026 18:08:11 GMT</pubDate>
+      <source>Google News: Nix, Jeanty, Brown, Brown, McConkey</source>
+      <description>Bo Nix on his recovery from ankle surgery, Jaylen Waddle joining team | &apos;Back Together Weekend&apos; &amp;nbsp;&amp;nbsp; NFL.com</description>
     </item>
     <item>
-      <title>Tank Dell isn&apos;t on the Texans&apos; PUP list. What it could mean - Houston Chronicle [Tank Dell]</title>
-      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxOOW83NDFZQUZ3aWJ5WmRUSVBwWmZ5NnFxT0NINWN6cEEyUUpyRHR5NFRPeHNEV1dlR1lIMGM1aFp2UkVxTmhXZ1pKODFsaXU4b2UyU1VjSldIcUdQZTF0YWl6N29sOHU0OVR2RXRFNm1aNXMzY2ZWNEZBd2VRQmdtR1lFQldCR3pCMlZ6Zy1wTk1YdmtWUEgxUEJ4Yw?oc=5</link>
-      <guid isPermaLink="false">27f0f489167167ad</guid>
-      <pubDate>Tue, 28 Jul 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Williams, Dell, Bernard, Ferguson, Taylor</source>
-      <description>Tank Dell isn&apos;t on the Texans&apos; PUP list. What it could mean &amp;nbsp;&amp;nbsp; Houston Chronicle</description>
+      <title>Jonathon Brooks Won&apos;t play in HOF Game - Fantasy Footballers Podcast [Jonathon Brooks]</title>
+      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ2R6WE80SW1Ld09DVXppejAwNS1pS25pOTN3bVV4cE8xTHpEX2VYSFEtWmNaSnVWNE8xWUo0OFhzWWN6aE50ZEhCbzZqNTltdk5xX2VVelMxci11R2M1YUFUWkIxVnBFX1RWWU0yNTNOUTFMcXkwcGdMSExfblhhNFZhVmY2RzF2WGg1YmcwYmViUQ?oc=5</link>
+      <guid isPermaLink="false">ccad54a5c1b60968</guid>
+      <pubDate>Tue, 04 Aug 2026 21:09:18 GMT</pubDate>
+      <source>Google News: Brooks, II, Johnson, Pacheco, Spears</source>
+      <description>Jonathon Brooks Won&apos;t play in HOF Game &amp;nbsp;&amp;nbsp; Fantasy Footballers Podcast</description>
+    </item>
+    <item>
+      <title>Panthers&apos; Jonathon Brooks: Won&apos;t play in HOF Game - CBS Sports [Jonathon Brooks]</title>
+      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxNSHVSTVUta0s1cHR4ZEYtcDYzS3c5Z2V1OGQwVk1LY0Nad1dEdV9jWGh3dnFabnJEM3c0SExOTkt6MXltaDNwc18yYTlDNy1rTDczTnYxbmZ5YjY0RUNqYlplak5yYXhMejQ1YW9sMExWTmo4OHBJQUFJNzNpbFI5TndmNFRldVVNNXFDb2pZaXBfNWt5ZWQ2ajh4WQ?oc=5</link>
+      <guid isPermaLink="false">9ed173626671bf62</guid>
+      <pubDate>Tue, 04 Aug 2026 16:14:53 GMT</pubDate>
+      <source>Google News: Brooks, II, Johnson, Pacheco, Spears</source>
+      <description>Panthers&apos; Jonathon Brooks: Won&apos;t play in HOF Game &amp;nbsp;&amp;nbsp; CBS Sports</description>
+    </item>
+    <item>
+      <title>Kayshon Boutte sounds at peace with chance of getting traded - Audacy [Kayshon Boutte]</title>
+      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxOTktHdk5teHhkUUU2TVZiWXFkVkpnMjhCV2ZnbU1aTGczR3hzeldaZjA2aGQ3bWE1ZHQ4M2NmN2hIbVFRYmJTUGVQVF9ES2JiTnVfZGJ6dktTVlJkdHpwSXAzSDVVNzJXZm5LTFRtZDExOE1rUlZfSzJ0M0lQUjFOc1h2UllrNTQ5RThDRlRmU2tmZzJNX3Z6NHBSM0pPelhBdGFPTjQ1UQ?oc=5</link>
+      <guid isPermaLink="false">3dd969668e8665ef</guid>
+      <pubDate>Thu, 06 Aug 2026 16:58:00 GMT</pubDate>
+      <source>Google News: Golden, Lemon, Williams, Mims, Boutte</source>
+      <description>Kayshon Boutte sounds at peace with chance of getting traded &amp;nbsp;&amp;nbsp; Audacy</description>
+    </item>
+    <item>
+      <title>Jets TE Kenyon Sadiq Has Setback Following Surgery - New York Jets [Kenyon Sadiq]</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWTFfZnVQRHJHa3M1UVg4WjVIUGtmdGRMYWFrdGtFXzF4c194MDF2cGNJQVIwUkpTeWczbzR6MzdFYldxYjlkSWFkS1VFUVpSdG5rb3Q3RVZnS0ZiaWF0RGdPT0Z0d2RjbWhKTjVPTV80Yk1aVVNhRDlSTFc4SjJ1VGFZRWZWYUhLMjF1VG1MUFpjZU5tdmtlQzdxRGZZYk1JSVFNT2NTZ3I?oc=5</link>
+      <guid isPermaLink="false">9bbefab150f5c4dc</guid>
+      <pubDate>Tue, 04 Aug 2026 17:15:15 GMT</pubDate>
+      <source>Google News: Sadiq, Pitts, Otton</source>
+      <description>Jets TE Kenyon Sadiq Has Setback Following Surgery &amp;nbsp;&amp;nbsp; New York Jets</description>
+    </item>
+    <item>
+      <title>Jets rookie tight end Kenyon Sadiq has a setback in return from hernia surgery, out &apos;a little bit&apos; - AP News [Kenyon Sadiq]</title>
+      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxQWTRnR0J5N1JPbDd2a3hFNEZNV0c5NEZ1MG9xV1lWZExBT1dlNGZ5UFU5dTFGNlR6ZTMzTGVraVRWYnFrTEFMd2lPQTVELVlvYXltSWhvMEJRdjAtb1M5Sm44d3BjMC00dmkzVl9BWWJkdE1HNUpNWlNBcDdxVV80bUQ2cjctem5uZXZId3NjRkZPaDNaTnc?oc=5</link>
+      <guid isPermaLink="false">999b46deceb0c579</guid>
+      <pubDate>Tue, 04 Aug 2026 16:58:00 GMT</pubDate>
+      <source>Google News: Sadiq, Pitts, Otton</source>
+      <description>Jets rookie tight end Kenyon Sadiq has a setback in return from hernia surgery, out &apos;a little bit&apos; &amp;nbsp;&amp;nbsp; AP News</description>
+    </item>
+    <item>
+      <title>Why Kyle Pitts is the clear cut No. 2 option for Falcons - ESPN [Kyle Pitts]</title>
+      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxNaV9jSEpRSmNSUVQ4ckJsVF8xbnhmNkdjSzMtVEp5UmlhN1F0SjZtR19mbE9ta0pWM0xkZGM2RGUwTnFzT0VRbFBEczVDODlZcXBjM01xYmxfM2JZQ2F0SjdqTFpBR2ZZcWVtbnBFcjV1LURueWxkTnJZd3E0Y0lpUFotWllWc3d4UTB1RXVJUEh6T2M5?oc=5</link>
+      <guid isPermaLink="false">4902101690bdea43</guid>
+      <pubDate>Fri, 07 Aug 2026 16:55:20 GMT</pubDate>
+      <source>Google News: Sadiq, Pitts, Otton</source>
+      <description>Why Kyle Pitts is the clear cut No. 2 option for Falcons &amp;nbsp;&amp;nbsp; ESPN</description>
+    </item>
+    <item>
+      <title>Jets&apos; Kenyon Sadiq &apos;out for a little bit&apos; after suffering setback in sports hernia surgery recovery - SNY [Kenyon Sadiq]</title>
+      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxONVl5YlpBcVRqZGFHdXg4V1RJWll3QjFRWEJUTFUwaG5VbV9Eby1nSmhadDJ2UVBRTTRuN0dtNFFiSXQtMkR3T25maTkzZG9nMGxHZHhHNkFDaUJkVF81MnpMY2xhdjhMMnVMS0ZRVDdXYUVCLXZXNktwUWp2Q0pWU180UTdxT3NtX01GTTNsV18tUQ?oc=5</link>
+      <guid isPermaLink="false">f6ef944f05f41117</guid>
+      <pubDate>Tue, 04 Aug 2026 15:14:02 GMT</pubDate>
+      <source>Google News: Sadiq, Pitts, Otton</source>
+      <description>Jets&apos; Kenyon Sadiq &apos;out for a little bit&apos; after suffering setback in sports hernia surgery recovery &amp;nbsp;&amp;nbsp; SNY</description>
+    </item>
+    <item>
+      <title>Jets rookie TE Kenyon Sadiq has setback after hernia surgery - Reuters [Kenyon Sadiq]</title>
+      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxQVzRlQWZBeDhTM29ZeFktODV5eDVxZFo1Vm5uWW1jUmdwc3V3aFV4QnZWZk9jUkF3OTJhYzlXck9nMnZ1UFU5Z3NpWlp4S2d0YmpVdEFEOUZPVWdGLXhIVGtzeHdRdVhXV0V1OHlRaU1Pd0VadHdxTUlZdXNIODh6djlqZ3o1OVYyNGctZFJkSy0weGNQY2tEWjRQQnNnVDh4bVlDbk9IZVltZWdK?oc=5</link>
+      <guid isPermaLink="false">6b457645d9d19bc3</guid>
+      <pubDate>Tue, 04 Aug 2026 17:49:44 GMT</pubDate>
+      <source>Google News: Sadiq, Pitts, Otton</source>
+      <description>Jets rookie TE Kenyon Sadiq has setback after hernia surgery &amp;nbsp;&amp;nbsp; Reuters</description>
+    </item>
+    <item>
+      <title>New York Jets News: Kenyon Sadiq Has Setback Following Surgery - Yahoo Sports [Kenyon Sadiq]</title>
+      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxPSkFta3ZMZnhHa1N4eHRweHA5cnZjWGFrbWdodWw3enlUZ0xuT3Y2VmRuR1dtTDJiUXdteXdZWTFmbGJnQmJZQUhVTC1CbkllNk5yVjVqVDU3SkJ6ay05UV8yZlJQXzVBNGowdXNOeXV2WjE5dmY1Y21sa1JwMDByTTB3?oc=5</link>
+      <guid isPermaLink="false">9fdcf7ff939b7618</guid>
+      <pubDate>Wed, 05 Aug 2026 11:04:59 GMT</pubDate>
+      <source>Google News: Sadiq, Pitts, Otton</source>
+      <description>New York Jets News: Kenyon Sadiq Has Setback Following Surgery &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Jets first-round pick Kenyon Sadiq out a couple more weeks after core muscle surgery - NBC Sports [Kenyon Sadiq]</title>
+      <link>https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTUt1X2NnWUtta3JudkNqbGhNZkZPUU5OREVpaU9ENF9PbEhTVS02RWt6UkZ0aDdMSmhTdG5PdVVCQnpyYjFxSXRqQkM3Vm9FUXlKSzd0ZGpNTmMwRVpSWWJ0OENLVjgwWlFDenNVMVNjRkFNQXgtd25WZ3U3ZWZfZGNhbnVvUk1nVGozdXl3Z1Zwb2FaZWctQTBkMXZvcGFJdjI2Zks5aUxZWG5xdlVLUGtBYWVMSl94MjByaUljR01sa0hjQlhwN2l6MDBoVWYzd0NXNmxONGtDYWhFekJR?oc=5</link>
+      <guid isPermaLink="false">713617831f1392d5</guid>
+      <pubDate>Thu, 06 Aug 2026 15:07:44 GMT</pubDate>
+      <source>Google News: Sadiq, Pitts, Otton</source>
+      <description>Jets first-round pick Kenyon Sadiq out a couple more weeks after core muscle surgery &amp;nbsp;&amp;nbsp; NBC Sports</description>
     </item>
   </channel>
 </rss>
