@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-08-10T14:04:44.523Z",
+  "builtAt": "2026-08-10T15:14:00.450Z",
   "sources": [
     {
       "id": "gnews-players-1",
@@ -200,39 +200,39 @@
       "kept": 0
     },
     {
-      "id": "espn-nfl",
-      "label": "ESPN NFL",
-      "mode": "roster",
-      "ok": true,
-      "ms": 114,
-      "raw": 0,
-      "kept": 0
-    },
-    {
       "id": "pft",
       "label": "ProFootballTalk",
       "mode": "roster",
       "ok": true,
-      "ms": 388,
+      "ms": 289,
       "raw": 30,
-      "kept": 0
+      "kept": 1
     },
     {
       "id": "cbs-nfl",
       "label": "CBS Sports NFL",
       "mode": "roster",
       "ok": true,
-      "ms": 148,
+      "ms": 97,
       "raw": 36,
-      "kept": 0
+      "kept": 1
     },
     {
       "id": "yahoo-nfl",
       "label": "Yahoo Sports NFL",
       "mode": "roster",
       "ok": true,
-      "ms": 669,
+      "ms": 309,
       "raw": 50,
+      "kept": 1
+    },
+    {
+      "id": "espn-nfl",
+      "label": "ESPN NFL",
+      "mode": "roster",
+      "ok": true,
+      "ms": 103,
+      "raw": 0,
       "kept": 0
     },
     {
@@ -240,7 +240,7 @@
       "label": "r/fantasyfootball new",
       "mode": "roster",
       "ok": true,
-      "ms": 1137,
+      "ms": 1091,
       "raw": 0,
       "kept": 0
     }
@@ -249,9 +249,9 @@
     "sources": 27,
     "ok": 5,
     "failed": 22,
-    "newThisRun": 0,
-    "inAllFeed": 536,
-    "inUrgentFeed": 17
+    "newThisRun": 3,
+    "inAllFeed": 539,
+    "inUrgentFeed": 18
   },
   "roster": [
     {
@@ -294,7 +294,7 @@
       "pos": "RB",
       "team": "DET",
       "verified": true,
-      "recent": 10
+      "recent": 13
     },
     {
       "name": "Jonathon Brooks",

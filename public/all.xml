@@ -1,13 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786370684520"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786374840448"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Mon, 10 Aug 2026 14:04:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 15:14:00 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Isiah Pacheco has an MCL sprain, but should be ready for Week 1 [Isiah Pacheco]</title>
+      <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/isiah-pacheco-has-an-mcl-sprain-but-should-be-ready-for-week-1</link>
+      <guid isPermaLink="false">c55032db8f09b4c7</guid>
+      <pubDate>Mon, 10 Aug 2026 14:31:52 GMT</pubDate>
+      <source>ProFootballTalk</source>
+      <description>Lions running back Isiah Pacheco has an injury concern, but he should be ready for the regular season.</description>
+    </item>
+    <item>
+      <title>NFL training camp injuries tracker: Latest updates on Luther Burden III, Isiah Pacheco, Zay Flowers and more [Isiah Pacheco]</title>
+      <link>https://www.cbssports.com/nfl/news/nfl-training-camp-injuries-tracker/</link>
+      <guid isPermaLink="false">770de12656510b70</guid>
+      <pubDate>Mon, 10 Aug 2026 14:24:48 GMT</pubDate>
+      <source>CBS Sports NFL</source>
+      <description>Keep track of every major injury, setback, and recovery timeline across the league as teams prepare for the upcoming season</description>
+    </item>
+    <item>
+      <title>Lions backup RB Isiah Pacheco dealing with sprained MCL, expected back for Week 1 [Isiah Pacheco]</title>
+      <link>https://sports.yahoo.com/nfl/article/lions-backup-rb-isiah-pacheco-dealing-with-sprained-mcl-expected-back-for-week-1-142735185.html</link>
+      <guid isPermaLink="false">ce49f473e170789f</guid>
+      <pubDate>Mon, 10 Aug 2026 14:27:35 GMT</pubDate>
+      <source>Yahoo Sports NFL</source>
+      <description>Pacheco signed a one-year deal to back up Jahmyr Gibbs this offseason.</description>
+    </item>
     <item>
       <title>Eagles News: “It’s fair at this point to doubt that [Makai Lemon] will start, at least early in the season” [Makai Lemon]</title>
       <link>https://sports.yahoo.com/articles/eagles-news-fair-point-doubt-121915875.html</link>
