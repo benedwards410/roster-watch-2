@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786362498676"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786365352015"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - urgent only</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Availability and role changes only. Point your email service at this one.</description>
-    <lastBuildDate>Mon, 10 Aug 2026 11:48:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 12:35:52 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/urgent.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eagles News: “It’s fair at this point to doubt that [Makai Lemon] will start, at least early in the season” [Makai Lemon]</title>
+      <link>https://sports.yahoo.com/articles/eagles-news-fair-point-doubt-121915875.html</link>
+      <guid isPermaLink="false">fa85bd383c5a3ae7</guid>
+      <pubDate>Mon, 10 Aug 2026 12:19:15 GMT</pubDate>
+      <source>Yahoo Sports NFL</source>
+      <description>Philadelphia Eagles news and links for 8/10/26.</description>
+    </item>
     <item>
       <title>Packers just waived a surprise camp standout and now face a new problem - Lombardi Ave [depth chart]</title>
       <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNc1Jqdk1NbllydmszVVJXS1NXc0xrbkhLRmNQcmY1Rlk2c0sxUzRtNm4yTUxESW9vQ1M4WGhhX0ZfY3h0aGVIUFlkLXM5M21yQWRVMXEzQWJjUkUtVm4zR2dhVnlZY2lqZldVNE5BR185Z2V3VjIzTGpUQUR0UVZtSmFaa3owOHRQQ0UyNUxDbWU?oc=5</link>
