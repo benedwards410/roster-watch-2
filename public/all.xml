@@ -1,13 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786573389376"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786576275567"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Wed, 12 Aug 2026 22:23:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 23:11:15 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chase Brown sees elite potential in the new Bengals defense [Chase Brown]</title>
+      <link>https://sports.yahoo.com/articles/chase-brown-sees-elite-potential-224415365.html</link>
+      <guid isPermaLink="false">3165e8eca0f2a2da</guid>
+      <pubDate>Wed, 12 Aug 2026 22:44:15 GMT</pubDate>
+      <source>Yahoo Sports NFL</source>
+      <description>Bengals fans love hearing this!</description>
+    </item>
+    <item>
+      <title>Bo Nix will sit out the Broncos&apos; preseason opener at Atlanta, coach Sean Payton says - Gwinnett Daily Post [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMiigJBVV95cUxPNThtU1NPM3NDN3M1MlJ3d1dCZVE5S21nZHJIQng0ZkN0UUlsbGVGOU5xTXFkc2JQd2lBeVM5OG9LSFg5ejJObUw1T0wxR3FyUnJrYlhsZW1kSEZJNHZ6NHoxaXpFbEw2SzVIWEk1M0tUR0h6WWJibmdoTDVRaEI5SE1iQ2FZd0t3STVoTUtHWkJHYWhqRGtmTk9GYlZ6cm81VFVOWm5sTy1CMXVFVUZqMGdtRkFJMzBrNGVlbUVLZjhPU1o2eVIxVXlBZ2VCcXIyQ19JTUliRVhKVkJZa1NNWkEtY1owMmJ5WVJpeFdCakxvWE94TnBMME9DVjJMY3hOUzF1b3pNeWtjUQ?oc=5</link>
+      <guid isPermaLink="false">af888d95b34e6321</guid>
+      <pubDate>Wed, 12 Aug 2026 22:39:14 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
+      <description>Bo Nix will sit out the Broncos&apos; preseason opener at Atlanta, coach Sean Payton says &amp;nbsp;&amp;nbsp; Gwinnett Daily Post</description>
+    </item>
+    <item>
+      <title>Sean Payton Made the Right Call on Bo Nix Ahead of Broncos&apos; Preseason Opener - Sports Illustrated [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxOUmJib2d0Vlc2MlgtZHVOOGpReEo0VlFTckE5TDJqQnY2cVd6SE5FTFF1UmQxWVpTWFk0dUNRaE5FQW1iVWtsR2ZSYUUwdkthSXZyZ0tUUlJNQlp2YllubXFRVFQ0Rnh5ZHM0SGNpWlhrY0o4VngzdHRMbHV3cGZNR1FkQU82RWhfakxrVGVxcVhaX25XZEJMd2thZy1ma3F6UzJrODlRQQ?oc=5</link>
+      <guid isPermaLink="false">ca81787979888895</guid>
+      <pubDate>Wed, 12 Aug 2026 22:30:00 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
+      <description>Sean Payton Made the Right Call on Bo Nix Ahead of Broncos&apos; Preseason Opener &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
+    </item>
+    <item>
+      <title>NFC Notes: Michael Penix Jr., Tua Tagovailoa, Falcons, Panthers - NFLTradeRumors.co [Michael Penix]</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQWDRpVGczUGxsUnRSazJPb1lQaFktZzhwbnFRM3dEREdfbndGd2drN3c1VXp2dGdXeVJjT090UWgtS0hJeU9kOF83cDNMV2x3RElCTUh5c29BTWJjQzIzTE1HdjZXc1p5R0VzX254c2V5TzJZdEMzU185VHRBOHc3azJnV0gya1FYSUdwTThB?oc=5</link>
+      <guid isPermaLink="false">ebab7b343cd8eb44</guid>
+      <pubDate>Wed, 12 Aug 2026 23:00:42 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
+      <description>NFC Notes: Michael Penix Jr., Tua Tagovailoa, Falcons, Panthers &amp;nbsp;&amp;nbsp; NFLTradeRumors.co</description>
+    </item>
+    <item>
+      <title>Ashton Jeanty to See More Work in Passing Game Stream of National Football League - cbssports.com [Ashton Jeanty]</title>
+      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxOeUFoNGtvX0FPQUxIeDhnRm8zeTZSTWdQZmxJN1NJOEljc05pbUlWQUs4VmJrTWZWUUhNUmpTaC1LZUV3TER5cXhCdVFqWVdiN25JT193OWUxa1hOOFd4TThkLW56b2VQVUhDRlNCcXVUNk1pUDZFZ01pdFU0SkxIRkhNTWNiYm5BMF9ybWNFOXB0Zw?oc=5</link>
+      <guid isPermaLink="false">6ad106663dff854c</guid>
+      <pubDate>Wed, 12 Aug 2026 22:22:52 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
+      <description>Ashton Jeanty to See More Work in Passing Game Stream of National Football League &amp;nbsp;&amp;nbsp; cbssports.com</description>
+    </item>
+    <item>
+      <title>Bo Nix to Sit Out of Preseason Opener on Friday - NFL News | Fantasy Football - RotoBaller [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxObTlPbExOLWxSeWs5and5QXlQLUg5SFdCZ2VELTBidmNJM21mQWR1blp2ZHI0eWpVNVNxbDRaUl85ZjhvVXZ4S2tOUDJ6d1FUSGtqa2Y1ejVuT2FyYjJWbmF4Q3lFM0szWm80RDU4SXdmUEVENWNZU2FBYzUyems5XzMxcUNDdjZIQUQ1OUNfZHJDLW85UXNuTC1n?oc=5</link>
+      <guid isPermaLink="false">4d0a146ecd542e2f</guid>
+      <pubDate>Wed, 12 Aug 2026 22:31:11 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
+      <description>Bo Nix to Sit Out of Preseason Opener on Friday - NFL News | Fantasy Football &amp;nbsp;&amp;nbsp; RotoBaller</description>
+    </item>
+    <item>
+      <title>Jonathon Brooks to Receive Huge Opportunity in Second Preseason Game - athlonsports.com [Jonathon Brooks]</title>
+      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQRXJkRll5R3gxcnVDNnRqSmt1SVpXcng4UW9BbU5nQkRkeUpyOFduSm1jY0IwSE9BbUk1RHNNNWdmdXROa2VJWUFmekkwc2tTZU0zSy1pbEMweW9LMkhVdHdqbXQyOGpLUlVwSTh5eV85T1JFU0gzbnl1bC1KdElMNHJpQ1BHVlY0VllFQ3pIN19vQQ?oc=5</link>
+      <guid isPermaLink="false">5f88eebc64df260e</guid>
+      <pubDate>Wed, 12 Aug 2026 22:30:52 GMT</pubDate>
+      <source>Google News: Pacheco, Brooks, Johnson, Gordon, Henderson</source>
+      <description>Jonathon Brooks to Receive Huge Opportunity in Second Preseason Game &amp;nbsp;&amp;nbsp; athlonsports.com</description>
+    </item>
+    <item>
+      <title>Watch: Emeka Egbuka makes an insane one-handed catch in practice - Yardbarker [Emeka Egbuka]</title>
+      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTlWQllaMF92OGtGOWNNT0Exc19Pd3YxQXhObVk5d1l6cFktOEtkUVM4X0lqV1JJNzNkdjRsVEdqMWZQVV92MGhpajZ1YVBYdERSVThWU0FvTkR0Mnc0VHVQbmxvMVlycm4xVHp1Q0RjaE1OblFXNzgzRUtEbnU0LXlwQ3EyVkNvNnBCTFMxV2RJWkM0WFBNcEo3MlhEb2xlWmVNOHF5N3FUWmFvTFJWUWozWjJPZGh1S0k4?oc=5</link>
+      <guid isPermaLink="false">cf20bb87609adaec</guid>
+      <pubDate>Wed, 12 Aug 2026 14:45:18 GMT</pubDate>
+      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
+      <description>Watch: Emeka Egbuka makes an insane one-handed catch in practice &amp;nbsp;&amp;nbsp; Yardbarker</description>
+    </item>
+    <item>
+      <title>Makai Lemon Fantasy Football Outlook (2026) - FantasyPros [Makai Lemon]</title>
+      <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE5EOWY0NVdaLXNBblBraHdoajNxUV9DWmdldnJlSWVsakJrNTZRV1FNU0pIMWd3MGNOaU1fOVFIWXZWM0JHSHFqVVN5al93WEQwTHhvZkNwNG84c0ZUR0JQUlRQNGVoOVB1MkJrYkFzV3ZNRkVZTjJxS3FJWUhKd9IBgwFBVV95cUxQa1hFby04NzJrWnljV0RDNjBFWlg4MjdJQ1BGbjBrbGhxYXNsWndXdFpIOGtXWF93RnFKOW1KcVhfdWRNdTV1MjQ2TlRqZDZqa3pVMkpwN2J5a00tUnYycWhvdjJNR2xyZ0o5end0cU1PeE9OQUJLLVJ0VV9CY0p6ZlJ3TQ?oc=5</link>
+      <guid isPermaLink="false">ab3330e208368d89</guid>
+      <pubDate>Wed, 12 Aug 2026 04:40:00 GMT</pubDate>
+      <source>Google News: McConkey, Lemon, Mims, Golden, Otton</source>
+      <description>Makai Lemon Fantasy Football Outlook (2026) &amp;nbsp;&amp;nbsp; FantasyPros</description>
+    </item>
     <item>
       <title>Kevin Stefanski &quot;very, very pleased&quot; with where Michael Penix is in ACL recovery [Michael Penix]</title>
       <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-stefanski-very-very-pleased-with-where-michael-penix-is-in-acl-recovery</link>
