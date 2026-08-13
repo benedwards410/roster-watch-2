@@ -1,13 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786642988331"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786646456130"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Thu, 13 Aug 2026 17:43:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 18:40:56 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jordan Love: The biggest difference this year is our ability to finish [Jordan Love]</title>
+      <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jordan-love-the-biggest-difference-this-year-is-our-ability-to-finish</link>
+      <guid isPermaLink="false">58bbbf799caaf752</guid>
+      <pubDate>Thu, 13 Aug 2026 17:50:39 GMT</pubDate>
+      <source>ProFootballTalk</source>
+      <description>The Packers&apos; inability to hold onto a big lead in their playoff loss to the Bears is still on quarterback Jordan Love&apos;s mind as they get ready for the 2026 season.</description>
+    </item>
+    <item>
+      <title>Matt LaFleur calls Packers&apos; Jordan Love the &apos;best QB he&apos;s been around&apos; - Yahoo Sports [Jordan Love]</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxPTE9pUGhYanBuN2U5YnZ0Z096ZlgtZUl6WnhOMEJyMjFsVS16ejZOQTBHWGpFZEJWeHVQQkhNUTdBd1h3c1JBVmR5QzVRa3NnSGNJM1drRExMSmxHWmZUQURuYkNSQ1RLRjJxWFlnV2x2S0dseURsMVlyYllvUTZzbkNZS2ZDVE1idXE3Q2k2YVo0NExZRHg3aXQ2bTlReGxWRTNoWmtFWDVLT2Q5cWdLU2Z3?oc=5</link>
+      <guid isPermaLink="false">4f4033bbf6e1553c</guid>
+      <pubDate>Thu, 13 Aug 2026 18:15:20 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
+      <description>Matt LaFleur calls Packers&apos; Jordan Love the &apos;best QB he&apos;s been around&apos; &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Who backs up Bo Nix and five other Broncos questions for preseason opener vs. Falcons - The Denver Post [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxPdG5fQWdmOHhLYXNSZ3Z1bGpCbWU3d0RLUXdhM3lVX3hIdmVXOURzazZpQ0NwOXIxbmtyekF0OEpXcm9YdzNVaG1pd0FIYlRuMkF3MU5GNk4wdkRQX3dRdUNCSno4YmxwNDZ2UFVKZkxBUHg5ei0ybjdmaG9tSnFSeQ?oc=5</link>
+      <guid isPermaLink="false">a24b15f877ecd98c</guid>
+      <pubDate>Thu, 13 Aug 2026 18:31:24 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
+      <description>Who backs up Bo Nix and five other Broncos questions for preseason opener vs. Falcons &amp;nbsp;&amp;nbsp; The Denver Post</description>
+    </item>
+    <item>
+      <title>Opportunity presenting itself for Panthers&apos; Jonathon Brooks - Yardbarker [Jonathon Brooks]</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQLUdfMnlSQm1hVENTbjYzWThGOVN6V2RNRDNoa0FsWG1iVzZLUnEyNGdBanFNMGRIZWFWRkxKcWh4cnExcnY2T2wzRFk5ZEVFU2dNcm14N3dmbXJGRFUxeE1LOVlyZjRBaEIyTE9MNWgyMTVrdDBjbFAzMDJXc3RMVVFIWVFRRWZLQlpyazhNcC0zbmRQbHp6aGQwOXZjQUpvaUlZUlRuNmdjcUR0Vm5KWnVLX1Q5dms?oc=5</link>
+      <guid isPermaLink="false">7a18fc4a4dad6989</guid>
+      <pubDate>Thu, 13 Aug 2026 17:57:36 GMT</pubDate>
+      <source>Google News: Pacheco, Brooks, Johnson, Gordon, Henderson</source>
+      <description>Opportunity presenting itself for Panthers&apos; Jonathon Brooks &amp;nbsp;&amp;nbsp; Yardbarker</description>
+    </item>
+    <item>
+      <title>CAUSE FOR CONCERN As Emeka Egbuka Goes Down To Injury? | Bucs BENEFIT From Joint Practices With Jets - kens5.com [Emeka Egbuka]</title>
+      <link>https://news.google.com/rss/articles/CBMiuwJBVV95cUxQZWh2cEJ0YWJWOXhzQ1RyX1V3THk3Q1F0V0ZtSEprTlM5bG9fSFZnU3VFNDJ4TDBTMlZ1OTJFNDdRQXE0cVFQdmVqTXEyeFl6WmIxSzl1S0w4NmVjejc1ZkxhVl9rNWdMVWN3WThleV9RRjg5NUhzV2paUm5TMnp3UUI5cUJlTmF1YzEzRk8tMTZ3Sl9FV2ZTMHZBOHB5OHpKVnlmdEd0TnRaWXZoeEctcmhEejd0VGliTUx1MjlDOVBQYURZLVFaTTFZTG1Uamh2VXluMUVzbGd4aHJmMFlEelFKNzA5UmxjeFc1VUFHWURGeW1YMl9qdFEwRmM4YjNQSWRTN1J2d0VKcWl3Y0Q2X1p2cHJGZUZWXy0xV2NSVWhyeF9kd3pxSy1iOURoMGpndzBnN3NrY0JXaGc?oc=5</link>
+      <guid isPermaLink="false">aa4c0f365cc69e7a</guid>
+      <pubDate>Thu, 13 Aug 2026 17:37:00 GMT</pubDate>
+      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
+      <description>CAUSE FOR CONCERN As Emeka Egbuka Goes Down To Injury? | Bucs BENEFIT From Joint Practices With Jets &amp;nbsp;&amp;nbsp; kens5.com</description>
+    </item>
+    <item>
+      <title>Be prepared for the preseason with our Atlanta Falcons roster - Yahoo Sports [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxOalNvdWVYTjQyR3NmeDNndjJhdnZibWo5d2xMeU1idmpiY0VmVnVvLWxaQmJCbkdKVDc0Y2xlc1NNZmtPRDFyWVdzTWVmcFI3SW5zSENjWEtabHh1Wlg2dlE4TmdJZDBEV1ByTHFvV0xtd2kzY0t4ZFBXMEk4Wkg1SC1pRnotQVl1N01NOXRYWFpPV0ND?oc=5</link>
+      <guid isPermaLink="false">c305ed86944c95a4</guid>
+      <pubDate>Thu, 13 Aug 2026 18:23:09 GMT</pubDate>
+      <source>Google News: Atlanta Falcons</source>
+      <description>Be prepared for the preseason with our Atlanta Falcons roster &amp;nbsp;&amp;nbsp; Yahoo Sports Atlanta Falcons depth chart for first preseason game vs. Denver Broncos &amp;nbsp;&amp;nbsp; Atlanta Falcons Broncos vs. Falcons Prediction, Odds, Spread, Trends for NFL Preseason Week 1 &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
+    </item>
+    <item>
+      <title>NFL preseason Week 1: Joshua Dobbs&apos; projection on Lions&apos; depth chart - Vols Wire [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSFg1N0lEaGZvMGxsaE53bFF1cFpxOURPWl9QZ2dVQVdBdWxKbnhoSFNOXzBhWWZKbnBGbmJITlRLUW14NUV6YlNya3VTb25QZ0prWWVoMEthM1lESWRVcFpBMnA5cEMtYUVsYzNkaTcyZzFBSkx5MTRMUEtydm1tVXlKU1dUV1gxNGZ6Q1o0Q1FnTEdMMVBIeFY2a2Y1dHNLR21YU0pQQThiZjBpRFdTWjN5LW9PNTlud2NwZW5UVk1BUTFpV0Yyd3kyLWxTM040MVBqUkhuQ1pGdkhaSGJFeDdDYUZiak53R2trSjdma3dUeEwxM1I5UA?oc=5</link>
+      <guid isPermaLink="false">0c52c480495cb759</guid>
+      <pubDate>Thu, 13 Aug 2026 18:10:00 GMT</pubDate>
+      <source>Google News: Detroit Lions</source>
+      <description>NFL preseason Week 1: Joshua Dobbs&apos; projection on Lions&apos; depth chart &amp;nbsp;&amp;nbsp; Vols Wire</description>
+    </item>
+    <item>
+      <title>4 quick notes from the Jets&apos; first unofficial depth chart of 2026 - Jets Wire [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNzBEeFZNUGZ2ZlpTV0FrQThiUHNQV1hZMDc3NWxVVXBROUo2SGtsdWlWNVIzaU5fMGpOcWd3UFdSRXlCQnhrY1V4bElERDVNcC1zMTNPTDNmQXVFQVF5RFl5R0oxVGw5R2dwOUJ4VTdFTmQxNkdnTGZMNnJDbWxJWHJ2dlZFZC1kRFhkTGV0c0l5ZWpnanJtMVRscDQ4ZEI2aEwxTnMwYXVXa3JwNkZPWEJOazVOUC1lY2FBQmZ3Nmo3ek5tbWdqS3d0T3poT2tC?oc=5</link>
+      <guid isPermaLink="false">98a499337284509c</guid>
+      <pubDate>Thu, 13 Aug 2026 18:07:00 GMT</pubDate>
+      <source>Google News: New York Jets</source>
+      <description>4 quick notes from the Jets&apos; first unofficial depth chart of 2026 &amp;nbsp;&amp;nbsp; Jets Wire</description>
+    </item>
     <item>
       <title>Michael Penix Says His Doctor Told Him His ACL Is &apos;Amazing&apos; and He Should Have No More Problems With It the Rest of His Career - Barstool Sports [Michael Penix]</title>
       <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPUnVVYV9EVUMxR3VuMEhPRWM0RVhnM0tRbmQ3ZUZ5WGc5MzNOVEVDZ2dOT2tyQWVkTGQ5ZEprSmxEaVk0dEtnRkZvbnNuMGdWWk5zYzBIRnFuSDhTRHVJcWZMRDRsNVJ6UjdKY090QTl1OGVwaXZlMkpjOTJlZVlZN1pET3J4UUE3TWp1dEw0cTFDSjBfeDhEVWFxR1plUU85N0xhTGFTV0plU2YtaVM0SEJlSWhZY0N3UWdMMg?oc=5</link>
@@ -9543,70 +9607,6 @@
       <pubDate>Tue, 04 Aug 2026 21:09:18 GMT</pubDate>
       <source>Google News: Brooks, II, Johnson, Pacheco, Spears</source>
       <description>Jonathon Brooks Won&apos;t play in HOF Game &amp;nbsp;&amp;nbsp; Fantasy Footballers Podcast</description>
-    </item>
-    <item>
-      <title>Rankings Risers &amp; Fallers: Fantasy Football breakout Jonathon Brooks racing up rank lists and draft boards - CBS Sports [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxPc3N4ZVpOZllOb29vWUdFYVowdFpDV0QxWlFqYUxwOVBYTGJUUzM1Rm9yd0tYdU9VT1B3LU4yNHZneFF5UmFXUWRXTXBrbkxLQktXUWYxQTAyVWM5eWJwWHhfR2QwVk1JejFEVHVFSHBQMGx3ZW1jNDMwU2E4eWY0TVpRSFI5a0pmeFRxLXdwaHQ2bndOQndhN25GZm8xQTRTYTh2d21EazlaWWphdWprWW1jX0d6Ym1ET1hWeGlaNWxHVWZGWDJWU0FzbHVhUVc5?oc=5</link>
-      <guid isPermaLink="false">1cd9f02fe3a83dca</guid>
-      <pubDate>Thu, 06 Aug 2026 14:03:00 GMT</pubDate>
-      <source>Google News: Brooks, II, Johnson, Pacheco, Spears</source>
-      <description>Rankings Risers &amp; Fallers: Fantasy Football breakout Jonathon Brooks racing up rank lists and draft boards &amp;nbsp;&amp;nbsp; CBS Sports</description>
-    </item>
-    <item>
-      <title>Panthers&apos; Hall of Fame Game Plans Hint at Jonathon Brooks&apos; 2026 Role - Yahoo Sports [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQWXFyLXozb19iVmdUQW40TTkwRnZ4S1VWb0RnQVQ4c2puNU9CQjdQTU9NN2tNZjFKNHpMa1Y1MDdkMzR1aW5CTjlCc3dCSlZIVi1NRkFfdk9rb01pWDk1aFBfU2hfUkhfYVhDcVpCYlFYS0g4Y0ZQcDRITEdNOTNiOFJTNjk?oc=5</link>
-      <guid isPermaLink="false">fbe48390b5a135a7</guid>
-      <pubDate>Wed, 05 Aug 2026 18:13:15 GMT</pubDate>
-      <source>Google News: Brooks, II, Johnson, Pacheco, Spears</source>
-      <description>Panthers&apos; Hall of Fame Game Plans Hint at Jonathon Brooks&apos; 2026 Role &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Dolphins’ De’Von Achane to Cede Carries to Ollie Gordon II, Jaylen Wright - Yahoo Sports [Ollie Gordon II]</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZHQ5UzNmTGJOY0MzcEt1WWRvM3NsUVNtT3E0cHhWak02UXlFQzQ3Z1o1MTBUV05VY3R5cy1PZHdnbTR1N0JQUUdSOTlFR2NUdkJIcFZhZ0xta0lCUkV3VmtDZ0stTks0UGhncnA1b2Ria3RXc2lOV2hQa3dYWkRLNHVpVFVRQVly?oc=5</link>
-      <guid isPermaLink="false">10b4526b80af3104</guid>
-      <pubDate>Wed, 05 Aug 2026 21:46:41 GMT</pubDate>
-      <source>Google News: Brooks, II, Johnson, Pacheco, Spears</source>
-      <description>Dolphins’ De’Von Achane to Cede Carries to Ollie Gordon II, Jaylen Wright &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Kaleb Johnson&apos;s only goal at Steelers training camp is painfully obvious - Yahoo Sports [Kaleb Johnson]</title>
-      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxNT2dxTnZ1a3BOYzlVbXNvMWxFalNrT1JEWS1MVXlEM19ieXhGZmVQTUdVbG9nR05nekR6TVdDVklLWXRnZUZqeDQwUUNDU1F3NnJzcVpYaGd5NFhjOExwb2E5QXJQYnFRdnJWX25mS253UzA2bDU2dDFNT2dWZ2pYbTFkdzdadGJYMHc?oc=5</link>
-      <guid isPermaLink="false">a41ef0d866c40f8d</guid>
-      <pubDate>Fri, 24 Jul 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Brooks, II, Johnson, Pacheco, Spears</source>
-      <description>Kaleb Johnson&apos;s only goal at Steelers training camp is painfully obvious &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Kaleb Johnson never found his footing as a rookie. Can he work his way into the Steelers’ offense in Year 2? - Pittsburgh Post-Gazette [Kaleb Johnson]</title>
-      <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVEh6a0dScDAtMVd1SXFQcE9GYWxMUnVIVHJqYVh1b0VxVVZCNngyaS03YlVyNG5xdktFUWhoWlhoRjJ4dHJDaVh3OHVybkVtZVhnUzNuZnVEbGJnN05nUFlOTFNYZVRYVndxYWZqcl93S1RSMHMtQWNGZlR0RUJnaEx1MHRZWGh5dWEydEtkRVk0XzZpbHRJMEx5b1p4YldCdktlTk1MZVlKeGN4Z21oOUliRlRlSUVCZnozM2dGY3hvaHlTbzBjN3NISzhnN3lmSkdmRFNYRkJadw?oc=5</link>
-      <guid isPermaLink="false">c840d4cbc88de3b4</guid>
-      <pubDate>Mon, 03 Aug 2026 20:06:19 GMT</pubDate>
-      <source>Google News: Brooks, II, Johnson, Pacheco, Spears</source>
-      <description>Kaleb Johnson never found his footing as a rookie. Can he work his way into the Steelers’ offense in Year 2? &amp;nbsp;&amp;nbsp; Pittsburgh Post-Gazette</description>
-    </item>
-    <item>
-      <title>Fantasy Football Running Back Sleepers: Can Jonathon Brooks Take The Panthers&apos; Backfield From Chuba Hubbard? - Sports Illustrated [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUmFOQ1F5TkkwMmxLVno5WWUxa1QyS280d0JIN1Z5SVhGQnFHY1JrMEl2a1JnZ1RTQTdnVXR0UXJxX29KWm5hNlNpSGNkS211QlFtd2FLcXExMk55THVnT3JIbHFMLVg0ZXJKSEJlMHlvbzlDZktwdFg1TS1jR1JtUnIxZDZ6MW9NYjd5ZWNINF9HUU9hZk82NEZjMGxjcWh3a0ExZmZUZlR2bG1HcUdOZE4tX0hDX3JrMEV4UEVYM0hzaVRmX2ZwdG8tMXd0T1dMdmZrdXJjUXA?oc=5</link>
-      <guid isPermaLink="false">bad59081f529186a</guid>
-      <pubDate>Wed, 05 Aug 2026 17:35:40 GMT</pubDate>
-      <source>Google News: Brooks, II, Johnson, Pacheco, Spears</source>
-      <description>Fantasy Football Running Back Sleepers: Can Jonathon Brooks Take The Panthers&apos; Backfield From Chuba Hubbard? &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
-    </item>
-    <item>
-      <title>Fantasy Football: Jaguars, Seahawks backfield battles, Jonathon Brooks&apos; role among biggest RB questions for NFL training camps - Yahoo Sports [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMiigJBVV95cUxOQTFBVEduZjluRENQU2FvUzBwQUhHTDJ5ZU9tblh2d3hEaThmMHktLTQyeTRSWjVpZ3Y3bVNXV2JfOHhJQ0Z1bTk0SC1zM2FqblBsRGw5cmlRQm1CX3BqbVN6cnFqVVR6eXhtQnFkTVNXWllxRlRYRXlYV0k1MFh6aVdQS041bC1FdE1odmo5bFpRbV84aDBMS3M5eUNobGtEdmhudWg0OG9uVDl3dnJaQjFpWjFHVWZSWWRVT24tdnVEZGFmaG1Ycy1kV2hMZkpka3JaaTF0Z3o3OTAyN1ZWQ2UxU0pwNmhXcWUtcjdSMkFmZ3UtWlZFUGU1UngtX3FpaEJ6T1ZudGVDQQ?oc=5</link>
-      <guid isPermaLink="false">8aa253e33bb3226a</guid>
-      <pubDate>Thu, 23 Jul 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Brooks, II, Johnson, Pacheco, Spears</source>
-      <description>Fantasy Football: Jaguars, Seahawks backfield battles, Jonathon Brooks&apos; role among biggest RB questions for NFL training camps &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Why Ollie Gordon II Could Get the Call as RB2 - Sports Illustrated [Ollie Gordon II]</title>
-      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxNMFZTNmZiZnF1UHJ3U3pwblhkMWd6eW9hUmtKWXBDUThFU1N0dWdkMXdwdS1hNHBxRUlVUEhNMnJaOFpBX0xXZTNCNERydnFzUlNnbDV4c1gyczdXSURQYkphTXFkdlVJblJtdkg2LTNtZHBWdUFqbllCSUpodXFEOEowZUg1NHBuNHRJU1Y4bjNodXFrMnY4eDhCSQ?oc=5</link>
-      <guid isPermaLink="false">6f0432f66910f280</guid>
-      <pubDate>Mon, 03 Aug 2026 14:30:00 GMT</pubDate>
-      <source>Google News: Brooks, II, Johnson, Pacheco, Spears</source>
-      <description>Why Ollie Gordon II Could Get the Call as RB2 &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
     </item>
   </channel>
 </rss>
