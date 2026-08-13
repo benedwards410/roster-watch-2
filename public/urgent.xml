@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786646456134"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786650432004"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - urgent only</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Availability and role changes only. Point your email service at this one.</description>
-    <lastBuildDate>Thu, 13 Aug 2026 18:40:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 19:47:12 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/urgent.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -767,14 +767,6 @@
       <pubDate>Sun, 02 Aug 2026 18:08:11 GMT</pubDate>
       <source>Google News: Nix, Jeanty, Brown, Brown, McConkey</source>
       <description>Bo Nix on his recovery from ankle surgery, Jaylen Waddle joining team | &apos;Back Together Weekend&apos; &amp;nbsp;&amp;nbsp; NFL.com</description>
-    </item>
-    <item>
-      <title>Jonathon Brooks Won&apos;t play in HOF Game - Fantasy Footballers Podcast [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ2R6WE80SW1Ld09DVXppejAwNS1pS25pOTN3bVV4cE8xTHpEX2VYSFEtWmNaSnVWNE8xWUo0OFhzWWN6aE50ZEhCbzZqNTltdk5xX2VVelMxci11R2M1YUFUWkIxVnBFX1RWWU0yNTNOUTFMcXkwcGdMSExfblhhNFZhVmY2RzF2WGg1YmcwYmViUQ?oc=5</link>
-      <guid isPermaLink="false">ccad54a5c1b60968</guid>
-      <pubDate>Tue, 04 Aug 2026 21:09:18 GMT</pubDate>
-      <source>Google News: Brooks, II, Johnson, Pacheco, Spears</source>
-      <description>Jonathon Brooks Won&apos;t play in HOF Game &amp;nbsp;&amp;nbsp; Fantasy Footballers Podcast</description>
     </item>
   </channel>
 </rss>
