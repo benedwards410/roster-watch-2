@@ -1,13 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786723712843"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786727454551"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Fri, 14 Aug 2026 16:08:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 17:10:54 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Morning After: Writing is on the wall for Steelers RB Kaleb Johnson [Kaleb Johnson]</title>
+      <link>https://sports.yahoo.com/articles/morning-writing-wall-steelers-rb-164658027.html</link>
+      <guid isPermaLink="false">ac3d04d66384dc29</guid>
+      <pubDate>Fri, 14 Aug 2026 16:46:58 GMT</pubDate>
+      <source>Yahoo Sports NFL</source>
+      <description>Takeaways from the morning after the Steelers’ preseason opener.</description>
+    </item>
+    <item>
+      <title>Is Payton making the right move by not playing Bo Nix? | Stokley and Evans with Mark Schlereth - Denver Sports 104.3 The Fan [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUF9jTW9jWjYxOC1MRkFNVXRsZUp1VUJZZGtJZG9lMS1PejRZOHM4eHFkMjJXS2VPRDJKR215X2dRNzB1a0NOZ3VSdkRSTXdMTnZqYnhnWXVseXJuS0w4LWJhSl9WOEp1akxrUkJndFFHSU8tNlZSUzFRUnU1V2lMRW5jWl85em0xYm8xMG9Wc0U0RTk3WEVxM1VKcTNYQTZGMkVMbWFkUW01emV2eWVBUVFDVHF5VEVNX21FWDZGNVpzZXZzMnF1VXl1WUs3azJobEszS0U2aXdZX0xabG1OUVJqWDJCdS1wZVpMVWxYVGRrSW80bHM4c2p3?oc=5</link>
+      <guid isPermaLink="false">35115c743aab0fb6</guid>
+      <pubDate>Fri, 14 Aug 2026 15:55:07 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
+      <description>Is Payton making the right move by not playing Bo Nix? | Stokley and Evans with Mark Schlereth &amp;nbsp;&amp;nbsp; Denver Sports 104.3 The Fan</description>
+    </item>
+    <item>
+      <title>Why is there so much talk about the Patriots trading Kayshon Boutte if he continues to impress? - The Boston Globe [Kayshon Boutte]</title>
+      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxNcVBadDhwczVWZEpCeGpyUlFxQ1ltSG5PeWNTcW1uZHlMZmx1a2tQSDlSQ1NURy1kRXFVdWl3U1FfaFJaTzdsNUVpSjFaa2JrNFJPNC1OSllVWjRYd3M2eTdRUndpOE9ZUWdmSEYzSWFUdTVzbGF1WXlfdUhKekF1dlF4ano?oc=5</link>
+      <guid isPermaLink="false">45537cad34bff232</guid>
+      <pubDate>Fri, 14 Aug 2026 16:44:23 GMT</pubDate>
+      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
+      <description>Why is there so much talk about the Patriots trading Kayshon Boutte if he continues to impress? &amp;nbsp;&amp;nbsp; The Boston Globe</description>
+    </item>
+    <item>
+      <title>Emeka Egbuka injury could open door for Buccaneers WR hopefuls - Buccaneers Wire [Emeka Egbuka]</title>
+      <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSUphUDBxdFhjMWlQcEk0ajN0WjZzelZmLV9jcnlaY2NCSjhKaHdvUm5iWWpvMEYyekJ0cmtLZU5KTW1uZEd3Q0o3ZWJPRHJPWWJBV2tzZUhkZDhXQzdxSzY3cFFCZHN0eWpSUHRwcjVLV250dzdpaFI4bmxXUDRJTjdSNlhxSWpZSGNROWVBa1dNMS1vOXVQRDVkZE5HY2oyTVFLVHAyRzNfaklZdWZsREp3RGxYN3d4MkdGeUc0OWROTWZvU1VNYVlLOGRvSWUzeWhCZHlUV0g?oc=5</link>
+      <guid isPermaLink="false">458ea340c5bc3867</guid>
+      <pubDate>Fri, 14 Aug 2026 16:55:00 GMT</pubDate>
+      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
+      <description>Emeka Egbuka injury could open door for Buccaneers WR hopefuls &amp;nbsp;&amp;nbsp; Buccaneers Wire</description>
+    </item>
+    <item>
+      <title>Detroit Lions practice squad prediction after first preseason game: Several intriguing players may not be going anywhere - A to Z Sports [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaU9KQldENy1UQW9lSldQbFVNbkFfREdpeWZtcHNOUUFBQlNSTm1zQjB5c0FESXJwMmo3UklNZ1k0WkR6S3hsVWl2UENFN3JNV0o1ZC13LUtmLTU2RElqQ0Z1UURTaGtiaE1JMlYxcnZnWjBiZW1oRmJTSlBCTWZPR0M3OEdkZkVFdlQzV05wRDVxamRLVFlYT01GUGd1cXV0YW1ZQmRLeGd5VUU4UEFBR0l2OHc4MTdpTHBucmptSGsydk5CYzhJbVhUV1BUV1VzMm5GRU5lVkR4V2N6UnctaVJjNThsQ3hIRjh5YWV3NjN0U3ZWLTUtVFJn?oc=5</link>
+      <guid isPermaLink="false">66895ae79cb90f0c</guid>
+      <pubDate>Fri, 14 Aug 2026 17:00:00 GMT</pubDate>
+      <source>Google News: Detroit Lions</source>
+      <description>Detroit Lions practice squad prediction after first preseason game: Several intriguing players may not be going anywhere &amp;nbsp;&amp;nbsp; A to Z Sports</description>
+    </item>
     <item>
       <title>Fantasy Football ADP Movers: Stefon Diggs leads this week&amp;#39;s risers after joining Commanders [Antonio Williams]</title>
       <link>https://sports.yahoo.com/articles/fantasy-football-adp-movers-stefon-160014978.html</link>
@@ -9567,46 +9607,6 @@
       <pubDate>Tue, 04 Aug 2026 20:11:37 GMT</pubDate>
       <source>Google News: Nix, Jeanty, Brown, Brown, McConkey</source>
       <description>Training Camp Updates with Fantasy Football Impacts: Bijan Gets Paid, Ladd McConkey&apos;s Rise and More News &amp;nbsp;&amp;nbsp; fantasylife.com</description>
-    </item>
-    <item>
-      <title>What grade did Bo Nix get after week one of training camp? | Dover and Cecil - Denver Sports 104.3 The Fan [Bo Nix]</title>
-      <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbGFPOWJNdVNoREdlQWtuX0x0TnFpZmtSdk12S1djdnR2anVoOWNocWp1VmJtdWpFcjU1eS1nOS1lR2xsUzhvTjRBNGhwTHYtWHJYYmlHME1hS2FfQXlUd2hSekh5dHQzWTVkRDA5LWtvZ2FfbTQ0ZE10N3dDNTU0NXNFeHdUbXlLejJkVVFSeU52VS1ITFFydVJIbHVqOGVNczFNaHg3NW9CcUs3QndCVjVubE5BT0JuR2pGRjd4VjBxR3hZd20tTDlQdUNpSVhLcGZvd1pDVTc?oc=5</link>
-      <guid isPermaLink="false">211aefabdaf4cfe3</guid>
-      <pubDate>Fri, 07 Aug 2026 16:59:39 GMT</pubDate>
-      <source>Google News: Nix, Jeanty, Brown, Brown, McConkey</source>
-      <description>What grade did Bo Nix get after week one of training camp? | Dover and Cecil &amp;nbsp;&amp;nbsp; Denver Sports 104.3 The Fan</description>
-    </item>
-    <item>
-      <title>Broncos Camp Day 9: Bo Nix, Denver Broncos offense sharp in two-minute drill - milehighsports.com [Bo Nix]</title>
-      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPb29RRml5bGtfTEtjdzBYNnUzblZqWWViOGQwVElZd24zZ2lydWZldGlvYlczNTBHOWt2RUV1MG9ueTR0Qnl1Y1RydmZCSTR1Y0NxR2VIdHllZ1RwYTZ5b0ZaYWhoOXEwUU5PN2lmMTVWLU4zSktQVDFxV1FLSFJReHBRSXdyYjE5dnBiWm1oc1RFeEdfVGkweEZndE5CaENmZVVrOdIBqgFBVV95cUxNS08tU2VWRlN0WDVMVHNHMDc0SVlVdmg5TEZVVWNILXUyLUJJR21FdUhBUkZtRFI4UFc0NEVLVkRTUENiMkxud0dwTWk2OThIQUtmblYyVTYza3lySkd0a1JxNWx5TlItWDJBLWJXVFZ3TkFJNkZfWk93Ml9xVGs3dVVTMVhLSWEyX0VYUW5FemtBRXVBbzFwQ2N5WVczaTkzWVpUb1lJWk5Xdw?oc=5</link>
-      <guid isPermaLink="false">5f1b421697fdfa51</guid>
-      <pubDate>Fri, 07 Aug 2026 20:25:20 GMT</pubDate>
-      <source>Google News: Nix, Jeanty, Brown, Brown, McConkey</source>
-      <description>Broncos Camp Day 9: Bo Nix, Denver Broncos offense sharp in two-minute drill &amp;nbsp;&amp;nbsp; milehighsports.com</description>
-    </item>
-    <item>
-      <title>AJ Brown downplays revenge talk ahead of Eagles-Patriots joint practice - DAZN [AJ Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQWhsVzI3R3VvRXFlekRET3hjSWNtVDFVQXc2MGd1cE4zWHZPZG5oNGZxTnFSckQtUmlVU0RrSWpuZ1VyTlBPZ0VxMGdpZTc5ajJJcFc1RTJ3SW0wb2RGdXBXYUdFMWJWbmNweWxvNUgxOUpGTHZLSWNmZFVGa1Bhdng0UzdTT0ZYUmdrUVlmaXZpU0p1YlpPOVZvcGVkbGI0TlEtYUxXZ2d3TzRXQXc5RnJMejdrclNSa0JPd1NtX3FJTWpfM0RYamJPRHJ6M19kRlFCZQ?oc=5</link>
-      <guid isPermaLink="false">d54419331b3aea1f</guid>
-      <pubDate>Tue, 04 Aug 2026 09:20:59 GMT</pubDate>
-      <source>Google News: Nix, Jeanty, Brown, Brown, McConkey</source>
-      <description>AJ Brown downplays revenge talk ahead of Eagles-Patriots joint practice &amp;nbsp;&amp;nbsp; DAZN</description>
-    </item>
-    <item>
-      <title>“He Isn’t Gonna Forget Me”: AJ Brown Receives Bold Warning From Christian Gonzalez After Intense Showdown During Patriots Camp - Yahoo Sports [AJ Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE5OMnotYmh5cFhqYk1MLU9JaVdQLVQtbW5PajRrVzdQY3Fnb1hSWV95dTRaRy1mZkFOQWNLaHJMcFJCYTFZN0ZfUnF2b2ZVem1TWkduMHdZV19Oa3B4Q0p4T0twc1VXdUNCeUJYT0xhWG03VUNzS2huQVpn?oc=5</link>
-      <guid isPermaLink="false">e64ac6fd1a6fa5f1</guid>
-      <pubDate>Thu, 06 Aug 2026 18:11:56 GMT</pubDate>
-      <source>Google News: Nix, Jeanty, Brown, Brown, McConkey</source>
-      <description>“He Isn’t Gonna Forget Me”: AJ Brown Receives Bold Warning From Christian Gonzalez After Intense Showdown During Patriots Camp &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>A.J. Brown believes his duels with Christian Gonzalez set the tone for Patriots practice - MassLive [AJ Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxNYml1SERWeGFFTkJnSHNoR1FtcDJyaHpfUGFZZHNMdVc5aGNRQS10R1VoNHFMZ3ZVR0J1VGQwbVdvOUR1YWF5LTJHb1g1bEVlN3o2WURaN3lwcW5PY3Z0ZWlUSXpvRlpOMkRnTkxrMVV0SFBWNm9yQUJQOHBfaXhFV0tTdzM3QkRSVUZGaVF3b0ZmOWE1dnVsX0VTbWRveUVvb1ZGaElJWjBYUXNnVklwaGlTeFhEaHVnTzd3aTN3dGdfd0I5alNYSU4zcGZNd9IB4gFBVV95cUxPRFF4S2hWVm4yTjNIUGtQMWtHalBQT0Y4UlBpaHMzMDl0MnNoLW9lNnRtQk53a1AzelZGOVdwbzlFYVpOVmhCWTN4Ul9yU3JYS1lrb25ERFhlTlZVaUpHMUE0Z25GbDE3NnI5U0RCcUZ6WVA3eHVjc3ZwVEV4TGVsUGMxNTJWZ0p1OUZtcm5DOXZRcFVWT1J4UlZ6QmgtYzgtSU9NelpYbGxfMXZtWW1rRjk3NnhxbDJKTmtTRG5FR1ZpaWFuX25SMXdnd3RndUJDU05UcFhyTWNfUWpJRFNjY1lR?oc=5</link>
-      <guid isPermaLink="false">6a1891e6adbbc4a6</guid>
-      <pubDate>Fri, 07 Aug 2026 17:13:00 GMT</pubDate>
-      <source>Google News: Nix, Jeanty, Brown, Brown, McConkey</source>
-      <description>A.J. Brown believes his duels with Christian Gonzalez set the tone for Patriots practice &amp;nbsp;&amp;nbsp; MassLive</description>
     </item>
   </channel>
 </rss>
