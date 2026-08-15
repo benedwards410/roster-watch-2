@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786763998577"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786766374424"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Sat, 15 Aug 2026 03:19:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 03:59:34 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Falcons edge rusher James Pearce Jr. suspended 8 games following felony charges - The Athletic - The New York Times [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxOeFNWYlFqaWVfSHp0d0l4OUpMX3NzcWhrQml0RV91aGk0eHlYRE9ob0lFUXRXTENlMTlTU3F1V2FvVG95S0xaMGYzV2dpTzBEZzF2RENJUnZza2w2SkhxLVVNV09YX0pzclNRem85TnVDbTF5ZTRFNDlaTVQ5cGI0cl9Gbm1MaVJ0ejdnRDVENzJQMzFONjYtdkE2NkU?oc=5</link>
+      <guid isPermaLink="false">91a6a845cb9928b7</guid>
+      <pubDate>Fri, 14 Aug 2026 19:15:00 GMT</pubDate>
+      <source>Google News: Atlanta Falcons</source>
+      <description>Falcons edge rusher James Pearce Jr. suspended 8 games following felony charges - The Athletic &amp;nbsp;&amp;nbsp; The New York Times</description>
+    </item>
     <item>
       <title>Winners and Losers from the Denver Broncos’ 27-7 victory over the Atlanta Falcons [Bo Nix]</title>
       <link>https://sports.yahoo.com/articles/winners-losers-denver-broncos-27-025913321.html</link>
@@ -9599,14 +9607,6 @@
       <pubDate>Tue, 04 Aug 2026 19:30:00 GMT</pubDate>
       <source>Google News: McConkey, Lemon, Mims, Golden, Otton</source>
       <description>Former Georgia WR Ladd McConkey primed for ‘the best year he’s ever had in pro football’ &amp;nbsp;&amp;nbsp; DawgNation</description>
-    </item>
-    <item>
-      <title>“Going to Be Used Against Him”: Makai Lemon’s Undeserved 1st-Round Status Will Hurt His Career, Says Ex-Eagles Player - Yahoo Sports [Makai Lemon]</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxOWmo5bTJsZ2dnTUp6Si10d1lqQU00QW0zQzc1VDdkb0dyRHU2Tzc1M0N4eGZtTkFCSERqNGZoVE5TaXNRVHhRUmhxTjFiajgwNzBId2RKaTJPU1pQSDh2UG96MktQVEdKUEo3eTJOUUtvVDlxRFFMbzU3WU9SdHZmcnZwRQ?oc=5</link>
-      <guid isPermaLink="false">6e9476647fc87d5e</guid>
-      <pubDate>Tue, 30 Jun 2026 07:00:00 GMT</pubDate>
-      <source>Google News: McConkey, Lemon, Mims, Golden, Otton</source>
-      <description>“Going to Be Used Against Him”: Makai Lemon’s Undeserved 1st-Round Status Will Hurt His Career, Says Ex-Eagles Player &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
     </item>
   </channel>
 </rss>
