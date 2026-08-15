@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786825416435"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786826945159"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Sat, 15 Aug 2026 20:23:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 20:49:05 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eagles injury report: Latest on key players before Ravens matchup - Yahoo Sports [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPUWRvbXNselFNNzVXY0xGb01MdlJ2ZlMtcGJrSEt2Vk5pNW5fLWxOb0NrZ2tDTmRzU0E4TngwUUFHejBSRTl3T2xPNklIR2MzNkMxR21sQlgyRXdaZzRwZ1dLbVJobGxIQy1yWVBxM1NtNTFsYVNsTWl1cV9OVTNpWFVURlZJams?oc=5</link>
+      <guid isPermaLink="false">d1abd1ae4eafb11d</guid>
+      <pubDate>Sat, 15 Aug 2026 19:44:21 GMT</pubDate>
+      <source>Google News: Philadelphia Eagles</source>
+      <description>Eagles injury report: Latest on key players before Ravens matchup &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
     <item>
       <title>Former Alabama starter signed by New England Patriots - Touchdown Alabama [depth chart]</title>
       <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxNcjQ3bXQ5MXJ5RXYta2dqWmtWSzA0c2dTaVpqekNnbnNDYmt0WHRHNHU5alVtNUlQRTB0b2o0alQ4VUY2OEFWMG5JSmRjNDBEZnEwb1YtenRuaDVEckRqekY1bThDbWRLMnpyc3ZsTlB2Nml1MzlGUXg3cWtuRG1lTVNPaDZGcjFtNXQ3OU0zYTI0NE9f?oc=5</link>
@@ -9599,14 +9607,6 @@
       <pubDate>Sun, 09 Aug 2026 02:21:24 GMT</pubDate>
       <source>Google News: Philadelphia Eagles</source>
       <description>Eagles Could Make Stunning Roster Cut After Latest Update &amp;nbsp;&amp;nbsp; Yardbarker</description>
-    </item>
-    <item>
-      <title>Stefon Diggs settles in with Commanders, ups NFL best talk - ESPN [Antonio Williams]</title>
-      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxNdk5fX3NHaFBacnM3WXhGNDdYckJhWmlYTmVyc1RkdTdOM3JZXzlmRkdrVTlabWZTWnVvU3M0TlhkendUSDBkc3VlY0RoYVdPd1pNMXdZelFFNEljVnJxcFRtdlJDZmVQamdyYUxvRjE2TnVCMDNfSTV6UlJ2bjNiSUE2eHZGSnRZNFNBYUJNbzlmWjQwdnVpSkN3?oc=5</link>
-      <guid isPermaLink="false">a448ed32ef8d1058</guid>
-      <pubDate>Fri, 07 Aug 2026 17:29:00 GMT</pubDate>
-      <source>Google News: Washington Commanders</source>
-      <description>Stefon Diggs settles in with Commanders, ups NFL best talk &amp;nbsp;&amp;nbsp; ESPN How Stefon Diggs made a great first impression on Washington Commanders &amp;nbsp;&amp;nbsp; Hogs Haven Why Antonio Williams Is a Big Winner of Commander’s Stefon Diggs Signing &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
     </item>
   </channel>
 </rss>
