@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786898564499"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786899314447"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Sun, 16 Aug 2026 16:42:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 16:55:14 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bears&apos; Battle for Third Running Back on Depth Chart Intensifies - Yahoo Sports [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxOQlYtd2dYRFdrVEs5THd0bUxKWGtIRU1JSm9PV003eURZYWlST0oxcUZBd3lfVnc1MHN1OE1YVGlRSklrUzZTazIxbm1yUU5PUkFiazlDODNWcDcyR1dzVzlMb2xQakUzd09KZUpIcXdWODVmc3pLbUpWMVR3MEw1Tlc1ZzU?oc=5</link>
+      <guid isPermaLink="false">800dcca399f05cb7</guid>
+      <pubDate>Sun, 16 Aug 2026 16:35:57 GMT</pubDate>
+      <source>Google News: Chicago Bears</source>
+      <description>Bears&apos; Battle for Third Running Back on Depth Chart Intensifies &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
     <item>
       <title>Patriots legend Danny Amendola makes admission on A.J. Brown&apos;s impact - Yahoo Sports [A.J. Brown]</title>
       <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxNR3hsYnhyVHF4aTIwWjg5aDA2VDhVeFd5U2hYamZUckExblJ3Qmo3VnBMeThRaXN1Sk1rSUVNVERBRUJRUGYtdEpoZGJEVWQxY1ZvaDloeTRYeDdoUEdFa21URXRDWm91VHpKdnNoeWx6T09oQlVSbUJBMWo3eVlWa19LSk9WY2t1dmJONUVB?oc=5</link>
@@ -9599,14 +9607,6 @@
       <pubDate>Mon, 10 Aug 2026 01:35:00 GMT</pubDate>
       <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
       <description>Raiders’ Ashton Jeanty calls Klint Kubiak’s new offense ‘different in a good way’ &amp;nbsp;&amp;nbsp; New York Post</description>
-    </item>
-    <item>
-      <title>Christian Gonzalez Has Strong Words for A.J. Brown After Major Incident - Athlon Sports [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxObFBqMXZLSnIwZlRHeks5QWdvR0VpZFNHLVJCNlE2SE1rcTJoWW56NmZmdHhmQzloY2ROZmlDVXAxRHRYQU4teTlaMDF2c1J5ZlFySHpCZ1VKVzNONHl0U0R3SEFpWG5xc3lwckZrX1RBUkFmdWJCTGgyWWdEci1RcjNaT1hhT1o5?oc=5</link>
-      <guid isPermaLink="false">b0facb4d34d1e478</guid>
-      <pubDate>Mon, 10 Aug 2026 02:02:00 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>Christian Gonzalez Has Strong Words for A.J. Brown After Major Incident &amp;nbsp;&amp;nbsp; Athlon Sports</description>
     </item>
   </channel>
 </rss>
