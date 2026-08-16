@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786874329763"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786876320293"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Sun, 16 Aug 2026 09:58:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 10:32:00 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Green Bay Packers Depth Chart: What Week 1 of the preseason taught us - Yahoo Sports [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxONmxXcHQ2SWMxRHpRdS1fQ0VsNVFKYTVleXl0UlVpeUZwcXpUX3NFdVlpdFdINmdaWUtSeHNhbUtyd3NwWUpOd29lSjVtc2NwSlJzZnVveTZ6OXMyS0x5bU4xNW1jMExCbjNCd3F4TlBPclJBa08wZjZUcVdybTJrNWVSM2Y?oc=5</link>
+      <guid isPermaLink="false">8db584b6799d2324</guid>
+      <pubDate>Sun, 16 Aug 2026 10:00:00 GMT</pubDate>
+      <source>Google News: Green Bay Packers</source>
+      <description>Green Bay Packers Depth Chart: What Week 1 of the preseason taught us &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
     <item>
       <title>TWENTYMAN: Training camp Day 12 observations - Detroit Lions [depth chart]</title>
       <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxOQTNacjBHcTdHNEpfTEtEcHRFV3pPeVlUUWdrWHpFdjBwS252VjhvVVhlYV9ibmpHallLcjg3Z1JxTDZUN2dhWlMtellISjJxUzB4S3NjLXVRWGZGV1lJc1Q1UlN5dEFyX1k0RENzNWM3Njh0T2ItcllYaUx4Q0E0QzU5U1B6aHgyRG5iZWRUVEFvLW83UG9yZVI0NUVIb1ZTY0VwMXpR?oc=5</link>
@@ -9599,14 +9607,6 @@
       <pubDate>Sun, 09 Aug 2026 16:00:00 GMT</pubDate>
       <source>Google News: New England Patriots</source>
       <description>Biggest Patriots Training Camp Risers: Slot WR Earning First-Team Reps, TEs Shining &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
-    </item>
-    <item>
-      <title>Raiders’ Ashton Jeanty Doesn’t Hold Back on Tyler Linderbaum - heavy.com [Ashton Jeanty]</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPMW1xbUlNSklYbkJTU19mbmNiOTJCeUZGU3VxdFFHUUM3ai1hbVFqd09aLTNBbWxyUTNJcEhhbl9pcmNUQ0xodEMxa1ZrTVk0WENrVzN0NFc4Z3drdkRLeUoyakZtU2FfSHgzVDVubW4tQUkyVlV3VFJFUnRIN3VxejV2RmdiSHFhYXdtT2FNUl9qYmJmUl9N?oc=5</link>
-      <guid isPermaLink="false">4249d5cb5d237df9</guid>
-      <pubDate>Sun, 09 Aug 2026 20:06:17 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
-      <description>Raiders’ Ashton Jeanty Doesn’t Hold Back on Tyler Linderbaum &amp;nbsp;&amp;nbsp; heavy.com</description>
     </item>
   </channel>
 </rss>
