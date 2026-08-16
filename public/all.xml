@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786905050075"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786905891075"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Sun, 16 Aug 2026 18:30:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 18:44:51 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Packers announce roster move | August 15, 2026 - Green Bay Packers [Jordan Love]</title>
+      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE9iTUktUGwzUUJGZDNiUFJ3TDZzLXNYcHNKcWp4NVY2bFQ0b2o5Z2QwZUs3TkMwVlJYRWtCVDhhU0ZUbFd1TVd5bmFKdnA0eDk2M1Y5R1l0T0g1U0UwalJuVHZnSkdLSnY0SlRIekRQa0RoVk9iSE1vd0JSeG0?oc=5</link>
+      <guid isPermaLink="false">78dc3616aa45a38d</guid>
+      <pubDate>Sat, 15 Aug 2026 20:01:22 GMT</pubDate>
+      <source>Google News: Green Bay Packers</source>
+      <description>Packers announce roster move | August 15, 2026 &amp;nbsp;&amp;nbsp; Green Bay Packers Green Bay Packers release rookie quarterback Kyron Drones &amp;nbsp;&amp;nbsp; Milwaukee Journal Sentinel Unexpectedly promising Packers preseason debut hints at intriguing quarterback roster battle behind Jordan Love &amp;nbsp;&amp;nbsp; Yardbarker</description>
+    </item>
     <item>
       <title>Broncos Player Grades from 27-7 Preseason Win Over Falcons - Sports Illustrated [Kyle Pitts]</title>
       <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxPWkVIRzIxeFVtVHpaX2tkb1o5cURlNHpGQnJTckNMSThPQ0pERjhIUzdYbXdTNGRnZkdGaVl0b1JZdkQ4azhLTnozb05UWWNoR2ZheTg0M0NNVkRWYlNZS0NTRG9UUnN4NEFTZlFlcXlTRlM2SWhqbVNTX0pUYjhBVk85aFl0SC1mVFF0U0pUdWpmNzBpbjBXWC1R?oc=5</link>
@@ -9599,14 +9607,6 @@
       <pubDate>Sat, 01 Aug 2026 16:36:13 GMT</pubDate>
       <source>Google News: Pacheco, Brooks, Johnson, Gordon, Henderson</source>
       <description>‘I watched it over and over:’ Steelers RB Kaleb Johnson let rookie mistake fuel him in offseason &amp;nbsp;&amp;nbsp; WPXI</description>
-    </item>
-    <item>
-      <title>Matthew Golden&apos;s Toe Injury Not a Long-Term Concern - NFL News | Fantasy Football - RotoBaller [Matthew Golden]</title>
-      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxPVV9TblNfOExYY0tncy05d2V5Uzl0ejlkVnJtVGNyaDhmVmFKaE4xQlpiUDQ2STdyX2RCX0dNNDBYYWtoYTZzZU10RTdpc2w2NmpKdGpuSW90VzBsN1lqNTMwOEk0bGdMNmpJdTlOdzg1dDhDb1NPTGppSy1DNkl5bWNqOHB0dDUyWWpIdjlzaWJ2by14WDU0ZmxyYnowUQ?oc=5</link>
-      <guid isPermaLink="false">bdff078413a017b6</guid>
-      <pubDate>Sun, 09 Aug 2026 17:31:41 GMT</pubDate>
-      <source>Google News: McConkey, Lemon, Mims, Golden, Otton</source>
-      <description>Matthew Golden&apos;s Toe Injury Not a Long-Term Concern - NFL News | Fantasy Football &amp;nbsp;&amp;nbsp; RotoBaller</description>
     </item>
   </channel>
 </rss>
