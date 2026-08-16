@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786912523551"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786913279648"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Sun, 16 Aug 2026 20:35:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 20:47:59 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bears activate Ozzy Trapilo from PUP list, signaling recovery is ahead of schedule - The New York Times [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPNUZvd2JIWDA1NnNVVWM5ejlnNEN2bFV2M254bkNTV3RRMnd2b1kzRzlUNEFwTGduaTd1TW16NnNYeHpVbHZQNlN1NVBDYXNONjdSeC10YjBBQWt0VXFveUF3S3BDaTRUaWhWMnVMWlpFSVJ1UExUUVJVRnZCUDBza19wNTN1QkhnZk9ZTUI5MWsxMnp3WXdmR2ZCaXBENTk4ODlHbw?oc=5</link>
+      <guid isPermaLink="false">7c1fe54a2095c20a</guid>
+      <pubDate>Sun, 16 Aug 2026 20:43:15 GMT</pubDate>
+      <source>Google News: Chicago Bears</source>
+      <description>Bears activate Ozzy Trapilo from PUP list, signaling recovery is ahead of schedule &amp;nbsp;&amp;nbsp; The New York Times</description>
+    </item>
     <item>
       <title>Chicago Bears activate Ozzy Trapilo from PUP list - Yahoo Sports Canada [depth chart]</title>
       <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcEFKMGx4R01OdXE2LXBFMjkwRXlSVXlXRExSSmZMaDZaRXpVR2NzNmtHT001VU5qeEhKZG9qOHBwM0lMSnpXX1Y0RTdYa0szQ3ZNbVVSQS1pa1JlTy1zaklrWXprUEhkUEdmS3JKZS1BS3Vzc09FWVpQSl80cS1RUF9HX21IbzNmeVdv?oc=5</link>
@@ -9599,14 +9607,6 @@
       <pubDate>Sat, 08 Aug 2026 13:58:00 GMT</pubDate>
       <source>Google News: McConkey, Lemon, Mims, Golden, Otton</source>
       <description>Makai Lemon (hamstring) misses another practice &amp;nbsp;&amp;nbsp; NBC Sports</description>
-    </item>
-    <item>
-      <title>Colston Loveland sounds off on Ben Johnson-Caleb Williams dynamic - Yahoo Sports [Colston Loveland]</title>
-      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxOWFM1U2gwUGM0RWpzZ1JWeE9wZ2xZNW5MVFp4UDV3Wkl4WGZlUDhLb3FMS2wtdnpyaWdNbG01T2dlV0VoU1pDRU51VnlKX00yZ1d0U0cyVUtuT3ZxVTU3RFhMZ0pMTWI3NmkyN2k1YlVCdVhXOGs4MFduS2t0WDVBZTNqZHg1RVE?oc=5</link>
-      <guid isPermaLink="false">c0fd4c5f83f4e521</guid>
-      <pubDate>Sat, 25 Jul 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Loveland, Sadiq, Pitts</source>
-      <description>Colston Loveland sounds off on Ben Johnson-Caleb Williams dynamic &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
     </item>
   </channel>
 </rss>
