@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786900486714"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786901502656"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Sun, 16 Aug 2026 17:14:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 17:31:42 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The candidates who’ll lead the Raiders in scoring this season [Ashton Jeanty]</title>
+      <link>https://sports.yahoo.com/articles/candidates-ll-lead-raiders-scoring-171000809.html</link>
+      <guid isPermaLink="false">cba47387f2d8ca3c</guid>
+      <pubDate>Sun, 16 Aug 2026 17:10:00 GMT</pubDate>
+      <source>Yahoo Sports NFL</source>
+      <description>Expect running back Ashton Jeanty, tight end Brock Bowers, quarterback Kirk Cousins, kicker to put up majority of points</description>
+    </item>
     <item>
       <title>Bears&apos; Battle for Third Running Back on Depth Chart Intensifies - Yahoo Sports [depth chart]</title>
       <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxOQlYtd2dYRFdrVEs5THd0bUxKWGtIRU1JSm9PV003eURZYWlST0oxcUZBd3lfVnc1MHN1OE1YVGlRSklrUzZTazIxbm1yUU5PUkFiazlDODNWcDcyR1dzVzlMb2xQakUzd09KZUpIcXdWODVmc3pLbUpWMVR3MEw1Tlc1ZzU?oc=5</link>
@@ -9599,14 +9607,6 @@
       <pubDate>Mon, 10 Aug 2026 02:55:04 GMT</pubDate>
       <source>Google News: Pittsburgh Steelers</source>
       <description>Bears Snap Up Just-Released Popular Former Steelers CB &amp;nbsp;&amp;nbsp; Steelers Now</description>
-    </item>
-    <item>
-      <title>Raiders’ Ashton Jeanty calls Klint Kubiak’s new offense ‘different in a good way’ - New York Post [Ashton Jeanty]</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcWZDV25vRTNBTE1KX2hDS3ZwdVVMSFByQVVuMEhCOWJqVHh5WWl2UlNzQUQtazd4czYySnNjVEV2TUozY3VPSjQtNVVPbFhZZG53RGpxS0tXdlQ4SXpjR3Z5RGZLVWJyRkttUUpTaHRDdEdHenhCUVNUVVJWam9FQUNvbWt6czhRR1p6bVFKT2pYLTc3SUNCRUNPaE9Qa3hqcHRlUkRJM3ZENGM?oc=5</link>
-      <guid isPermaLink="false">54f2198d678efa5c</guid>
-      <pubDate>Mon, 10 Aug 2026 01:35:00 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
-      <description>Raiders’ Ashton Jeanty calls Klint Kubiak’s new offense ‘different in a good way’ &amp;nbsp;&amp;nbsp; New York Post</description>
     </item>
   </channel>
 </rss>
