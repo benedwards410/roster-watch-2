@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786880760116"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786881669252"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Sun, 16 Aug 2026 11:46:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 12:01:09 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Panthers RB Jonathon Brooks saw his first game action since his second torn ACL in 2024 [Jonathon Brooks]</title>
+      <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-rb-jonathon-brooks-saw-his-first-game-action-since-his-second-torn-acl-in-2024</link>
+      <guid isPermaLink="false">bf2b6623a9546cd3</guid>
+      <pubDate>Sun, 16 Aug 2026 11:52:07 GMT</pubDate>
+      <source>ProFootballTalk</source>
+      <description>In Saturday&apos;s preseason game, Panthers running back Jonathon Brooks took his biggest step yet in his long road to recovery from his second serious knee injury.</description>
+    </item>
     <item>
       <title>Panthers&apos; Jonathon Brooks: Gets start in Saturday&apos;s preseason loss - cbssports.com [Jonathon Brooks]</title>
       <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFc1M0lHQWVMeXBiQlF1TFFEUDlFX01DbEMtbVlpWlJPMVdZc1o5MWs0a1FnT2RFWk50X2E1bFhZMWdmTWxCMFZqY0cwZkRaSk5xWDBvc09sUE12b0k5SUxEYk5scG96bW90M0dCMG9jWEhzcGZXeTVXMGo3U1piRUxRY1E4WEpySldwZzg0M1l2OFN1VmUtZ3drLXdmY1JRclZPSWNpMUFFVzFVUk1wZHd3?oc=5</link>
@@ -9599,14 +9607,6 @@
       <pubDate>Sun, 09 Aug 2026 20:21:00 GMT</pubDate>
       <source>Google News: Pacheco, Brooks, Johnson, Gordon, Henderson</source>
       <description>Isiah Pacheco among multiple Lions absent from practice &amp;nbsp;&amp;nbsp; The Detroit News</description>
-    </item>
-    <item>
-      <title>Howie Roseman points to Cooper DeJean as a blueprint for Makai Lemon - Eagles Wire [Makai Lemon]</title>
-      <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSmZCN3Vuclk0ZUtCNFhxTmVZNGdqeEkyZTduTE9WODktNzZ0Q09ZdExUMERFOVFCdGpYUjQxNHI1a3REVGZtTGY3cHJBbkl0OUhjWGdNN2pRTk5CNFR5OHNpdEVaWmxTdnQ5Nk02TG0zQUZKZW91UWpYY3NTZnRnenZ4VS1PbVpLalVWdW1aUmpnMDRlNjI1NU9nLThxZ3NrYlVIVEx0V0ktWkZIU21IeGdzbUZSTDRuaVdUdWdmU2diQ3k1STgxUVNUanBTSmhHNFE?oc=5</link>
-      <guid isPermaLink="false">43bddd0250d8fd3f</guid>
-      <pubDate>Sun, 09 Aug 2026 20:37:00 GMT</pubDate>
-      <source>Google News: McConkey, Lemon, Mims, Golden, Otton</source>
-      <description>Howie Roseman points to Cooper DeJean as a blueprint for Makai Lemon &amp;nbsp;&amp;nbsp; Eagles Wire</description>
     </item>
   </channel>
 </rss>
