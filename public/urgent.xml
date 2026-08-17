@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786982575215"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786984963844"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - urgent only</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Availability and role changes only. Point your email service at this one.</description>
-    <lastBuildDate>Mon, 17 Aug 2026 16:02:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 16:42:43 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/urgent.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -1271,14 +1271,6 @@
       <pubDate>Mon, 10 Aug 2026 16:35:59 GMT</pubDate>
       <source>Google News: Denver Broncos</source>
       <description>Broncos announce that they have activated LB Jordan Turner off the NFI &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Lions running back Isiah Pacheco dealing with MCL sprain - The Detroit News [Isiah Pacheco]</title>
-      <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMHJaNkMxMlUwS2lnYW9BUWtFbGV5NVRjUGZsRFFkN2tFdGN5WHlsVC15V2paaHZsQjROeW15SU9UVjRYTGRzcVR5SVdsNWtUNm5Zd200S2wzNGVjendHU3NRUUxpaFZjdURGOWJlX0c4d1FsaDFwVkpXZkRGaHNSMFVlNVNaMXNyMjlQMFhiUzVrbFNJQ2IzSklWYTFwUGxQdXp5cC1jU1VLbmd1NV9QMFdSY1hWcUduN0tsLU43dDd0WXN6b2VoQzlreWdDWG5CdkVrZFFfZw?oc=5</link>
-      <guid isPermaLink="false">5c6c84730b980b24</guid>
-      <pubDate>Mon, 10 Aug 2026 15:05:00 GMT</pubDate>
-      <source>Google News: Pacheco, Brooks, Johnson, Gordon, Henderson</source>
-      <description>Lions running back Isiah Pacheco dealing with MCL sprain &amp;nbsp;&amp;nbsp; The Detroit News</description>
     </item>
   </channel>
 </rss>
