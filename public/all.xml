@@ -1,13 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787062572370"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787064974649"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Tue, 18 Aug 2026 14:16:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 14:56:14 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>It’s time for the Packers to let Jordan Love rip it [Jordan Love]</title>
+      <link>https://sports.yahoo.com/articles/time-packers-let-jordan-love-143000547.html</link>
+      <guid isPermaLink="false">bb156c7911112612</guid>
+      <pubDate>Tue, 18 Aug 2026 14:30:00 GMT</pubDate>
+      <source>Yahoo Sports NFL</source>
+      <description>Love’s performance should be more than enough to allow Matt LaFleur to rely less on the running game.</description>
+    </item>
+    <item>
+      <title>2026 Fantasy QB Value Picks: Bo Nix Leads Undervalued Draft Targets - Sportscasting [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxNUXVDMC12Si16cEhkbnk4LUJDUlNMT2tlMXk0OFhjemhtUHZsQWRtalhPYWM0QVlnNHU5OVI0YTFLNjNhd0xyb2s3M2VQVGI4alA0Y25TelBueUZnaTJ4R3hWMGMxa0VrSGlBVmc3dnlJbEFfUkZDbDhNalowcVZqYVk3ZGNfd0o0WnRTa0cwSQ?oc=5</link>
+      <guid isPermaLink="false">d002fb516638f4e1</guid>
+      <pubDate>Tue, 18 Aug 2026 14:30:58 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
+      <description>2026 Fantasy QB Value Picks: Bo Nix Leads Undervalued Draft Targets &amp;nbsp;&amp;nbsp; Sportscasting</description>
+    </item>
+    <item>
+      <title>Entering Year 4 as Packers starter, Jordan Love has adopted a habit he learned from Aaron Rodgers - Yahoo Sports [Jordan Love]</title>
+      <link>https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZm50MGg5dXgzOTM3TXNycDNnZ0JuZFRyQXBDcy1INVZmWkE4SXV0TE9kSkJQb2s4a1ViVG81UV9zRlFJc0hFNV9WdjdvaXpHRGtkQlhZZFg4TXJPUWwtaVl4NHJKM2cyRW5xMzZtbjI1R0hMOEtuQmhPN0I0V2xDZFRzNldYMkdXbHRkMk5GOVoydkZRWVlkNFc4Q0VPLWl4M3d4SHo1cWJlemR5RGJxcUkzS2taZVZUVWZKb3EyMFM1Vlh0U1dNcHdSRmlKU1QwVU5VRXVTT1QxZzR5RDR1MDV3?oc=5</link>
+      <guid isPermaLink="false">9eb7d52e56775759</guid>
+      <pubDate>Thu, 30 Jul 2026 07:00:00 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
+      <description>Entering Year 4 as Packers starter, Jordan Love has adopted a habit he learned from Aaron Rodgers &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>A.J. Brown burns entire defense for 70-yard touchdown in viral video - patriotswire.usatoday.com [A.J. Brown]</title>
+      <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbUg3aF9rUFNwQ3g4QXZrcFA0Z19OczlLYjlMVDFQYXRJV3JJVzdlQ2VEVmVwVzJHUlUxTXRlb3haaVZ6ZVRIenlmV3BraGxmU0w0NnFIc0tBLWZNblRwTDFYVmtHbHVGd3FLd1J1emZrMjBqeXZlT1RIQjkzX1U1WjNOX0JKNGVLak1FRkd6S2FfQjBFR25ieEdlZnpmcWl6OEQ5WlBWdmZYZ0hwTGZXQVNadnpLdjJlN05NVnpURDFrbXZUVGpjUw?oc=5</link>
+      <guid isPermaLink="false">678eae8f99da288e</guid>
+      <pubDate>Tue, 18 Aug 2026 14:43:00 GMT</pubDate>
+      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
+      <description>A.J. Brown burns entire defense for 70-yard touchdown in viral video &amp;nbsp;&amp;nbsp; patriotswire.usatoday.com</description>
+    </item>
+    <item>
+      <title>Tyjae Spears’ Busy Training Camp Continues - NFL News | Fantasy Football - RotoBaller [Tyjae Spears]</title>
+      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ3plV1hnc0RDRmkzNlQ2NTNGUFA4bXpBdEsxSlZSWl9NOXB0MFRTVFlaSVFwYmhDampCOE1XQnJlV3pWaDNBN1N5QVFkbExNVkpQQmprbXp4ckhJRmNJV0I1S1hia0NWVlJvQ1QtemJUMGczclJ6QlNXYjk4REpfR2RVZnF4N1VPN0V1S1BhcDcyUQ?oc=5</link>
+      <guid isPermaLink="false">3e1ce5768aba67e1</guid>
+      <pubDate>Tue, 18 Aug 2026 14:49:08 GMT</pubDate>
+      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
+      <description>Tyjae Spears’ Busy Training Camp Continues - NFL News | Fantasy Football &amp;nbsp;&amp;nbsp; RotoBaller</description>
+    </item>
+    <item>
+      <title>Where Kyle Pitts ranks among tight ends in Falcons history - Atlanta Falcons [Kyle Pitts]</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ1I1NDBHanFFVElpRnBySWNNYS1fWFFJNUpLZURCVmthdzB5UjQ0NEtLTjRTOHFKaXhwamFJYXFla3hLOFVYdll4NWpQeXhVQWwzT3lxYTJrVEhqMnJiVHhKenBVNU03N1JVYTF5U2pxSm9XRzF0N1RjLWo0bTZJNmxIeUVYdVp0UTk0?oc=5</link>
+      <guid isPermaLink="false">45d3c729754b0c07</guid>
+      <pubDate>Wed, 24 Jun 2026 07:00:00 GMT</pubDate>
+      <source>Google News: Loveland, Sadiq, Pitts</source>
+      <description>Where Kyle Pitts ranks among tight ends in Falcons history &amp;nbsp;&amp;nbsp; Atlanta Falcons</description>
+    </item>
+    <item>
+      <title>The Browns thought they had their guy, then Za’Darius Smith signed with Atlanta instead - Cleveland.com [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxPaTgySlkwLTJfUFNKUERfV1AwTm1NY0pMc0JZWUNYRnc0aW9BTmU3am1PRWNPQ3JaOC04REtEeGh1NU83ejR5LUpBYzUzSGxUVU5XUFE4aHp5S2pKTUxHd284aENaU3dycHVScEVxNmFDTVowczVpZ0ZQdF91WVJzS3l0UmpfSzdfeUE5eGZ4WERrUHhMOUpvZ3dsVmx2SVFkMEpkdllKOFB4d0N2VDlwc21RcW1JeGZEQXVMU2tzTWkySkxFTWJTV1hzd9IB3wFBVV95cUxOam5rcUlFN1ZEdWxrRHNvVG9UTEdDeUZxSEhyNzN1ZGFIOTF0SEwyQ19qVk5ZSUxJQldKVHZOc2lURnN3Z0lUYlFERFpaWFhONHNOZ3I5eG9XTm9YVm9mYzJxVXV0b0tNdy1BQlVmZUl6NndxZmpzd3FLeGtseDhkZ0k2LXAzSzdUYkNZel9yYzgtUDZITG1EdC1tdnVZM2dncXpvU21USkNmOTNHbDZOM2cyWU1Mb18xenZtREVKV2pCZ05IZjMyTXgyX0U0bWVFYWNuRHhQVE4temJIbXNR?oc=5</link>
+      <guid isPermaLink="false">4a33e05a5fdb2587</guid>
+      <pubDate>Tue, 18 Aug 2026 14:38:00 GMT</pubDate>
+      <source>Google News: Atlanta Falcons</source>
+      <description>The Browns thought they had their guy, then Za’Darius Smith signed with Atlanta instead &amp;nbsp;&amp;nbsp; Cleveland.com</description>
+    </item>
+    <item>
+      <title>Ennis Rakestraw complicates position battle with impressive camp showing - Detroit Jock City [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxNU200YUdXZDNsWmVUSXp3OVRiMXIyTWcxRzVGOXBHaFJPSUZsRVB1WVU3RTZ1bGg2bXB4RjdaQ2JXR191MnBnWHNmLVNwaERJQ3hnYWVVR1VKUlRGMXdBLUItOTVMVFRLMEVvelFPb1JPWlVIdjhyOTBhNjJfN1NGQUkxX1MwaG1sMk14bFRRajJDTWwyREJrZ0hYeDM3NVgyclVaWWdkRkw0M08w?oc=5</link>
+      <guid isPermaLink="false">b3165bdf9d7d8280</guid>
+      <pubDate>Tue, 18 Aug 2026 14:30:00 GMT</pubDate>
+      <source>Google News: Detroit Lions</source>
+      <description>Ennis Rakestraw complicates position battle with impressive camp showing &amp;nbsp;&amp;nbsp; Detroit Jock City</description>
+    </item>
+    <item>
+      <title>How Mendoza&apos;s Future Performances Could Affect Raiders Timeline - Sports Illustrated [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxOalVpdVRHVWJUaHhzSmhSMFc1UnJKUW8yVXVNNUZCX0lLYVpaaGFNUkNoZTBUQzNsSTdmeloySVFKOGFjbFJNcWJVLUJSYjNIcEhrdzhSZE50VTZBN1hJWVFjMGtOckZlZGk0aDlobDFxd0dHUWxNenItSDdZWTd3TzhhblFaNXJXamF0RzBWX3AzY3M4dEhLVzlaMF9NZkJU?oc=5</link>
+      <guid isPermaLink="false">f044154db5509431</guid>
+      <pubDate>Tue, 18 Aug 2026 14:30:00 GMT</pubDate>
+      <source>Google News: Las Vegas Raiders</source>
+      <description>How Mendoza&apos;s Future Performances Could Affect Raiders Timeline &amp;nbsp;&amp;nbsp; Sports Illustrated Have you seen enough of Fernando Mendoza to give him more first-team reps? | &apos;GMFB&apos; &amp;nbsp;&amp;nbsp; NFL.com Kirk Cousins eager to help Fernando Mendoza become face of the Raiders — someday &amp;nbsp;&amp;nbsp; The New York Times</description>
+    </item>
+    <item>
+      <title>From Practice Squad to Key Contributor, Cory Durden Ready for Bigger Role on Patriots Defense - NESN [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWlYxd0h1UjBaeHdFS1ZFbWJIc2JtajYxcjJVb0lFTkphM1YtR0E5VUx2QTNjaUo5amVmczE4RHVudFJZUWlUT2pwbjBBWHFweTltNC1lRVdxR21hOHpac0R4VFZzY2tqRWRLSnZaVHV1TWtSZ1RJdmc2dDY5S3VsYVJFalNaNFhmdTVHbWlDZmpnY01jODNjVjF4TUdDU2JSVzVZaWY2anJjYkRZcUZFTlltMTQzZjYxbEFKYmhweFFseGtJVTItMWh5U3g5THlF?oc=5</link>
+      <guid isPermaLink="false">6c12335f4cd258d0</guid>
+      <pubDate>Tue, 18 Aug 2026 13:59:03 GMT</pubDate>
+      <source>Google News: New England Patriots</source>
+      <description>From Practice Squad to Key Contributor, Cory Durden Ready for Bigger Role on Patriots Defense &amp;nbsp;&amp;nbsp; NESN</description>
+    </item>
     <item>
       <title>Buccaneers Unsure if Emeka Egbuka Will be Ready for Week 1 - NFL News | Fantasy Football - RotoBaller [Emeka Egbuka]</title>
       <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM0NKbGlXREZHYUs4NF95ZUFKR1NVQmVyMFlLeHRVUVo1RTAteVJMWEszQU1kSWFTcGRRMlRyeTVnSzFkbWx6c2VPX1RfNTdVMzlwam1kVFJjeE5xbEdiNlFuYTM3S2NuZ0Q5bDVjWmhCNWpKOVpaSmVENmVpRVRNRVF0X0pMUXdRZTJ0a0JVX1V3MHZPQ3FJRjIyaExIZ3ZsUGhMTjltei0?oc=5</link>
@@ -9527,86 +9607,6 @@
       <pubDate>Tue, 11 Aug 2026 08:18:00 GMT</pubDate>
       <source>Google News: Las Vegas Raiders</source>
       <description>What stood out on the Las Vegas Raiders 1st unofficial depth chart &amp;nbsp;&amp;nbsp; firstcoastnews.com</description>
-    </item>
-    <item>
-      <title>Fernando Mendoza is listed as QB2 in first Raiders’ depth chart - NBC Sports [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSWRMRzlfSGNBX21LRUw4a1ozdHBLYVQ0VFEwLXZJVnZOSm9ZTkF4cjhkTnhSS3BCbGtEZG1qWjkzM1ducmZiaG45aGx5MmVHT2hmOWVLai1sd1l6WDJmN3BBQ3k0THM2RGt2eWhOa0tsQy1YZ2d2SXVlUFlKQ0ZVNzB0SGxieUV4ZGlYVGVwSlN5UEtWdVhZeHlIOUwxMURHUDFiWEIwekd6OGFoczZaZmNkeC1pNW42SENlWGZQWnFyUQ?oc=5</link>
-      <guid isPermaLink="false">e4a9b5e893093e4a</guid>
-      <pubDate>Tue, 11 Aug 2026 03:57:00 GMT</pubDate>
-      <source>Google News: Las Vegas Raiders</source>
-      <description>Fernando Mendoza is listed as QB2 in first Raiders’ depth chart &amp;nbsp;&amp;nbsp; NBC Sports</description>
-    </item>
-    <item>
-      <title>Patriots Sign Second-Round Draft Pick Gabe Jacas; Place WR Jeremiah Webb on Injured Reserve - New England Patriots [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPd1Z5YjNRSFhpZGx2N09HSGk4N3FqbmFFTVotbXdwNnhkX3NMOGlrNEhZLUNDT1NrVFhVX2tORm1YWW8tVV8yaWpIc29iRTBzR0pjLXdDSGJyMThtbGhxQ0lpOWtoWGFnSEc2RUJQSkJWQ2pWSkhJcVVrRmRBZ1g0UUhSVC0yWVpSRGFtaFJ1MlRoaUR5SHFqWS1XdzF2MzJSTERRLTh4ZHl5X05WN1JyeWU1N1lONm8xSG1Kcw?oc=5</link>
-      <guid isPermaLink="false">b30c10597eada0d8</guid>
-      <pubDate>Sun, 26 Jul 2026 07:00:00 GMT</pubDate>
-      <source>Google News: New England Patriots</source>
-      <description>Patriots Sign Second-Round Draft Pick Gabe Jacas; Place WR Jeremiah Webb on Injured Reserve &amp;nbsp;&amp;nbsp; New England Patriots</description>
-    </item>
-    <item>
-      <title>Commanders star LT Laremy Tunsil to have triceps surgery - ESPN [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxNLTZ2bWNJT3N1MmFycTFMeDU5UUp6cFV2VzdFMDZrTHptNlFYRkdmNzFJdmNmY05VQlNyemx4d1FSRHNub1BpUVVqbk1Ldk4yMGk2RHVGVkdIV1phU2dGdHVWSjQ3N213QjA5OTlzSWJJZkdONElYY3RDWEgyc2EycE11X3c4VDYwNE9TTmNJVklSTlVQTXN3Ng?oc=5</link>
-      <guid isPermaLink="false">cd2793666b8b896e</guid>
-      <pubDate>Mon, 10 Aug 2026 12:19:00 GMT</pubDate>
-      <source>Google News: Washington Commanders</source>
-      <description>Commanders star LT Laremy Tunsil to have triceps surgery &amp;nbsp;&amp;nbsp; ESPN Commanders Won’t Sign Former Pro Bowl Offensive Lineman After Laremy Tunsil Injury &amp;nbsp;&amp;nbsp; heavy.com Commanders C Julian Good-Jones details improvement in first-team reps &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Commanders C Julian Good-Jones details improvement in first-team reps - Commanders Wire [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMi6wFBVV95cUxQU2lqQ2RWMHUwWUt3N0hkUHhENEkwV0k4MnlKYld6TVg2TnpacWdhd01NZzFRbXFucENSd2c4cUxzamdKTWZiSDRxUmRjdWpETXlyV1lXcUtpeTlyV1BEWFNMX2o0VW5SNkRJOVZMVVFqLW1rR0o2ME9WYm01T3pTR3RqMWU1N0RWZ01wNHl5Sm9sQURJLXFRTUlCQmtEQXVDbVFndzlwTWRpMHBTQ3FET1NLUkRFODNSNi1yT244UnY4MG8zdmxHYnFyOGtxb2tCcTlyVVhMRWZnNjYyMDNIWWJkcWhqZFljcjNn?oc=5</link>
-      <guid isPermaLink="false">cab0a29c1b2acf59</guid>
-      <pubDate>Tue, 11 Aug 2026 08:51:00 GMT</pubDate>
-      <source>Google News: Washington Commanders</source>
-      <description>Commanders C Julian Good-Jones details improvement in first-team reps &amp;nbsp;&amp;nbsp; Commanders Wire</description>
-    </item>
-    <item>
-      <title>Bo Nix is eager for preseason action - nbcsports.com [Bo Nix]</title>
-      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxOenQ0dWM1NS1Ja3hIa2ZYTnpjbEFDVVdTTDVJWS0xZXhLaEstWUJHVnNDNmxqQjdtU0FMUnQ3dDU1Y09zYWhMU0x2V3NZUlV1ZUVON2t3c3lRRm1Rc2tSalpfRkdoT2tzN1NpY0JiVldEMllNYVRuM3J5Z2pXdGNueXQzbEx4SHBSdlY5YWRWQ1M3NDVEcnJxeWdmRFRUTzQ?oc=5</link>
-      <guid isPermaLink="false">feb65048baec165d</guid>
-      <pubDate>Tue, 11 Aug 2026 02:54:52 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
-      <description>Bo Nix is eager for preseason action &amp;nbsp;&amp;nbsp; nbcsports.com</description>
-    </item>
-    <item>
-      <title>Broncos QB Bo Nix may need 4 or 5 more reps — Day 520 of The Zach Bye Smear Campaign continues - Denver Sports 104.3 The Fan [Bo Nix]</title>
-      <link>https://news.google.com/rss/articles/CBMi-wFBVV95cUxOQkwtLU5OT0ZRT2RFS3FiaVZjY3hJblZvTE14ZlZVSXV2TnhQODJHZ3lkY3NxOUdNSGdLSWNDeDMySjRZMXNjMEhnblc0UVpHSlNFQUZ4YkF4SzUtZFRsVk9CZG05VmlMa25XYkFBd19tcU9yeEtXa0ZrTUpUSkNCUmp1ZUpfVlBVWElqWlRaRGVrRWJaS2dONnVlbG5kS0ozTk1IVF84aHQzcDkyc0txRGJXUDJnMU56RWxldExha3RibFRDOWVma0hLdFh5bFdIWXhIUS0zSFpLU3pWUU83NWZNQkc0WXdLWm02SVZqMFJraGd5NHEyRHpMdw?oc=5</link>
-      <guid isPermaLink="false">416f0e879c39e6c7</guid>
-      <pubDate>Mon, 10 Aug 2026 23:35:43 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
-      <description>Broncos QB Bo Nix may need 4 or 5 more reps — Day 520 of The Zach Bye Smear Campaign continues &amp;nbsp;&amp;nbsp; Denver Sports 104.3 The Fan</description>
-    </item>
-    <item>
-      <title>Drew Petzing Raves About Isiah Pacheco at Lions Camp - Yahoo Sports [Isiah Pacheco]</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS0ZuM2l6Ui1UeGVNbmlzUXFkOWpyamEwMWZnd1JzQUJ4UDdpczVjeERSalYxWTl6SG1fdWVXdS1yZDdJODlpalRjN25BVFluSGxrQWRFbjUySEJnc0NJSVNXZ2YwWjdPLTFSSmhZNzlSV19jTGR5RGstZ24tejNPS2VwMDcwUXRL?oc=5</link>
-      <guid isPermaLink="false">b73272cdc808e737</guid>
-      <pubDate>Mon, 10 Aug 2026 02:05:00 GMT</pubDate>
-      <source>Google News: Pacheco, Brooks, Johnson, Gordon, Henderson</source>
-      <description>Drew Petzing Raves About Isiah Pacheco at Lions Camp &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>A.J. Brown has already learned &apos;90 percent&apos; of Patriots offense | Latest NFL News, Analysis &amp; Updates - NFL.com [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxNUUZNODU0VmV5YzBmTnVqOXNjWTU5ZFB0cUxiWjNZZ2NqNzBEZ1BEME5icGNNUFRBRVlPMzZpXzNXUEZtOGc3RndrQXRJOTMxMk9mbGFOYkN5aXo4b1haNzBQZjRJa1l0elI1WE9CNE9IS1ZOcXlJSUhqN2NtZXVjQmU4Z1hmM3lPZmprTHppTQ?oc=5</link>
-      <guid isPermaLink="false">9cda3d30c2bc9d21</guid>
-      <pubDate>Tue, 28 Jul 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>A.J. Brown has already learned &apos;90 percent&apos; of Patriots offense | Latest NFL News, Analysis &amp; Updates &amp;nbsp;&amp;nbsp; NFL.com</description>
-    </item>
-    <item>
-      <title>Training Camp-Cast 7/26: Defense Stands Out, Jacas Officially Signs, Kayshon Boutte Continues to Impress - New England Patriots [Kayshon Boutte]</title>
-      <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxPOXVFM2JlbHJYVFZnUko0UVpfamp2ZFRFclBLTS1ONE04SldoQWxEX1J1aDBSYlBqVFo4N3lfbjJnU1F0MFBVS2xzZ21YdFdKRjhRRGo1UVN3dHdTVDhXUDdQWmstZVNGZ2J2Y3RvNEdBM18zV3FqRTJIUy11VmNCcGpXakt4TUgwVkd0eldSVjh3XzZISmYycW5aLXFoMUprTVFGYnBfcHhwcFltbDZjOElFTi1wZkdLeTVvM3BscVpuQVl6YS1Vc3llSGE?oc=5</link>
-      <guid isPermaLink="false">4177e6b779fe394f</guid>
-      <pubDate>Sun, 26 Jul 2026 17:12:39 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>Training Camp-Cast 7/26: Defense Stands Out, Jacas Officially Signs, Kayshon Boutte Continues to Impress &amp;nbsp;&amp;nbsp; New England Patriots</description>
-    </item>
-    <item>
-      <title>David Bailey, Kenyon Sadiq &amp; Omar Cooper Jr. Arrive at 1JD | Flight 26 Short - New York Jets [Kenyon Sadiq]</title>
-      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxQTm9TVlhGbFBROWxQZmsyZzBzVFVYWlg3U2k2ckFNYXdqeWJhTXZ0dXN2WGRWWDZ1T29ITmZFVWFPQnJmODdsV3h0QkI4N0JTTW10Q2pVWVlvaGI5aGg4cWdlQ2RIQUJIZzd1SjRnaUhTTm9hVHBxMjZteXFEOUlpc1BlS09hR2JHbXE4MmQycnlZbTVjSVBGYUkxMW5rOUs3S1dtS213?oc=5</link>
-      <guid isPermaLink="false">469de50a9794bb85</guid>
-      <pubDate>Wed, 22 Jul 2026 12:08:34 GMT</pubDate>
-      <source>Google News: Loveland, Sadiq, Pitts</source>
-      <description>David Bailey, Kenyon Sadiq &amp; Omar Cooper Jr. Arrive at 1JD | Flight 26 Short &amp;nbsp;&amp;nbsp; New York Jets</description>
     </item>
   </channel>
 </rss>
