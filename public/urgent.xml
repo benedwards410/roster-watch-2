@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787068878772"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787071586597"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - urgent only</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Availability and role changes only. Point your email service at this one.</description>
-    <lastBuildDate>Tue, 18 Aug 2026 16:01:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 16:46:26 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/urgent.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Commanders sign multiple players - Washington Commanders [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE9PcENadW1MVGxLbWtrcmZLM1FGekRvcFg3ODBWQ01DbFAyOThPTVdvcFhDWEhRc0tXUkJSRW5zZjRzNTlUTHRoV3dleng0V2otcW1EQnJnQ3lwZkFyZW04NV9jb2NhMEVFcTRib2lPUnBHSlVYUG5tQnZRWQ?oc=5</link>
+      <guid isPermaLink="false">43cd665e49bbbc3c</guid>
+      <pubDate>Tue, 18 Aug 2026 12:00:45 GMT</pubDate>
+      <source>Google News: Washington Commanders</source>
+      <description>Commanders sign multiple players &amp;nbsp;&amp;nbsp; Washington Commanders Commanders Announce Eight Roster Moves Tuesday &amp;nbsp;&amp;nbsp; NFLTradeRumors.co Commanders Place Free Agent RB on Injured Reserve &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
     <item>
       <title>Detroit Lions roster and practice squad projection: Position battles sifting out with two weeks to go - detroitfootball.net [depth chart]</title>
       <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE1NeC0tRHczZ2dyQ0trNHd4MXVibXlRMEVEU3lIZk5CVVFsYVFiUk9GSUd2Y25rc3RtaWNFbC1ZRjJDc0kyQ2ZoV1kxdjFQc0ZxUllIUXNhNWZpaU9QUWFLM3pJR29mMDdITDk0TDdNY0NZWC1BUXc?oc=5</link>
@@ -1303,14 +1311,6 @@
       <pubDate>Tue, 11 Aug 2026 17:29:00 GMT</pubDate>
       <source>Google News: Denver Broncos</source>
       <description>Broncos lineman carted off field, leaving team extremely thin at center &amp;nbsp;&amp;nbsp; broncoswire.usatoday.com</description>
-    </item>
-    <item>
-      <title>Finding the Top 10 Falcons in Bleacher Report’s 1000-player NFL Rankings [Kyle Pitts]</title>
-      <link>https://sports.yahoo.com/articles/finding-top-10-falcons-bleacher-120000696.html</link>
-      <guid isPermaLink="false">4548d276e847a884</guid>
-      <pubDate>Tue, 11 Aug 2026 12:00:00 GMT</pubDate>
-      <source>Yahoo Sports NFL</source>
-      <description>Before we start this exercise, close your eyes…well, read this first, and then close your eyes. Who are your top ten players for the Atlanta Falcons right now? Obviously, there’s the trio of Bijan Robinson, Kyle Pitts, and Drake London that should be locks, but who else makes the cut? Jessie Bates is a lock […]</description>
     </item>
   </channel>
 </rss>
