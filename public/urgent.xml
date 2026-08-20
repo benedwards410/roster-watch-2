@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787221930439"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787223725335"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - urgent only</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Availability and role changes only. Point your email service at this one.</description>
-    <lastBuildDate>Thu, 20 Aug 2026 10:32:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 11:02:05 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/urgent.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bears’ Recently Released RB Works Out for Rebuilding AFC Team - heavy.com [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWm9OVjZHRFI1dWhqaHFzSW1UX2J2bFFMTE1vX0NDLTF2WVdkdmFmU3NpLWVwdWxaTTcyd0c0Ym90UFpNcEQxekJxZEtfcTBSR3I4WDRsTDdseEVZb01DUzNMTGY3NHhnSVdfTTIwemNiUkRYMDBLOUVBWmlnYVdYeFZWZ1ZHMmRJUWs4?oc=5</link>
+      <guid isPermaLink="false">7bf2a99f0c42c2d8</guid>
+      <pubDate>Thu, 20 Aug 2026 10:31:58 GMT</pubDate>
+      <source>Google News: Chicago Bears</source>
+      <description>Bears’ Recently Released RB Works Out for Rebuilding AFC Team &amp;nbsp;&amp;nbsp; heavy.com</description>
+    </item>
     <item>
       <title>Tyler Biadasz Injury Update - Chargers [depth chart]</title>
       <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE9qN3hBRnlUMVZrYUttd3NLazBVeEh5TndGdFdLR3lweEFjNlNDU1R4OEJFR3VnQ1lNRnF2eVRtdFJ6S0ljcjNzbXRqcGxfYW5iRnViVDFTdWRRbXBRMl9xcFhTT2dQbkpZTTJkenNxUQ?oc=5</link>
@@ -1343,14 +1351,6 @@
       <pubDate>Wed, 12 Aug 2026 18:40:00 GMT</pubDate>
       <source>Google News: New York Jets</source>
       <description>Jets&apos; Qwan&apos;tez Stiggers in concussion protocol after collapsing &amp;nbsp;&amp;nbsp; ESPN NFL: New York Jets&apos; Qwan&apos;tez Stiggers released from hospital after collapsing in practice &amp;nbsp;&amp;nbsp; BBC One Jets CB&apos;s Preseason Could Change Following Qwan’tez Stiggers&apos;s Injury &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
-    </item>
-    <item>
-      <title>Bo Nix won&apos;t play Friday, but will play final two preseason games [Bo Nix]</title>
-      <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bo-nix-wont-play-friday-but-will-play-final-two-preseason-games</link>
-      <guid isPermaLink="false">4a65207a01e11a2e</guid>
-      <pubDate>Wed, 12 Aug 2026 21:06:19 GMT</pubDate>
-      <source>ProFootballTalk</source>
-      <description>The Broncos will play their starters 10-15 snaps in Friday night&apos;s preseason opener against the Falcons.</description>
     </item>
   </channel>
 </rss>
