@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787247762717"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787249742935"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - urgent only</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Availability and role changes only. Point your email service at this one.</description>
-    <lastBuildDate>Thu, 20 Aug 2026 17:42:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 18:15:42 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/urgent.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -1327,14 +1327,6 @@
       <pubDate>Wed, 12 Aug 2026 20:22:00 GMT</pubDate>
       <source>Google News: Las Vegas Raiders</source>
       <description>49ers roster moves: RB Zamir White among 3 signed; 3 players waived &amp;nbsp;&amp;nbsp; 49ers Webzone</description>
-    </item>
-    <item>
-      <title>Inside the growing chemistry between Drake Maye and A.J. Brown [A.J. Brown]</title>
-      <link>https://sports.yahoo.com/articles/inside-growing-chemistry-between-drake-091658741.html</link>
-      <guid isPermaLink="false">6098dd437e1636c2</guid>
-      <pubDate>Thu, 13 Aug 2026 09:16:58 GMT</pubDate>
-      <source>Yahoo Sports NFL</source>
-      <description>When the Patriots traded for A.J. Brown, building chemistry with QB Drake Maye became priority No. 1. How has it gone through so far? Let them explain.</description>
     </item>
   </channel>
 </rss>
