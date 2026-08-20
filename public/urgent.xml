@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787241260353"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787243801515"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - urgent only</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Availability and role changes only. Point your email service at this one.</description>
-    <lastBuildDate>Thu, 20 Aug 2026 15:54:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 16:36:41 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/urgent.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -1351,14 +1351,6 @@
       <pubDate>Wed, 12 Aug 2026 21:42:39 GMT</pubDate>
       <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
       <description>Denver Broncos QB Bo Nix will not play in Friday’s preseason opener &amp;nbsp;&amp;nbsp; milehighsports.com</description>
-    </item>
-    <item>
-      <title>Michael Penix: I can do just about anything but take a hit [Michael Penix]</title>
-      <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/michael-penix-i-can-do-just-about-anything-but-take-a-hit</link>
-      <guid isPermaLink="false">9cdc9ad9d8b1f1e5</guid>
-      <pubDate>Thu, 13 Aug 2026 02:01:38 GMT</pubDate>
-      <source>ProFootballTalk</source>
-      <description>Tua Tagovailoa will start the first preseason game, but the Falcons are not ready to hand him the job for the regular season.</description>
     </item>
   </channel>
 </rss>
