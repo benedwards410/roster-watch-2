@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787354706873"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787356185061"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Fri, 21 Aug 2026 23:25:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 23:49:45 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NFL news, live updates: Preseason Friday slate includes Geno Smith, Jordan Love, Bo Nix [Bo Nix, Jordan Love]</title>
+      <link>https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-preseason-week-2-schedule-whos-playing-starters-143714619.html</link>
+      <guid isPermaLink="false">b70987e689945bf1</guid>
+      <pubDate>Thu, 20 Aug 2026 14:37:14 GMT</pubDate>
+      <source>Yahoo Sports NFL</source>
+      <description>Follow along with the latest NFL news and updates as the preseason plays out.</description>
+    </item>
     <item>
       <title>AFC Notes: Bo Nix, Rashee Rice, Broncos, Chargers, Chiefs - NFLTradeRumors.co [Bo Nix]</title>
       <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd290OEwtWWRJSUFWNk5LdXFSZ3pSM2UwY0NacXVnLTF4bGhuZzJ1RlpGTkVGNW56a3h4WlJsVm5SS0llVEExTmIwWGFkcmpYWk1tdWI0QmhlTG9sOU1vRU9acnBIbnlfSjNoLW1QWE1LWEUwUXJVODVmMW1hUDNnN1ZweXpnQnRn?oc=5</link>
@@ -9599,14 +9607,6 @@
       <pubDate>Fri, 14 Aug 2026 18:00:00 GMT</pubDate>
       <source>Google News: Atlanta Falcons</source>
       <description>Broncos&apos; depth chart for preseason game vs. Falcons &amp;nbsp;&amp;nbsp; Broncos Wire</description>
-    </item>
-    <item>
-      <title>Bears Coach Reveals What Kiran Amegadjie Must Do To Win Starting Job - Da Windy City [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxOcGdSVE5aei1ZTzZBOGpPeDh2SzVSSHlUQjdnVk9YTkkwZk5jWEFkMENDcHRkdFNlVTZ6S1lVVUxPVDQwdkF0eU95V3NPV19JaW9jRldvV25iX21RVHBEakEtb2djV3pYOXhZQXRuaDF3SWVBYmk0cHFpeUVDNWhlRDFSTnN2aDdhMGpDVkw5Sng5TnQ3X2FN?oc=5</link>
-      <guid isPermaLink="false">9568e8d491a75c77</guid>
-      <pubDate>Fri, 14 Aug 2026 15:00:02 GMT</pubDate>
-      <source>Google News: Chicago Bears</source>
-      <description>Bears Coach Reveals What Kiran Amegadjie Must Do To Win Starting Job &amp;nbsp;&amp;nbsp; Da Windy City</description>
     </item>
   </channel>
 </rss>
