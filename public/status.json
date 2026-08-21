@@ -1,39 +1,12 @@
 {
-  "builtAt": "2026-08-21T11:37:36.997Z",
+  "builtAt": "2026-08-21T12:01:19.399Z",
   "sources": [
-    {
-      "id": "gnews-players-3",
-      "label": "Google News: Spears, Brown, Williams, Egbuka, Boutte",
-      "mode": "roster",
-      "ok": true,
-      "ms": 772,
-      "raw": 100,
-      "kept": 4
-    },
-    {
-      "id": "gnews-players-1",
-      "label": "Google News: Nix, Love, Penix, Jeanty, Brown",
-      "mode": "roster",
-      "ok": true,
-      "ms": 805,
-      "raw": 100,
-      "kept": 2
-    },
-    {
-      "id": "yahoo-nfl",
-      "label": "Yahoo Sports NFL",
-      "mode": "roster",
-      "ok": true,
-      "ms": 981,
-      "raw": 50,
-      "kept": 1
-    },
     {
       "id": "gnews-players-4",
       "label": "Google News: McConkey, Lemon, Mims, Golden, Otton",
       "mode": "roster",
       "ok": true,
-      "ms": 752,
+      "ms": 616,
       "raw": 100,
       "kept": 1
     },
@@ -42,7 +15,7 @@
       "label": "ESPN NFL",
       "mode": "roster",
       "ok": true,
-      "ms": 146,
+      "ms": 3756,
       "raw": 0,
       "kept": 0
     },
@@ -51,7 +24,7 @@
       "label": "ProFootballTalk",
       "mode": "roster",
       "ok": true,
-      "ms": 426,
+      "ms": 337,
       "raw": 30,
       "kept": 0
     },
@@ -60,8 +33,17 @@
       "label": "CBS Sports NFL",
       "mode": "roster",
       "ok": true,
-      "ms": 153,
+      "ms": 199,
       "raw": 36,
+      "kept": 0
+    },
+    {
+      "id": "yahoo-nfl",
+      "label": "Yahoo Sports NFL",
+      "mode": "roster",
+      "ok": true,
+      "ms": 684,
+      "raw": 50,
       "kept": 0
     },
     {
@@ -69,8 +51,17 @@
       "label": "r/fantasyfootball new",
       "mode": "roster",
       "ok": true,
-      "ms": 1666,
+      "ms": 1013,
       "raw": 0,
+      "kept": 0
+    },
+    {
+      "id": "gnews-players-1",
+      "label": "Google News: Nix, Love, Penix, Jeanty, Brown",
+      "mode": "roster",
+      "ok": true,
+      "ms": 733,
+      "raw": 100,
       "kept": 0
     },
     {
@@ -78,7 +69,16 @@
       "label": "Google News: Pacheco, Brooks, Johnson, Gordon, Henderson",
       "mode": "roster",
       "ok": true,
-      "ms": 824,
+      "ms": 721,
+      "raw": 100,
+      "kept": 0
+    },
+    {
+      "id": "gnews-players-3",
+      "label": "Google News: Spears, Brown, Williams, Egbuka, Boutte",
+      "mode": "roster",
+      "ok": true,
+      "ms": 825,
       "raw": 100,
       "kept": 0
     },
@@ -87,7 +87,7 @@
       "label": "Google News: Loveland, Sadiq, Pitts",
       "mode": "roster",
       "ok": true,
-      "ms": 781,
+      "ms": 703,
       "raw": 100,
       "kept": 0
     },
@@ -96,8 +96,8 @@
       "label": "Google News: Atlanta Falcons",
       "mode": "team",
       "ok": true,
-      "ms": 759,
-      "raw": 106,
+      "ms": 815,
+      "raw": 105,
       "kept": 0
     },
     {
@@ -105,7 +105,7 @@
       "label": "Google News: Carolina Panthers",
       "mode": "team",
       "ok": true,
-      "ms": 681,
+      "ms": 757,
       "raw": 100,
       "kept": 0
     },
@@ -114,8 +114,8 @@
       "label": "Google News: Chicago Bears",
       "mode": "team",
       "ok": true,
-      "ms": 804,
-      "raw": 102,
+      "ms": 827,
+      "raw": 104,
       "kept": 0
     },
     {
@@ -123,7 +123,7 @@
       "label": "Google News: Cincinnati Bengals",
       "mode": "team",
       "ok": true,
-      "ms": 699,
+      "ms": 769,
       "raw": 102,
       "kept": 0
     },
@@ -132,8 +132,8 @@
       "label": "Google News: Denver Broncos",
       "mode": "team",
       "ok": true,
-      "ms": 741,
-      "raw": 102,
+      "ms": 635,
+      "raw": 101,
       "kept": 0
     },
     {
@@ -141,8 +141,8 @@
       "label": "Google News: Detroit Lions",
       "mode": "team",
       "ok": true,
-      "ms": 767,
-      "raw": 107,
+      "ms": 774,
+      "raw": 110,
       "kept": 0
     },
     {
@@ -150,7 +150,7 @@
       "label": "Google News: Green Bay Packers",
       "mode": "team",
       "ok": true,
-      "ms": 636,
+      "ms": 732,
       "raw": 102,
       "kept": 0
     },
@@ -159,7 +159,7 @@
       "label": "Google News: Los Angeles Chargers",
       "mode": "team",
       "ok": true,
-      "ms": 721,
+      "ms": 740,
       "raw": 102,
       "kept": 0
     },
@@ -168,7 +168,7 @@
       "label": "Google News: Las Vegas Raiders",
       "mode": "team",
       "ok": true,
-      "ms": 729,
+      "ms": 760,
       "raw": 100,
       "kept": 0
     },
@@ -177,7 +177,7 @@
       "label": "Google News: Miami Dolphins",
       "mode": "team",
       "ok": true,
-      "ms": 853,
+      "ms": 830,
       "raw": 108,
       "kept": 0
     },
@@ -186,7 +186,7 @@
       "label": "Google News: New England Patriots",
       "mode": "team",
       "ok": true,
-      "ms": 700,
+      "ms": 851,
       "raw": 100,
       "kept": 0
     },
@@ -195,8 +195,8 @@
       "label": "Google News: New York Jets",
       "mode": "team",
       "ok": true,
-      "ms": 773,
-      "raw": 103,
+      "ms": 779,
+      "raw": 102,
       "kept": 0
     },
     {
@@ -204,8 +204,8 @@
       "label": "Google News: Philadelphia Eagles",
       "mode": "team",
       "ok": true,
-      "ms": 801,
-      "raw": 104,
+      "ms": 859,
+      "raw": 106,
       "kept": 0
     },
     {
@@ -213,8 +213,8 @@
       "label": "Google News: Pittsburgh Steelers",
       "mode": "team",
       "ok": true,
-      "ms": 650,
-      "raw": 99,
+      "ms": 791,
+      "raw": 100,
       "kept": 0
     },
     {
@@ -222,8 +222,8 @@
       "label": "Google News: Tampa Bay Buccaneers",
       "mode": "team",
       "ok": true,
-      "ms": 680,
-      "raw": 105,
+      "ms": 785,
+      "raw": 106,
       "kept": 0
     },
     {
@@ -231,8 +231,8 @@
       "label": "Google News: Tennessee Titans",
       "mode": "team",
       "ok": true,
-      "ms": 709,
-      "raw": 104,
+      "ms": 900,
+      "raw": 102,
       "kept": 0
     },
     {
@@ -240,8 +240,8 @@
       "label": "Google News: Washington Commanders",
       "mode": "team",
       "ok": true,
-      "ms": 748,
-      "raw": 104,
+      "ms": 771,
+      "raw": 102,
       "kept": 0
     }
   ],
@@ -249,7 +249,7 @@
     "sources": 27,
     "ok": 27,
     "failed": 0,
-    "newThisRun": 8,
+    "newThisRun": 1,
     "inAllFeed": 1200,
     "inUrgentFeed": 171
   },
@@ -266,7 +266,7 @@
       "pos": "QB",
       "team": "GB",
       "verified": true,
-      "recent": 56
+      "recent": 55
     },
     {
       "name": "Michael Penix",
@@ -364,7 +364,7 @@
       "pos": "WR",
       "team": "LAC",
       "verified": true,
-      "recent": 13
+      "recent": 14
     },
     {
       "name": "Makai Lemon",

@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787312256993"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787313679392"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Fri, 21 Aug 2026 11:37:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 12:01:19 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chargers&apos; Ladd McConkey: Plays opening series Thursday - CBS Sports [Ladd McConkey]</title>
+      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQdk5ReW81c0lVMmdtNldCNURZdC1HT0RCbVFoVHhHWUpyY29LeWVFbThQYXNuVlI5cmhwNmVRVzZlS2oxRGlOY0FoMVVlUFdoTHdDQ0xKa3FwU2l6NVhndk1ycmtUamY4aDMtY0VTeUZKOXNkT1BXNjUyaVlEUFFVXzJBUkZid1ZtYklBOXB2TUN0dTdjN0RnWXZFTXRoUENBdTFN?oc=5</link>
+      <guid isPermaLink="false">9e1c709d37e9ad04</guid>
+      <pubDate>Fri, 21 Aug 2026 05:27:46 GMT</pubDate>
+      <source>Google News: McConkey, Lemon, Mims, Golden, Otton</source>
+      <description>Chargers&apos; Ladd McConkey: Plays opening series Thursday &amp;nbsp;&amp;nbsp; CBS Sports</description>
+    </item>
     <item>
       <title>Eagles&amp;#39; Makai Lemon returns to practice but has a climb to catch up [Makai Lemon]</title>
       <link>https://sports.yahoo.com/articles/eagles-makai-lemon-returns-practice-070000673.html</link>
@@ -9599,14 +9607,6 @@
       <pubDate>Thu, 13 Aug 2026 23:50:00 GMT</pubDate>
       <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
       <description>Aaron Rodgers is inactive but Jordan Love plays briefly as Packers face Steelers in preseason &amp;nbsp;&amp;nbsp; The Milwaukee Courier</description>
-    </item>
-    <item>
-      <title>Are Jordan Love and Aaron Rodgers playing in Packers-Steelers preseason opener? - Lombardi Ave [Jordan Love]</title>
-      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxQR3BEUDdGWS1wUjNwLWxiSUtJdUpMSDFGWUdFVlJWLVBYYS1nOVBYU0tQQVd0NmdwQVB1R0pHcU9iRDBHdVhYanNXR0tXSGhIMy1zbU5sTTI1cUtoWElvVXI0TloyaWdKRWtmWUZiRWRBbTB6MndxaVFPRkFMdEdSaEZfV0Z4alByNlZWVUZNOHYwQUFXQjEySHV5OA?oc=5</link>
-      <guid isPermaLink="false">64ce6bda3b3eebb4</guid>
-      <pubDate>Thu, 13 Aug 2026 22:48:19 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
-      <description>Are Jordan Love and Aaron Rodgers playing in Packers-Steelers preseason opener? &amp;nbsp;&amp;nbsp; Lombardi Ave</description>
     </item>
   </channel>
 </rss>
