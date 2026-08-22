@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787412294767"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787413649669"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Sat, 22 Aug 2026 15:24:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 15:47:29 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stock Up, Stock Down after the Broncos’ loss to the Packers in Week 2 of the preseason [Bo Nix]</title>
+      <link>https://sports.yahoo.com/articles/stock-stock-down-broncos-loss-153218418.html</link>
+      <guid isPermaLink="false">695d37fafa74851b</guid>
+      <pubDate>Sat, 22 Aug 2026 15:32:18 GMT</pubDate>
+      <source>Yahoo Sports NFL</source>
+      <description>Things were looking up for the Broncos after their preseason opening victory over the Atlanta Falcons. All three phases of the team played well, and they handled the Falcons on the road despite missing several key starters. However, in Week 2, they would be getting back quarterback Bo Nix and star receiver Jaylen Waddle, and […]</description>
+    </item>
+    <item>
+      <title>Bo Nix returns to action - ESPN [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE5VeUZ4TEc4b0V3clBKdXN0YUw5NEhxT19zdTJCLWZPeGF3eUE4TTFHVE10YXcxVU8xQm56eWM4SzhHNXM3R1pBZlNZWjZUcG1ZS01EczN5QktmSnFIUGpVZXc5TWRBTkU1WDVTZUNlZGZBcXZfVlE?oc=5</link>
+      <guid isPermaLink="false">20e44798d8187814</guid>
+      <pubDate>Sat, 22 Aug 2026 11:33:20 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
+      <description>Bo Nix returns to action &amp;nbsp;&amp;nbsp; ESPN</description>
+    </item>
     <item>
       <title>Rebuilders Digest: Buy Braelon Allen, Sell Tyjae Spears and Cut Luke Musgrave - Fantasy Football Today [Tyjae Spears]</title>
       <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE9hSVhaNUJKdktOR09zYW9aZGE3Y2JOTWYwdVU4STBqbkh3NUlQSmlhNDBlUTBVbkozSEk3VEhiUnFrNVRwNlE4bUJ3R2RZYjdnX1NMMXNYZFRaZzFvTFlUaTItMmRVVzBqOVRxR0oxTWthbWZ6aDNsbGtR?oc=5</link>
@@ -9591,22 +9607,6 @@
       <pubDate>Sat, 15 Aug 2026 21:38:00 GMT</pubDate>
       <source>Google News: Las Vegas Raiders</source>
       <description>Raiders sign DT Folorunso Fatukasi, place LB Brennan Jackson on injured reserve &amp;nbsp;&amp;nbsp; FOX5 Vegas</description>
-    </item>
-    <item>
-      <title>Jonathon Brooks Runs with Starting Lineup on Saturday - NFL News | Fantasy Football - RotoBaller [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxPeWx2VU1BNXdhUGxfUzlNMi1IbC03cmdjcU9nNkVBREVSS0loTVVNdTc1aXZNTEtYdFBtM19JR01HbTY3MFVPbUhrTl9mUlpnai02SWJjRzFhWGlLdWhHNEQzTUdXUTVPM2tsQWl4ZlJkYlAyb3VKbUhFVV96WHRmZ3BsamVjZ1VfdDlEc3VjSzRYTUlySWdPelZpOGpNVG8zRUE?oc=5</link>
-      <guid isPermaLink="false">eb6b7075c48df0bc</guid>
-      <pubDate>Sat, 15 Aug 2026 21:19:07 GMT</pubDate>
-      <source>Google News: Pacheco, Brooks, Johnson, Gordon, Henderson</source>
-      <description>Jonathon Brooks Runs with Starting Lineup on Saturday - NFL News | Fantasy Football &amp;nbsp;&amp;nbsp; RotoBaller</description>
-    </item>
-    <item>
-      <title>Dolphins&apos; Jeff Hafley Set Important Standard by Pulling Ollie Gordon II - roundtable.io [Ollie Gordon]</title>
-      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxQVG9YM2ptbW9YT3ZCeE5qSTNyR0FDWFA5a3BYTEJNckM2UmJrNVU0NURwalBIcXdCOVJlTVZJUHNpOFFneUcwNlNxcTRYeWJKRG9ma1NOWEtERmVQbWFvRmN5UG5kdzVoZlcxaVJuUmxYTDQydktYSmhwNWFqV1NUWVVzZUdGdFZEdURpYWNaZXBCZV9Ec3JqM0xJVzlFZkRlN181WktlOVBTWGN5ek8yZENEOGw1cnlOc2ctOA?oc=5</link>
-      <guid isPermaLink="false">40d8b082d1397d91</guid>
-      <pubDate>Sat, 15 Aug 2026 21:25:14 GMT</pubDate>
-      <source>Google News: Pacheco, Brooks, Johnson, Gordon, Henderson</source>
-      <description>Dolphins&apos; Jeff Hafley Set Important Standard by Pulling Ollie Gordon II &amp;nbsp;&amp;nbsp; roundtable.io</description>
     </item>
   </channel>
 </rss>
