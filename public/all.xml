@@ -1,13 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787367741629"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787370783114"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Sat, 22 Aug 2026 03:02:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 03:53:03 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bo Nix shines in Broncos preseason return: Instant analysis, grades [Bo Nix]</title>
+      <link>https://sports.yahoo.com/articles/bo-nix-shines-broncos-preseason-030440261.html</link>
+      <guid isPermaLink="false">94ab0a11968a63a8</guid>
+      <pubDate>Sat, 22 Aug 2026 03:04:40 GMT</pubDate>
+      <source>Yahoo Sports NFL</source>
+      <description>Bo Nix was back in the Broncos lineup for the first time since suffering a fractured ankle in the playoffs. Here&amp;#39;s a breakdown of how he played.</description>
+    </item>
+    <item>
+      <title>Watch all 5 of Jordan Love&apos;s completions from opening drive vs. Broncos - Packers Wire [Jordan Love]</title>
+      <link>https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUFk4QmRZUnRwZHN2cDV5MUw4cG1aV04za0FaUGY2cHlWYzEtY3UwOURWSXIzVHdCZEg0UVA3RG9aQ3h4SFZPNUlETGxPOFFGbmJtdThzeFc1dDFvV0xmTENVQ3lEMUdvbkRJWVhXOHYzVS1YTnVGcVRXd1VvSnJCM1Q3bUgzSktyWlRyUG5GdDRtS1BWbWpmZS1tZDA0NFZWbVBJMkFmaVZ4YWRWR1hvaTN0RWFidWdZQThlUDlZQnphaHFZQ0ZWMDAybmpkNnhkbHk2M0ZzMUEzcms5VC0yRmR4LWRWdw?oc=5</link>
+      <guid isPermaLink="false">1721b12a18316b2c</guid>
+      <pubDate>Sat, 22 Aug 2026 03:32:00 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
+      <description>Watch all 5 of Jordan Love&apos;s completions from opening drive vs. Broncos &amp;nbsp;&amp;nbsp; Packers Wire</description>
+    </item>
+    <item>
+      <title>Packers QB Jordan Love makes the most of appearance vs. Broncos - Yardbarker [Jordan Love]</title>
+      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPc1hkLWQ1bEhVNFpOQ1FoMXNJTjkxcjkzZS04RVZidGltbWNyS2FEeGdCQUlZemJjck5uUzdrTWlGbW5yVVJtZXgyWGVublFxX0tLTUtPMndQbWdsa2REam1aNEhLVWhzYXgteEJQbzRjbE12cTVFVHZDMnlkUWVjM2M3cmVIeHB2SktXeUpRaGM0c2VGWmkycWVFc01BRXRNRTdmZ1RtdlpwWU92MnNJcE1fNldqVmZlWmtaZg?oc=5</link>
+      <guid isPermaLink="false">f6fc37f5afd2c6d0</guid>
+      <pubDate>Sat, 22 Aug 2026 03:33:11 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
+      <description>Packers QB Jordan Love makes the most of appearance vs. Broncos &amp;nbsp;&amp;nbsp; Yardbarker</description>
+    </item>
+    <item>
+      <title>NFL preseason Week 2 winners and losers: Bo Nix shines in Broncos return, Fernando Mendoza struggles - CBS Sports [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxOX1Q5d292UUlfbDBOODJQcVFGWk5NTGJSRWZyT1E3eGNUZnVLTHlZMzZBNGxTc2djM1dBbk9wRm54QzdfUFJHWUkzNzhjMjNJSGNMd0hmTFNkZy1BMGNxRGF5TV9BMjNhejZzZlpaUndkclpvc1huZ0FCc2dGS091aQ?oc=5</link>
+      <guid isPermaLink="false">d62af86639144637</guid>
+      <pubDate>Sat, 22 Aug 2026 03:44:48 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
+      <description>NFL preseason Week 2 winners and losers: Bo Nix shines in Broncos return, Fernando Mendoza struggles &amp;nbsp;&amp;nbsp; CBS Sports</description>
+    </item>
+    <item>
+      <title>Jonathon Brooks Gets into end zone against Jags - Fantasy Footballers Podcast [Jonathon Brooks]</title>
+      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNVF9rNXJxVnhuR3REeGZpQloxVWFjTE1TbXZJTW1LZ1JaQ194WFhtcm90cnppNTFES3dKeVE5bTlBVW1JeHJQckRzRkViRHA0R0tMcWRBSTZJbTdkZU44bUh4OF85Y1U2TUlsVmw0WnlPX3VmMlM2aHl6YXpJS0FzMnQ3TDVuMEJvRUY0OWMxSlF0b1lXSlRkSjdyNjJCeUU?oc=5</link>
+      <guid isPermaLink="false">b32cd87420a57d08</guid>
+      <pubDate>Sat, 22 Aug 2026 03:14:26 GMT</pubDate>
+      <source>Google News: Pacheco, Brooks, Johnson, Gordon, Henderson</source>
+      <description>Jonathon Brooks Gets into end zone against Jags &amp;nbsp;&amp;nbsp; Fantasy Footballers Podcast</description>
+    </item>
+    <item>
+      <title>Preseason 2026: Broncos vs. Packers - Live coverage - Mile High Report [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPZHVVNGlEa1RTRlJTSThidWFTZXhJVkUxTVlraG5SOVVRQS1HZW0ybEtkZWVMOHUtcDYxeVRUOEdLajYxamxJUnlkenYyZ0ZBSnJ1SWx6MGJDaXdwdGg0VWtMbHJjV2Z5LVF3WUEzbGpRRXowODQ5RmN5T3NHQ3lhWkI2Zl8yS2s1VkJGdnNLOGRpRE83T1NhR29wcDZZYTdDcC15cnlhMWt1dXR3N0Vz?oc=5</link>
+      <guid isPermaLink="false">672d6428f9a93bcd</guid>
+      <pubDate>Sat, 22 Aug 2026 00:45:00 GMT</pubDate>
+      <source>Google News: Denver Broncos</source>
+      <description>Preseason 2026: Broncos vs. Packers - Live coverage &amp;nbsp;&amp;nbsp; Mile High Report Game preview: QB Bo Nix set to make preseason debut vs. Packers &amp;nbsp;&amp;nbsp; Denver Broncos Packers vs. Broncos (Aug 21, 2026) Box Score &amp;nbsp;&amp;nbsp; ESPN</description>
+    </item>
     <item>
       <title>Bo Nix leads Broncos to 10 points in his two series [Bo Nix]</title>
       <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bo-nix-leads-broncos-to-10-points-in-his-two-series</link>
@@ -9559,54 +9607,6 @@
       <pubDate>Fri, 14 Aug 2026 20:04:00 GMT</pubDate>
       <source>Google News: Atlanta Falcons</source>
       <description>Falcons edge James Pearce Jr. suspended 8 games to start 2026 season &amp;nbsp;&amp;nbsp; Audacy</description>
-    </item>
-    <item>
-      <title>Atlanta Falcons star pass rusher James Pearce Jr. suspended 8 games - Gwinnett Daily Post [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUlFzSEo3Tk5OSi13Z1BnalBVVDc2NW9BR1lXVEl6NWhnSC0yZmFEWWdKSGl2NElvRXZTRU1aSWludGR3MzhFYlM2YUh6cWc5M1FaSjdZNUFsdGpnaWtxZkk5cFJEbGZjM3dqLXZ0VDVlNTdRc1l2QjU3MXVXQUNYekp5eHJXRmZla0FPcWc0eFJLcVJzZ1d4VGpHaFJqdGI2OHdOTE04aHBteEdWbW1yRGp1TUliUklJM0NpaGNmSkdSaUZEd2JwOHY2Qno1Z1RVNGtKVEhTb3hLakp5NWt2TUNTaXhYajlwLTJsR3d3?oc=5</link>
-      <guid isPermaLink="false">921edd05688f9b31</guid>
-      <pubDate>Fri, 14 Aug 2026 19:23:00 GMT</pubDate>
-      <source>Google News: Atlanta Falcons</source>
-      <description>Atlanta Falcons star pass rusher James Pearce Jr. suspended 8 games &amp;nbsp;&amp;nbsp; Gwinnett Daily Post</description>
-    </item>
-    <item>
-      <title>Patriots&apos; Kayshon Boutte: Not targeted in preseason opener - CBS Sports [Kayshon Boutte]</title>
-      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdE9FaC1YcVQ2R2NKVTB0XzRxOFB2VF80Z3h3VnFxQkRvWWlxRFJqWUxvbjE3Sk0yVE1Xc28wQWdxbzUydzZoR2xCNElVcEdNaE1YalpEdjJtUGRuX0w1Q1Y0alNnSXczSzItQ2luMjlVVFQwRGYyQ0QyVFdUZ2RzX05jd3otb2hTRXJVS0pTUlcwMnRjaWVySjZNY25Hd1kydHVrMFIxMEs?oc=5</link>
-      <guid isPermaLink="false">6cf0019d2c24fa8d</guid>
-      <pubDate>Fri, 14 Aug 2026 20:22:22 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>Patriots&apos; Kayshon Boutte: Not targeted in preseason opener &amp;nbsp;&amp;nbsp; CBS Sports</description>
-    </item>
-    <item>
-      <title>Oregon: NFL Scouts Believe Jamari Johnson Could be Better Than Kenyon Sadiq - Yahoo Sports [Kenyon Sadiq]</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdDYtTWxWbVg1akZ4WDdYRXRLb2toN3pfRUJWaFllSmg2ZC1JS0xZZzNOMDREczBUNFpYS2RfbHRvdDVTcHlYTjVKQm1Wd3Bza1Nfdlp4MWlOU2M4eTc2Nm5Xb2tuY1NmN0pMSlJTV1QxaHl0ZHRSYmp0Q01IZDRlLTd0V3A4Rlk3?oc=5</link>
-      <guid isPermaLink="false">29ab476339e5d154</guid>
-      <pubDate>Fri, 14 Aug 2026 19:29:28 GMT</pubDate>
-      <source>Google News: Loveland, Sadiq, Pitts</source>
-      <description>Oregon: NFL Scouts Believe Jamari Johnson Could be Better Than Kenyon Sadiq &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>6 Risers, 4 Fallers Shaking Up Cardinals Depth Chart After Raiders Game - Sports Illustrated [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ3d5bTI2cXU3V0d2Sm44RjIzMHZpbTRnQlREWGcydlo1c3kwQlNBbUVmQS1fXzFVN2h1QnJVOXlBbUVJQW9JZVVJbWJuUFFXU3d3M1FjYW4xNFZyOU9PVXdkRU5tTWhxSkdzaHRIY0dkdzN0MWtXcTRFT19zSV9pWFRSWjA0NjhMREppQU1qeWoyR1Z0OHBvaGY4bm4yNF83VVY3dDRiRk5ualRMN2w2NGJfMUxDTnBkd3dWWURGQ25LcF9z?oc=5</link>
-      <guid isPermaLink="false">5765223ec7af8d8f</guid>
-      <pubDate>Fri, 14 Aug 2026 20:34:57 GMT</pubDate>
-      <source>Google News: Las Vegas Raiders</source>
-      <description>6 Risers, 4 Fallers Shaking Up Cardinals Depth Chart After Raiders Game &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
-    </item>
-    <item>
-      <title>Titans DB Nazeeh Johnson suspended 6 games for PED violation - kmjnow.com [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxPanVjekNTeFc1QmZ2cDRLOVlWRmtFMERHY2lBOW40VmZNRVdnbXVxQzlmUTdtUTExRmJ1dWxraF9RaV9WWDdNaHRCWmZPM2dSamd0cmxfR2lxd2VsZ1JSNEV2d1QyUXJoV1l0MW1JYVZ1SHNPUXFrOFFTS2VjQjlhMFhkZEdKRzhhZlVPeWd5MlBHdmdqdlp1X3hnaw?oc=5</link>
-      <guid isPermaLink="false">dbd05fa5523b77a4</guid>
-      <pubDate>Fri, 14 Aug 2026 20:27:05 GMT</pubDate>
-      <source>Google News: Tennessee Titans</source>
-      <description>Titans DB Nazeeh Johnson suspended 6 games for PED violation &amp;nbsp;&amp;nbsp; kmjnow.com</description>
-    </item>
-    <item>
-      <title>Washington Commanders EDGE Dorance Armstrong suspended one game by the NFL - Yahoo Sports [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb1FtWV82c0FzS1ptaXA0SDJhOFlBYWV1UFN6MklzWUVHOVpiVnU2aUpLTTBRM2Npa2pQTXphaGM1YVdDalRCVjJLWlFtR0lrVlUxbjFZVXF5SkN3aVpHZHZobEgtVmpNMzh3dnF2YlJlcFZfZmpKN0dneVpzUVZTRThUdlhlQjNIdTZaU0NvNXItajd6S0t0REFQZ1l3eXNqblk2WTduQ1hoVDg0TjcwU2M3Y3g3Ry1xRW1qb2xEYV8?oc=5</link>
-      <guid isPermaLink="false">2c55a1bd7dbc74cf</guid>
-      <pubDate>Fri, 14 Aug 2026 19:41:35 GMT</pubDate>
-      <source>Google News: Washington Commanders</source>
-      <description>Washington Commanders EDGE Dorance Armstrong suspended one game by the NFL &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
     </item>
   </channel>
 </rss>
