@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787427135143"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787428414216"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Sat, 22 Aug 2026 19:32:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 19:53:34 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lions May Need Outside Help to Solve Struggling Position Battle - heavy.com [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE1hamVtX3BFVVlNZXlHSFI4RnpLbEs5dFkxdlhkVUJ6Y1EtUmFiajZRa1FGb25YeHdjZGluekI1WTdCZzk2UGVlcTVvTFVEem1pTmRocHdJSlp3RHBJeXhET2ZGTU9HVFZoQTRIX1lDX1dsNmJJ?oc=5</link>
+      <guid isPermaLink="false">4d8e6c95253a2dd0</guid>
+      <pubDate>Sat, 22 Aug 2026 19:25:12 GMT</pubDate>
+      <source>Google News: Detroit Lions</source>
+      <description>Lions May Need Outside Help to Solve Struggling Position Battle &amp;nbsp;&amp;nbsp; heavy.com</description>
+    </item>
     <item>
       <title>Bo Nix + Jaylen Waddle gives Broncos fans a glimpse of offense’s potential [Bo Nix]</title>
       <link>https://sports.yahoo.com/articles/bo-nix-jaylen-waddle-gives-191008029.html</link>
@@ -9599,14 +9607,6 @@
       <pubDate>Sun, 16 Aug 2026 15:23:35 GMT</pubDate>
       <source>Google News: Green Bay Packers</source>
       <description>Packers coach Matt LaFleur addresses the camp battle at cornerback &amp;nbsp;&amp;nbsp; PackersNews.com</description>
-    </item>
-    <item>
-      <title>Unexpectedly promising Packers preseason debut hints at intriguing quarterback roster battle behind Jordan Love - atozsports.com [Jordan Love]</title>
-      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQVEphT0JkTy11Z1RJRzZYMTBNUlVFaVE4R1ROeEVCY01YSXNZd3h4SHo0QXc3YVg2cXVYZXNjc2QzczVqNE8taTFKTlF4V0djWTZoc04xMFVCU09fYzdBVU96YzRBSGFUclNpOXRXU1cyLS1NMV9RNnd6RlozaVlYME1RYVlhT2J1NWNrSEdhc0FzTExJMFo3U1dnX2tzRFhEcVhB?oc=5</link>
-      <guid isPermaLink="false">dc10030dcabf95e9</guid>
-      <pubDate>Sun, 16 Aug 2026 15:00:00 GMT</pubDate>
-      <source>Google News: Green Bay Packers</source>
-      <description>Unexpectedly promising Packers preseason debut hints at intriguing quarterback roster battle behind Jordan Love &amp;nbsp;&amp;nbsp; atozsports.com</description>
     </item>
   </channel>
 </rss>
