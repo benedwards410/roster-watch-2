@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787414470522"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787416670341"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Sat, 22 Aug 2026 16:01:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 16:37:50 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&quot;A sign to my father&quot;: Jonathon Brooks on his special preseason touchdown - Carolina Panthers [Jonathon Brooks]</title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxQS3lXZi11MThmZTcxc0VYdW9yeTF3RC03Yk1VMHA3c1Bic2lVYWNQbjJWdExsUElkd2VHZnpaeUN1Mk9sWERrNnROR1BHcTg1ZnAxWVNLRGpGSmdyaGlXZm1mTzc5a3lwanpodTdSRVRKcEsxblpkODRyMHBucHI4WWx0c3dpVWpPRUtCbTdfZWFJaWd0c2RpS2w0VU5Wdm9Yb3c?oc=5</link>
+      <guid isPermaLink="false">729f045786117433</guid>
+      <pubDate>Sat, 22 Aug 2026 16:21:54 GMT</pubDate>
+      <source>Google News: Pacheco, Brooks, Johnson, Gordon, Henderson</source>
+      <description>&quot;A sign to my father&quot;: Jonathon Brooks on his special preseason touchdown &amp;nbsp;&amp;nbsp; Carolina Panthers</description>
+    </item>
     <item>
       <title>Stock Up, Stock Down after the Broncos’ loss to the Packers in Week 2 of the preseason [Bo Nix]</title>
       <link>https://sports.yahoo.com/articles/stock-stock-down-broncos-loss-153218418.html</link>
@@ -9599,14 +9607,6 @@
       <pubDate>Sat, 15 Aug 2026 21:50:00 GMT</pubDate>
       <source>Google News: Detroit Lions</source>
       <description>Lions observations: The most interesting position battle to sort out &amp;nbsp;&amp;nbsp; Detroit Free Press</description>
-    </item>
-    <item>
-      <title>Raiders sign DT Folorunso Fatukasi, place LB Brennan Jackson on injured reserve - FOX5 Vegas [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQMjlWTlVTUnlrd0I4LTkyS1IwaVlfQWVhcnRsUDFhUVF4Z3VwOEhjaURqeG1wa3Q5UGlIUDdaZkZtbDlvRVZwSDZkcV9YNlBTb2hGcnFtSGptOEJ1M0hLR01WOXNCeV9qTDg1Vy1lNFJJVnVXbmliU0duREt6Y21oODY5bWtrLTZpQVE4SWNJd3dtdTRlVG14M2N5MVNMaUpKY2RHUmpOWGRiNW9zUjFuVzFBQQ?oc=5</link>
-      <guid isPermaLink="false">651e1d0ef5157283</guid>
-      <pubDate>Sat, 15 Aug 2026 21:38:00 GMT</pubDate>
-      <source>Google News: Las Vegas Raiders</source>
-      <description>Raiders sign DT Folorunso Fatukasi, place LB Brennan Jackson on injured reserve &amp;nbsp;&amp;nbsp; FOX5 Vegas</description>
     </item>
   </channel>
 </rss>
