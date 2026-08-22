@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787399373831"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787400703739"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - urgent only</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Availability and role changes only. Point your email service at this one.</description>
-    <lastBuildDate>Sat, 22 Aug 2026 11:49:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 12:11:43 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/urgent.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -1119,14 +1119,6 @@
       <pubDate>Sat, 15 Aug 2026 18:20:06 GMT</pubDate>
       <source>Google News: New York Jets</source>
       <description>Former New York Jets Pro Bowler Carted Off With Injury Weeks After Joining Vikings &amp;nbsp;&amp;nbsp; heavy.com</description>
-    </item>
-    <item>
-      <title>Chase Bisontis To Be Placed On Injured Reserve - Arizona Cardinals [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNUDlLeTZpRkhQalZVMm8zSFRraS11NzBqS2NHaXlHUV85QzlqTDVycnl1WExvV0xudDNjY3E4MWo2RVhWeDVFMURBSVl4Zy1nTVExWDQ5dVR1VUI2YWtvVHdINUpfTG16UHhBajY1MTRzbkVyaU1WS3NEQ3J1bWdMNjZjckJvQQ?oc=5</link>
-      <guid isPermaLink="false">9bab3ee39f2747de</guid>
-      <pubDate>Sat, 15 Aug 2026 16:13:09 GMT</pubDate>
-      <source>Google News: Las Vegas Raiders</source>
-      <description>Chase Bisontis To Be Placed On Injured Reserve &amp;nbsp;&amp;nbsp; Arizona Cardinals</description>
     </item>
   </channel>
 </rss>
