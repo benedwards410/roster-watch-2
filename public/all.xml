@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787468790451"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787471144408"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Sun, 23 Aug 2026 07:06:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 07:45:44 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eagles practice observations: Jalen Hurts has a day; Makai Lemon limited; Lane Johnson’s absence - Inquirer.com [Makai Lemon]</title>
+      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPM2FCanJHSXZyM2o1Qnhfd0tRUlIyUkYtd2g1cFNiRW84RGFxMExmWllSdm9GX1R5NDU3OWdtZ1dzYXVyVUpWTzJsejFNMk9tY2l3R0J3cU5oZUIzZGppV0pzYTBaTDRGRGUzbXFJZjNncjZibFc2OXhaMHRaZjlEVU9rOGd0eXlIOWZTaTZQajU2MUZhbTdUS0pYaEg5bWM5YVRSTHlVdG13ekVoR011Vmd1Yk9CWldacThjNGR3?oc=5</link>
+      <guid isPermaLink="false">8bef72bff1c9498a</guid>
+      <pubDate>Mon, 03 Aug 2026 07:00:00 GMT</pubDate>
+      <source>Google News: McConkey, Lemon, Mims, Golden, Otton</source>
+      <description>Eagles practice observations: Jalen Hurts has a day; Makai Lemon limited; Lane Johnson’s absence &amp;nbsp;&amp;nbsp; Inquirer.com</description>
+    </item>
     <item>
       <title>Denver Broncos Bo Nix on being back: It was very smooth…like riding a bike - Mile High Sports [Bo Nix]</title>
       <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxNRGxWaE1NMUVVRzRNUVNUbnRNWE1zSl80bUQxaDEwSExwdTBqbGlMMk5CUzVKbUp6eFZkMk16V1Bwc3prRmxIcTU1d2ZXd3NYZGlnQWEtNFV0cDFrWm9GN0tPSHhhazkxT2ZBZUhKeUtySzNVRkFGRGxnS2dFRmdxemFCdXhXdGVSSjR1M1VqOFhxN0docHlHN2ZFVWdYbTJrb21J0gGoAUFVX3lxTE9OaEh0ZWt1MzRvczEycXcwNUhURDctTnlXOC1oa2F3eGpKYTNfVld2aHZ3SXV6eDVKY09nc1M5eEdLTGZUc2pQaERWbE5TSHhlTWtLSE9Hbk1mdjNnY2RfanNFTzNfQUtZM1ZIMW5iTGxFOHZyQnJwQWszcUc4blh6aVlSVkpqTm1HNUozWGdrMm40TjhRTnNEYTJDN3gxTkl3cDJDVHVxTA?oc=5</link>
@@ -9599,14 +9607,6 @@
       <pubDate>Thu, 23 Jul 2026 07:00:00 GMT</pubDate>
       <source>Google News: Pacheco, Brooks, Johnson, Gordon, Henderson</source>
       <description>Fantasy Football Running Backs To Target In BestBall: Target TreVeyon Henderson &amp; Another Second-Year Back &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
-    </item>
-    <item>
-      <title>Emeka Egbuka: Fantasy Crisis Averted - Central Oregon Daily [Emeka Egbuka]</title>
-      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRGRZMWdVRC1qSUc0cmdISmktU0t6b0hOckhsd0V4TGxTSjBFc3laVzQ3WkZ2ZDBsQ0tFZFpjR2RTSmMtM3d2TXJUQ1RwUmhIbTdaaWowYndueWtGUHg1T0lxSU0tUEpaUWNIYWYwZGhQS2ExQ1QwOVJSY3k5U1poQzVIamF4Qm5lVklpb1k1dlM5ODZXQ1M5blJrUmdiX18xbWtyRVp2QXNqVHNxUDFVbWVSbnpvN09PekRvQ0ZER3hLQ2s?oc=5</link>
-      <guid isPermaLink="false">061b40586681d949</guid>
-      <pubDate>Mon, 17 Aug 2026 15:43:00 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>Emeka Egbuka: Fantasy Crisis Averted &amp;nbsp;&amp;nbsp; Central Oregon Daily</description>
     </item>
   </channel>
 </rss>
