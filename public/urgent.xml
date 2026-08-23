@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787521671328"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787522493581"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - urgent only</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Availability and role changes only. Point your email service at this one.</description>
-    <lastBuildDate>Sun, 23 Aug 2026 21:47:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 22:01:33 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/urgent.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -983,14 +983,6 @@
       <pubDate>Tue, 18 Aug 2026 11:03:00 GMT</pubDate>
       <source>Google News: Cincinnati Bengals</source>
       <description>Bengals Should Boost Key Position Depth With Recently Released Talent &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
-    </item>
-    <item>
-      <title>Kristian Wilkerson released by Falcons - FantasyPros [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxOeDJETmJrbGZtR2lPMTAtNWlCcHlTaTVIRXZTY1NYdFRlM0RGMW1wb2RHd1VldEJ2UU1kVVFhT05aZElSanhXWVFXa2RnN2JpVXRqTGoyVzFaMlFYem9yT1htR3J5SWJIYnZkMEhReE15MXltZEF4U3dCMDdmbHJMWUZES1JoTU54OV9vd25TWdIBlAFBVV95cUxPRjFURzNNSkJyZUk5LTdqd2hBdnd4N0xtMnRYbGtITkZjX0FjYmpxa0ZFR0FXclpjYTNjWEEyUDZ3ajVoU01zOHdvNlZoX3d3emJuWUpSbFEtT1NKZWIwdXp6NGpQdk9lZXBJa25BcS10a3R2OUQ4b2dxUHZqX2djWUM2T3ZoTjgzZWdOeVRBdkxPUkZE?oc=5</link>
-      <guid isPermaLink="false">162fb3f3fadbef68</guid>
-      <pubDate>Tue, 18 Aug 2026 07:57:17 GMT</pubDate>
-      <source>Google News: Atlanta Falcons</source>
-      <description>Kristian Wilkerson released by Falcons &amp;nbsp;&amp;nbsp; FantasyPros</description>
     </item>
   </channel>
 </rss>
