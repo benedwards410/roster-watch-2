@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787518741052"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787520360449"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Sun, 23 Aug 2026 20:59:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 21:26:00 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chargers place center Tyler Biadasz on season-ending injured reserve - Orange County Register [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQSXFIMVFlaHJGaWRQZ28tUWhRUVZLRTRpRnBnYjV6M25wMUd0UU1iRGRjYWEwM2hpcmthOXpQTnJMQmNnZFkwQk1SaGc0ZlJpaWhDaDlBQ2p6WC15RjBZRkhnTUdNWkJMTU5hYWt6R3g5Mjk4ZTJqRGxnVDdKU0tCVktrVVQ5UjBEN0xKS3dnTF9ZQjFyeVhUSw?oc=5</link>
+      <guid isPermaLink="false">2efed9def4e31024</guid>
+      <pubDate>Sun, 23 Aug 2026 17:23:59 GMT</pubDate>
+      <source>Google News: Los Angeles Chargers</source>
+      <description>Chargers place center Tyler Biadasz on season-ending injured reserve &amp;nbsp;&amp;nbsp; Orange County Register</description>
+    </item>
     <item>
       <title>Dolphins HC Jeff Hafley makes his expectations for Ollie Gordon II crystal clear - Phin Phanatic [Ollie Gordon]</title>
       <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNUZwXy1obnhLZC1Qeko3ZExDMzRrTjVqdWluMGo1anBmN1V4cEhtaW9yY2NfcGhqRGpIWnFlRHV6SkJzYjFSODljcG53ZlJSRkNPNzZpSmp2LVplU29oVVhaSUNVSGxLbGVTbE0wRXlZY1JadmNrR1YxMlByaVhMdHJFTlBORU8yX0V2aE1CS2wxQ0tKRHlHTUJrVVh3c1lwWWwzQVUzcVlGS0hPaFpsaWw4ei1NbHFSeWdSaG5iMjZIQQ?oc=5</link>
@@ -9599,14 +9607,6 @@
       <pubDate>Tue, 18 Aug 2026 03:45:01 GMT</pubDate>
       <source>Google News: Washington Commanders</source>
       <description>Commanders | Jake Moody released on Monday &amp;nbsp;&amp;nbsp; Fantasy Guru</description>
-    </item>
-    <item>
-      <title>Broncos get Jaylen Waddle back; can he and Bo Nix make up for lost time? – Denver Sports - Denver Sports 104.3 The Fan [Bo Nix]</title>
-      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE1hY2JsbnhxUE1vVGZZMnFQWUV0NEloeVZtNkRBZDZBc0V4SGl2WVJCdWxLYTZla200bEZYS0tENWZEUEl0ZmhCSWRQTDZxaW1qM2JRZ2dIRmhuVm8zYUViZ28xVkJnSzgxMzFSeXZ5cw?oc=5</link>
-      <guid isPermaLink="false">78f81a9135c1629c</guid>
-      <pubDate>Tue, 18 Aug 2026 03:14:48 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
-      <description>Broncos get Jaylen Waddle back; can he and Bo Nix make up for lost time? – Denver Sports &amp;nbsp;&amp;nbsp; Denver Sports 104.3 The Fan</description>
     </item>
   </channel>
 </rss>
