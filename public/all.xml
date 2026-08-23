@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787453135524"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787456244885"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Sun, 23 Aug 2026 02:45:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 03:37:24 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Makai Lemon - ESPN [Makai Lemon]</title>
+      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Mam9md3lWNnQ0U3hleUk4ejdleUZRcVRWWDM0UDNLek55U05ydGlOUDNPQkxiQVlRdkdvMGtrSE01M1NabjJrTXR0SFlHQVN1QmJnX0pLSEdTSXhMeG0yZEZ2Zmo1S1U?oc=5</link>
+      <guid isPermaLink="false">d13e03d75a2453b3</guid>
+      <pubDate>Fri, 24 Apr 2026 02:01:31 GMT</pubDate>
+      <source>Google News: McConkey, Lemon, Mims, Golden, Otton</source>
+      <description>Makai Lemon &amp;nbsp;&amp;nbsp; ESPN</description>
+    </item>
     <item>
       <title>Falcons QB Michael Penix Jr. fully cleared, will compete with Tua Tagovailoa - Reuters [Michael Penix]</title>
       <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxONkVoV2xSN2dLbFN6MWtDblNoZlZIb1JZU1g1alN1eVJRMWJDcHhWUURnVDRVei1Zd0J2NFJFbUJiM05CQXk4WmRUY25RMWZUNE53MU5sbHo1aDdRUndtMi1VWTJkSVNYZmJTU3dvaGpKVjZDN05MQ0h3SngwMnpYbExWQU1uVmx3ampmcFlxdmpjZHpkUEhMZkNIeTBadDJtOTBFRjhMNDFjVjBreHI2cUV2bUVBM3JJQkRUQUVVQQ?oc=5</link>
@@ -9599,14 +9607,6 @@
       <pubDate>Mon, 17 Aug 2026 15:42:06 GMT</pubDate>
       <source>Google News: Tennessee Titans</source>
       <description>Tennessee Titans DB suspended for PEDs he claims were for fertility &amp;nbsp;&amp;nbsp; WKRN News 2</description>
-    </item>
-    <item>
-      <title>Why Field Yates ranks Rhamondre Stevenson ahead of TreVeyon Henderson in fantasy - ESPN [TreVeyon Henderson]</title>
-      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxNUVBYSHREWE5vQzVCR2E1aWk4ZnkydkdpaEF3aG5RcmVQb2pUV25tMWxqQ3JpdThHWUk0ejR2V3k3UGM0bk14MjIxNU00cVdtUzZvUzJTMS1JektqTFJQMXp0RWoxUDZidGpiNUxya3plSmpqRDBReGdIV2J5MjBJbWg2Q2t6dUY2Nzdlei0yUzZZQXZfTWl6aGZ4QVZGWVAwNjhNbWZBNlRiZ29hRk5uVVBVbURIaGdPOUxXT29HVQ?oc=5</link>
-      <guid isPermaLink="false">40e87064ffe6ba9e</guid>
-      <pubDate>Mon, 17 Aug 2026 14:48:34 GMT</pubDate>
-      <source>Google News: Pacheco, Brooks, Johnson, Gordon, Henderson</source>
-      <description>Why Field Yates ranks Rhamondre Stevenson ahead of TreVeyon Henderson in fantasy &amp;nbsp;&amp;nbsp; ESPN</description>
     </item>
   </channel>
 </rss>
