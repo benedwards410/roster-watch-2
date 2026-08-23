@@ -1,13 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787522493578"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787524513369"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Sun, 23 Aug 2026 22:01:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 22:35:13 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Packers Film Room, Preseason Week 2: Jordan Love [Jordan Love]</title>
+      <link>https://sports.yahoo.com/articles/packers-film-room-preseason-week-220728699.html</link>
+      <guid isPermaLink="false">dcef94f0ae80a7b8</guid>
+      <pubDate>Sun, 23 Aug 2026 22:07:28 GMT</pubDate>
+      <source>Yahoo Sports NFL</source>
+      <description>Looking at Jordan Love’s dropbacks from the second preseason game</description>
+    </item>
+    <item>
+      <title>Raiders news: Ashton Jeanty injured [Ashton Jeanty]</title>
+      <link>https://sports.yahoo.com/articles/raiders-news-ashton-jeanty-injured-220226064.html</link>
+      <guid isPermaLink="false">b6bf979a86181b54</guid>
+      <pubDate>Sun, 23 Aug 2026 22:02:26 GMT</pubDate>
+      <source>Yahoo Sports NFL</source>
+      <description>2nd year running back suffered right leg injury</description>
+    </item>
+    <item>
+      <title>Raiders news: Ashton Jeanty injured - Silver And Black Pride [Ashton Jeanty]</title>
+      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxOcEdqMW9MT0ROQzZxM0JSMEphbVBkSm1feUFTQ0c3X0NldUxzMk5YVDczTjNLU3hzazFOTUdDdTNVaEljS3ctdE94UWVVbG5KMHVLYk5uZDJRWm9XSUZWZTRSM0syWUxpME1oYWNBQV9zR0RyazI0cEdJbm5jQTh3aG4yWW14aUFDTlZKcVo1cm13UThrY2NtQWVTNGlhVV9zVXZUSGo4VQ?oc=5</link>
+      <guid isPermaLink="false">e0ba0122e4774509</guid>
+      <pubDate>Sun, 23 Aug 2026 22:02:26 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
+      <description>Raiders news: Ashton Jeanty injured &amp;nbsp;&amp;nbsp; Silver And Black Pride</description>
+    </item>
+    <item>
+      <title>Raiders&apos; Ashton Jeanty exits practice with apparent knee injury - ESPN [Ashton Jeanty]</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxOLTQ5VWtZYkNQcTRscmZRaWNqMTg5OGxHT3pFN29tdEZFb2FnTTFWNmhzV05rTlVjRHFzZlVabUhNeEtVSTdCSXlNWmpON3NYX0JlbkJDZ0d3WWhEZjBPbzJJV1hVclNtYkF1UnUyM01BSmpzWDlLckFtTkVXOHAwX1I2dkFDbS14M1lQSWl6QVJHdGxuNnc2MUpnZ0tYbmRpd3dvMw?oc=5</link>
+      <guid isPermaLink="false">07661d5f42559fc1</guid>
+      <pubDate>Sun, 23 Aug 2026 22:00:00 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
+      <description>Raiders&apos; Ashton Jeanty exits practice with apparent knee injury &amp;nbsp;&amp;nbsp; ESPN</description>
+    </item>
+    <item>
+      <title>Las Vegas Raiders&apos; Ashton Jeanty suffers apparent injury during practice - Newsday [Ashton Jeanty]</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPal91LUFtblVXVzcyR25FcHcyRGFQVFJLaXR2Y3lIM3lEOVQ5MlpUTzJ1MlpncVdrdmQxc2xpWTllenI0OWtHU0tWSjFvTG5CdEFqaXRsNlI2NVlwTjF1V2hDWmtYbFc3STFJNVc5NWsxV3VwdXg0TEV3X1laZFhINGE5bmpwUFNyS3lFV0Jn?oc=5</link>
+      <guid isPermaLink="false">b65d30acba422fb2</guid>
+      <pubDate>Sun, 23 Aug 2026 22:31:48 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
+      <description>Las Vegas Raiders&apos; Ashton Jeanty suffers apparent injury during practice &amp;nbsp;&amp;nbsp; Newsday</description>
+    </item>
+    <item>
+      <title>Raiders running back Ashton Jeanty suffers apparent knee injury in practice - ktnv.com [Ashton Jeanty]</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQczE0Zm1MVngzdGNBR2s0aUJJR19PVnRldHJRcUVZRGl1VjhyZlJOeFJ0a3dfRGVmTUFSYkhjS0tQdFBfS3RnYkREaEFjcHJ5RGN2NXFPbWVlUFRodzFmaG5peHlKTWpwMHdqZS11N002MzRyLVBJUVR1NVF3aXAtUzExQ012SXNiRGJjR3k1cS1aTnpjc1BKb0tZcVFwYWE1T2dpemRxaTVMQlVwZzFmZw?oc=5</link>
+      <guid isPermaLink="false">c22ec185e1bbef15</guid>
+      <pubDate>Sun, 23 Aug 2026 22:21:08 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
+      <description>Raiders running back Ashton Jeanty suffers apparent knee injury in practice &amp;nbsp;&amp;nbsp; ktnv.com</description>
+    </item>
+    <item>
+      <title>Raiders training camp takes dark turn with Ashton Jeanty injury - The Sporting Tribune [Ashton Jeanty]</title>
+      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQVVVaUWxOd2pGODNTRTQ2OGhuYy1Mb2tfRmNfM2wzUkx1d19semc5Vm1iV05hX0VoMkJuNm10WW5yU01RdGp6Q29HTU8ya1V3REhPRkVNTFFZLThHTkFIRVhoX3RpZFJvcDZFQjNxbTE3OXRRZDVMNjFPRHBCMGJUSnVPOGZEREdXWlQyVmhleUtOZXlIZmloQmxqZlp5S2oxMlllYXZVUnJMQ2ZtMlE?oc=5</link>
+      <guid isPermaLink="false">0f1dcebe5c77217d</guid>
+      <pubDate>Sun, 23 Aug 2026 21:58:51 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
+      <description>Raiders training camp takes dark turn with Ashton Jeanty injury &amp;nbsp;&amp;nbsp; The Sporting Tribune</description>
+    </item>
+    <item>
+      <title>Raiders RB Ashton Jeanty helped off practice field with leg injury - Raiders Wire [Ashton Jeanty]</title>
+      <link>https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQTdlS2V6ZlJ5WlhyUTFMcDBrSTVSdWowSzhaRVY5RW1GMHRZZEpMQWhUTzF0SUliRDZqeTBhb0ZVdHc1X3NPMkNzMVQ5QTFBVDcwSWJGVVZFVXVDRnQxdTZCTDBqWkFfMVJmdE84N1BYLU1MTTVvV003MkNiQnNJVF9IMndoZGhuc0o3Skl0MFl0VEo3dTcwXzlHdjk5MnpFWnJqVDdEaFFrZ2tKbkFXbWY0Z0ltclhMZnRxVWNaSFB6VWhrakFkcVU1azRTQWJHMzFRS2lTNDE3NHF0QmZ1YWdn?oc=5</link>
+      <guid isPermaLink="false">e0a253700d867d4f</guid>
+      <pubDate>Sun, 23 Aug 2026 22:22:00 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
+      <description>Raiders RB Ashton Jeanty helped off practice field with leg injury &amp;nbsp;&amp;nbsp; Raiders Wire</description>
+    </item>
+    <item>
+      <title>Ashton Jeanty exits Las Vegas Raiders practice with apparent injury. Here’s what we know - A to Z Sports [Ashton Jeanty]</title>
+      <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ2lfTFg1TmxPWUN4N2hTSDdCTkYyOC0tMy13NlVRS1JZZEttWkplMVNGM25iM0FweEthdXlFN195ZWJuMGNJUnhDb2hzLWxXRVhBeldYclVFZFY4dzJWeW16eVkzMXFoQ2pNbURXVzlPS01vNzJmcmtOeVZHVGVoVjNKQmpGWktjdVc4cG15WWZUdDJfVzlYRGdsaUx0S1puaFlGeEhZZlIzZGZoUDRhcHFudnh4SFZpNGp6TUpjV0Jhc0d2Ui1mcWZoM1M?oc=5</link>
+      <guid isPermaLink="false">9bee3e7b543fac9d</guid>
+      <pubDate>Sun, 23 Aug 2026 22:23:00 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
+      <description>Ashton Jeanty exits Las Vegas Raiders practice with apparent injury. Here’s what we know &amp;nbsp;&amp;nbsp; A to Z Sports</description>
+    </item>
+    <item>
+      <title>Ashton Jeanty leaves practice with apparent knee injury - 4for4 [Ashton Jeanty]</title>
+      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxPQU5kQ2xiUVJwSXhObjYxZjhfQU5ELVYxXzJpNklWTDNiaVM0dHhEN1c3ODBKNDZzUE5kTHM2MDl2VzRTZmRXYmt5c0R4RFd5aGpBWG1rTmV0UFl3OFBvUEFDODFDSHFHd2xiVXpnc2JkV1pKbkVXeFpfcC1DN281dlc2cw?oc=5</link>
+      <guid isPermaLink="false">a4892e7f5f81f116</guid>
+      <pubDate>Sun, 23 Aug 2026 22:01:37 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
+      <description>Ashton Jeanty leaves practice with apparent knee injury &amp;nbsp;&amp;nbsp; 4for4</description>
+    </item>
+    <item>
+      <title>Raiders RB Ashton Jeanty needs help leaving practice with injury - Yardbarker [Ashton Jeanty]</title>
+      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxPUUlxcWNlcDBsZ0RYV0lXWHBsVm1MSUlBSVBpdjZlX1g4SjhPWFVzN0MzYWxncXlTMmF4aWZtaG1ZRU9fSHU3OF9sSGxkUm9IRE1naldmTnJweHo0YmR3MlNKd3hSaHV1bXVGWjQtb2hfdWdiQjgwSDhwaktMel9aSktGLVNHTTJJN3hOMDY1TWhJaHo5d3FEd2FfT0wyc3JLb3ZnYU5Ic3gtRkh6NGpqQWthQ0k0MWUtVVhqUjRpRQ?oc=5</link>
+      <guid isPermaLink="false">daa873c058de4bf2</guid>
+      <pubDate>Sun, 23 Aug 2026 22:07:59 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
+      <description>Raiders RB Ashton Jeanty needs help leaving practice with injury &amp;nbsp;&amp;nbsp; Yardbarker</description>
+    </item>
+    <item>
+      <title>Ashton Jeanty&apos;s Raiders teammate is the perfect fantasy pickup after his practice injury - USA Today [Ashton Jeanty]</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNEhWYkk1c0FsVjlKREhWZlRTa0xlbkdOYWxPbFRjbnlqVWZ0TkdhVzVhRVlOT3VzVE1ZdnlUTmVvQmNnQVZEODIzb2JhWmFPY2FzOGFPNExibnNRM09HaHA4VThnXzMzMlMtZ1g3LVlxTWFoQXFEdmtURklaUWpNUVZmZjlNTDVUdXM2bDFGd0RmNGJEWjlVVkg4RjB3bFhOWmJGenNFLXpadzFtQXFZX05wWmF2NWc1Tkk1MnV2eGtYdzg?oc=5</link>
+      <guid isPermaLink="false">d1ed5b6fc2350ab9</guid>
+      <pubDate>Sun, 23 Aug 2026 22:25:00 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
+      <description>Ashton Jeanty&apos;s Raiders teammate is the perfect fantasy pickup after his practice injury &amp;nbsp;&amp;nbsp; USA Today</description>
+    </item>
+    <item>
+      <title>Ashton Jeanty’s Injury Scare Has Raiders Fans Holding Their Breath - Men&apos;s Fitness [Ashton Jeanty]</title>
+      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNN3p6QTBTblB5ZWUtTlNsMW4wN19PRnVjMTR5aHh0YTFhTVVmRDJoZzJkYlBBRVhYM0V5NDVkalpvZ3hrYlFySHlKeVhpYU5iR2diUm84ZUJxQ3VpejNWZ3VRS3dpb3RtS2xmZVlLMEhNb2FLd1hRdkRtbFMyWnpLMWdsaGhQNzBhd3NJcC1aWGRlNlNieE81U1RpcE0xVlE?oc=5</link>
+      <guid isPermaLink="false">b239dd286bce5751</guid>
+      <pubDate>Sun, 23 Aug 2026 22:08:23 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
+      <description>Ashton Jeanty’s Injury Scare Has Raiders Fans Holding Their Breath &amp;nbsp;&amp;nbsp; Men&apos;s Fitness</description>
+    </item>
+    <item>
+      <title>Former Boise State Star Ashton Jeanty Suffers Knee Injury with Las Vegas Raiders - heavy.com [Ashton Jeanty]</title>
+      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxPczJSUDNmWE03U1dMUXRkN3dKSmVINk1HM2dLTG4walZIbk5KQlEzSF8zaDVReTRlS3JiU3EtOXJ2cUtWWVV5b2RIVFEwZnNsYUtMOUsyLUZKVENZXzFYVGpSNXBpaVJZSUFMVHBXOF9aaUhaQXoyZ25HTkZUY2lhcE43WEU?oc=5</link>
+      <guid isPermaLink="false">c72b93076a89bb6a</guid>
+      <pubDate>Sun, 23 Aug 2026 22:19:02 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
+      <description>Former Boise State Star Ashton Jeanty Suffers Knee Injury with Las Vegas Raiders &amp;nbsp;&amp;nbsp; heavy.com</description>
+    </item>
+    <item>
+      <title>Play of the Day: Jonathon Brooks cuts through D for big play and validation - Carolina Panthers [Jonathon Brooks]</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNlNPdHBPR1g1ems1Z05KNW01ZjR1WHNQN0I5SkJiWm54MU1zNm5oNnhvRnNRblU4NkZKZjlYWk9HSlZuVFRwRUpTd1F3aGg3S3lpZHJVZnNVTDN0M2Z4OFpDNGZaNzl5RGZIaV9OLV8zZENyMzFLb0c4TTUxQjYxblItU3pGbHdya3BxNWNVTDBKc2g4NDZ4RGxxQlF4QWw5WVV0VkRvbVRxOGhUWmVCUEJKaTFMOUpB?oc=5</link>
+      <guid isPermaLink="false">6f3d2719a83cc194</guid>
+      <pubDate>Tue, 28 Jul 2026 07:00:00 GMT</pubDate>
+      <source>Google News: Pacheco, Brooks, Johnson, Gordon, Henderson</source>
+      <description>Play of the Day: Jonathon Brooks cuts through D for big play and validation &amp;nbsp;&amp;nbsp; Carolina Panthers</description>
+    </item>
+    <item>
+      <title>Why Panthers RB Jonathon Brooks is a Can&apos;t-Miss Fantasy Football Option - Sports Illustrated [Jonathon Brooks]</title>
+      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxQQU05VXY3SEpyRFlrSzdMWFNELVhqakRxWFBTdVVUb2EwbFI4RmlnSnhENHdVd3BjT3NtNEZ5MlNqbTktWnpveXN6WmhiY1NJYWZteG9oeERLeTVJN2tTbUlweW1RZEM1LUhmcDdiMWJuNWhrRnNmZEo5VkIwN2J1Y3IzRUpoWnhGOE5QOXJaNGxHSE1wYUlZRnFIamcyWFE?oc=5</link>
+      <guid isPermaLink="false">db33f8b4becbc41b</guid>
+      <pubDate>Fri, 10 Jul 2026 07:00:00 GMT</pubDate>
+      <source>Google News: Pacheco, Brooks, Johnson, Gordon, Henderson</source>
+      <description>Why Panthers RB Jonathon Brooks is a Can&apos;t-Miss Fantasy Football Option &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
+    </item>
+    <item>
+      <title>Panthers’ Jonathon Brooks is back and feels ‘fully healed’ after two ACL surgeries - The New York Times [Jonathon Brooks]</title>
+      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxObnp1SkZLaENCU3ZLZHJfc2VOTWhsOU9XZ21FSFNOcUNuc3d6MVpLVWFCay1hUTZCNDJZR1dJTWJUZF9ZbUZlQWxZWVRyTmNkUnRKVnlNUzJTLXFGTEo4MVVnRUxPLWhEU3lDSGxLNDkxQ1BLZDlDeHd2V0YzZDBsOXNrQ3hvNElKMzcxV3dwcUE3b19nYVB0RG5lcXQ2TUtSOGtkQXhOOS1nXzVDWWo5Yk1PTVNiemJjX1E?oc=5</link>
+      <guid isPermaLink="false">18abaa057d5443b6</guid>
+      <pubDate>Tue, 28 Jul 2026 07:00:00 GMT</pubDate>
+      <source>Google News: Pacheco, Brooks, Johnson, Gordon, Henderson</source>
+      <description>Panthers’ Jonathon Brooks is back and feels ‘fully healed’ after two ACL surgeries &amp;nbsp;&amp;nbsp; The New York Times</description>
+    </item>
+    <item>
+      <title>Three takeaways from coordinators, including Jonathon Brooks&apos; early work, and more - Carolina Panthers [Jonathon Brooks]</title>
+      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxOR3BkX0dfeTkySXpJQTZneE1valZUUUs2LWNDWHJrNlI5UXpQZVFjTTdCdk5BTV9rQlpUZ0ZfRXFtd2lFUXdJdUlIamFtMjBkRzNMdHBVWGZMZzdCTER0NnZiY292dmpVS0U3bWtUeGVSREFERmRjcVI4QzBRbWNNUW1jUlIwanNaRDl2ckNFQVRDYnctTDRJN3VzTURMNUIySEpWaGczYjhieUl2eFE?oc=5</link>
+      <guid isPermaLink="false">ae9d4ac9d47eb624</guid>
+      <pubDate>Wed, 27 May 2026 07:00:00 GMT</pubDate>
+      <source>Google News: Pacheco, Brooks, Johnson, Gordon, Henderson</source>
+      <description>Three takeaways from coordinators, including Jonathon Brooks&apos; early work, and more &amp;nbsp;&amp;nbsp; Carolina Panthers</description>
+    </item>
+    <item>
+      <title>Julian Edelman highlights one reason why A.J. Brown will have a dominant year with Patriots - Boston.com [A.J. Brown]</title>
+      <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxOelFwbzBYdGdsTXEzWUlnRmZaOGFPV1NsSDk1SkR2c2R2MkQwUnV1TDREVVVmVEdFeXpZdzE5Z3dmaDdtdE9DOC1sYmR3NmtnenVxNkZmZmtDMHFWMk1aMEp1QWpBenBJNjdwU05udmJNZ0NOdFNNU1ZpQVRWSHQ0c2pobEtqM3dGUnpqUjY3UHlVNVZhTjZ6MEQ1aU94SGkwUVIza203VlVnVGREUThiUjNLZWxLclNYWDM5YlluRlhCNlRhalJPeTlEZWRvRkdnbWc?oc=5</link>
+      <guid isPermaLink="false">7455e0c9b2ea9572</guid>
+      <pubDate>Sun, 23 Aug 2026 22:19:00 GMT</pubDate>
+      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
+      <description>Julian Edelman highlights one reason why A.J. Brown will have a dominant year with Patriots &amp;nbsp;&amp;nbsp; Boston.com</description>
+    </item>
+    <item>
+      <title>Packers defeat Broncos, 33-13, in second preseason game - Green Bay Packers [Jordan Love]</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5QME9jN3RTMzlxS3hnM28wdk55dzgwXy1yZk1pRjlnN1RwYzNCZExFM2RFZ2NQZ2drQVZTXzFFSy1heHBaS0pRV0p4aUxMV0tMMWVmSTNZR3FWLWNkN3V1SHByQTg1UThRVVo0bVBQb3UwaG1FNGV1S2tJX0J4UDg?oc=5</link>
+      <guid isPermaLink="false">40848079025fe3de</guid>
+      <pubDate>Sat, 22 Aug 2026 05:24:46 GMT</pubDate>
+      <source>Google News: Green Bay Packers</source>
+      <description>Packers defeat Broncos, 33-13, in second preseason game &amp;nbsp;&amp;nbsp; Green Bay Packers The 6 biggest winners of the Denver Broncos’ second preseason game against the Green Bay Packers &amp;nbsp;&amp;nbsp; DNVR Sports Packers Film Room, Preseason Week 2: Jordan Love &amp;nbsp;&amp;nbsp; Acme Packing Company</description>
+    </item>
+    <item>
+      <title>Aug 23, 2025; Glendale, Arizona, USA; Las Vegas Raiders running back Ashton Jeanty (2) against the Arizona Cardinals during a preseason NFL game at State Farm Stadium. Mandatory Credit: Mark J. Rebilas-Imagn Images - The Lufkin Daily News [Ashton Jeanty]</title>
+      <link>https://news.google.com/rss/articles/CBMikwJBVV95cUxQeVB4V2R0bkhVNVJtR2RfbnU1clhMd3FIM2FnVm1rcUNhZUVpNU5MZXZZemJVcTRjZWF3TXdUVmVvVjQ3YjUwa2VFeVhOTU5HOWw2YXNhRU9tZ1YyNGRYbGwzREVQNExUYUd2WXZERTAtRFh1SHB4MUwyRnAwYnRDR0RSVmNQdHJ4NWFYQktWcng5NnRMaGFjMnF6bFpOWjU3ZWNYSmpPZEx5bnhxQ2dWeEpteTdYcEdzcjQxUmdDNi1obXV3LVhCODcyR0FsYk1QVTZfRGktZnhQenlrVGlWenBuQnlMZUVHYjNPRkFfdkFIX3E5amRjLXZlbTgyaXBvWVBBRUtqamx2dkdvdF83S3JWbw?oc=5</link>
+      <guid isPermaLink="false">f426bb72a4631074</guid>
+      <pubDate>Sun, 23 Aug 2026 21:57:32 GMT</pubDate>
+      <source>Google News: Las Vegas Raiders</source>
+      <description>Aug 23, 2025; Glendale, Arizona, USA; Las Vegas Raiders running back Ashton Jeanty (2) against the Arizona Cardinals during a preseason NFL game at State Farm Stadium. Mandatory Credit: Mark J. Rebilas-Imagn Images &amp;nbsp;&amp;nbsp; The Lufkin Daily News</description>
+    </item>
+    <item>
+      <title>What Happened to Ashton Jeanty? Latest Update on Raiders Star’s Scary Injury and A Look at Las Vegas’ RB Depth Chart - Yahoo Sports [Ashton Jeanty]</title>
+      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxOY2xZVVluTVpDTldkMnEwbEFVMVdTYjlkS0ZnaE0tMTBqVlN3T0Z1MExCT2kxb3hDZTJCWk10Wjlfc2hZN25rTEhKejc4NGdzUzdMR0E3YktuV05uT2J0REhGMGE1czVHUGIydHJWQjVvQzNYeVlzOUZ0dlUtLVMxa0d6cFJyT3ZrVlhzbTk0Yw?oc=5</link>
+      <guid isPermaLink="false">e36cdfadcfb17455</guid>
+      <pubDate>Sun, 23 Aug 2026 22:05:28 GMT</pubDate>
+      <source>Google News: Las Vegas Raiders</source>
+      <description>What Happened to Ashton Jeanty? Latest Update on Raiders Star’s Scary Injury and A Look at Las Vegas’ RB Depth Chart &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
     <item>
       <title>Raiders&amp;#039; Ashton Jeanty injured, helped off practice field after landing awkwardly [Ashton Jeanty]</title>
       <link>https://www.cbssports.com/nfl/news/raiders-ashton-jeanty-injured-helped-off-practice-field/</link>
@@ -9431,182 +9607,6 @@
       <pubDate>Tue, 18 Aug 2026 14:43:00 GMT</pubDate>
       <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
       <description>A.J. Brown burns entire defense for 70-yard touchdown in viral video &amp;nbsp;&amp;nbsp; patriotswire.usatoday.com</description>
-    </item>
-    <item>
-      <title>Tyjae Spears’ Busy Training Camp Continues - NFL News | Fantasy Football - RotoBaller [Tyjae Spears]</title>
-      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ3plV1hnc0RDRmkzNlQ2NTNGUFA4bXpBdEsxSlZSWl9NOXB0MFRTVFlaSVFwYmhDampCOE1XQnJlV3pWaDNBN1N5QVFkbExNVkpQQmprbXp4ckhJRmNJV0I1S1hia0NWVlJvQ1QtemJUMGczclJ6QlNXYjk4REpfR2RVZnF4N1VPN0V1S1BhcDcyUQ?oc=5</link>
-      <guid isPermaLink="false">3e1ce5768aba67e1</guid>
-      <pubDate>Tue, 18 Aug 2026 14:49:08 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>Tyjae Spears’ Busy Training Camp Continues - NFL News | Fantasy Football &amp;nbsp;&amp;nbsp; RotoBaller</description>
-    </item>
-    <item>
-      <title>Where Kyle Pitts ranks among tight ends in Falcons history - Atlanta Falcons [Kyle Pitts]</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ1I1NDBHanFFVElpRnBySWNNYS1fWFFJNUpLZURCVmthdzB5UjQ0NEtLTjRTOHFKaXhwamFJYXFla3hLOFVYdll4NWpQeXhVQWwzT3lxYTJrVEhqMnJiVHhKenBVNU03N1JVYTF5U2pxSm9XRzF0N1RjLWo0bTZJNmxIeUVYdVp0UTk0?oc=5</link>
-      <guid isPermaLink="false">45d3c729754b0c07</guid>
-      <pubDate>Wed, 24 Jun 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Loveland, Sadiq, Pitts</source>
-      <description>Where Kyle Pitts ranks among tight ends in Falcons history &amp;nbsp;&amp;nbsp; Atlanta Falcons</description>
-    </item>
-    <item>
-      <title>The Browns thought they had their guy, then Za’Darius Smith signed with Atlanta instead - Cleveland.com [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxPaTgySlkwLTJfUFNKUERfV1AwTm1NY0pMc0JZWUNYRnc0aW9BTmU3am1PRWNPQ3JaOC04REtEeGh1NU83ejR5LUpBYzUzSGxUVU5XUFE4aHp5S2pKTUxHd284aENaU3dycHVScEVxNmFDTVowczVpZ0ZQdF91WVJzS3l0UmpfSzdfeUE5eGZ4WERrUHhMOUpvZ3dsVmx2SVFkMEpkdllKOFB4d0N2VDlwc21RcW1JeGZEQXVMU2tzTWkySkxFTWJTV1hzd9IB3wFBVV95cUxOam5rcUlFN1ZEdWxrRHNvVG9UTEdDeUZxSEhyNzN1ZGFIOTF0SEwyQ19qVk5ZSUxJQldKVHZOc2lURnN3Z0lUYlFERFpaWFhONHNOZ3I5eG9XTm9YVm9mYzJxVXV0b0tNdy1BQlVmZUl6NndxZmpzd3FLeGtseDhkZ0k2LXAzSzdUYkNZel9yYzgtUDZITG1EdC1tdnVZM2dncXpvU21USkNmOTNHbDZOM2cyWU1Mb18xenZtREVKV2pCZ05IZjMyTXgyX0U0bWVFYWNuRHhQVE4temJIbXNR?oc=5</link>
-      <guid isPermaLink="false">4a33e05a5fdb2587</guid>
-      <pubDate>Tue, 18 Aug 2026 14:38:00 GMT</pubDate>
-      <source>Google News: Atlanta Falcons</source>
-      <description>The Browns thought they had their guy, then Za’Darius Smith signed with Atlanta instead &amp;nbsp;&amp;nbsp; Cleveland.com</description>
-    </item>
-    <item>
-      <title>Ennis Rakestraw complicates position battle with impressive camp showing - Detroit Jock City [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxNU200YUdXZDNsWmVUSXp3OVRiMXIyTWcxRzVGOXBHaFJPSUZsRVB1WVU3RTZ1bGg2bXB4RjdaQ2JXR191MnBnWHNmLVNwaERJQ3hnYWVVR1VKUlRGMXdBLUItOTVMVFRLMEVvelFPb1JPWlVIdjhyOTBhNjJfN1NGQUkxX1MwaG1sMk14bFRRajJDTWwyREJrZ0hYeDM3NVgyclVaWWdkRkw0M08w?oc=5</link>
-      <guid isPermaLink="false">b3165bdf9d7d8280</guid>
-      <pubDate>Tue, 18 Aug 2026 14:30:00 GMT</pubDate>
-      <source>Google News: Detroit Lions</source>
-      <description>Ennis Rakestraw complicates position battle with impressive camp showing &amp;nbsp;&amp;nbsp; Detroit Jock City</description>
-    </item>
-    <item>
-      <title>How Mendoza&apos;s Future Performances Could Affect Raiders Timeline - Sports Illustrated [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxOalVpdVRHVWJUaHhzSmhSMFc1UnJKUW8yVXVNNUZCX0lLYVpaaGFNUkNoZTBUQzNsSTdmeloySVFKOGFjbFJNcWJVLUJSYjNIcEhrdzhSZE50VTZBN1hJWVFjMGtOckZlZGk0aDlobDFxd0dHUWxNenItSDdZWTd3TzhhblFaNXJXamF0RzBWX3AzY3M4dEhLVzlaMF9NZkJU?oc=5</link>
-      <guid isPermaLink="false">f044154db5509431</guid>
-      <pubDate>Tue, 18 Aug 2026 14:30:00 GMT</pubDate>
-      <source>Google News: Las Vegas Raiders</source>
-      <description>How Mendoza&apos;s Future Performances Could Affect Raiders Timeline &amp;nbsp;&amp;nbsp; Sports Illustrated Have you seen enough of Fernando Mendoza to give him more first-team reps? | &apos;GMFB&apos; &amp;nbsp;&amp;nbsp; NFL.com Kirk Cousins eager to help Fernando Mendoza become face of the Raiders — someday &amp;nbsp;&amp;nbsp; The New York Times</description>
-    </item>
-    <item>
-      <title>From Practice Squad to Key Contributor, Cory Durden Ready for Bigger Role on Patriots Defense - NESN [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWlYxd0h1UjBaeHdFS1ZFbWJIc2JtajYxcjJVb0lFTkphM1YtR0E5VUx2QTNjaUo5amVmczE4RHVudFJZUWlUT2pwbjBBWHFweTltNC1lRVdxR21hOHpac0R4VFZzY2tqRWRLSnZaVHV1TWtSZ1RJdmc2dDY5S3VsYVJFalNaNFhmdTVHbWlDZmpnY01jODNjVjF4TUdDU2JSVzVZaWY2anJjYkRZcUZFTlltMTQzZjYxbEFKYmhweFFseGtJVTItMWh5U3g5THlF?oc=5</link>
-      <guid isPermaLink="false">6c12335f4cd258d0</guid>
-      <pubDate>Tue, 18 Aug 2026 13:59:03 GMT</pubDate>
-      <source>Google News: New England Patriots</source>
-      <description>From Practice Squad to Key Contributor, Cory Durden Ready for Bigger Role on Patriots Defense &amp;nbsp;&amp;nbsp; NESN</description>
-    </item>
-    <item>
-      <title>Buccaneers Unsure if Emeka Egbuka Will be Ready for Week 1 - NFL News | Fantasy Football - RotoBaller [Emeka Egbuka]</title>
-      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM0NKbGlXREZHYUs4NF95ZUFKR1NVQmVyMFlLeHRVUVo1RTAteVJMWEszQU1kSWFTcGRRMlRyeTVnSzFkbWx6c2VPX1RfNTdVMzlwam1kVFJjeE5xbEdiNlFuYTM3S2NuZ0Q5bDVjWmhCNWpKOVpaSmVENmVpRVRNRVF0X0pMUXdRZTJ0a0JVX1V3MHZPQ3FJRjIyaExIZ3ZsUGhMTjltei0?oc=5</link>
-      <guid isPermaLink="false">6fdefb212b1df460</guid>
-      <pubDate>Mon, 17 Aug 2026 19:34:31 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>Buccaneers Unsure if Emeka Egbuka Will be Ready for Week 1 - NFL News | Fantasy Football &amp;nbsp;&amp;nbsp; RotoBaller</description>
-    </item>
-    <item>
-      <title>Fernando Mendoza, Raiders looking at true stress test against Texans - nypost.com [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxOZDI2WXoxam8xUmFQRzlwUUs3WklaaTlPRUo2Q0RSTW5ydHJVMllHT0dGcU5iVXdOdlRiT0cyeF9OWE5HMlA3ejZrOWRXYzBHckYxMnVQUlZJc1ZmbElzOEwwdlcyWFFZaWFsN3p5S2Exak1lcHFBRWpkNnNmYXFRcmtwMmZmMTZwVDJPYUQ2dmZiTkdPcTA5SzJQVzZLelNDQnB3eVNqRQ?oc=5</link>
-      <guid isPermaLink="false">228193931d5ed370</guid>
-      <pubDate>Mon, 17 Aug 2026 22:51:00 GMT</pubDate>
-      <source>Google News: Las Vegas Raiders</source>
-      <description>Fernando Mendoza, Raiders looking at true stress test against Texans &amp;nbsp;&amp;nbsp; nypost.com Have you seen enough of Fernando Mendoza to give him more first-team reps? | &apos;GMFB&apos; &amp;nbsp;&amp;nbsp; NFL.com Fernando Mendoza’s instant progress in Raiders debut highlights film review of rookies &amp;nbsp;&amp;nbsp; The New York Times</description>
-    </item>
-    <item>
-      <title>Dolphins reportedly bringing back LB that they recently released - Dolphins Wire [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRkZNanM4d0dqaDBGcXBVcHlpOEFMa0dUN0phRGZWTjRSd0JMeWJodGtITFFTWmxBTFhnX2FwWGo5N2lqdDEtRXdZa3JuQXY5anUyMGFadTdTMkxCNk1UNU5lTXVLZEwybzI5aWJIVGVvUkFfeTlwa3RSZTliN3dWM3A3Tm4zdjcxdjk1dFVWbk9vSlBtUWNkLTRWbDlPUFV6RkREX0dtdG1JNTIyalZtNGc5TXpVS3FPSnVzN096QjhaOXNIVDZqY29Pb2VRZXdFMW1qTkJMX2dQOWNMUTFhSEc5VFFkdw?oc=5</link>
-      <guid isPermaLink="false">9c2a2f6e47e83ffd</guid>
-      <pubDate>Tue, 18 Aug 2026 12:07:00 GMT</pubDate>
-      <source>Google News: Miami Dolphins</source>
-      <description>Dolphins reportedly bringing back LB that they recently released &amp;nbsp;&amp;nbsp; Dolphins Wire</description>
-    </item>
-    <item>
-      <title>Cade Otton Sitting with undisclosed injury - Fantasy Footballers Podcast [Cade Otton]</title>
-      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxOdFlud1dtTkN5Wmd1TkFuYXZ0bVJtVUdFQ0VhdjI2U2lNYkVlTC02bXRUejlIYWdhSnBha2pxb2trLW9lWWc3aWt2a01TZXVEYk9YOU5oVkdvdmZmeXZGQkZlUVUtQTdXdHl3d29OZDc2RzdqSzZUMFVFTm5tcTdld1l6UmNaMV92RjlrSTBjczd2Um4teDdRUw?oc=5</link>
-      <guid isPermaLink="false">642ebb6372bbe21e</guid>
-      <pubDate>Tue, 18 Aug 2026 13:29:24 GMT</pubDate>
-      <source>Google News: McConkey, Lemon, Mims, Golden, Otton</source>
-      <description>Cade Otton Sitting with undisclosed injury &amp;nbsp;&amp;nbsp; Fantasy Footballers Podcast</description>
-    </item>
-    <item>
-      <title>Jets&apos; Kenyon Sadiq: Still working on side field - CBS Sports [Kenyon Sadiq]</title>
-      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxPUVh1c2xNREN1VlBQZWplQm1GWXUtN2xKRkNjYmlEVEtIaUx4eTlUYkVWMEZ4WjhGRzBfeTBtX3dXdkdvTzZKQXZyZnNiWjNscVZNWUl0czVFQS1aMG5LNmpGTUVTYnZJVmh3cVRseVRvSkRWSUFBTXMwRHQ1UDJmUDFjVm40ZlAxeUg0VV9INkJDQ0NUSllSZG53?oc=5</link>
-      <guid isPermaLink="false">34e82529bb8657eb</guid>
-      <pubDate>Tue, 18 Aug 2026 13:06:32 GMT</pubDate>
-      <source>Google News: Loveland, Sadiq, Pitts</source>
-      <description>Jets&apos; Kenyon Sadiq: Still working on side field &amp;nbsp;&amp;nbsp; CBS Sports</description>
-    </item>
-    <item>
-      <title>Packers Film Room, Preseason Week 1: Jordan Love [Jordan Love]</title>
-      <link>https://sports.yahoo.com/articles/packers-film-room-preseason-week-123000651.html</link>
-      <guid isPermaLink="false">396ad2f3a023634f</guid>
-      <pubDate>Tue, 18 Aug 2026 12:30:00 GMT</pubDate>
-      <source>Yahoo Sports NFL</source>
-      <description>Let’s look at Jordan Love’s brief action in the Packers’ preseason opener.</description>
-    </item>
-    <item>
-      <title>Bo Nix Leads 3 Quarterback Values at ADP in 2026 Fantasy Football - Sports Illustrated [Bo Nix]</title>
-      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxOQWpLMGN5NFBIcW9TVnJDV2IycFYyNHc4QXp5djdseU52RktnbUo4YTQycVk2VEc4N2lzdW02MHFKR0pyMDlTb2RpcFE3aHdiSlNhYk5wVGZWcDFTcGVTZXR0a1JPQlREZWRDZ3E2ZjQ2TVhSVkE5clFqU2NDX0tENnBWc3I2dVBxR0pjRFRTcHB3OVl0a25jWjNmUQ?oc=5</link>
-      <guid isPermaLink="false">60a84f9d2448697e</guid>
-      <pubDate>Tue, 18 Aug 2026 12:00:03 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
-      <description>Bo Nix Leads 3 Quarterback Values at ADP in 2026 Fantasy Football &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
-    </item>
-    <item>
-      <title>Why Broncos QB Bo Nix is glad Davis Webb calling plays from sideline - Broncos Wire [Bo Nix]</title>
-      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxQOFplR3Q4ZjRzblNYTGZabW4waWdMX1ZQRkpIWmNZcG9SSWY5d3J4bVZBSXBmR0J1RG5fa3BmbW11VFZSSkEzMUN2U0xBR2FhX1NsekNjMFJrQTMwQml2bENuUm0tNFJYQnFVaGt3ZDBMSWtJalJJQUVjcnMwNGtZem1KUDBYMnU1ZUgxd04yV0dRdkRrbTBFWW5qQjFPd0pMR3U3dXM5ZzZxUlNxcWVha1d4SkxoZlkyUDE1UUFR?oc=5</link>
-      <guid isPermaLink="false">c64ffcd285126946</guid>
-      <pubDate>Tue, 18 Aug 2026 12:01:00 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
-      <description>Why Broncos QB Bo Nix is glad Davis Webb calling plays from sideline &amp;nbsp;&amp;nbsp; Broncos Wire</description>
-    </item>
-    <item>
-      <title>TreVeyon Henderson, Rhamondre Stevenson workload expectations set up fantasy football nightmare - The Big Lead [TreVeyon Henderson]</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxNU0J0MklDbDFYOEJ6Tl9seG1YbHFiQ21sQ19uSGwyZ3ZhVUo1eWdOWXpwWmFKYllQT1BvczhST1VQSmlsc0J2UkZlVko5RGg1WjFxRjU3Q2dKOXN5M0tZSmthNTJxeDh2WDc5NGpzWGpsV1g1Yml2QlFZQ1gtRTZaX3hBakJsVGR3Y08tbTFWTTFGYTRVU3Fv?oc=5</link>
-      <guid isPermaLink="false">964da2c856fa8427</guid>
-      <pubDate>Tue, 18 Aug 2026 12:09:29 GMT</pubDate>
-      <source>Google News: Pacheco, Brooks, Johnson, Gordon, Henderson</source>
-      <description>TreVeyon Henderson, Rhamondre Stevenson workload expectations set up fantasy football nightmare &amp;nbsp;&amp;nbsp; The Big Lead</description>
-    </item>
-    <item>
-      <title>4 Things We Learned From Latest Unofficial Carolina Panthers Depth Chart - Sports Illustrated [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVVlkek82TzAwUGpQTDF6d25jR0FrMzdsdVRlOHFSdXQ4LTFmVldVMEkwcGxYRFMwbGhZMGd5X0ZleUZFa3pmUS1tNWF2aF84M2dIeE9CYWZVMlByTlhvS0tyUlhHODVaek1OTU52d2xpelRLYTIyajVzN1o3NFlHNGRmb3ZrVk9UZEtncXRiaV8wdlkzUzBhQmp1XzUxeC1sZWtlNlRSUkR3cWJla1lWdkFRUk9NOTJCb2g5Z0R2N2RUMTFCTXNRYw?oc=5</link>
-      <guid isPermaLink="false">15222c47bc10fb92</guid>
-      <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
-      <source>Google News: Carolina Panthers</source>
-      <description>4 Things We Learned From Latest Unofficial Carolina Panthers Depth Chart &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
-    </item>
-    <item>
-      <title>Todd Bowles Reveals Multiple Buccaneers Injury Updates - Sports Illustrated [Emeka Egbuka]</title>
-      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxPTDFpSFB6d1poWmNKMF9PTmVsSENLWVYyMENlX2xQd3l3OHVQdHZoUWp3dE5uNlVQVUFKWjJHWmdlQUdQVl9QUWl5Z1hFdlNyLTlrVUdnd29SaHF6dHNKTTN2QllFYVZoMDRtR1NSRHlPd3dSSlhIdFMzdVZITmVxdEh4WmNhQktjVmtEYjc4U3F1UFNoSHd4VUpfazBLUHM?oc=5</link>
-      <guid isPermaLink="false">55b733e77ea61b30</guid>
-      <pubDate>Tue, 18 Aug 2026 12:27:21 GMT</pubDate>
-      <source>Google News: Tampa Bay Buccaneers</source>
-      <description>Todd Bowles Reveals Multiple Buccaneers Injury Updates &amp;nbsp;&amp;nbsp; Sports Illustrated Buccaneers Coach Raises Concern With Emeka Egbuka Update &amp;nbsp;&amp;nbsp; heavy.com Todd Bowles just sent a crystal-clear message to Buccaneers’ safety room &amp;nbsp;&amp;nbsp; The Pewter Plank</description>
-    </item>
-    <item>
-      <title>Commanders Place Free Agent RB on Injured Reserve - heavy.com [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxObVZhSU9MVVVfT1VCUzFvVGRsckhLeXFydG8tYi1NOHBVZGgydDhvSmJITWdKbUthckJYYTZ4RjlaemFpcE12dmMwR3puWE1uZkdFUnFCdUtjLU4xWlNTclZ4dVJ4bjZEdlk3cDNOdHJYODVCZEVUS1lTOFR6MEtPN0N0cE9nLXdWM2hxNkhCMDU0aFJ1OGtn?oc=5</link>
-      <guid isPermaLink="false">a68e3c7e2fe0f6e2</guid>
-      <pubDate>Tue, 18 Aug 2026 12:44:17 GMT</pubDate>
-      <source>Google News: Washington Commanders</source>
-      <description>Commanders Place Free Agent RB on Injured Reserve &amp;nbsp;&amp;nbsp; heavy.com</description>
-    </item>
-    <item>
-      <title>Kayshon Boutte has set an example that Patriots coach will carry for the rest of his career - Boston.com [Kayshon Boutte]</title>
-      <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYkxsQTJucUp5LWd4dnY3VzlWeTBBb2RPMTlIbzdUVWtPTEk1YXB1VkpEMk5Ha18tcWRTSVdkTmZXUWhJeUlUWjJQeS1QeEdoVjhFUHVqUjFMYmNzM1F5SFJmM3dfU0R4bUhpZTBWZU1oeEFCS0t0R1paRnpGaFFScU82Ung5elZxQnhqQktWRm9RREdKWVMzVVFidUtjV2tsY3BwUEJqYmlwSm90aXNYWkxBdlR6S0JhTWZQMElwdHNiaGhsUFIwYnRlNWIzLUFSNjg4?oc=5</link>
-      <guid isPermaLink="false">a2e572c462b632ac</guid>
-      <pubDate>Tue, 18 Aug 2026 11:19:00 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>Kayshon Boutte has set an example that Patriots coach will carry for the rest of his career &amp;nbsp;&amp;nbsp; Boston.com</description>
-    </item>
-    <item>
-      <title>Former Chicago Bears Hero Released During Training Camp - Yahoo Sports [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY2llR0JQRW9ia01ZWjJobS1FTy1aeVUzRkpXZWZKSkg1WjhVSEx5YVJjWEFHbkRMSUY0cVVaNXBqVjVwZFJILXJES0Z4bGVGZ29ULXFCcTFZRUU4dWQ0OEhpa3VXWWxIa1JQYXlndk9FSzFKcHpJSGFzU05pYmNmdzRmQ3V2WnJq?oc=5</link>
-      <guid isPermaLink="false">10b8c00686563834</guid>
-      <pubDate>Tue, 18 Aug 2026 11:00:43 GMT</pubDate>
-      <source>Google News: Chicago Bears</source>
-      <description>Former Chicago Bears Hero Released During Training Camp &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Bengals Should Boost Key Position Depth With Recently Released Talent - Sports Illustrated [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd19TQnhaRl9jVmpwLUt2Wmk2OTZIYkg4YUtnMXVrMktGSzA4S0dBMklJODg4bUhQU1hBb3dZUU5ZSHlkRWg2OHpRYlVRMlpZOXdkUWtZUGVoYldwTjEwTWZ3WlMtWDNaQnkzb0c0MWlFYk14VmxyVFlCZHJRYmNEWjgxTHV5WTVZb0ZxblFEQ2F4WlFKWFFoR1ktMkJBUkNYM0NKQkhHRnVEVTNVUm9YSDJuRy1IVjdxbjBPRkxscElqTEp0WHJwM2F2OFVFTjN0?oc=5</link>
-      <guid isPermaLink="false">b657688397d97b9c</guid>
-      <pubDate>Tue, 18 Aug 2026 11:03:00 GMT</pubDate>
-      <source>Google News: Cincinnati Bengals</source>
-      <description>Bengals Should Boost Key Position Depth With Recently Released Talent &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
-    </item>
-    <item>
-      <title>Michael Penix Jr. didn&apos;t have to play to gain favor in the Falcons&apos; QB battle - Blogging Dirty [Michael Penix]</title>
-      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxQbXBveEdiNU9mSmRDY0xDUFRDbDA1dE5hWkVwbUdncDZ6YnhSVEpfT1hyX1FIMUlRcTJJd2FyVWRZMmQtSzBKaFlkYXFnRFFDOUlwclkwVE9WZk9HQURwRzdzNlZXNXA5LWtkTXRjdUpkMkcwX2Nwck1wZ0FJbjhuXzlPdHlaalQ2cFI2SHZsZXpFa0tKWGREZHpRXzU1SjlfOUZ4Rm9DdmlwVGFPT0hvbEZKYjI?oc=5</link>
-      <guid isPermaLink="false">6bd4964d240ed2b5</guid>
-      <pubDate>Tue, 18 Aug 2026 10:00:02 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
-      <description>Michael Penix Jr. didn&apos;t have to play to gain favor in the Falcons&apos; QB battle &amp;nbsp;&amp;nbsp; Blogging Dirty</description>
     </item>
   </channel>
 </rss>
