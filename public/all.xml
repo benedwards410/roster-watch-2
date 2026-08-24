@@ -1,13 +1,381 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787595413342"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787598345050"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Mon, 24 Aug 2026 18:16:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 19:05:45 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Patriots agree to trade Kayshon Boutte to Texans [Kayshon Boutte]</title>
+      <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-agree-to-trade-kayshon-boutte-to-texans</link>
+      <guid isPermaLink="false">9f687dee3685dcf9</guid>
+      <pubDate>Mon, 24 Aug 2026 18:55:09 GMT</pubDate>
+      <source>ProFootballTalk</source>
+      <description>The Texans are bringing in a young receiver who will help replace the injured Jayden Higgins.</description>
+    </item>
+    <item>
+      <title>Patriots trade WR Kayshon Boutte to Texans for safety Jaylen Reed, draft pick, per report [Kayshon Boutte]</title>
+      <link>https://www.cbssports.com/nfl/news/kayshon-boutte-trade-patriots-texans-for-jaylen-reed/</link>
+      <guid isPermaLink="false">59ff2d87ac4ffd39</guid>
+      <pubDate>Mon, 24 Aug 2026 19:01:59 GMT</pubDate>
+      <source>CBS Sports NFL</source>
+      <description>Boutte heads to Houston after catching a career-high six touchdowns for New England during the 2025 season</description>
+    </item>
+    <item>
+      <title>Texans trade for Patriots WR Kayshon Boutte. How he fits [Kayshon Boutte]</title>
+      <link>https://sports.yahoo.com/articles/texans-trade-patriots-wr-kayshon-185219721.html</link>
+      <guid isPermaLink="false">eed13d8bdd902019</guid>
+      <pubDate>Mon, 24 Aug 2026 18:52:19 GMT</pubDate>
+      <source>Yahoo Sports NFL</source>
+      <description>The New England Patriots are trading wide receiver Kayshon Boutte to the Houston Texans. Here&amp;#39;s how Boutte fits with his new team.</description>
+    </item>
+    <item>
+      <title>Patriots trade Kayshon Boutte to Texans, per report [Kayshon Boutte]</title>
+      <link>https://sports.yahoo.com/articles/patriots-trade-kayshon-boutte-texans-184029984.html</link>
+      <guid isPermaLink="false">24da6cf8652cc49d</guid>
+      <pubDate>Mon, 24 Aug 2026 18:40:29 GMT</pubDate>
+      <source>Yahoo Sports NFL</source>
+      <description>The wide receiver has been traded.</description>
+    </item>
+    <item>
+      <title>Ashton Jeanty Gets Major Injury Update After Leaving Practice As His Raiders Teammates Prayed For Him - Yahoo Sports [Ashton Jeanty]</title>
+      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxNQVFoR3VUVUc2a1NsWUdyeDZmdzhPb1J0cjJvVERGeUNyanRiOTNfZVp0TjF3OUVnOG1rYldHbUZyV1BGOGg5N1VHNnRNVzIwUkcwLUVtRURSeEVpTGx5ZDVoR2dOcHJWUVFBQjZjamI5Wk9SaW1UTGgxUE1PakpONl9HcXdDeW8?oc=5</link>
+      <guid isPermaLink="false">6a35efa19ddd7783</guid>
+      <pubDate>Mon, 24 Aug 2026 14:17:01 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
+      <description>Ashton Jeanty Gets Major Injury Update After Leaving Practice As His Raiders Teammates Prayed For Him &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Panthers Give Chuba Hubbard Injury Update, Confirm RB Plan With Jonathon Brooks - Sports Illustrated [Jonathon Brooks]</title>
+      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxOWDQ0NnlyMG01OWptM0V1YlRaYWtIZ1BxT3h6dlNVWUt3ZG5NMktRN2pxakxLTW5icXBrTmE1eU1zdUJhYUJhRlhXNW1lUURVQlZCZWdPQXdRcmNwdmpFR0V5R2lkT3FMWU5OSE51LXB0RFZKbDZRVi1rYk56MzNncnZBTHBmQ3lGZU5hRVJxOG5hQTlwUldIN0NxMnpzdw?oc=5</link>
+      <guid isPermaLink="false">f575c31a283b85e1</guid>
+      <pubDate>Mon, 24 Aug 2026 18:25:14 GMT</pubDate>
+      <source>Google News: Pacheco, Brooks, Johnson, Gordon, Henderson</source>
+      <description>Panthers Give Chuba Hubbard Injury Update, Confirm RB Plan With Jonathon Brooks &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
+    </item>
+    <item>
+      <title>Patriots&apos; TreVeyon Henderson: Exits practice with lower leg issue - CBS Sports [TreVeyon Henderson]</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxOVWV4V1h5alctQVVIODluV0VYUU5jYi0wVXZTRWd0WVFzTG1oOE0yVzNhV2kxNkQteXNrYmVDeFFOYkFEcDE3Q2FHbUx0V2Nwc1dkaTR2ZE9tUy1RNlBETGFNU1B6OG5aVlB2RDBUZk40TGtqSDhfOU01QXdMWFZkR1ZaWVItbWFTQWpFaE5ON0JBdGxDVU9ZdllkZDl5bG1TTFFOSVpkNF9fMW1ka2U1ZXNB?oc=5</link>
+      <guid isPermaLink="false">39b812de1ca2dc23</guid>
+      <pubDate>Mon, 24 Aug 2026 16:42:28 GMT</pubDate>
+      <source>Google News: Pacheco, Brooks, Johnson, Gordon, Henderson</source>
+      <description>Patriots&apos; TreVeyon Henderson: Exits practice with lower leg issue &amp;nbsp;&amp;nbsp; CBS Sports</description>
+    </item>
+    <item>
+      <title>The Good and Not So Good From Patriots Practice: TreVeyon Henderson Leaves Early - Sports Illustrated [TreVeyon Henderson]</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPVU1wMjctT25ERzAxQWtBeW80bXFDV1o5S2ZaUm1peXdpdkZVc1JRbnJoWnVkWVFvUVJSdEUxNVQ1V3UwRDFPTmhjWGtZcHUzMVp3ajFsVjZMbTNWeEc5dDloN2x1TkV4NEVJTkoweGhmc2NaNTlaeXVFWW5SSXlyYmZWRXBkazZ0ZG1MMHB0LXdWOHJFNm9hM0tObVYxaUt4M2ZDS2RpdldyZk1IMGV2UzlKR1JoRVU?oc=5</link>
+      <guid isPermaLink="false">000c84fdb80f49ed</guid>
+      <pubDate>Mon, 24 Aug 2026 18:30:00 GMT</pubDate>
+      <source>Google News: Pacheco, Brooks, Johnson, Gordon, Henderson</source>
+      <description>The Good and Not So Good From Patriots Practice: TreVeyon Henderson Leaves Early &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
+    </item>
+    <item>
+      <title>Patriots avoid injury with A.J. Brown, but not with TreVeyon Henderson - Yardbarker [TreVeyon Henderson, A.J. Brown]</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxPemMzMExzQkR1VEd5QTJ3LUYwbDkzQ2VuamdkaDZoWmtra1ZkTXRYWWczdHpnT2tzZlBzMUdwdVgyaXdHU3VoejNhTU9ZSTVfWDV2LVBPRVdtb3VhOHdJenp0dHRQTVQ4cXRCNlZhbURPc0d0Y0Y5alItVHFyX0wwN2NnMWRuX2k3SUVHRk10V0hmVHk3RV9WNVM5dld0ZXQ0SFJjby1XblpQWDcybk9jbTh1MWp0Ym9EZWNTcVV2dzB0Qzg?oc=5</link>
+      <guid isPermaLink="false">8cb44e9434ab184a</guid>
+      <pubDate>Mon, 24 Aug 2026 18:48:39 GMT</pubDate>
+      <source>Google News: Pacheco, Brooks, Johnson, Gordon, Henderson</source>
+      <description>Patriots avoid injury with A.J. Brown, but not with TreVeyon Henderson &amp;nbsp;&amp;nbsp; Yardbarker</description>
+    </item>
+    <item>
+      <title>Who Should I Draft: Quinshon Judkins vs TreVeyon Henderson (August 2026) - RotoWire [TreVeyon Henderson]</title>
+      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbFhNX1cteGZPYmZULVY0ZFRjSjBGX21kV0hlaHZxVnYzdVNsbEFOa0w1OWFqQUNWTUNkV2dmYUl5d1NtX2RGUEI0ekcxVmFQZlFERFp6d1ZjTkp5aENibTNIMmtBRlM2MUZSWktIYk9hc0NVTEIxWWdybUdpRHkwRlV5Z051ZVh5emJ6anFrdVhNN3BLNXA3ei1mSGhXem9yNFpTMEhiOWN5QQ?oc=5</link>
+      <guid isPermaLink="false">1f6ad5d9a445e15c</guid>
+      <pubDate>Fri, 21 Aug 2026 03:20:00 GMT</pubDate>
+      <source>Google News: Pacheco, Brooks, Johnson, Gordon, Henderson</source>
+      <description>Who Should I Draft: Quinshon Judkins vs TreVeyon Henderson (August 2026) &amp;nbsp;&amp;nbsp; RotoWire</description>
+    </item>
+    <item>
+      <title>TreVeyon Henderson And More High-Risk, High-Reward Fantasy Football Picks For 2026 - FantasyLife [TreVeyon Henderson]</title>
+      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxQeHV3SWkxNEZ5NFJyZmFjY2djU3ppMDFhVHRQdGVUN3VvQUlQUktXWFdrVU5LTzFqSXNFRWVRMi1WZTMtaXd1NE5hRkU1TEh0dkEwUFpLZlF4aHYtYXFYRUFfdHJrR2pWMTA0QzJsTWlWVXBYRmVwSm0tbmo5M0EzbzRCTU85azFWcG5lMnFxZTdYRHhqTWI0SlpnR1ZaSmFRWGl1d2RNamZZOWdP?oc=5</link>
+      <guid isPermaLink="false">4c2a15cbab0d333d</guid>
+      <pubDate>Thu, 02 Jul 2026 07:00:00 GMT</pubDate>
+      <source>Google News: Pacheco, Brooks, Johnson, Gordon, Henderson</source>
+      <description>TreVeyon Henderson And More High-Risk, High-Reward Fantasy Football Picks For 2026 &amp;nbsp;&amp;nbsp; FantasyLife</description>
+    </item>
+    <item>
+      <title>Is this the year TreVeyon Henderson becomes the Patriots’ top running back? - The New York Times [TreVeyon Henderson]</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWpKdWVwVG9LOUZ5UFZJVVNGcmtjLW5taGVQQzFCOW5QeVNBTTJWU2lURGdLYjJyczR5OHgtcFh6THpZOVZGY0NNMmFzMnZDcThJWjRYTlR1NUs2WnM0N3kyWndSZmxHemJsUkQ4SHY5VWN2MXdFTkdqVVdWY1pTUFVKeFZuRXRzVmdUS3JfWlZ4X2RoLUpDR3UtNHgzdE1iU2pYSlJUbGdsbm8?oc=5</link>
+      <guid isPermaLink="false">c4d9a40e8baf4f55</guid>
+      <pubDate>Tue, 07 Jul 2026 07:00:00 GMT</pubDate>
+      <source>Google News: Pacheco, Brooks, Johnson, Gordon, Henderson</source>
+      <description>Is this the year TreVeyon Henderson becomes the Patriots’ top running back? &amp;nbsp;&amp;nbsp; The New York Times</description>
+    </item>
+    <item>
+      <title>Dolphins 90 in 90: Ollie Gordon makes mark on RB group - The Phinsider [Ollie Gordon]</title>
+      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxPRXlEblJSXzliM2ExQi1QLTB3WmxhaTc4WXJTVFJIV1ZfaXQ0bkJyQ3Fmd1NjUnZLalhxQUxuUGZXQm8wQ0F3S3ZDcHZSMy1uUE1WSXJJNU9VYTljbjM3TzRCWUFIaW52a3RfOG5aVy1TdkF5ZTBVUGdsNGp5NEhDVkpHVGhISUVrRUxZRTRwZm90VjRHTHk2VVl3Q196Wk1xT3BqbTJBRDRMMnhDQVFRVEJpX2lqVzNUT2c?oc=5</link>
+      <guid isPermaLink="false">d041ee2947876a87</guid>
+      <pubDate>Thu, 09 Jul 2026 07:00:00 GMT</pubDate>
+      <source>Google News: Pacheco, Brooks, Johnson, Gordon, Henderson</source>
+      <description>Dolphins 90 in 90: Ollie Gordon makes mark on RB group &amp;nbsp;&amp;nbsp; The Phinsider</description>
+    </item>
+    <item>
+      <title>Hafley: Ollie Gordon can be every-down RB - NBC Sports [Ollie Gordon]</title>
+      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxONmhrLW5fRzJxcU05X0NlbFRpSXphN0NTT1RTb3h1UVB3UDRlM0hLdnQyUTlTOEZ3U0lhQkxDQjZHSmdsMzBZZGR1emhxT1FOOVFyM2VnSlp4X2NfSE5RSTAySDB0RExZeThDZDFNUk9tM1FRVnhVTWFSUnpQcDFTNjJxd2VVVkZINGhibGgyVEE0TkZ5dkx4YTk2RFhoRHV3RU5wUVZpdkx3UQ?oc=5</link>
+      <guid isPermaLink="false">eabecc3438b03e3e</guid>
+      <pubDate>Mon, 03 Aug 2026 07:00:00 GMT</pubDate>
+      <source>Google News: Pacheco, Brooks, Johnson, Gordon, Henderson</source>
+      <description>Hafley: Ollie Gordon can be every-down RB &amp;nbsp;&amp;nbsp; NBC Sports</description>
+    </item>
+    <item>
+      <title>Patriots agree to trade WR Kayshon Boutte to Texans - NFL.com [Kayshon Boutte]</title>
+      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTE13ZVpNbk94SVZ6OHRXTk80dU00UThkODhzdEJBV2tqSlN4M2dPSzVPOC1FUklja19VcGNvLUhWVlhlTWNheUNrZ1l3bFFKMlVXci1kY1haOUk2VkR5NlBOWHc5T3l4aGdiYW5ObldR?oc=5</link>
+      <guid isPermaLink="false">53919ab2f323bbd5</guid>
+      <pubDate>Mon, 24 Aug 2026 18:53:00 GMT</pubDate>
+      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
+      <description>Patriots agree to trade WR Kayshon Boutte to Texans &amp;nbsp;&amp;nbsp; NFL.com</description>
+    </item>
+    <item>
+      <title>Patriots trade Kayshon Boutte to Texans for safety Jaylen Reed and pick: Report - NBC Sports Boston [Kayshon Boutte]</title>
+      <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQmlYYWVrM2c4eWo0S1hyQVo4Zkk5S1RreUtFWFdqLWhFajg2MFFDMTdXdHdNNk94bWRvYnBsbU5MRDRoa3JnRC11T21DaWUtLW1FRDFjUVpHNElOd2RlOHYyQkdESkVyZlotZHRmNVhjRXRqMHk2RjlsOGtYSVoyZ1UwUjBmUzFqcWRLLWhPYkgwOGo5S3VJLXV6N0VLcEduTzNQWVlJUWdwa2JsV2RZR2xPRDdGQzF4Z2tMOUhHNUlLVnJVcUxoak5wQlZnWlZmcEZ6Yzg1a1VJMHlr0gHkAUFVX3lxTE9mdERYS1E1aTJORUxGbWo5VHdHN1A3Y2FRQVVxZnpSeG9MaGZHZnVwU0FOUkpiaHNNUVJtaEQycDQ4UnZPaGZtWngzdlRxUGc0YlFzQ1BuZllmRzhzcl8zN3BUS19UZEpreVpxMWt1VTE2aUl5VTdrMC1lT3JEbEJQdXl6SS1uNWgtM0RTYUZZUXNSM3d1a1FUYlZqMkhWUWMtWlF3NjBHVDNiZ003Zl9hbHkxUE9PT3BYQ0w2ZWZJOWNHX1dtckhvb1d5aVNJeUVpcEQ0RG1RaFdYOElpcnpYRy1fSA?oc=5</link>
+      <guid isPermaLink="false">6efd229c67d75706</guid>
+      <pubDate>Mon, 24 Aug 2026 18:47:20 GMT</pubDate>
+      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
+      <description>Patriots trade Kayshon Boutte to Texans for safety Jaylen Reed and pick: Report &amp;nbsp;&amp;nbsp; NBC Sports Boston</description>
+    </item>
+    <item>
+      <title>Patriots send WR Kayshon Boutte to the Texans for S Jaylen Reed, draft pick - Yahoo Sports [Kayshon Boutte]</title>
+      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxOc0FqOVJHWFBlWWMxUkcxS3JCMHowd1hKVEVDeVdudXBZTHUzWTdwaENtMkNZLTc1TlFjZTItcjV4dWtFVk5ReEVXRjM2N3JXbXhyMVhsajJYVTllLTgtbU14Nk5uNkNSN3pERThwN0RlV1VfSVJxWHRZSWpMZVNUaTRxT1VhdnNIandGVnNPdWdDUVlycUtMRldySVlDek4wZlVtajN6bUFmU1J6YXE5UnY1eWZYT0YwdVhlSXFONUE5SFF1?oc=5</link>
+      <guid isPermaLink="false">49e3dd4036a3d6e0</guid>
+      <pubDate>Mon, 24 Aug 2026 18:45:22 GMT</pubDate>
+      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
+      <description>Patriots send WR Kayshon Boutte to the Texans for S Jaylen Reed, draft pick &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Trade: Patriots dealing Kayshon Boutte to Texans for young safety, draft pick - Boston Herald [Kayshon Boutte]</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQb0tYV0prRVU5NjdkOUNEQ1Z1M3RpckJ6RXdYLTA0OUdfQndxNW5kZVM1d1Q2OEx4cmhobkwzRXY2ako2VFJyUWlwcFZucVE0QkZGY0tXci1CaXA3OXNLWHZxTWYtWXJESWxJVmRKcDAyYkVMZU9SLW84Uk1UcGh2RXJjZjZFN0Q0eWdjajlZM3ZNZkNGclJvR2Q5NTdYclQ0N0RrcWYyeG5GLW5qR2V4RmJ4MTFxdmc?oc=5</link>
+      <guid isPermaLink="false">ab4bb187874ca956</guid>
+      <pubDate>Mon, 24 Aug 2026 18:59:10 GMT</pubDate>
+      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
+      <description>Trade: Patriots dealing Kayshon Boutte to Texans for young safety, draft pick &amp;nbsp;&amp;nbsp; Boston Herald</description>
+    </item>
+    <item>
+      <title>Kayshon Boutte Dealt to Texans - Fantasy Footballers Podcast [Kayshon Boutte]</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbjhFNS10TUc1Ui1yTnUwMlh6OHBrQlhvamhrdDR2aHlrRUdQV1lqR1hscHlxTHAwVllzZHl6TkNHLVFjWjNOeWZCQWZoZTcyUHhUZjNWOHJaWng2RWZxekY2YWl0RUYydmVRUVUwd05kM2loZFoyX1RiUnNYblBMRGZVYmh1V0cw?oc=5</link>
+      <guid isPermaLink="false">47ce2592848068de</guid>
+      <pubDate>Mon, 24 Aug 2026 19:01:21 GMT</pubDate>
+      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
+      <description>Kayshon Boutte Dealt to Texans &amp;nbsp;&amp;nbsp; Fantasy Footballers Podcast</description>
+    </item>
+    <item>
+      <title>Patriots trade WR Kayshon Boutte to the Houston Texans - Audacy [Kayshon Boutte]</title>
+      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxPanpEczVmNTluX2NzSDBERWpaZF9oM0JIX2IwRnpBUWlrS2xCZ3hkNE9vOXRlcWc2VHUyM0hzSU1TVjQ4WWI0eTU2aVpjVk1nb0tCSFh6aXIwb0t1SkpqNlNjTWgzSTVqeTlsSG55NmpmU2l4NDZjN0l3b0p2SkhoUUhhQ1h0Rk5RbkhvVjBfOTFlbm1CTmFDSlhfNFpvc00?oc=5</link>
+      <guid isPermaLink="false">1200cfa3e2c2f893</guid>
+      <pubDate>Mon, 24 Aug 2026 18:49:00 GMT</pubDate>
+      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
+      <description>Patriots trade WR Kayshon Boutte to the Houston Texans &amp;nbsp;&amp;nbsp; Audacy</description>
+    </item>
+    <item>
+      <title>Patriots find trade partner for Kayshon Boutte - 98.5 The Sports Hub [Kayshon Boutte]</title>
+      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxNYzNuTFZmNVZVMm5QdDdvTVItZF9ZMnN0QzlGVHVLR2gwOVBEMkNzTlNqV0FCNmEyd1NwNVpkdnFWNDh2c25fdjdYZG9QS1llbmxRU2FEM2ZKTU9PN19vUXFMMWJwZkFKTnJWM21jNFJIRDllVjNHYWtOVk1iZjdlMHBR?oc=5</link>
+      <guid isPermaLink="false">558a7d8ffa1ef0e7</guid>
+      <pubDate>Mon, 24 Aug 2026 18:44:58 GMT</pubDate>
+      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
+      <description>Patriots find trade partner for Kayshon Boutte &amp;nbsp;&amp;nbsp; 98.5 The Sports Hub</description>
+    </item>
+    <item>
+      <title>Report: Patriots trade WR Kayshon Boutte to Texans - Sportsnet.ca [Kayshon Boutte]</title>
+      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxPOXc5Rmt0b0c2VjA5amR5cTJnc2NZN1R0a0pnMFJoYWhLSndaQjMwOVpnLTEtbnRfcENtMXdNN1JyZ1R6ZVZUbkhIY2pybTd6NUV4cUZLbm16TnF2VjlKQ0N2VHBoT01NRVVTMmNoay1tMUxwT05lWnpzMGh4Z05GMWlacmJDZGNPbGRVd09oVHQ?oc=5</link>
+      <guid isPermaLink="false">fdc8b1aca611d9e3</guid>
+      <pubDate>Mon, 24 Aug 2026 18:54:00 GMT</pubDate>
+      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
+      <description>Report: Patriots trade WR Kayshon Boutte to Texans &amp;nbsp;&amp;nbsp; Sportsnet.ca</description>
+    </item>
+    <item>
+      <title>Patriots, Texans Make Surprise Kayshon Boutte Trade After Higgins&apos; Injury, New NFL Rumors Reveal - Bleacher Report [Kayshon Boutte]</title>
+      <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaUxRckhmbzVqMDdKdzd4Nl91Y0tlLWx6YWlUaWZjMGctOW8xRk1kTW9UVzJEQTBzNVdadUNOWlptejQ3RmkycWh6VkpFeGxXNXZRUDNVTmI2dERJVXJXVWpXZjN1UHpuMEt3aDVvcVVScEJlaDlwSlE0T3JyV0ZjMk9SaXd2OUdIc1I0bzJmTy0ya2V3c0w2OGR3cE5VYzBPbmpvbXVCdG54eFBfMnJyaWx5c0hMVHgzelo4b0NRN2dwY1pEM3UtMmFEWUJ4QnVrY2ZOXw?oc=5</link>
+      <guid isPermaLink="false">175a8b181e7204df</guid>
+      <pubDate>Mon, 24 Aug 2026 18:47:04 GMT</pubDate>
+      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
+      <description>Patriots, Texans Make Surprise Kayshon Boutte Trade After Higgins&apos; Injury, New NFL Rumors Reveal &amp;nbsp;&amp;nbsp; Bleacher Report</description>
+    </item>
+    <item>
+      <title>Patriots To Trade WR Kayshon Boutte To Texans For S Jaylen Reed - NFL Rumors - ProFootballRumors.com [Kayshon Boutte]</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdk5fbXhtZFFCZlU3cUZIQmc5azlEUUFnWS1xblhab3dRdDNZQlo3N3VpYUxHc0N1WkdqQ2ZGTUtJTE9LbFd0YkdxUU1HbFFibGFJQzNjM0NRRndXSlhXTjVUdFc0QVlDLV8tY3NuTjlLWEZ5aFAtV2hld25FOXB6YTJiNUlLRDN3SWVGQl80RF9aNXNPME1zSGNjSXZUWVhxZUpKZkw3ZFM?oc=5</link>
+      <guid isPermaLink="false">0e84dbc5cf20dc1b</guid>
+      <pubDate>Mon, 24 Aug 2026 18:43:21 GMT</pubDate>
+      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
+      <description>Patriots To Trade WR Kayshon Boutte To Texans For S Jaylen Reed &amp;nbsp;&amp;nbsp; NFL Rumors - ProFootballRumors.com</description>
+    </item>
+    <item>
+      <title>Why Patriots traded Kayshon Boutte to Texans for a safety and a draft pick - Yahoo Sports [Kayshon Boutte]</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZUxpSWNSbGhmTzFicnItdUczM0RqR1lURWVULW9Bb1IxWVIwSnBXZ2otMnVEa1NXc2xod0JBcmo5clZzVVlac3VGak1seVZxNV9pQ2hEeHl6Umhlbm9IcUEwZG1oQXdib2hBTFNRejNRRElrNFFTWEgwLWFZTjc1ZGMzOWl0VXRuOTZV?oc=5</link>
+      <guid isPermaLink="false">2046e3c9e640143e</guid>
+      <pubDate>Mon, 24 Aug 2026 18:48:32 GMT</pubDate>
+      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
+      <description>Why Patriots traded Kayshon Boutte to Texans for a safety and a draft pick &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Texans land new WR No. 2, trade for Patirots standout Kayshon Boutte - Texans Wire [Kayshon Boutte]</title>
+      <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRmpXYzdIaHdtMW1wTFBIcEtCNUZ2cThYOFp1SV83SmNtcGZ2QUxyLTdwRTQ0M1FCSTN1SDRXb2FGSUNNY3kyZVMwUDBjLUZkUnQtZ0ZNY0xfVWdnMEtTdVRpcWVkTTdIMGU0OUVzTHhBUXBpQXI3R2RpdVV0cmMtTDZjWGhISzY1a0ZPblV6aEQ2VnlYRlVlcXA5NFN5OTlNQm5QbWtKRXRMNmJnamtwaVh3OEQwS3ZpRFV3SFFlYUJyS3U1S2RyaU43ZXhlZEtLMWJBeQ?oc=5</link>
+      <guid isPermaLink="false">cb2f6d0c0148b79a</guid>
+      <pubDate>Mon, 24 Aug 2026 18:47:00 GMT</pubDate>
+      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
+      <description>Texans land new WR No. 2, trade for Patirots standout Kayshon Boutte &amp;nbsp;&amp;nbsp; Texans Wire</description>
+    </item>
+    <item>
+      <title>Patriots trade Kayshon Boutte to Texans - NBC Sports [Kayshon Boutte]</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLV9pSTROUVVwOGdVMlNyemNDMjZQeldkTTJkcFdvQW45RjVkWUVYb3MwUW05dmE4R0ZRc2dwY1dyWFZLd3VocFR1TXhmc25aLXNlLTdLc2g1bXFSenRXeUI1c1ltLVF0eW1oNUpTMHJzM2VqR0VBWXJZTmVzSWlVWDc5ZlBiT3lDR3d5ZTBLU0RGS2tEaUU2T1VGY0dmVGttejhzQW1yM2k?oc=5</link>
+      <guid isPermaLink="false">ed0dd10c5365f90d</guid>
+      <pubDate>Mon, 24 Aug 2026 18:49:18 GMT</pubDate>
+      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
+      <description>Patriots trade Kayshon Boutte to Texans &amp;nbsp;&amp;nbsp; NBC Sports</description>
+    </item>
+    <item>
+      <title>Patriots reportedly trading WR Kayshon Boutte to AFC contender - Patriots Wire [Kayshon Boutte]</title>
+      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxONkI2a0U3NGVYTklVQlRzOTlTZlhidGp5TjNid2JOTk45cjA2QVU3a2VHN1duX3BTdUJabGljZlNIOTVzT2lwMU1nWWZsSDVmUzVYekpwblRNaGhzMl9LanlEa3FWYk9GS0RTWFBYbmZDdTYxQW9BTEJrZXlaZ1ZDanpuUWZJcEtlcUlCQk5RNnpISnJNQS1zcWRKMnFxVk9FbHRoVVYzYkVabkdDczBOYzlfZWE1ZFNjSC1NSHNwZw?oc=5</link>
+      <guid isPermaLink="false">eac92781ab060d7b</guid>
+      <pubDate>Mon, 24 Aug 2026 18:57:00 GMT</pubDate>
+      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
+      <description>Patriots reportedly trading WR Kayshon Boutte to AFC contender &amp;nbsp;&amp;nbsp; Patriots Wire</description>
+    </item>
+    <item>
+      <title>TRADE: Texans Acquiring Patriots WR Kayshon Boutte - NFLTradeRumors.co [Kayshon Boutte]</title>
+      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxOOTdXQWN0VUVvRVF5bFJYYU5FdksxVmhWVHV4YjJiWndMSXJxdVkzcFFUXzVEMTI1Yl9pbno0Y3l0T3ZNSl9la2libVFRRk1ZcVdwWHdsVjNrSUxpalRsTEZwSlZoWHF1LWxwa0RoaEtCczgwcm9FbjBwZ0RnM0NLUGdR?oc=5</link>
+      <guid isPermaLink="false">58e927ac85365a47</guid>
+      <pubDate>Mon, 24 Aug 2026 18:39:48 GMT</pubDate>
+      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
+      <description>TRADE: Texans Acquiring Patriots WR Kayshon Boutte &amp;nbsp;&amp;nbsp; NFLTradeRumors.co</description>
+    </item>
+    <item>
+      <title>Patriots’ A.J. Brown avoids injury after scary misstep at practice - The Big Lead [A.J. Brown]</title>
+      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxNaG1ZZG9RVFdfQ1R4OWtHaFFidmR0RVE2U0IxNWYxWkZ5ay1NVko3dF9CeVVUVTA4ZFZ2S3RqZ2JqU093UUNvbDBzOXBFVElTXzFiMXRlQXFoYWpoTVNIRXZobFRzX1JZS2cwaEhsWTRhY2p0NWhUeE5hejgtYU1nd2FRdEVCT3FxSHNNYzNUamQycUtDSWR5Mw?oc=5</link>
+      <guid isPermaLink="false">7082e0906c191515</guid>
+      <pubDate>Mon, 24 Aug 2026 18:53:10 GMT</pubDate>
+      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
+      <description>Patriots’ A.J. Brown avoids injury after scary misstep at practice &amp;nbsp;&amp;nbsp; The Big Lead</description>
+    </item>
+    <item>
+      <title>Patriots Trade Kayshon Boutte To Texans In Player-For-Player Swap - NESN [Kayshon Boutte]</title>
+      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaHh1THk4OTN5VG5WYzZBME5ZR0ZCZWtzaDBWdWI3b1JUb19hVWVycWNWc09UOGU0X3R4bnVBbzNGSmFoWGRjQWZvVF82aGFKb0NOMm1ZV1F5VnV5Tzk3X2NpWVVMWG9QNjVrRHh2MTdCU3RCZTkxWXFhN1BMcTBBMTVhNk1jX2Y1VHRVVy1GTWluOVl4UGMzQWszZ2ZlMW1ZYmhxRmg2V28wd1g2UzdQWVZCZTdMeEZFb2o1VGJLNjQ?oc=5</link>
+      <guid isPermaLink="false">564945414e0385af</guid>
+      <pubDate>Mon, 24 Aug 2026 18:52:03 GMT</pubDate>
+      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
+      <description>Patriots Trade Kayshon Boutte To Texans In Player-For-Player Swap &amp;nbsp;&amp;nbsp; NESN</description>
+    </item>
+    <item>
+      <title>Patriots Trade WR Kayshon Boutte to AFC Contender: Report - heavy.com [Kayshon Boutte]</title>
+      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxNWFhSZ2otY2VqWG0xZ0JidFJLRGM1T1Ytck84Z1l0MUtRUzhXVGk1MGZtQVMzczRHNGxTbnRhcGxGeFQ0aUJmNjFvVHFGd0xzb3N3N2pObVN6a09ZTXVZUnNoWjNPUmFGMVpWaFB1TVRQVmVqcTcwdEF5SWNJU2JvdkVFNk45LV8xR0tRWkF5SzN6Zzg0a0Ew?oc=5</link>
+      <guid isPermaLink="false">01da70b9805cde41</guid>
+      <pubDate>Mon, 24 Aug 2026 18:53:18 GMT</pubDate>
+      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
+      <description>Patriots Trade WR Kayshon Boutte to AFC Contender: Report &amp;nbsp;&amp;nbsp; heavy.com</description>
+    </item>
+    <item>
+      <title>Patriots trade Kayshon Boutte to Texans for a young safety and draft pick - MassLive.com [Kayshon Boutte]</title>
+      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPWF94cXczZzNiUjhqaktrSUE1dGdsbkVSUkpfZFE3OUZ0Y0JjX3RqNDAzWGpaMkg4U2hnMktIajdDTk1pbzNPWjVGMGJYc1BMXzRkcVVsQXVQcmFGWmZhazhDNGlvWDQ5cE9xa3ZQelIxckdJbmpyMDJ4cktHay1VUENVSkZPc2JFX3BBRU9KNXFzQ1ktakgxajh5WVRKZmp4bjRYNEF5VEFBS3RkeV9XS2dRTGhvSjdQVG5lbdIB0AFBVV95cUxNdVZvd1JrLVZISkFTdlVpbzlyeGpPbU9TSGltLU1Jb1M3RVZndjd0RmhnQU1zXzFFUUtXamRxSUFjUVNfdTZGbldoVHRkWDAtN2xOcDZkN2d1b2JVOU8weFJLaVRXYjlZSTBhMUZlMURNXzVJMDROZnBMbHhJb1RHTUk3YnRET3R0NElIWGlHelBPY01pSXVjX3VVSExCY0hGOC1CckxLZFBVSldEYS1vdzUzS3RBSGNCaEg2TVVwRWo1bWRhWlFyaFVyai1XelBP?oc=5</link>
+      <guid isPermaLink="false">ef2ceac9e5a32e77</guid>
+      <pubDate>Mon, 24 Aug 2026 18:54:00 GMT</pubDate>
+      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
+      <description>Patriots trade Kayshon Boutte to Texans for a young safety and draft pick &amp;nbsp;&amp;nbsp; MassLive.com</description>
+    </item>
+    <item>
+      <title>Texans Swing Trade for Patriots’ Kayhson Boutte, Part With Young DB - heavy.com [Kayshon Boutte]</title>
+      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxPelhlLTNLTGo3Y3FnUkN1WWY2dk1SQmJjNHB3MFg5ckt2elVmSFBQMUM3b3VJLUZLRjhfNzBQall0YVlUOE54WG50TTFZZWhyZVd1UEZJZ0JNRHVGa0dXM1hmTnU2akt0ck1yX2tuMXBTZDl2THpVNjFCNnZmSnljM3JoNG14MTl6aExCMkRhOA?oc=5</link>
+      <guid isPermaLink="false">ac62a99c62b35c56</guid>
+      <pubDate>Mon, 24 Aug 2026 18:46:52 GMT</pubDate>
+      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
+      <description>Texans Swing Trade for Patriots’ Kayhson Boutte, Part With Young DB &amp;nbsp;&amp;nbsp; heavy.com</description>
+    </item>
+    <item>
+      <title>Report: Pats ship WR Boutte to Texans for S Reed and a draft pick - TSN [Kayshon Boutte]</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE53OVRCb3NQNUozZzY3am1kNnNfLTBpQ2F1TEFUUjZGSldraFZoZWJ4d2w4QmpQbm5BamdMYmVuUTNSdzRpd1hKUkZrc09MQ0pVNGU5bXNmblZ5QXQ2UkdVSTlqMkxacFpmd3QzSmR3VXVrUEQ2cndLeGc0aHhEM2c?oc=5</link>
+      <guid isPermaLink="false">df61996521d2f0f5</guid>
+      <pubDate>Mon, 24 Aug 2026 18:48:25 GMT</pubDate>
+      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
+      <description>Report: Pats ship WR Boutte to Texans for S Reed and a draft pick &amp;nbsp;&amp;nbsp; TSN</description>
+    </item>
+    <item>
+      <title>Texans updated WR depth chart after Kayshon Boutte trade makes for exciting group - sportingnews.com [Kayshon Boutte]</title>
+      <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb3h1NGF4ZmpyMEptNWtvLVlpUnBRVkVvNWEzYmd6NHNnUU1tSXZCWi1mYUxFZHFzQ1ZrdGVjSm9QRF8wVWstNGEySUotT3B6REF4ajFhdGticWRzVHFsU1plZXZPMnh0M2ZWb1ItVWY4WHVVekZha1U1X003aWJkWmFiZ0owRmJNZ3V2cUs3WVBGMlE2cE05MFNfZW1TUndoQjB2SHJJTE5mRGp6RE1lQS1UTlRFOV95bmJFNEo0bW4yeGN0bXdjSW90akFBdHpBSk5ONjNpQQ?oc=5</link>
+      <guid isPermaLink="false">000f61b3b311af1e</guid>
+      <pubDate>Mon, 24 Aug 2026 18:59:58 GMT</pubDate>
+      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
+      <description>Texans updated WR depth chart after Kayshon Boutte trade makes for exciting group &amp;nbsp;&amp;nbsp; sportingnews.com</description>
+    </item>
+    <item>
+      <title>Heroes and zeroes from Day 15 of Eagles training camp: Uneventful return for WR Makai Lemon - PhillyVoice [Makai Lemon]</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNTGZOMENISDRkalZTMXhXRXB5LVFsc1F1V05taDlrbUZ6cG4xU0xrN2NFaHBWN1VCN29renJ5V0wtVjdBVmtjX052aUdmd0ZHVlVPel8tbGdhbFNLUnRmLWFuMnJEREJ6MGIwUEFSQ2ZyUnB3dm5YX3V6SW4wQTNHa1A3VVdWbjFqUWpjMkxsdVFhMUxOWG5JNlZxa2NIRHA2ZmdzREpJQm56NEtBaXc0T3BuYnRKN2M?oc=5</link>
+      <guid isPermaLink="false">3fa1435e141a2491</guid>
+      <pubDate>Mon, 24 Aug 2026 18:16:21 GMT</pubDate>
+      <source>Google News: McConkey, Lemon, Mims, Golden, Otton</source>
+      <description>Heroes and zeroes from Day 15 of Eagles training camp: Uneventful return for WR Makai Lemon &amp;nbsp;&amp;nbsp; PhillyVoice</description>
+    </item>
+    <item>
+      <title>Martin Frank breaks down Eagles practice with Makai Lemon return - The News Journal [Makai Lemon]</title>
+      <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxOM2RNSzdFLTczR3NNc2kyREdGOGR6ZzZlYjgxMVFEaXMyT3JmZVdNeWxIT1Q4cDlXb3F0ZExlSlgtWkNhYkl5UmJzOVhqQ0ZBZk1BWEFMalVOdnkya1oyNzB6SHV1YWE4VXBpbHFjRWNEQ19PTFRzWktFYUcyN1FaZU8xaVBjTVBrYVBzUV9DR2RZMXRrR1NudVZXSUc3VG1NVDhOLTdyTlJwTnp3R001N2tEVXNUUjZYajJtU0txRG96em16MkozR0g0WjRwN241QWJVbDhxX1pqLVhJ?oc=5</link>
+      <guid isPermaLink="false">e510bed257b12a91</guid>
+      <pubDate>Mon, 24 Aug 2026 19:01:02 GMT</pubDate>
+      <source>Google News: McConkey, Lemon, Mims, Golden, Otton</source>
+      <description>Martin Frank breaks down Eagles practice with Makai Lemon return &amp;nbsp;&amp;nbsp; The News Journal</description>
+    </item>
+    <item>
+      <title>Eagles Rookie Makai Lemon Finally Addresses Injury - heavy.com [Makai Lemon]</title>
+      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQLXl2U0lSQVVadmhsaVNXOVVZXzgwUkxjUDE2dkVRMlRfXzktOWlOblJKZEgwaFlCM3l3c045WTc5QjVhUXltZkdKS29pWTNfdmhidVJvU1ZVeVlWLWZTMDQ4ZXF0ZWlzZVB1QXRKQVltT3hwT2JvT3RDX2pyV0Q2eHFGV2MtWTZ3bFdjNHZtQ0VvYl8xQmVHVw?oc=5</link>
+      <guid isPermaLink="false">813e82486466dbfb</guid>
+      <pubDate>Mon, 24 Aug 2026 18:40:21 GMT</pubDate>
+      <source>Google News: McConkey, Lemon, Mims, Golden, Otton</source>
+      <description>Eagles Rookie Makai Lemon Finally Addresses Injury &amp;nbsp;&amp;nbsp; heavy.com</description>
+    </item>
+    <item>
+      <title>Falcons split QB1 snaps Monday as Michael Penix Jr. returns to 11-on-11 - AJC.com [Michael Penix]</title>
+      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxOZHVESk1kSmxJeHF2YVhOQTJtWVFQalY1U0I3Y3hha2JUdHFXby1mM2xPUWdCbDlMV0JiZm5QSV9TS1J3akVZZnNCb0cwZEh2SlRNbXFfWU1uTklSN05lc1pna0pkM1pwTzF1S1RHc3lRVVlzUFNVR2xNMnJIZ1FvSlBOc2ZrV0U1NlQ3Sms4ZzJqQ09uVGg4SHlFRQ?oc=5</link>
+      <guid isPermaLink="false">2fec26de807dd8da</guid>
+      <pubDate>Mon, 24 Aug 2026 18:53:39 GMT</pubDate>
+      <source>Google News: Atlanta Falcons</source>
+      <description>Falcons split QB1 snaps Monday as Michael Penix Jr. returns to 11-on-11 &amp;nbsp;&amp;nbsp; AJC.com</description>
+    </item>
+    <item>
+      <title>NFL News and Notes: Browns Name Watson QB1, Jeanty Injury Update, York Arrested, More - Bleacher Nation [Ashton Jeanty]</title>
+      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE9RdVlaSjUyNklxVjJqT0NWR2xVUC1uVFM2WmE1dlk0MHRxNkIzb2U1YWJBSG1EQjhocTBNOWM4UnVYblQwVU56QzNiZXlBX3pnakJ4UlQtSmw3S0FaQlZrWWxFWEgtNkkyWk5TRDN4RElUN3k0aTJXa3pudw?oc=5</link>
+      <guid isPermaLink="false">74c7b9da7ad7688b</guid>
+      <pubDate>Mon, 24 Aug 2026 17:28:43 GMT</pubDate>
+      <source>Google News: Chicago Bears</source>
+      <description>NFL News and Notes: Browns Name Watson QB1, Jeanty Injury Update, York Arrested, More &amp;nbsp;&amp;nbsp; Bleacher Nation</description>
+    </item>
+    <item>
+      <title>The Cincinnati Bengals have officially cut veteran swing tackle Cody Ford - Yahoo Sports [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQWXNFdEJjREFHYzhSeWw2cnhIWnBwQ0ZBR25kNkdZVXRHV1dGMFBURGl0MDB0UGxOazlxcGp2OGVZNjBJcl90ak9VY095ZmlfX284SE9ZWks4aHc4ZkJkMktCTEJBZUpsY085RzlmdnlCaUpqYVFFRmc2QVBMVDBtZnpscl9Jd295OHRQcnhRdVp5QQ?oc=5</link>
+      <guid isPermaLink="false">c89e9ae9d03a0d88</guid>
+      <pubDate>Mon, 24 Aug 2026 17:40:05 GMT</pubDate>
+      <source>Google News: Cincinnati Bengals</source>
+      <description>The Cincinnati Bengals have officially cut veteran swing tackle Cody Ford &amp;nbsp;&amp;nbsp; Yahoo Sports Cody Ford cut by Bengals &amp;nbsp;&amp;nbsp; Cincy Jungle Cody Ford Released &amp;nbsp;&amp;nbsp; Cincinnati Bengals</description>
+    </item>
+    <item>
+      <title>Former Dolphins $101 Million Wide Receiver Predicted to Be Released - heavy.com [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLXd2V1lvMTNsNGRYTXA2LUp1dkZLVl9Ob0dsNWk5aE93SEhTYUNYbjBTWWNJYmJOTGd0TmhzamRVS3NQT2VKUHlfS3hPUTMxb3otTHZ5ZWhrY2ExczdMVEdtRzctenJLQXZsaHFBb1RCV3VtclZzYU5fdDBXYU42TENYTWd4SXN1WHVn?oc=5</link>
+      <guid isPermaLink="false">d53737f7a8a07bd7</guid>
+      <pubDate>Mon, 24 Aug 2026 18:43:56 GMT</pubDate>
+      <source>Google News: Miami Dolphins</source>
+      <description>Former Dolphins $101 Million Wide Receiver Predicted to Be Released &amp;nbsp;&amp;nbsp; heavy.com</description>
+    </item>
+    <item>
+      <title>Lemon (hammy) believes he will be ready for Week 1 - NBC Sports [Makai Lemon]</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxOTFd5ZWx4cEI5RDNoZkhRcGhORlB6dnF3bjl4VU1LaEExTE1qRGswYkxuY1ZRaVFxUEVjRms3V0VYS0Jad1RPVDFWUW5oRERyVE5yTER2bTI3VFFiYmc5alU1cm03V00wMDFyN2NSMUNTSy1aYnFPcTdmeVRZcDBQaE1yeDd6X3JuQWxHR1I1TGZmSDBTN2RTTzJETTgyX1g3R2ppOFliNUhvd003WDFtT291MG0?oc=5</link>
+      <guid isPermaLink="false">e2f338230ced2a57</guid>
+      <pubDate>Mon, 24 Aug 2026 18:33:55 GMT</pubDate>
+      <source>Google News: Philadelphia Eagles</source>
+      <description>Lemon (hammy) believes he will be ready for Week 1 &amp;nbsp;&amp;nbsp; NBC Sports</description>
+    </item>
+    <item>
+      <title>Steelers DB Jalen Ramsey activated off PUP list, practices Monday - TribLIVE.com [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxNamVMSjE0SHFLNWRqQ1hIN1RtMDJuSmVpNEo0aV9ZOVAtdlFBMDhkVzM1NzdpZUF5emF5X21OX3BfUXZJUFNNUjB0MDR4VXY4TG15M3dfb29Ib1hPSmZfTWhoeHJQNmNNZGNRcndOdFZ5NmkzQUZMLS1jcVZjWFo5akNXbG5HVWZaRWwwMWVrUy1KSmcx?oc=5</link>
+      <guid isPermaLink="false">8cfb3792ec5f1bf2</guid>
+      <pubDate>Mon, 24 Aug 2026 17:00:33 GMT</pubDate>
+      <source>Google News: Pittsburgh Steelers</source>
+      <description>Steelers DB Jalen Ramsey activated off PUP list, practices Monday &amp;nbsp;&amp;nbsp; TribLIVE.com</description>
+    </item>
+    <item>
+      <title>Steelers DB Ramsey Returns From PUP List - News Radio 1190 KEX [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxOc05mbGxBd0Njd3ZiMUZwS0hRMnpWVEhlX21PMldDaV9VTjczemU3c2oxamdSSkVTUGdieUlQSmpBanVEcEN2VEQ0UmNwTmw0cEdiTVBIclNZRVNOZ2JBYjJEV3ZJSllPSWtSYnd1NWNuNlUtTHV1c1k4bENZZUdZa25RbExHN3ZIZ1B2ZU0zVVg?oc=5</link>
+      <guid isPermaLink="false">a6b460ce357d3aaf</guid>
+      <pubDate>Mon, 24 Aug 2026 16:28:00 GMT</pubDate>
+      <source>Google News: Pittsburgh Steelers</source>
+      <description>Steelers DB Ramsey Returns From PUP List &amp;nbsp;&amp;nbsp; News Radio 1190 KEX</description>
+    </item>
     <item>
       <title>Michael Penix Jr. In line to see some first-team reps Monday - Fantasy Footballers Podcast [Michael Penix]</title>
       <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPWHpqdzVvTVNvQy16Z29OVjlDRGhHa05fQkZhSXRMS1p6R2hQSU16dGNseGR4OUFLd0IzUWpENW4yQkEyc3FOb3Z3b3IxWW5RTTdlT1VQSWFNOEJpelFfQWFSUjBSX0x0c3lqbHR2WEJyaVJKcHlJUU5wXzhKV2VCTm9GOFVGblEwbjNtRldzdDlYdkxxVlg4ZGF3X2swaktUTlJ6WTNhckczU0F1ZmJ3?oc=5</link>
@@ -9239,374 +9607,6 @@
       <pubDate>Wed, 19 Aug 2026 19:03:22 GMT</pubDate>
       <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
       <description>A.J. Brown&apos;s performance in joint practice vs. Eagles &amp;nbsp;&amp;nbsp; ESPN</description>
-    </item>
-    <item>
-      <title>A.J. Brown, who hasn’t spoken to Jalen Hurts since trade, praises ‘very special’ Drake Maye - Boston.com [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxOWUI2S1NRQkJVeFFsYjd5Wlk0Y1FKOVUxNEczZU9WcVlZcHczcjZ2aEt4N3BJTmJXZWNRbWkzVk1MSG82X0JOTGhXZDJoVjJEUkJrTHdlSWZPMHU1UzNfTHZ4aUxhOFVHeWs1Y0FhT2NGRHpyTEZOb2J3ZjIxOThUdEt3TjkyTFJEVnA5c2NNVkcwRVpoeUE?oc=5</link>
-      <guid isPermaLink="false">66cdd3812daf75bb</guid>
-      <pubDate>Wed, 19 Aug 2026 19:43:00 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>A.J. Brown, who hasn’t spoken to Jalen Hurts since trade, praises ‘very special’ Drake Maye &amp;nbsp;&amp;nbsp; Boston.com</description>
-    </item>
-    <item>
-      <title>Eagles lost the A.J. Brown trade battle today — here’s how he made them pay - NJ.com [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxOSzk5d3FUbXRFLU5NNzJUMFltbnJMS0wtNzdELWN1eGpHUUZid0ZPT0VNcEllRkQyY1JIM2RtckhCRDcyalp6a2F6eUN6MWtobVdDMzdESndiMHh5cmEyUGpiNUxUZVBxZzN2eVpuMm5mRWdDOFVLRGJEZzJTWFBIZzB3M2ZDZnc1eENBRDBtOWwzLU9SUlhselpveGJmZEVzQWlmbU90bUI0c0dwU3dXMG5OejlLU3lMaXNLRVBoT3hNcWFVSHF4UzB1Ny0?oc=5</link>
-      <guid isPermaLink="false">f690afa8da7f1927</guid>
-      <pubDate>Wed, 19 Aug 2026 18:13:00 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>Eagles lost the A.J. Brown trade battle today — here’s how he made them pay &amp;nbsp;&amp;nbsp; NJ.com</description>
-    </item>
-    <item>
-      <title>&apos;Patience &amp; potency!&apos; Describing A.J. Brown &amp; Drake Maye&apos;s relationship in TWO WORDS - ESPN [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNWDlTcktJZHlKRmpxRlZnbXdITV9acldXU1h1ZUFUcjlTZnZOaFZfVHVwSS16U0pZRVVQQmUzSVhQRG81R3liLWRHVXhuelFZVFczemZ1SlktY0d6Z1YtdVRnNi1QcUhNZFBOQWt4TVhvSm1HVXJ6SlA5T1U4SWp2Ujd5QjFWNW53U2pZU2NYSVpxSVRweFRDUEI5dWVVU3JlOXlROGMzRnNTZ21GSEp6b1RvZmQxME0?oc=5</link>
-      <guid isPermaLink="false">12a20090542f8e9e</guid>
-      <pubDate>Wed, 19 Aug 2026 13:15:14 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>&apos;Patience &amp; potency!&apos; Describing A.J. Brown &amp; Drake Maye&apos;s relationship in TWO WORDS &amp;nbsp;&amp;nbsp; ESPN</description>
-    </item>
-    <item>
-      <title>Drake Maye, A.J. Brown sharp in first day of joint practices with Philadelphia Eagles - CBS News [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxQOTVCdThsQ1VZVF9UaFA4Q0p1T1FkT2txc0phWGdqX1BwYzFQQV84WERocEJad3FQMS1iM3oyWnpfQWhkcU1IOGNybEtlOHJXZXZIS0tPajU4dTBfWUNiV0M1RVlUdlZrMHNnTDV5bFNlQkhwVXZqem15RVZYX1hpQnU3ajdMRHpzbnBlU0ZSZTJHUkJSaVdmZEdmbThqYlpFbmRsV1RmWlY1aXRNci1NNlFzbVM0MndWUUxNcld3?oc=5</link>
-      <guid isPermaLink="false">ea43d18335436539</guid>
-      <pubDate>Wed, 19 Aug 2026 19:38:00 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>Drake Maye, A.J. Brown sharp in first day of joint practices with Philadelphia Eagles &amp;nbsp;&amp;nbsp; CBS News</description>
-    </item>
-    <item>
-      <title>A.J. Brown, Jalen Hurts haven’t spoken since Eagles-Patriots trade - PennLive.com [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNzdMOVBWem9kTm9tYmNwOGE3c2ZOU2hhRmF2eTdKSGdDT2x3Q2p6amdvNkM1V1hJUjhiXzd6UFZzQ0NDU2xCYlBRM1ZNcVhLS2dYay11OU9PZUZjaXJwU1otYmJlcXlnR3VEcVFwN0xuYWhuNkpfd2JqaTVhQTRVWnV6X1lSZEFocTBYQl9jNXBMZ1BxNFhsU1BzRmRGVFdjc2ptMzY2a01KU1UxcDdfbndFUXd5aTk3S2ZV?oc=5</link>
-      <guid isPermaLink="false">cd9df5b868d8682d</guid>
-      <pubDate>Wed, 19 Aug 2026 19:43:00 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>A.J. Brown, Jalen Hurts haven’t spoken since Eagles-Patriots trade &amp;nbsp;&amp;nbsp; PennLive.com</description>
-    </item>
-    <item>
-      <title>Jalen Hurts&apos; advice for Drake Maye with A.J. Brown at receiver - Patriots Wire [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxORTRuUmRKZWUzY1JfOFZCYlFObjdpRXlucHJiNTkyR3BBRjRXajlxMkVYVTFfdkVmSWZYaURabFgtbUdua1VlLVFfV2J4ZlE5STdsNENyU1ZJVHd1MDZWSV8wdkY3UU5wYVhUYmFHVXdDQ2lleDlZNkdaWHJQRVgyZGtSWWNsUExOaEVjZUQtLVUxeXg3TFNDZVpQUzBVQmhUc2djWHB3U2VjamdTdTdxV2pwaHNXX2xlMTF6b2Vha1o1QllBWkFrNjlZSQ?oc=5</link>
-      <guid isPermaLink="false">e42e60bfef7c51a6</guid>
-      <pubDate>Wed, 19 Aug 2026 19:33:00 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>Jalen Hurts&apos; advice for Drake Maye with A.J. Brown at receiver &amp;nbsp;&amp;nbsp; Patriots Wire</description>
-    </item>
-    <item>
-      <title>A.J. Brown focused on Patriots amid heartfelt reunion with former Eagles teammates [A.J. Brown]</title>
-      <link>https://sports.yahoo.com/articles/j-brown-focused-patriots-amid-191447903.html</link>
-      <guid isPermaLink="false">5dc023daa96d0bbb</guid>
-      <pubDate>Wed, 19 Aug 2026 19:14:47 GMT</pubDate>
-      <source>Yahoo Sports NFL</source>
-      <description>New England’s receiver hauled in seven catches at Wednesday’s practice</description>
-    </item>
-    <item>
-      <title>Jordan Love remembers why he wanted to emulate Aaron Rodgers - ESPN [Jordan Love]</title>
-      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxOT3hzNUpCYlpDWUxySFFJN3FmWTNQS0x5YjBwcGF2ZWpadE5FdXRkcml1bF9pNER6Rmptb0twNmJkd2h4TVluZFAyUmxSWk5YczVIa3MwQ2FrSzdaNVhMRHJKZ3puMGhEbmYyYUNXdHlrZ2x3dUpFaVJNc3haZkREY21aSmtXZkxoSlh1aFMzRDlQQmpaYzVnV0o3cVZGQmlDYzhLdw?oc=5</link>
-      <guid isPermaLink="false">c82dde2c394e91b8</guid>
-      <pubDate>Wed, 19 Aug 2026 19:00:00 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
-      <description>Jordan Love remembers why he wanted to emulate Aaron Rodgers &amp;nbsp;&amp;nbsp; ESPN</description>
-    </item>
-    <item>
-      <title>Boise State Fans Are Loving Ashton Jeanty&apos;s Latest Video - 1035kissfmboise.com [Ashton Jeanty]</title>
-      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE4waWpCU0FhVXR3QXgwTlBvZ3o2ZDljZ0dCWTloUmhtdW9kMWExT25tSXpxQlRtZFl3VUxpejBjX0E3VXVRNE1aT2VFUVBZc3c1WWpGUDU5c1ZUS0s0MVdsSGpLTGxvOEk2YnBGT2FFQUE4OXJjemc?oc=5</link>
-      <guid isPermaLink="false">3e69d79c46baa9fd</guid>
-      <pubDate>Wed, 19 Aug 2026 19:04:12 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
-      <description>Boise State Fans Are Loving Ashton Jeanty&apos;s Latest Video &amp;nbsp;&amp;nbsp; 1035kissfmboise.com</description>
-    </item>
-    <item>
-      <title>Bo Nix Breaks Down Broncos OC Davis Webb&apos;s Performance against Falcons - Yahoo Sports [Bo Nix]</title>
-      <link>https://news.google.com/rss/articles/CBMifkFVX3lxTFBSUFpPMHZrVFdadFBLNUNQVkhuTVFiV0J3VDVfTDAtZzJYZ1ZrcHo2M25aV053WEpkYXNVbG5jQTlQTVUzR0FWdndrOG93SHBqS1VBM18wSERNWk1sV1hKajZrbWIyU0k4TXctajAwdXFaNGtJNDMwMjlyMzJFdw?oc=5</link>
-      <guid isPermaLink="false">3b8fd9826f3b440b</guid>
-      <pubDate>Wed, 19 Aug 2026 19:00:08 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
-      <description>Bo Nix Breaks Down Broncos OC Davis Webb&apos;s Performance against Falcons &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Packers are paying too much for Jordan Love protector - Yardbarker [Jordan Love]</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxOc2gzdUtkR08xeDZWREhjRjQ4QndyN09lLU1CSW9RSXRLbTNDRE04a3d1am5zTG5RTjVpbHk1b2ZPbU9nQWVVajVjVllvTmMxQXdRNldqSkxhMGV2QnZGcUY3NmpLSDhGZzJoTTFTSHBBSUhlMl9DTFlweDF6M1ROVldlOVZxR3ZVMUlabXhCNHZtd1NtTXpqV0JOOGJJUG1KMk1TLUJJWU4tVDU3VDhEcw?oc=5</link>
-      <guid isPermaLink="false">bd469281f001ed66</guid>
-      <pubDate>Wed, 19 Aug 2026 19:00:38 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
-      <description>Packers are paying too much for Jordan Love protector &amp;nbsp;&amp;nbsp; Yardbarker</description>
-    </item>
-    <item>
-      <title>What Jalen Hurts said about A.J. Brown after Patriots-Eagles joint practice - MassLive.com [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNVHI4R0JDVFNCQjQzR1FOWWVYb1J2MFVjSnNnRFJHd3FNRzJhMEd2ZWVxNlk5Y19PWDNZTGVzZ3E4bDZBdXRlNGNITDRUalZsMmFhQWJKYTFIY3d6VTFYYzVReEdobi16U1g4STVRNzladXVlSENpa0ZyWTlFWUlERjJaQllEenlFV3UweW5uMUpNS0NlVTNkbVZtMWhkOWV4Zjk1YWowdmtpT3VuUWFWd1JRRXpJd0tfTTZhY9IB0AFBVV95cUxPdzJRdXp0dnU2VGF6TU1zTzdsWl9CdEtvSXdvNG1MT1UwdzJRM1JTb0ZVazhzZmFaUmViS2tvdWxjZWpWeHhRSERSMVRrdlBRWFFyNkt4b2dlTjBGcVo0QXdWTkk2Z2lHcU5UMXo1RWxnZTdMZGRJMzlCQmZoME5UeWRQa3AycjBFUGJpX2ZLT2hFU0g1N0k0U3hfbTRtOVc4dzRGTk9XMXhEdzRGeE1mT2xMT3RBVEVDcjhNODVyeUE1anI0R0t4aUVfTGlWQlFQ?oc=5</link>
-      <guid isPermaLink="false">8060c5c28a8e11c8</guid>
-      <pubDate>Wed, 19 Aug 2026 19:03:00 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>What Jalen Hurts said about A.J. Brown after Patriots-Eagles joint practice &amp;nbsp;&amp;nbsp; MassLive.com</description>
-    </item>
-    <item>
-      <title>A.J. Brown’s Play Speaks Volumes in the Most Anticipated Joint Practice of 2026 - Sports Illustrated [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxQc3I5Zi1UQXZEb3NkX0xTT2lEUFJGZG1fNnVhc1lCSENLTFFzYXh5ejZpYmlEN0hCdVllTUhhSS1XNXRJZ0dta1JiTEN2aHFVUnRGMlNuZXZybWJlOGQ2a01Xcld4YlpNQ0tuYlctR3FyZlpLaFkyS3hhUmxIM1IxZzRRZzZGU1VxUjZQbGdWUUMtcmszdm9J?oc=5</link>
-      <guid isPermaLink="false">430ece5d5630df66</guid>
-      <pubDate>Wed, 19 Aug 2026 19:13:38 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>A.J. Brown’s Play Speaks Volumes in the Most Anticipated Joint Practice of 2026 &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
-    </item>
-    <item>
-      <title>Eagles&apos; Jalen Hurts Has Brutal Day in Joint Practice With A.J. Brown&apos;s Patriots - Yahoo Sports [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQYjRvVlBYQVJOTjFGNlA1bUhRUnh1dVMtWHIyZEZBSnFtVEJpaEhSZS1XX19VX3VuZVgwM1BVUGRxYlpkRTk5b0t6Z2tlMnMwbDMzSUp0Q1VmN3RXVkw5VTBQX0pwaU12Zk5EZjkyVmZJcXVLbTlLVENkaFlEc3UtYUFWTHc?oc=5</link>
-      <guid isPermaLink="false">54d703c04d5e09cf</guid>
-      <pubDate>Wed, 19 Aug 2026 18:38:58 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>Eagles&apos; Jalen Hurts Has Brutal Day in Joint Practice With A.J. Brown&apos;s Patriots &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>The Eagles Have Officially Won The Joint Practice Against AJ Brown and the New England Patriots - Barstool Sports [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ21DRmwyamozZ2g3elJFVkhPeU9lZ3k0LXRHYUFnSDFQV085QUxEbzdzd0R0NE01dlZDMHY3QjhsZWlvWmo3MTdGdGU0WnVrWVI0N3o0YzRKRk1ZSDlBaWhvZHA5TzFqSmNTWkFJeVdnVjFBbnJOTUhKMFI2LV9hT2l0NF9fOTdORE5RMThQR1lfNlktYl9YT3M1TV9xUy05TWRqNl96TTBoOWZtTG1MRHc1dnRWUm5zN0E?oc=5</link>
-      <guid isPermaLink="false">98742fbbcfb0cbae</guid>
-      <pubDate>Wed, 19 Aug 2026 19:18:01 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>The Eagles Have Officially Won The Joint Practice Against AJ Brown and the New England Patriots &amp;nbsp;&amp;nbsp; Barstool Sports</description>
-    </item>
-    <item>
-      <title>Eagles stars aren’t speaking to A.J. Brown — but that’s fine with him: ‘I’m not going backwards’ - NJ.com [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSjIzTUl3MWhTUGVxMGUycnhVLW1iZnlleFNOOGNBMU9POGJ1bi1lNEJ1N1dUb29Fa1lGYVE5STBfRjMtNk9VRjEyNVpFTERaSkVyYk5iY2M2Y3VQU2FoT05pZjVZOFR4MmVrXzBmbE11S2UwUDdmMVdqaDJiUXo0OHdveEltM2phUUZzRDZva3lwYlRybUdoNzJwVDZWeFNTOXdRMU9CNWZGMFpiS3R3dEF3emltalpLb0NxSTVEbDM1Y00?oc=5</link>
-      <guid isPermaLink="false">247666d0d6a2c6da</guid>
-      <pubDate>Wed, 19 Aug 2026 19:33:00 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>Eagles stars aren’t speaking to A.J. Brown — but that’s fine with him: ‘I’m not going backwards’ &amp;nbsp;&amp;nbsp; NJ.com</description>
-    </item>
-    <item>
-      <title>A.J. Brown keeps diplomatic on Eagles exit: &apos;I&apos;m not looking in the past&apos; - PhillyVoice [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxOLWt4MEFqdm9hbG0xZVJTb0tyQzhwanNfZVRHYzZpX3RnTTByNHp1SER1ZnBDWTNtT2NCR1kyc3BrWTVTZHF0Mlo3QXFqTGtmcll0TE1YSVgxZU9Ea0kxWHFhZlp3Z19icnF4MEN1Skk0X2ZBcmRia2xzb2xlWlpWenh0aFhGSzJMdXRXSWxWRnVkZmJVUjFfM1E1TFVydUFBZXFieWRrZEpCV05WRlVmdU9LNkRLdDA?oc=5</link>
-      <guid isPermaLink="false">43bb7154f286ece5</guid>
-      <pubDate>Wed, 19 Aug 2026 19:12:59 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>A.J. Brown keeps diplomatic on Eagles exit: &apos;I&apos;m not looking in the past&apos; &amp;nbsp;&amp;nbsp; PhillyVoice</description>
-    </item>
-    <item>
-      <title>AJ Brown had one word when asked if he’s talked to Jalen Hurts since being traded - Larry Brown Sports [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxOdVNBeW5iU2ZHWXpKTjd2QmZzT0xYdU1aWUlFbU02VjVBR09JZkhTb2RzbVU0RWZ0TUhlbVJRbUtQWFN5dnRBTV9ZNHIyTWtnNjc2X0NJaWlmM1ZWaWhTNVB4VnpxOHo5Q3ZBVzdTcW9neHJSazhQeGdab09sR0JfZUNaZ3ZKZkszMnRFSXF3MjVadw?oc=5</link>
-      <guid isPermaLink="false">5e6a12c82b74a23c</guid>
-      <pubDate>Wed, 19 Aug 2026 19:29:15 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>AJ Brown had one word when asked if he’s talked to Jalen Hurts since being traded &amp;nbsp;&amp;nbsp; Larry Brown Sports</description>
-    </item>
-    <item>
-      <title>BR015: Antonio Williams vs Patrick Okine Boxing Prediction Market - Robinhood [Antonio Williams]</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPdWxQaFFHTWptOW1iMThNSm1ZVGRBSDNNRUZ1WWE0a1ZqOU9tMGtTeDY5aDF3ZnNrSE0ycmpjTHZxcGEzTU4zZUU5SENQeE5iY0JnWGU2UFVZNEhpelJJUXU1akwzME0wLXk3SzMzN0Z3WjV1dFlabjUwbk5VMmdKX0xnc082eEZIYWMtQU1QMEZNR045djNEVjVUSDdHU2ZST2RUWHZmOUttVERNcExmT3JUNA?oc=5</link>
-      <guid isPermaLink="false">175343aa8cc10aca</guid>
-      <pubDate>Wed, 19 Aug 2026 19:12:51 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>BR015: Antonio Williams vs Patrick Okine Boxing Prediction Market &amp;nbsp;&amp;nbsp; Robinhood</description>
-    </item>
-    <item>
-      <title>A.J. Brown&apos;s Fit with the Patriots Stream of National Football League - CBS Sports [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1QQmZfbkoxV2tpTjV5dGJIVXhRNTBVN1A3VkdHMFF4b2liNmJZQ3RjcG9iX09HZ2JhOVAzYVNmQWFuYlFWZjhsbjVyc3VzXzJhUVZ6MXJoNmdKMDFCd0FLOTZTbVFtT3hLc2JpcTZVVkViVDVWMDRwa3BYVkszbkE?oc=5</link>
-      <guid isPermaLink="false">f21df5ab451f18a5</guid>
-      <pubDate>Wed, 19 Aug 2026 19:29:41 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>A.J. Brown&apos;s Fit with the Patriots Stream of National Football League &amp;nbsp;&amp;nbsp; CBS Sports</description>
-    </item>
-    <item>
-      <title>Jalen Hurts Might Already Be Missing A.J. Brown - Yardbarker [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxPQUZ6TGdaekluRzJQcG1peTllNFhjdEJMZnpfN19LODN2aGdOQnJ2bkpueUE5M1czVVBrSk5BdFEtS3dSX01BR2xUUlVwN2t3VzlwLXJXQzhXVlJHcVBHREhTR1VGa2VOUkRrN3M2ekdOc1VzM0hMSUNkNXhFTlUxZU1VZC03QWFIdkZBNi1YeTlIYk5QNTM2ekZLUldibUgtSUl5ZkVB?oc=5</link>
-      <guid isPermaLink="false">50cd88315715bc5a</guid>
-      <pubDate>Wed, 19 Aug 2026 19:23:11 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>Jalen Hurts Might Already Be Missing A.J. Brown &amp;nbsp;&amp;nbsp; Yardbarker</description>
-    </item>
-    <item>
-      <title>INSIDER: Why Did Detroit Lions Prioritize VETERANS Over ROOKIES on the New UNOFFICIAL Depth Chart? - kagstv.com [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMirwJBVV95cUxOc3JfZDZpb1FlZ0FiRG9YTEtiWFRleENMY2p4WldKdnJJZ0VkQU1Eenc1cXY3eGZ0ZjdvQjNKQlY3S1FaR1VXNGNwcG80eERDb2tnSVBHSW0tY29LQ2pTQVRYdENkaldOb0d2emd6cS1taWlLNXBHcVlfc3ZObFNQU2s0NEtKZXpubkUyckgzR2JZeHo1d1A5NlE1V0x6UkdEeXNvY3l6NGZrc2NheG1WOFV0UkVMb0dJd2gwRmF2U2Z6c1VOYks1d3BzLTNaalprM2F5cndxcjN1OVkxb3gtVUp4S09jcERBQjhwaVdlZnkyTHkyLWEzQmt3TjJudFNVUG1RZ3RLbW5PY0VOaEFJbWxHX3gwUTBkY25WZXlsaHZ5cGNncGpGZ1MwYzJDaDA?oc=5</link>
-      <guid isPermaLink="false">211c78e885612061</guid>
-      <pubDate>Wed, 19 Aug 2026 19:09:00 GMT</pubDate>
-      <source>Google News: Detroit Lions</source>
-      <description>INSIDER: Why Did Detroit Lions Prioritize VETERANS Over ROOKIES on the New UNOFFICIAL Depth Chart? &amp;nbsp;&amp;nbsp; kagstv.com</description>
-    </item>
-    <item>
-      <title>Patriots&apos; Brown professes &apos;love&apos; for Hurts, Eagles after practice - ESPN [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxOWk1jMHRmR1NNSWJySkNGVllwZ0ttMWhzTDlBbTBtY3FsZERyempTQUdxVlFRM3pVSVd3Vlg0bmxRenp0UHk4dFk5R0pBR3ZBS0dEZzQ0a3NZcFpJQ3loeFY5NFJCRGdYVkFqQ1U3bmZoWXRaOHlBV1dtUXVKbmVaZk9YeVR6VnExYTlZQ3pobDVKb2ZoR2FOaU5GRzE?oc=5</link>
-      <guid isPermaLink="false">d368874e17dfb222</guid>
-      <pubDate>Wed, 19 Aug 2026 18:51:00 GMT</pubDate>
-      <source>Google News: Philadelphia Eagles</source>
-      <description>Patriots&apos; Brown professes &apos;love&apos; for Hurts, Eagles after practice &amp;nbsp;&amp;nbsp; ESPN Joint practice recap: Patriots dominate Eagles, Drake Maye shines &amp;nbsp;&amp;nbsp; NBC Sports Boston Overreactions to A.J. Brown-Jalen Hurts Statements After Eagles-Patriots Practice: Brown Comes Up Zero &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
-    </item>
-    <item>
-      <title>A.J. Brown didn’t speak with Jalen Hurts or DeVonta Smith during Eagles-Patriots practice [A.J. Brown]</title>
-      <link>https://sports.yahoo.com/articles/j-brown-didn-t-speak-185401701.html</link>
-      <guid isPermaLink="false">333349b39fbec9b7</guid>
-      <pubDate>Wed, 19 Aug 2026 18:54:01 GMT</pubDate>
-      <source>Yahoo Sports NFL</source>
-      <description>The former friends are all out of words for, and about, each other.</description>
-    </item>
-    <item>
-      <title>Broncos will play Bo Nix and starters vs. Packers: &apos;I’m super excited&apos; - Broncos Wire [Bo Nix]</title>
-      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxQSmVkazRjMTF0MVpZS0htVk1SdGtPYTBmdHNUMUNUSGVSYzExLUM5U0d1VUlmNDZ6MTMxeGcyZFU0RHIxbGJaWkpJa2hCbmJ0bXJOYVl2TXA2X1UzRVF1NkVJeF90Wnp1Yk9fMlFkMGxpTFF4Q1VZcTZJZVdpV0x5MXFWQktjNmhhU1pZYm1RWGhLa0N2Tk52M0wzNWMxVG5ZTmFMem1yX2xLNU5FRS1KWC01em9lTllsMlFvcWFHMnRiVXRv?oc=5</link>
-      <guid isPermaLink="false">66f17725c5d97908</guid>
-      <pubDate>Wed, 19 Aug 2026 18:35:00 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
-      <description>Broncos will play Bo Nix and starters vs. Packers: &apos;I’m super excited&apos; &amp;nbsp;&amp;nbsp; Broncos Wire</description>
-    </item>
-    <item>
-      <title>ESPN Fantasy Football ADP Bargains: Chase Brown And Other Stud Running Backs Are A Steal On ESPN Fantasy - Sports Illustrated [Chase Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxQampkSmRXWWJVRzRRNzhUeU4zcG1ObXRLbzA4RVZqbVJ6enpTWTRDcWV4dkZaT2N5a0JLV01Xa3owVHN0d05FTVQtb3ZmQlh5RHYtNmpYWGNvWl9GaEx4eUpUN2JNYzJqMlRQb1pROC1qUkdWamE4MktzTkhyN2ZuMUdFUzQtMXZwLUI2VVA4X01CMmh3SkZjTUNHSnRTQi02dDQ0dkUwZHYxV0cyekFyZmR5NXRLcVZYYkY0ZEpsazhkc3VhMDVyMDlqemx5RlpjVnpERHNn?oc=5</link>
-      <guid isPermaLink="false">008508b9c6ee1f96</guid>
-      <pubDate>Wed, 19 Aug 2026 18:56:28 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
-      <description>ESPN Fantasy Football ADP Bargains: Chase Brown And Other Stud Running Backs Are A Steal On ESPN Fantasy &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
-    </item>
-    <item>
-      <title>A.J. Brown&apos;s icy answer on Eagles Jalen Hurts as he praises Drake Maye - The News Journal [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQ0Q5ZEhyRGgxM0E3M0J3QnBSMEVWVDY0MTlncjJwVk1mb0VNLWVVSGlERV9fV2xUY3pTMVVJZ0w4SnZyTzFacEVBODZnTGt4YUYzZ1B5c3l2R0MwU1FvVWFjUUpOUUowNnY4YTlxWHNlaFpGMi1BeldZUDhYVWxIUXk3UXFMSDhHbXo0T1N3U1dfbXZiUzdJZ0tFbmV5Qnlsbi1XRG5HOWVSUzZqZEtCUmt5UWpzbE1nd0Jid1UtYzRHZzdkX2JFMTRzN3Z5emhVWDdocHF0Q05JeVdH?oc=5</link>
-      <guid isPermaLink="false">57924b951bb199b8</guid>
-      <pubDate>Wed, 19 Aug 2026 18:45:00 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>A.J. Brown&apos;s icy answer on Eagles Jalen Hurts as he praises Drake Maye &amp;nbsp;&amp;nbsp; The News Journal</description>
-    </item>
-    <item>
-      <title>A.J. Brown, minute by minute: Following Patriots’ star wideout at Eagles joint practice - Boston Herald [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUGM4TUt6ZFEyczNHRDEtVDVnMTVXcW9mSWNIZ2VQdjk3UGVQRWVjVGMzUGVVbHhqMkxsOUtuU3lTRnVjZW9rWGlFa1dnQjdWM2FEZGR1ZjhWampZMzhxN21rUGtiV2FXeEd5Z040MWI2R0J5SWd3ZGU4RGZhUmNFQzN4MWdlc2VHREw2Y3lmZ2FJa05jQmlzVVRmelFyb1IyQ0RwTTNTcW9UMWRyUV9ZZ1UyZUd4NlZXQXVhQjR2LWVMUQ?oc=5</link>
-      <guid isPermaLink="false">c63464ae90c9eea7</guid>
-      <pubDate>Wed, 19 Aug 2026 18:50:33 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>A.J. Brown, minute by minute: Following Patriots’ star wideout at Eagles joint practice &amp;nbsp;&amp;nbsp; Boston Herald</description>
-    </item>
-    <item>
-      <title>A.J. Brown grilled about departure from Philly after Eagles-Patriots joint practice - NBC10 Philadelphia [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWjJINkZLQVlQUGZNOEVoMl9La0ZmRXpwN3h5bllveXFJdzJvMnRqX3NzbDlWeW1XS2Q2NkFOdVpSVHRoMzBpQkx6YTg3MkQ0N2JBWGNhMS1laUl0MDNPZXhFc2xaRjhXeGRJTVJtcW51Nk14a2NYU0NFYW5tSGhTNV9qanZmcm1zVGc0eERNSDE1WHZLV2VONi10X3JJOEhEam9kLXc3SGNvNlppaHpydmZZLWxydkFTX0F5X0IzR3ppUGdkU01UTlh2MUxsOXZRWEFVSV95MFBHb293UG1YYU1zaVUzUTNRLVhibW5XeE5vWWN4LTl2U9IBgAJBVV95cUxOekVMSHgyc3NyOHVJQ3IxUmRSVjdFVWdGczQtN3VNWFM5R19XZDB4dkVEbnBsSGhUQ1puMDF3U3kzZ0NYdDF2a2xLUXlYSC1NQjRZc19LN1NUWEdpQUJLT3plWXhMZVdCSVhnVjFZZWZmWUxrRGpBbjRKNThiOWFGcGdlaTBlV2hqTXgwcjJwWGF4WkJJVUtIWld0LTFGaHlSWEQ3cHFYTDJJbTZDd2Y0RnNTbU1kREU4SjQ5NERMckNXWFUyWDc2TTlDcXg5ZG5leG0zS1lzaWxhRE92dDQ5dG1hSlVLSzFCLUFleWhGbHJLS3AzaGxyUnpCbEJsTl9r?oc=5</link>
-      <guid isPermaLink="false">82301a97d4cd5f00</guid>
-      <pubDate>Wed, 19 Aug 2026 18:42:10 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>A.J. Brown grilled about departure from Philly after Eagles-Patriots joint practice &amp;nbsp;&amp;nbsp; NBC10 Philadelphia</description>
-    </item>
-    <item>
-      <title>Eagles All-Pro: ‘Faster’ A.J. Brown looks ‘a little better’ since joining Patriots - MassLive.com [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQTUhlal9nbmQzTHp5ZEhwVmpoT2xZOFlqQXpDa1BIMzZham1FTHFwX1NiQi1wQjZDQno1dE0zU2xpcEFGMmxuRlpMOXE3MnZOLTN0WWxPN2hnVFRzQ1dTSy1oVmdnbWdIWjZFSms0a25HVGhMc1VCeVFkdkh2amdqR2I0VjhqX1Z1elJhc0k1WHZiZnhFd0VDY3pxUHJlMWh0UEF5QkdTZS1aMGx4X0xmdGd1NFZXVlJPVDJWNnl2Y9IB0wFBVV95cUxNNXR6REVvVl9mY25aVHBITkJJYlNOSmJXY25sY0lGdW1hQVdjcVF4cDlySVlON1JZbDRyWVctM2Qwbm1kZ2pWQnpjSTEtU2pGZkROSUJCd0pWQWhBU3pPUkQ2cXNfLTZBNlE1ZTdUVjZuVE5VTFRmdEpvNzlfWU15UGZZc3piNlVSUzJxNlVzcTdwdThGLXlKWGRuWU00WElSN19TYUhYVFJBMUxrczlXbS0xZ09LREsyN0VJczhiYjFpaHpLTDdKSHNSNUZTb2dkdm1z?oc=5</link>
-      <guid isPermaLink="false">08c5006acbd821dc</guid>
-      <pubDate>Wed, 19 Aug 2026 18:32:00 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>Eagles All-Pro: ‘Faster’ A.J. Brown looks ‘a little better’ since joining Patriots &amp;nbsp;&amp;nbsp; MassLive.com</description>
-    </item>
-    <item>
-      <title>A.J. Brown dominates Eagles in Patriots joint practice - MassLive.com [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxOQmx4NzVGN29qTS1TdEthWkp6ZUY0NkNlNmdoWUtualNiR2FzNWVIWWZYTW9zN1lIcjhvZkJpUnlkeVIxYlNqV0tneFp6bTlVbTk1VDcycTV3X3RqamhXV0NWaEsxeVc0SmVmOUd2MjRMVEhqZ2RWM19OTXkxeW9iTnNqV0d4M2lNRi12WDJpRUxGeEFmV3JSb2RLMEZxMnpD0gG0AUFVX3lxTFBnNFZNdVBBN3hnenpxRlZxU0h1V04xc3lZcEV4Ml9DeGxMaVMzNGJ1X3I1QmlzR0FzY2FueEl4b1AyXzBKbDFhUzVJREFIOU5sNVlIM1E0S3FoemNpRG5RRXpyeWZ2enhGZ05IUnVpTjNPR283NmpkdnVlaW9YTTQzaGtTbHRXQnE4emhOYVlZV1R4bXBXTy1CWkFhenZSWTQteDYzV0xHVjZjVTRqOWJWdi1PTw?oc=5</link>
-      <guid isPermaLink="false">e26747afe29253aa</guid>
-      <pubDate>Wed, 19 Aug 2026 18:32:00 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>A.J. Brown dominates Eagles in Patriots joint practice &amp;nbsp;&amp;nbsp; MassLive.com</description>
-    </item>
-    <item>
-      <title>Overreactions to A.J. Brown-Jalen Hurts Statements After Eagles-Patriots Practice: Brown Comes Up Zero - Sports Illustrated [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcXZQU2owOXkxNF80Z2ZtNW5UNTRvQlEyQkxMX1pLXzczVnFmQ2VQUTYyTHhNR2xsUG40X3BlaDRMRFVOT3h6X1pKQmwzLVlieVV5Q2IzSkJvR0xnSC1uMFR1MEg1N1Q0bzBBVGV6LVQ2WHFXSnZoNFktaGtqaHRnUWRBRmN1X05PUWlMUG5ESEFWRDNMRmcwNVExMjhZNUpVbG1HT1VvVm1DbEtYbXdwcDVRLVhtQmtzNFpCdWhPbHpSd2xtbEl2ak52dHFBU0ZyMjN4dGxjUGczXzJCamZSYmZR?oc=5</link>
-      <guid isPermaLink="false">9d5b3125a637a5e7</guid>
-      <pubDate>Wed, 19 Aug 2026 19:00:03 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>Overreactions to A.J. Brown-Jalen Hurts Statements After Eagles-Patriots Practice: Brown Comes Up Zero &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
-    </item>
-    <item>
-      <title>New England Patriots&apos; A.J. Brown professes &apos;love&apos; for Jalen Hurts, Philadelphia Eagles after practice - TSN [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSFN4c0Q2cmFQd0lMeUhxd0pkTFFVODRROEkxUFlvTDdabllLZWxWSmF5NjhmaDVsNDlsclEyd1ZOM2xidjdIMEZrb05DNkRlUWd2cmRYN2NwNXJJek1CQ3FTeGNMR2YxXzl5OE9MMjZlZHVldnFaU1lmcmtMc2tiR2lITTRWVzdLSTV5RTFRTTB3ZFNoZWJUQWE2blI2aGhVaDdHdnVTVDU?oc=5</link>
-      <guid isPermaLink="false">24e118515ef81081</guid>
-      <pubDate>Wed, 19 Aug 2026 18:58:30 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>New England Patriots&apos; A.J. Brown professes &apos;love&apos; for Jalen Hurts, Philadelphia Eagles after practice &amp;nbsp;&amp;nbsp; TSN</description>
-    </item>
-    <item>
-      <title>A.J. Brown talks about Jalen Hurts after Eagles vs Patriots practice - The News Journal [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaUZGUTJqOFlFNXZRbFNWZEN0YU5wWkVocFA0S01xV203bE52VWpiVV9JcmtocnBLeTZIT090UWJQaGtQSWZ2ams4T1lOdkdJUzBxdC1tSUZVbndVNkxSSndfRnRkczMyY3BqRS1KYkJCUHNfcXVGaGJCQjR3QzJoTHVzT3JCeUY3eEhUSnZ6Z3lwSjB5NUM0dWw2ZFZhQVlzcXh6dGNjQjB2c1p6UnpxcHRlejA4eFZubmtCY2pWSFZfa1RZeHhNS1FhMlRYZTRRM3RvaldGLTdMbUtEcTFoWQ?oc=5</link>
-      <guid isPermaLink="false">8a395f77dc03bffe</guid>
-      <pubDate>Wed, 19 Aug 2026 18:59:52 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>A.J. Brown talks about Jalen Hurts after Eagles vs Patriots practice &amp;nbsp;&amp;nbsp; The News Journal</description>
-    </item>
-    <item>
-      <title>Falcons agree to $54 million, 3-year deal that makes Kyle Pitts Sr. 1 of NFL&apos;s top paid tight ends - AP News [Kyle Pitts]</title>
-      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxPM0pXcVB1ZENlQjVudlR0TTN0NEFYSkdHNlhhZFI3MXJKUTFya3ZONzJ4bUFyZHlsSTBfZWlPWVRSSUVBR05NR1VGNHhCOU1jUHg0TFpKeEhmbVlRQlZxaGVEdDRQZ0F1REMxb3FVUm96WHR2cGVDNDc4dUFoaXB5cG16SGxENm9HX2c?oc=5</link>
-      <guid isPermaLink="false">29ce33174a019a26</guid>
-      <pubDate>Tue, 23 Jun 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Loveland, Sadiq, Pitts</source>
-      <description>Falcons agree to $54 million, 3-year deal that makes Kyle Pitts Sr. 1 of NFL&apos;s top paid tight ends &amp;nbsp;&amp;nbsp; AP News</description>
-    </item>
-    <item>
-      <title>AJ Brown Is Facing His Former Team In Eagles-Patriots Joint Practice, And It Was Absolutely Electric From The Get-Go [VIDEOS] - Yahoo Sports [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxQZFFXRXoybkUzYU5oMnY2ZFRXell4M3hzeS0yZVo0eTRzZXVaZzlCRWNBeXdiQ0FaYWM1RjNIeU51eF93UVNadk9QUmI3YTlFUHJ0VFRheUdRTlZBa3VsNVVwLVd6dG5zcGxabVREdXFTUmdoLUE5YWMzSmtDRkRlN0hR?oc=5</link>
-      <guid isPermaLink="false">0f32787cad83a34f</guid>
-      <pubDate>Wed, 19 Aug 2026 17:46:49 GMT</pubDate>
-      <source>Google News: Philadelphia Eagles</source>
-      <description>AJ Brown Is Facing His Former Team In Eagles-Patriots Joint Practice, And It Was Absolutely Electric From The Get-Go [VIDEOS] &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Former Hawkeyes Kicker Stevens Wins Starting Job in Washington - westerniowatoday.com [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxQNlVzOU5FTlJLbjRxQVV1ODg2OExVV0xfRmdJSjhTM2NpbW1SeERpV2htZFJZVEloMllJYjA1Tkw1eVhWQy1femZJTjh3UmUzTWhjcE8wZ21VMG9EUEt2NlBhNDhKbmtkV091U081TTEzQlZ2elZjS0FGd3hoZF9mUGNJODhhcUpzWlVnU0tsLThvT1g5M1Qwb3VtVVpqaDJOREdVMzJR?oc=5</link>
-      <guid isPermaLink="false">a1affc30fd0d94a2</guid>
-      <pubDate>Wed, 19 Aug 2026 15:28:09 GMT</pubDate>
-      <source>Google News: Washington Commanders</source>
-      <description>Former Hawkeyes Kicker Stevens Wins Starting Job in Washington &amp;nbsp;&amp;nbsp; westerniowatoday.com</description>
-    </item>
-    <item>
-      <title>A.J. Brown says he hasn&apos;t spoken with Jalen Hurts since the trade [A.J. Brown]</title>
-      <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/a-j-brown-says-he-hasnt-spoken-with-jalen-hurts-since-the-trade</link>
-      <guid isPermaLink="false">362c4a9cd66fc3f3</guid>
-      <pubDate>Wed, 19 Aug 2026 18:12:25 GMT</pubDate>
-      <source>ProFootballTalk</source>
-      <description>With the Eagles and Patriots going head-to-head for a joint practice in Foxborough before playing Saturday&apos;s preseason game, members of Philadelphia&apos;s beat corps got a chance to visit with receiver A.J.</description>
-    </item>
-    <item>
-      <title>A.J. Brown, Jalen Hurts did not speak after Patriots-Eagles joint practice [A.J. Brown]</title>
-      <link>https://sports.yahoo.com/articles/j-brown-jalen-hurts-did-175337624.html</link>
-      <guid isPermaLink="false">1f7e9c4b74e9b3f3</guid>
-      <pubDate>Wed, 19 Aug 2026 17:53:37 GMT</pubDate>
-      <source>Yahoo Sports NFL</source>
-      <description>The Philadelphia Eagles and New England Patriots faced off in a joint practice on Aug. 19. Here&amp;#39;s what A.J. Brown said after an impressive day on the field.</description>
-    </item>
-    <item>
-      <title>Bo Nix and Jaylen Waddle finally have their big moment at Broncos camp - Predominantly Orange [Bo Nix]</title>
-      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDl5eGNyTTNPOEIzOHB4ckJXMHRHa3pvQWhsS1B1UkdlT3J5M2I3eWpVOEhFVVU0emR3ZElnZEt4andhUFpkZUVUVWVPU2cycjJpc0dMLTY3SXNoUThWdm5WOHM3ckMwZE1JYkU3dGM2ZUFaR3U3b1FHaFBmT3N1eThTeDJuajFvMzYwNW5YVFNteWp5X1BOODhJZnVtSGs2ZGNGZmtUWXpRWnhtNUw3NUVieTlVdw?oc=5</link>
-      <guid isPermaLink="false">9380d5535d9244b5</guid>
-      <pubDate>Wed, 19 Aug 2026 18:13:18 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
-      <description>Bo Nix and Jaylen Waddle finally have their big moment at Broncos camp &amp;nbsp;&amp;nbsp; Predominantly Orange</description>
-    </item>
-    <item>
-      <title>Will Jalen Hurts step up for the Eagles? Is Jordan Love becoming an elite QB? - TSN [Jordan Love]</title>
-      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPaVJQUnVWNHZkX2l6M2xVcGkwVHhGUTV0dUg2dUxOanBJTTZONWdoWU9hVWhjYzYtYjY0T1JkOFA4SXZyTmtTeURfU3ZZS1hjb0toaFI2V2VkbzQ2dkNzYS04UXRwRXBGbjBVZ3pTbE4xcnBxdHF6MHoyMGVJMFFxUzVvMWJIY2tsRDJKQWNBSEQ1dHY5WkRQZFFMQVdvMTQyYXdFdWNrTUh0Ml90dENTcTAzaFVzSW8?oc=5</link>
-      <guid isPermaLink="false">0fcb075b78b74820</guid>
-      <pubDate>Wed, 19 Aug 2026 17:55:46 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
-      <description>Will Jalen Hurts step up for the Eagles? Is Jordan Love becoming an elite QB? &amp;nbsp;&amp;nbsp; TSN</description>
-    </item>
-    <item>
-      <title>Eagles Patriots A.J. Brown Practice Highlights | B101 Philly - Audacy [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxPbDBEQk9xNmFTbVVBOWF2aWJyZnNUZ0ZYdS1vNHNqcWx0RWx4aVFfOVhueFZ6VFFHcjRyUTlFTjdncVZHVjNsMGVYdV84dEpzdWVyUHZ1SEdXRWdkRFhKbzkwb0hBLTNfeDJvMGJYRGxHZVMxa29lS2s1UE1NYkwxT2t5ZWQ2Z3FwVUxqVEtnTktZcjFB?oc=5</link>
-      <guid isPermaLink="false">a7631e88bf12d015</guid>
-      <pubDate>Wed, 19 Aug 2026 17:32:32 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>Eagles Patriots A.J. Brown Practice Highlights | B101 Philly &amp;nbsp;&amp;nbsp; Audacy</description>
-    </item>
-    <item>
-      <title>A.J. Brown sends very different messages on Jalen Hurts, Patriots QB Drake Maye - Boston Herald [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ0FtTUg5YTF2V2ozek5xWDlCM1dqczFuYUU3VWNHQU4wYlhkRXluVENCdFFURXF6OWJHZVM0Z25FNElydkJVX09YdXc3NnlIQVpEYkh0TVNuR0N6SlowWWVXU3hTRHNxT0tXSzVibjhJWU9vN1R1QktKM2d5R296UjhfT0ktMVhoUlpYU3NtNUloeVg2VzIzbVZ4XzJTWFo4aUEwaVpZcGdEXzA5QWpCUTVoeGs4RWZPdGc?oc=5</link>
-      <guid isPermaLink="false">b29740069fa66e74</guid>
-      <pubDate>Wed, 19 Aug 2026 18:03:54 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>A.J. Brown sends very different messages on Jalen Hurts, Patriots QB Drake Maye &amp;nbsp;&amp;nbsp; Boston Herald</description>
-    </item>
-    <item>
-      <title>Patriots Joint Practice Notebook: A.J. Brown Dazzles Against Eagles - Sports Illustrated [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPWDh3RTJDM2dYMjZnN3lOX0VFVmFoN0hGeWY1V0QzbTZaZW9CTFF6NG8xd3VhQzJrWHBCeE5hNjFxUjFxXzk0YUhnaElCdTRGRmxBdmstYk1oYWg5a3FXN1phUHE2cVFGR3BXTFNYS3lfLWwyalJTV1QzVTdRQVc0ZjlVS0l3aklhUzVkMWNLOGdqWmU2bldxM2hVcXZPT1BiY2phRQ?oc=5</link>
-      <guid isPermaLink="false">1c67141e79103cc5</guid>
-      <pubDate>Wed, 19 Aug 2026 18:25:10 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>Patriots Joint Practice Notebook: A.J. Brown Dazzles Against Eagles &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
-    </item>
-    <item>
-      <title>Martin Frank on Day 1 of Eagles vs Patriots practice with A.J. Brown - The News Journal [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaW90NlFRazJtT3dPRjVrcEh4bTgzS2JjdVZIMTR6eE91MUV4eHhjc0h4UWhfOHFrLVg4TjNPbER2Y2VTcVBXSHYtQ0M5ejZUa1ZLOThqX1RqN3o4bkNyeG9KejR1SlBrUFNtNXhVUU9fNHZuenRsdTQzcHNxd2dUeWdnQWtaUDVOdlJsNnlxMWEwWVdZTVcyb0ZEcFppZEtnQ1pCNExyNW54OFpSbUFBb2d6WTNHeUxXZTRiOXRNbFQyVm9PRU1tUlpZeDlnSDNJaHlheW5oQ2Q1c3RYQzFLOA?oc=5</link>
-      <guid isPermaLink="false">84dec81b5ae1cf0a</guid>
-      <pubDate>Wed, 19 Aug 2026 17:53:52 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>Martin Frank on Day 1 of Eagles vs Patriots practice with A.J. Brown &amp;nbsp;&amp;nbsp; The News Journal</description>
-    </item>
-    <item>
-      <title>Falcons Opening Drive: Joint practice No. 1 with the Colts, and ‘Kicking the Stigma’ - The Falcoholic [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxQMnBDbmljNXFRYktmclNJMjdjaWRJRWlPVUF6TDFkLWdGV1p6SXl5Vi1JNGRDeXU4WG91dWtLQlE5SU8zZFFOeDNLSXFsZFNyNE9IcVNrV3d4WEdsTDF4VkVacVZXdEIwUmI3czF2aWVUbVQ0dGFLRUNSMklvVXBYVHp0Y0xvbUJSTm12NXdiYmVwckliSXk4V0tlR3V5TmF1alp5YWVoLVc1SnRoYjZZOE40WHBxY0ZPR2Z2Wnl0dFlKS1h4ODMyTGJLUi0?oc=5</link>
-      <guid isPermaLink="false">f3d135779f48f5d3</guid>
-      <pubDate>Wed, 19 Aug 2026 10:00:00 GMT</pubDate>
-      <source>Google News: Atlanta Falcons</source>
-      <description>Falcons Opening Drive: Joint practice No. 1 with the Colts, and ‘Kicking the Stigma’ &amp;nbsp;&amp;nbsp; The Falcoholic 5 Falcons players who could climb the depth chart in joint practices with Colts &amp;nbsp;&amp;nbsp; bloggingdirty.com Colts hold their first joint workout with the Atlanta Falcons on Wednesday &amp;nbsp;&amp;nbsp; IndyStar</description>
     </item>
   </channel>
 </rss>
