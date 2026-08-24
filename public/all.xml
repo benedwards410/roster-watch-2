@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787602344443"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787604745022"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Mon, 24 Aug 2026 20:12:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 20:52:25 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TreVeyon Henderson injury update after Patriots RB leaves practice early [TreVeyon Henderson]</title>
+      <link>https://sports.yahoo.com/articles/treveyon-henderson-injury-patriots-rb-203235968.html</link>
+      <guid isPermaLink="false">d79ad8c76c52eb35</guid>
+      <pubDate>Mon, 24 Aug 2026 20:32:35 GMT</pubDate>
+      <source>Yahoo Sports NFL</source>
+      <description>New England Patriots running back TreVeyon Henderson left practice early on Monday, Aug. 24. Here&amp;#39;s what we know so far:</description>
+    </item>
     <item>
       <title>Makai Lemon: &quot;For sure&quot; I&apos;ll be up to speed for Week 1 [Makai Lemon]</title>
       <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/makai-lemon-for-sure-ill-be-up-to-speed-for-week-1</link>
@@ -9599,14 +9607,6 @@
       <pubDate>Wed, 19 Aug 2026 23:00:00 GMT</pubDate>
       <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
       <description>Packers: Jordan Love on Tucker Kraft &amp;nbsp;&amp;nbsp; news8000.com</description>
-    </item>
-    <item>
-      <title>Broncos&apos; Bo Nix: In line to play in Friday&apos;s preseason contest - CBS Sports [Bo Nix]</title>
-      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxQQVRsYkhCUkExQXZkY0RmbEVWZktHMkowbndCR0xBSFdIOHBjNkI1SkpoVnFucTdOcHBBcUFSLTRxWVdVZThxdDdxUjFma2F1SVVCVGJFSEhaUklhS0ZqdE5GNG5vYnY3ZVVSSElqRm5HMXJLR3p5QURWbGV5SGRPdVZFa0tOTTRHNkdHV2t4eWo4Y3kybEN1cEs1V2NXZ3c1c0l5cm1sTWc2blVl?oc=5</link>
-      <guid isPermaLink="false">751e689295cdd2d4</guid>
-      <pubDate>Wed, 19 Aug 2026 22:43:56 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
-      <description>Broncos&apos; Bo Nix: In line to play in Friday&apos;s preseason contest &amp;nbsp;&amp;nbsp; CBS Sports</description>
     </item>
   </channel>
 </rss>
