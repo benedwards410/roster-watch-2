@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787580022660"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787583394970"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - urgent only</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Availability and role changes only. Point your email service at this one.</description>
-    <lastBuildDate>Mon, 24 Aug 2026 14:00:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 14:56:34 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/urgent.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -807,14 +807,6 @@
       <pubDate>Wed, 19 Aug 2026 15:31:45 GMT</pubDate>
       <source>Google News: Washington Commanders</source>
       <description>Suspended Commanders defender kicked officer during arrest, according to police &amp;nbsp;&amp;nbsp; The New York Times</description>
-    </item>
-    <item>
-      <title>Tennessee Titans news: Could QB Will Levis be traded? - Yahoo Sports [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNTVc1Y3pERUpacTd0cC1IMUFNZGZKckgwQzNiVEw0dVZKU1RCUENqdmZVRFJ6YkF4dm1jSEt4anRILWlmZ2J6bXg1YzFJaFlUSTFRZTg3bDBDejEyeFZiR2pjZi1rWDhURzNkeXVOc2d3T08yOU1WczVpanVwWHRaX2k5SUxGQQ?oc=5</link>
-      <guid isPermaLink="false">af049e3626bc680d</guid>
-      <pubDate>Wed, 19 Aug 2026 11:00:00 GMT</pubDate>
-      <source>Google News: Tennessee Titans</source>
-      <description>Tennessee Titans news: Could QB Will Levis be traded? &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
     </item>
   </channel>
 </rss>
