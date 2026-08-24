@@ -1,13 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787571306917"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787572771300"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Mon, 24 Aug 2026 11:35:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 11:59:31 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Raiders rookie Ashton Jeanty hurt in practice, status unclear - Northeast Times [Ashton Jeanty]</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxOX3ZLaUhUazlyd3B5aEl5RThLMnRxcWg4amNxU1c4ZEIyUXk3XzJCbnBkQlVIbVRKQy1jajdSY0ZvYnVfeFpxeXpBNTVFWHV1OGt0WURTVVVCbDhPX3BUS2ItaWR4SXBxOE9obDR5aXFVdFBRVDhoTUh4emluc1ZwT3dzODRodDVHdVBDT3NlYnB4Z2MtZEpFMTRUNnhpWloz?oc=5</link>
+      <guid isPermaLink="false">946935dc78214c6f</guid>
+      <pubDate>Mon, 24 Aug 2026 11:43:20 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
+      <description>Raiders rookie Ashton Jeanty hurt in practice, status unclear &amp;nbsp;&amp;nbsp; Northeast Times</description>
+    </item>
+    <item>
+      <title>Falcons&apos; Michael Penix Cleared To Practice - News Radio 1200 WOAI [Michael Penix]</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUldiY0lXQWJfa2pDaHEwWlpLRHd4SE1vTjFMQzQtWDVEU2JLWWVxc2E4b29kQk9PYmNMTFMwTnlxQUxtMDBKQkV6eC12c29TTU9xNmhHbWYwVXVhSU1mc0E4enNKQ2xDSGdpOW1XdzZMeDZwaGFZdU1HOTQ0eVlQanlPVVJZYUg4?oc=5</link>
+      <guid isPermaLink="false">d4dacb8d3f45e08d</guid>
+      <pubDate>Mon, 24 Aug 2026 11:47:00 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
+      <description>Falcons&apos; Michael Penix Cleared To Practice &amp;nbsp;&amp;nbsp; News Radio 1200 WOAI</description>
+    </item>
+    <item>
+      <title>Falcons&apos; Michael Penix Cleared To Practice - FOX Sports Radio [Michael Penix]</title>
+      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxNRERXVlJpVnA1aUFMMU5EUGx4Yng3WWp3c182bDcyRDBoSl94TFVRTXp6bkxPWjB5MF9BSjV3VkF1SHpVRm1pbmt2MlpSaTZkTkR3VmpUcHMtdzV3N3Nka0F3VG9xa2s2bVYwQWlWQWw2Mkx4X05lS3hYR3dkQU1VZTZ0eHZoRE9nT1p5Q2NCUEt0dUJoM2dIM3ZHdw?oc=5</link>
+      <guid isPermaLink="false">89e26b5d565d0e02</guid>
+      <pubDate>Mon, 24 Aug 2026 11:47:00 GMT</pubDate>
+      <source>Google News: Atlanta Falcons</source>
+      <description>Falcons&apos; Michael Penix Cleared To Practice &amp;nbsp;&amp;nbsp; FOX Sports Radio</description>
+    </item>
+    <item>
+      <title>Former 2nd-Round Pick Predicted to Miss Lions Roster Cut - heavy.com [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxPalh1VnBRaC1vX0NPMFQzLURQOFlNZ2hXVlNPdUY3bUlPLVN0WG1ZMjdERHZDWllSTkpXMG1ldThxRC1FaS0ySExDNWhyaVhMTkZsc3NzZkJuYURCR2xVRzRmbHFmR1RBSGlJblZKY191SGJRM0R6QzYwTDZzVWRQNzFEV2hhblo5TTk4X0VkTnM0YnB0?oc=5</link>
+      <guid isPermaLink="false">e468b382eafe8746</guid>
+      <pubDate>Mon, 24 Aug 2026 11:57:37 GMT</pubDate>
+      <source>Google News: Detroit Lions</source>
+      <description>Former 2nd-Round Pick Predicted to Miss Lions Roster Cut &amp;nbsp;&amp;nbsp; heavy.com</description>
+    </item>
     <item>
       <title>Raiders emerge as potential Steelers trade partner after Ashton Jeanty injury - Steelers Wire [Ashton Jeanty]</title>
       <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSUVkdXlpVjM4V2pwUXNzTW00eDVGdThUd0ZmVG5ucWhTWjVRS3BnZ1dTZ096Nm9FVEdZaVpoLTh4N1ZZTWFRNVh5akVOSEFWMWVCbzk3czJoNkt2RnlybGtmaFJGU1Rrb3dZZEVOMThHem93dmhCRm0tTDFVZFV4em5ZWmNKdFNlNk81MGNWQzVrNHFsTW1zMlBkWUZGNjNKMXJyeUtITHc1YXg4MzdBZWxmY0RtZFd2cmlwOGQ0YzFCbVVxUGtaR0tuODRkd3Q2Q2p4WVNNd0U?oc=5</link>
@@ -9575,38 +9607,6 @@
       <pubDate>Tue, 18 Aug 2026 20:37:00 GMT</pubDate>
       <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
       <description>Bo Nix takes hits in fiery Broncos practice as he nears return to game action &amp;nbsp;&amp;nbsp; Santa Fe New Mexican</description>
-    </item>
-    <item>
-      <title>Broncos Bo Nix, offense come to a boiling point - KDVR [Bo Nix]</title>
-      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxNbGxqLTlsM1loMGxNRUplMEljYmRQUzZ1a3lYRGxxY2ZoWXNJRmdMdTNQQ29GQjVrWEpvOGVDQWVIRkdmQkpGRlFmcEpOVjRqeVc0Q3VqdUxzM2pLZ2dDY3IzblZ3VmRLY19LQ3gxUGp5QklrMGJndUZfMEZEVS1IdTZaUHJSV2E5aUl2UGNhd9IBlAFBVV95cUxQS1lYTk9GS1VfVHFHMVhuZFppRVJmM3RfdVllVUhnX0RKUmFYcTAxTFZobVhvQ3FQRGZYTzF0b2VLT3R3Y3dZSExWdjMyNXlIeHpwMUoxdnp1OUQwdmJkRV8yalljOW1yRGQxb21xMDJTbkNNaXlLdTJ4ckJwWTA2T1QyWkZWSXo4cDdCclozVDVzTC1r?oc=5</link>
-      <guid isPermaLink="false">e3b481fb6706e66a</guid>
-      <pubDate>Wed, 19 Aug 2026 01:17:15 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
-      <description>Broncos Bo Nix, offense come to a boiling point &amp;nbsp;&amp;nbsp; KDVR</description>
-    </item>
-    <item>
-      <title>HEATING UP: Troy Franklin ELEVATES Stock for Denver Broncos, Marvin Mims&apos; Health DRAWS Concern - localmemphis.com [Marvin Mims]</title>
-      <link>https://news.google.com/rss/articles/CBMivAJBVV95cUxNb0N4QlhNVWNBdUUxYl9UWjAzOVNFbUx3Z0NvUkpFZlozSjd6aVFuMnRJZ2ZEaHc1LU5aUEswVkE2MmhKam4xT1hFT29jRWhOb2RqQkJFTk1pTlh0VFQ1dDhjZXJYSDlUVXlob1BjcDRLeXl5THY3Q2F4QkhfM25FU0c5d2d5dXhwOHFOeHJhNlRTMlBycHM2ZG03TE5zNkhhZThjbVBuLTI4WElON2xiOFh2ZzRrdFdBTzBkWWpCTW9zSXVyMVRHSm5hNE5sQ0tEYnZudjE1MF9KZmhkajJ4Y1JOeE80Q2lCeVJVVi1iVFZoSmQ3UVgxYThITTlhY3pTRVJPMEp3MGZ6aTVhWTRqeHJlMEFzcExFeUNScm1tX1VLaU45RExZNG9XOHFYYUowYjl3M3BvNEpNX3lQ?oc=5</link>
-      <guid isPermaLink="false">300ac442b83f08a5</guid>
-      <pubDate>Wed, 19 Aug 2026 02:25:00 GMT</pubDate>
-      <source>Google News: McConkey, Lemon, Mims, Golden, Otton</source>
-      <description>HEATING UP: Troy Franklin ELEVATES Stock for Denver Broncos, Marvin Mims&apos; Health DRAWS Concern &amp;nbsp;&amp;nbsp; localmemphis.com</description>
-    </item>
-    <item>
-      <title>Packers news: Matthew Golden Year 2 breakout teased by Jordan Love - Yahoo Sports [Jordan Love, Matthew Golden]</title>
-      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxPY0YzQ3NnaHRCeWw5aWJpRy1lZ3JSVVpVOXpuM1pWS0NMUHQyNWNBQ2YwVm9uMklLcDJrM0lnQWUyR05uanBVZElEckJMWS1wenNYemZRQ1NoU1VndTN4T1I4YXo5UUIzY3dxNzhxckJrVXpoVUF3ai0tR0EzbjJGSU5hcnY?oc=5</link>
-      <guid isPermaLink="false">2ae07a5159367cf4</guid>
-      <pubDate>Tue, 18 Aug 2026 22:56:53 GMT</pubDate>
-      <source>Google News: McConkey, Lemon, Mims, Golden, Otton</source>
-      <description>Packers news: Matthew Golden Year 2 breakout teased by Jordan Love &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Panthers release depth chart ahead of Hall of Fame game to start 2026 preseason - Carolina Panthers [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxOMkdBbGxQZk10MmlDb3A0TlBVR3pqN0QxVE9pa1h1LVlzbVItU2RMclc4MU9CM3NFX3JNdFctS01iWlZtWlpDSnJtV0FKWHVWRG5jYlZwUmowelJfZGlLYU5Md0tHczloSDVzVjYwOUJaaUlnS2pXcGVGODlzbF9fYnZ0U2RYTEF4TjJjcXZxLUkyU245aDBPQjY4bDZfSEhKc0tzMGE2SnBxblk2SVE?oc=5</link>
-      <guid isPermaLink="false">890e4929198cef12</guid>
-      <pubDate>Mon, 03 Aug 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Carolina Panthers</source>
-      <description>Panthers release depth chart ahead of Hall of Fame game to start 2026 preseason &amp;nbsp;&amp;nbsp; Carolina Panthers</description>
     </item>
   </channel>
 </rss>
