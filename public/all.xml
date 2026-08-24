@@ -1,13 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787598345050"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787600451369"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Mon, 24 Aug 2026 19:05:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 19:40:51 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Latest NFL injury updates: Ashton Jeanty avoids major injury, other running backs uncertain for Week 1 [Ashton Jeanty]</title>
+      <link>https://www.cbssports.com/nfl/news/latest-nfl-injury-updates/</link>
+      <guid isPermaLink="false">a45af26169053679</guid>
+      <pubDate>Mon, 24 Aug 2026 19:13:17 GMT</pubDate>
+      <source>CBS Sports NFL</source>
+      <description>Who will be ready for season openers, and who&amp;#039;s trying to get there?</description>
+    </item>
+    <item>
+      <title>#ProDucks NFL Preseason Week 2 Recap [Bo Nix]</title>
+      <link>https://sports.yahoo.com/articles/producks-nfl-preseason-week-2-193000201.html</link>
+      <guid isPermaLink="false">9f325a6c8baea485</guid>
+      <pubDate>Mon, 24 Aug 2026 19:30:00 GMT</pubDate>
+      <source>Yahoo Sports NFL</source>
+      <description>What’s up y’all? Here’s how some of the NFL #ProDucks played in week 2 of the preseason. AFC WEST:Raiders: WR Malik Benson – 1 catch, 18 yards Chargers: QB Justin Herbert – 1/2, 9 yardsCB Nikko Reed – 1 solo tackle, 3 assisted Broncos: QB Bo Nix – 6/9, 76 yards, 1 TD Chiefs: LB […]</description>
+    </item>
+    <item>
+      <title>&amp;#39;Football 301&amp;#39; predicts NFC North win totals – and there will be many – between Caleb Williams&amp;#39; Bears, Jahmyr Gibbs&amp;#39; Lions, Jordan Love&amp;#39;s Packers and Justin Jefferson&amp;#39;s Vikings [Jordan Love]</title>
+      <link>https://sports.yahoo.com/nfl/article/football-301-predicts-nfc-north-win-totals--and-there-will-be-many--between-caleb-williams-bears-jahmyr-gibbs-lions-jordan-loves-packers-and-justin-jeffersons-vikings-191642344.html</link>
+      <guid isPermaLink="false">8bb9ddfd7144b890</guid>
+      <pubDate>Mon, 24 Aug 2026 19:16:42 GMT</pubDate>
+      <source>Yahoo Sports NFL</source>
+      <description>On the latest episode of &amp;quot;Football 301,&amp;quot; Nate Tice and ESPN&amp;#39;s Mina Kimes broke down each NFC North team&amp;#39;s impact players and X factors and ultimately predicted each team&amp;#39;s win totals.</description>
+    </item>
+    <item>
+      <title>Instant grade for Patriots trading Kayshon Boutte to Texans [Kayshon Boutte]</title>
+      <link>https://sports.yahoo.com/articles/instant-grade-patriots-trading-kayshon-190600498.html</link>
+      <guid isPermaLink="false">efd1709c6dafd3b7</guid>
+      <pubDate>Mon, 24 Aug 2026 19:06:00 GMT</pubDate>
+      <source>Yahoo Sports NFL</source>
+      <description>The Patriots are sending the fourth-year wide receiver to Houston for a safety and late-round draft pick.</description>
+    </item>
     <item>
       <title>Patriots agree to trade Kayshon Boutte to Texans [Kayshon Boutte]</title>
       <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-agree-to-trade-kayshon-boutte-to-texans</link>
@@ -9575,38 +9607,6 @@
       <pubDate>Wed, 19 Aug 2026 20:32:55 GMT</pubDate>
       <source>Google News: Atlanta Falcons</source>
       <description>Falcons QBs Tua, Penix Eye an NFL First for the Franchise &amp;nbsp;&amp;nbsp; heavy.com</description>
-    </item>
-    <item>
-      <title>Former Iowa football star Drew Stevens wins Commanders&apos; starting job - Yahoo Sports [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNSHJlRXdQZFMzOEI1a2o2Z05fTk50R0lmNGpuVU9EMkp4YzVIV09OdEZOcFZvOFFpN20yend1NVpHT0hJVEhrcEFqVnBTTGhobmFsMllQeVlac3VLVEhlWTJvSGpXNnpoeWMxd3o5ekx2bnZJZ3dXSVBrNGUxUk5NcDlSbzRrdw?oc=5</link>
-      <guid isPermaLink="false">d82657329d5be1c2</guid>
-      <pubDate>Wed, 19 Aug 2026 18:10:23 GMT</pubDate>
-      <source>Google News: Washington Commanders</source>
-      <description>Former Iowa football star Drew Stevens wins Commanders&apos; starting job &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Jordan Love Talks Packers Mindset for 2026 NFL Season After Playoff Loss to Caleb Williams, Bears - bleacherreport.com [Jordan Love]</title>
-      <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxQRXJZTGltQnlaSm41REY5aTlJTEFHcDN1MEZhOWc2QWtFWXZaWW8xeks0cWROY1NVYUx2Z2pRZ0E0bWZwZkt2aHRsS0h3ZzY0WEVnY2xiQzN1dEVEM3QyMi1xMmJYazNxY1NNWS1YbDBPOHlhV1k2NEJOQ0t4Yk9uRXVfTVNxbFRYVXlvRUNKaEhaTVU5RGdFVjk1eG9EV01FT0ZuSm9aSWpuY0xabmNmUFpCV2luczJFV254SF9HTzZuSWRmRG5KdW5tRWNGYXc?oc=5</link>
-      <guid isPermaLink="false">5fe0d0fe79e72cf1</guid>
-      <pubDate>Wed, 19 Aug 2026 19:51:00 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
-      <description>Jordan Love Talks Packers Mindset for 2026 NFL Season After Playoff Loss to Caleb Williams, Bears &amp;nbsp;&amp;nbsp; bleacherreport.com</description>
-    </item>
-    <item>
-      <title>A.J. Brown, Patriots passing attack shine in joint practice with the Eagles - The New York Times [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxQVmxJZldKR0xlOFRJanNWRnZmNlI0bXZNemNEbVNOUkUySlNjOE03QXZlQWNyU0ptSFk0QWpTY3FSdVlWc1JOQ3FER1MzYnltUnhwQzVHM1VxWW1aNmVyR1R4YVdHbmg5QlZMelZPSGxNaF9wOENhSXRWdElCVnd3Q2tjdkRYUTd2VXMzUXRNcmJXVE15aEw0?oc=5</link>
-      <guid isPermaLink="false">284904100ee1118d</guid>
-      <pubDate>Wed, 19 Aug 2026 19:51:43 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>A.J. Brown, Patriots passing attack shine in joint practice with the Eagles &amp;nbsp;&amp;nbsp; The New York Times</description>
-    </item>
-    <item>
-      <title>A.J. Brown&apos;s performance in joint practice vs. Eagles - ESPN [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxQV21MaFhCblkybGJFTUg1WE9BRXBOOV9ITEhiQjlLS3ZRMnN0YUNBcVZwTTdIanJWZU5NWjVYS2VJS2owbXo0TUdrbWJkM1lnbWdzWURxeTFSZFZkSENjQnBZWmdWSlA3MkV1Q0YxSDJmTFN4NURvNGJ5dzRLNTVvUnh2T2ZPYVhxb2g1N1ZGQ2VwenlrQ3c?oc=5</link>
-      <guid isPermaLink="false">7d113d34f81f3418</guid>
-      <pubDate>Wed, 19 Aug 2026 19:03:22 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>A.J. Brown&apos;s performance in joint practice vs. Eagles &amp;nbsp;&amp;nbsp; ESPN</description>
     </item>
   </channel>
 </rss>
