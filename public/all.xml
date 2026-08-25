@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787633978453"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787636395424"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Tue, 25 Aug 2026 04:59:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 05:39:55 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Packers Injuries: 5 players banged up in win vs. Broncos - Acme Packing Company [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQWFhwWUxCVXluazFSU2ZDUkd5NWVZVVJDTlFvS2tKRjZ3OVJWbWR1eUVuR2gyZFpWUFgyQUphYmx4ZUg2MVZJbFY2aXRidFp0ZDJBT3BwZGV1cHktMGVxcUlkcnRJcU12SlRSdkFTS3JYbEhPOHhHYVVmaHAtNWRTbUNWM0Q0OHRPN1ZXaGJ4UjRVbl9qLV9xTUFGcDROVGJWWnQ2MlNndVBYbk8xSWZvZ2huemtFTzNWSkE?oc=5</link>
+      <guid isPermaLink="false">a090d6dc025af2b9</guid>
+      <pubDate>Sat, 22 Aug 2026 22:48:23 GMT</pubDate>
+      <source>Google News: Green Bay Packers</source>
+      <description>Packers Injuries: 5 players banged up in win vs. Broncos &amp;nbsp;&amp;nbsp; Acme Packing Company Broncos vs Packers: The No Bull Preseason Review &amp;nbsp;&amp;nbsp; Mile High Report Jaylen Waddle Has Already Seen Enough to Know Bo Nix Is &apos;Different&apos; &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
+    </item>
     <item>
       <title>Silver State Sports LIVE EP126: Raiders RB Ashton Jeanty Believed to have Sprained Ankle - FOX5 Vegas [Ashton Jeanty]</title>
       <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxOejJMRXZQUGlVakxRX0JDczlSbkxBdlk4eVNWbm1GTUYtMUJ2U2Y2RjFFZXc3YzhkSzR5UHhoOC1uck1uVlQ3bWxEV2d3ZHZUZkQyVDJjMWs4YWF1RWUtSkREaG5Lam01VVpSOXJJWFZOa3dieHlkZnUyVUJEeWc4QlZaVDMxQW1SSVZpQmo0ZkNfUk1rZG5NQVJYenRLSk9yUk9ualJhaGM3LXAyWHktdzc4cC04T1c0a1pyYTI1bmYtRXNaVXRV?oc=5</link>
@@ -9599,14 +9607,6 @@
       <pubDate>Thu, 20 Aug 2026 19:31:55 GMT</pubDate>
       <source>Yahoo Sports NFL</source>
       <description>A meeting of the Eagles’ quarterback and his former top target.</description>
-    </item>
-    <item>
-      <title>Jalen Hurts, A.J. Brown share hug, chat after Patriots-Eagles&amp;#39; second joint practice [A.J. Brown]</title>
-      <link>https://sports.yahoo.com/nfl/article/jalen-hurts-aj-brown-share-hug-chat-after-patriots-eagles-second-joint-practice-192238945.html</link>
-      <guid isPermaLink="false">a108fbe3b80ebb38</guid>
-      <pubDate>Thu, 20 Aug 2026 19:22:38 GMT</pubDate>
-      <source>Yahoo Sports NFL</source>
-      <description>There&amp;#39;s no bad blood between A.J. Brown and Jalen Hurts.</description>
     </item>
   </channel>
 </rss>
