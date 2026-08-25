@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787636395424"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787637848609"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Tue, 25 Aug 2026 05:39:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 06:04:08 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tight end waived by Eagles headed to LSU - - Times Republican [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ1V0Rk1LRzFQNmxIU2RocHZGRFJTN2ZVRzQ1Nk0yUi1aX05zTHZKQlVxcU5SZlIzUlN3UVBoZ1ZEY3BRNFduSmh0dFdrVXJHcm91VmJwSFNtM0FORHVsS3hpNEp6bEsyOEZpVVl5M29SamljN0NzVHJoZ196ZlR2bnU3Sm9ocFdnemd2WFZHcTFhVk5pTzktMEZ2NGJwVEJzZFgzUlMzOUNaM2Fud1lmeQ?oc=5</link>
+      <guid isPermaLink="false">1ec52af3579a02b2</guid>
+      <pubDate>Tue, 25 Aug 2026 05:03:15 GMT</pubDate>
+      <source>Google News: Philadelphia Eagles</source>
+      <description>Tight end waived by Eagles headed to LSU - &amp;nbsp;&amp;nbsp; Times Republican</description>
+    </item>
     <item>
       <title>Packers Injuries: 5 players banged up in win vs. Broncos - Acme Packing Company [Bo Nix]</title>
       <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQWFhwWUxCVXluazFSU2ZDUkd5NWVZVVJDTlFvS2tKRjZ3OVJWbWR1eUVuR2gyZFpWUFgyQUphYmx4ZUg2MVZJbFY2aXRidFp0ZDJBT3BwZGV1cHktMGVxcUlkcnRJcU12SlRSdkFTS3JYbEhPOHhHYVVmaHAtNWRTbUNWM0Q0OHRPN1ZXaGJ4UjRVbl9qLV9xTUFGcDROVGJWWnQ2MlNndVBYbk8xSWZvZ2huemtFTzNWSkE?oc=5</link>
@@ -9599,14 +9607,6 @@
       <pubDate>Thu, 20 Aug 2026 17:02:56 GMT</pubDate>
       <source>Google News: Philadelphia Eagles</source>
       <description>Joint practice recap: Defenses improve in final Patriots-Eagles session &amp;nbsp;&amp;nbsp; NBC Sports Boston Patriots training camp notebook: Defenses fight back on Day 2 of Eagles joint practices &amp;nbsp;&amp;nbsp; Pats Pulpit Jalen Hurts, A.J. Brown share a moment after Eagles-Patriots practice &amp;nbsp;&amp;nbsp; Bleeding Green Nation</description>
-    </item>
-    <item>
-      <title>Jalen Hurts, A.J. Brown share a moment after Eagles-Patriots practice [A.J. Brown]</title>
-      <link>https://sports.yahoo.com/articles/jalen-hurts-j-brown-share-193155674.html</link>
-      <guid isPermaLink="false">c0ad483bc2dc3fb3</guid>
-      <pubDate>Thu, 20 Aug 2026 19:31:55 GMT</pubDate>
-      <source>Yahoo Sports NFL</source>
-      <description>A meeting of the Eagles’ quarterback and his former top target.</description>
     </item>
   </channel>
 </rss>
