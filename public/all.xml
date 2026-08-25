@@ -1,13 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787654810160"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787656395547"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Tue, 25 Aug 2026 10:46:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 11:13:15 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Makai Lemon is finally back and doesn&amp;#39;t believe long layoff set him back [Makai Lemon]</title>
+      <link>https://sports.yahoo.com/articles/makai-lemon-finally-back-doesnt-070000282.html</link>
+      <guid isPermaLink="false">f3fc92cdf7cb1f8b</guid>
+      <pubDate>Tue, 25 Aug 2026 07:00:00 GMT</pubDate>
+      <source>Yahoo Sports NFL</source>
+      <description>After missing three weeks with a hamstring injury, Eagles rookie Makai Lemon returned to practice Monday and says he hasn’t fallen behind.</description>
+    </item>
+    <item>
+      <title>Emeka Egbuka, Luther Burden and more 2026 fantasy football breakout wide receivers - The New York Times [Emeka Egbuka]</title>
+      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNNnhjaWgyaHpIWnFnUkRfTXU0NFZONWVVRHl2a0dBblMzVEQyWGdlNzVfUU40UG5HeVJiejQyc1VUMlNNZHgxV1BXV3RPSHJvT2YwMnB6TW41bnBhd0U0REFUMFZCcTZhaWdkejBCd2I2dzdKLXotZjF4enRsLWlxNF9MVHZJMHJRYzZnck9SaXkyVnNRcEdqaXMwdzVncHNBSkpvdEdXZFNOQlA1NzZVWDY2d0d3T1ZrVnJLVg?oc=5</link>
+      <guid isPermaLink="false">6d98559dc394517a</guid>
+      <pubDate>Wed, 12 Aug 2026 07:00:00 GMT</pubDate>
+      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
+      <description>Emeka Egbuka, Luther Burden and more 2026 fantasy football breakout wide receivers &amp;nbsp;&amp;nbsp; The New York Times</description>
+    </item>
+    <item>
+      <title>Texans Acquire Kayshon Boutte in Trade With Patriots - Yardbarker [Kayshon Boutte]</title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPYjZYUmtnRDk5LVZnT2hVSE52OUhsS1FoR0V3SlZzUndidWJUS3k4S1Z0UzhKeXVVb1hocVJGZGZuVzF1WHJtOFJNbEtaR1ZVRWNzcThKVE52Mm1udkFMYzFtMFNncFdZekQwRUkxMzMwS2pFc01wMG1iVHhJMExjb1BFNWhRQ0YzZnlQeEdFd05QN241bEg5VWFfZy1XdTNzZUw3QnBHMF9rMjlKVzBZ?oc=5</link>
+      <guid isPermaLink="false">ff57a36c1520560d</guid>
+      <pubDate>Mon, 24 Aug 2026 23:37:33 GMT</pubDate>
+      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
+      <description>Texans Acquire Kayshon Boutte in Trade With Patriots &amp;nbsp;&amp;nbsp; Yardbarker</description>
+    </item>
+    <item>
+      <title>Patriots trade expendable WR Kayshon Boutte for secondary depth - Yardbarker [Kayshon Boutte]</title>
+      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxOTThtQW9CRWd3bDBFeXA5ZlFMWEZFMEhJb01ybV90QTRUV1NHNFI3dnFjVEJEVWZzY0sxTUR3T01paW91aGJJZDF0SlRzRlJrOTZtNE9sUFZMaVdOSEZ1M1M3UU1zbWhzWlgzVTlybEVWQzE2ZTJKRjJZUlNUemU1bWxJU3JVbjU0SGU4THpMQk5ycVE2bXkyOXpaQjVjSXhxWEdqN3Y5TmQ2MkNwV0ZCajdnYmx6SjVOVUpObGdB?oc=5</link>
+      <guid isPermaLink="false">9c86188f4870112f</guid>
+      <pubDate>Mon, 24 Aug 2026 20:38:18 GMT</pubDate>
+      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
+      <description>Patriots trade expendable WR Kayshon Boutte for secondary depth &amp;nbsp;&amp;nbsp; Yardbarker</description>
+    </item>
+    <item>
+      <title>Eagles rookie (Band-Aid) report. As Makai Lemon returns, 3 more injured - The News Journal [Makai Lemon]</title>
+      <link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQVJYYkFNZTRCTGNuVG0zb3hyRE0yTlBqdXhvWlczd2ZDTWVDUVc3eG4tYlg4ZnU5QW5TWmRiYUF2TFhZTUFHN0xWU0JtRUpIdnQyT0k1a2I4QjhTZ20xX25TWU5BbHFXbk5FQUhXdVpFcTJKa25vOXhRZ1hnWDkyZVJ6Ni1mNDdiU1ZFN2lSQkJhbE1pbExOZ1JFYzZVdmJaUV85WWFqazJCZUYtYXBoa1dkMmJRM19jVm1xYXl4UllUajNCbldNZTBOMHNUUTM0UTh2VkVkd1ZYSFU?oc=5</link>
+      <guid isPermaLink="false">1a571e6e2cc0dc20</guid>
+      <pubDate>Tue, 25 Aug 2026 10:56:00 GMT</pubDate>
+      <source>Google News: McConkey, Lemon, Mims, Golden, Otton</source>
+      <description>Eagles rookie (Band-Aid) report. As Makai Lemon returns, 3 more injured &amp;nbsp;&amp;nbsp; The News Journal</description>
+    </item>
+    <item>
+      <title>Makai Lemon is finally back and doesn&apos;t believe long layoff set him back - NBC Sports Philadelphia [Makai Lemon]</title>
+      <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc0Jma3BCemg4QmhSc0tKZ1ljaHhBV0FUZ253T0RYbmRDZ3dtdHN6VHVjNGJhRGItV19VRTNPc3lwZjR6bG1KRzhRVXNMOVJDbFB2anpOeTdhdVk5OHVoclpOLWZuRFZsY3NyMGgzNk8wNmZWZXEwM0hEN3hyeEhvRUk3b1BxN245aWxtWGZNOGc4UWVrV1JucHoySEhIdGV3RENsaGNMRkpmaTJqMlpkeFJ5T3hkV0VtZEZDTVFWNDNERF9fS2k2UzJ5dW1MenlIYW9hWVdn0gHeAUFVX3lxTE1SWEFZNkFyZmZLeTB2U3l6NklkbTdfcHlpa0xYbzNGWmFMRVBqWGpKczFIaHRpOEVaZHlZbTBTbEpwWHB2aUVvQjkxSHd0RzVMS1VUSDB2RVVWcE1BRXQ4NFdyMzQ0M2w5VUI2R1FITHExODlOdXZGLTE4cWpYMjJJYXgzcVhndzVPY2w4Zy1ScEdReDZjZUU3X29JVklNaWRQYWkwX3NUbHV3alBobzVyZHZabnFXdXJLRGJqUTZNX3FIUGtTUk80RFZrZ3lUQk5rNFNWRkZWSkRpZFBaQQ?oc=5</link>
+      <guid isPermaLink="false">3dfb6439d2d1402d</guid>
+      <pubDate>Tue, 25 Aug 2026 11:00:00 GMT</pubDate>
+      <source>Google News: McConkey, Lemon, Mims, Golden, Otton</source>
+      <description>Makai Lemon is finally back and doesn&apos;t believe long layoff set him back &amp;nbsp;&amp;nbsp; NBC Sports Philadelphia</description>
+    </item>
+    <item>
+      <title>Jets Coach Aaron Glenn Gives Encouraging Update on Breece Hall and Kenyon Sadiq - 24Hip-Hop [Kenyon Sadiq]</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTFBrZUNMVlpGOExCck5vMXQxRlB3ZG0xVHVhT3BXT2ozR2VPeHB1XzhBQlpaT05KcjZzODdKc0hxMUhtMktpMm5aZlpqYzZwMngxMjFQN09wM3NEUVYyWFR0RHhzVFpkT1poclMydlZlNzA4aWhD?oc=5</link>
+      <guid isPermaLink="false">6a4b8bb498a71901</guid>
+      <pubDate>Mon, 24 Aug 2026 23:16:30 GMT</pubDate>
+      <source>Google News: Loveland, Sadiq, Pitts</source>
+      <description>Jets Coach Aaron Glenn Gives Encouraging Update on Breece Hall and Kenyon Sadiq &amp;nbsp;&amp;nbsp; 24Hip-Hop</description>
+    </item>
+    <item>
+      <title>3 Free Agents the Bengals NEED to Sign Before Week 1 - Sports Illustrated [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxPUjVFaXNTV0R2d3htLVE0NjhXSVlwaHpjRjI2RmJla2VQbml3VXhSVTJBWDN6ckhqQmI2V0pmdTdRSl9RMk1zaEdyUUc5SHJsZjRPNEtqdXVSS3daTVR2NVRRREUxNkUycDRRS1lsVUhLYTFTYVRXeVJOVlViakVabllCd2tiTGVLX1p1RHhTa3Z3M250ZnFRTHJNUGVzWGhKZ3lv?oc=5</link>
+      <guid isPermaLink="false">19ad5cf6b31ca355</guid>
+      <pubDate>Mon, 24 Aug 2026 22:20:23 GMT</pubDate>
+      <source>Google News: Cincinnati Bengals</source>
+      <description>3 Free Agents the Bengals NEED to Sign Before Week 1 &amp;nbsp;&amp;nbsp; Sports Illustrated Bengals get ahead of final cuts with notable release &amp;nbsp;&amp;nbsp; Bengals Wire What’s next for Bengals at swing tackle? Realistic trade, waiver, in-house candidates &amp;nbsp;&amp;nbsp; The New York Times</description>
+    </item>
     <item>
       <title>Horse Tracks: The Nix-Webb connection is working well [Bo Nix]</title>
       <link>https://sports.yahoo.com/articles/horse-tracks-nix-webb-connection-103205097.html</link>
@@ -9543,70 +9607,6 @@
       <pubDate>Tue, 18 Aug 2026 13:18:14 GMT</pubDate>
       <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
       <description>Michael Penix Jr. Meeting with doctor for health checkpoint &amp;nbsp;&amp;nbsp; Fantasy Footballers Podcast</description>
-    </item>
-    <item>
-      <title>Caleb Williams hits Colston Loveland for TD vs. Bengals - BearsTalk [Colston Loveland]</title>
-      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE9zdnE0QWQzSk42V1lGbUV2U2l5aGx2UEMxSFFxWVNGTUFyUFA4c3UtdU9faUQzWE03WURxOEQ4RFEzNjBXWUtZMURmZk9BajlDUlVaQTI1NDdOUDhWazdPNllBZ09xekxjejRaMjNPaTg?oc=5</link>
-      <guid isPermaLink="false">f9d1d3b19ec733c1</guid>
-      <pubDate>Thu, 20 Aug 2026 21:35:52 GMT</pubDate>
-      <source>Google News: Loveland, Sadiq, Pitts</source>
-      <description>Caleb Williams hits Colston Loveland for TD vs. Bengals &amp;nbsp;&amp;nbsp; BearsTalk</description>
-    </item>
-    <item>
-      <title>Broncos add veteran safety Taylor Rapp with LB Levelle Bailey headed to injured reserve - The Denver Post [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE5pcE5iTmxVYTB5c21PbmhuV29GLU51ejZZOWltT3I4RkJQXzBJbGV2MHBUSGlTMjRJcTZSNUF3RUxSYjJXM3hKUWZDU2E1dVYtRlNPRUJDVVFqSXNFa0x6RTRzWVdvY1RKcjlCa1BrWEVEcFlhdVdiSDF3?oc=5</link>
-      <guid isPermaLink="false">ddbc400d4860086d</guid>
-      <pubDate>Thu, 20 Aug 2026 20:40:00 GMT</pubDate>
-      <source>Google News: Denver Broncos</source>
-      <description>Broncos add veteran safety Taylor Rapp with LB Levelle Bailey headed to injured reserve &amp;nbsp;&amp;nbsp; The Denver Post</description>
-    </item>
-    <item>
-      <title>Detroit Lions HC Dan Campbell updates LaPorta injury, Hutchinson workload, backup QB battle ahead of Week 2 - ClickOnDetroit | WDIV Local 4 [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUjlvTEJXRjhxOTRNV0FSRFlxYXQySlY2WUJYWDVSYzM5dVhHYUhEcFlYUVNOREZPYS0zOHhjNUhtcEJDLTBrV0JsQ0xZTk42RlNCVXM2ejdLaVRPX0dZbWk0bnZUYmJxVUdfT0UtWGNHYjZJLU5LUlM3X0NDREV4NjBtbmNLS2Fibmg1SEJTdkNBdlRDWC0xVUxQSklWVXJOZjdqbU1KOTNud3lyQUtERnlaRmpQTTRWZHhWUFNUMXl2YXNONUhFcUpHdE8wWTJlWkdjb3RBVXRCczlIWHkyempIb041NDZFZ1ln?oc=5</link>
-      <guid isPermaLink="false">28c5ba58093b74c3</guid>
-      <pubDate>Thu, 20 Aug 2026 21:27:22 GMT</pubDate>
-      <source>Google News: Detroit Lions</source>
-      <description>Detroit Lions HC Dan Campbell updates LaPorta injury, Hutchinson workload, backup QB battle ahead of Week 2 &amp;nbsp;&amp;nbsp; ClickOnDetroit | WDIV Local 4</description>
-    </item>
-    <item>
-      <title>Michael Penix Jr. meeting with doctor on Thursday, hopes to be cleared [Michael Penix]</title>
-      <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/michael-penix-jr-meeting-with-doctor-on-thursday-hopes-to-be-cleared</link>
-      <guid isPermaLink="false">a4537c5749a98f78</guid>
-      <pubDate>Thu, 20 Aug 2026 20:54:57 GMT</pubDate>
-      <source>ProFootballTalk</source>
-      <description>Atlanta&apos;s quarterback competition may be about to truly begin.</description>
-    </item>
-    <item>
-      <title>Falcons QB Michael Penix to meet with doctor, hopes to be cleared - Falcons Wire [Michael Penix]</title>
-      <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxQYWpXbG4yWDdDYnh5S3FPUm9CdkQtdTNQbXVrMWxQSDVqbmlRMEt3bExSemhPa2lWR1ctRzdiczFoMW5tYzdmMGNlOGtWbWoxNjRkZzdqNkgtQ21sbm5FVFhKVjZjTmZWX2tjbXJkSUM2VlQxRDBwamVLb0R6elNfamhLVEhDYkdqZS1abHQyWDliaE9TWVpNWDVaOE9zXzB6RUxkWDRBTTJfWm5ucVVJZHU5bWlzdlJmakJtVjNtLVdHWWQ4eVB2OFViYw?oc=5</link>
-      <guid isPermaLink="false">3f79a60d5f5ee0ab</guid>
-      <pubDate>Thu, 20 Aug 2026 21:02:00 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
-      <description>Falcons QB Michael Penix to meet with doctor, hopes to be cleared &amp;nbsp;&amp;nbsp; Falcons Wire</description>
-    </item>
-    <item>
-      <title>Falcons Get Telling Michael Penix Jr. Update After Colts Practice - heavy.com [Michael Penix]</title>
-      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxPSXpNeDFWRXMxNS05NVdINzIyRVpnRXNNWHZ1em5vNndCV2ZTd1l1a0tQZXQzaXFfTnE0dXM3WGpJRFBXTTlJSUN1TW12Qy1LN0JJREJYTjB4RDJQTmVQOUdPSEtkN1REbDBaRGJ5a1ZQQnp2SktkSVZXNGZBaU1GM1pVUmFhQjY2d3BHWEJtYw?oc=5</link>
-      <guid isPermaLink="false">f61a2a12944c86cf</guid>
-      <pubDate>Thu, 20 Aug 2026 21:11:54 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Brown</source>
-      <description>Falcons Get Telling Michael Penix Jr. Update After Colts Practice &amp;nbsp;&amp;nbsp; heavy.com</description>
-    </item>
-    <item>
-      <title>Wide Receiver Kayshon Boutte To Houston?! Maybe... - 9News [Kayshon Boutte]</title>
-      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPOWFKWjlubFdMdDc2dWpic3Q2SEMzZVpzbHFpVUc1QXA4VEozdldLQ1VrMnVYY3pUX3Y1d2lxZTJJU2dQVTh3ZURTVEZDRENBMi1WRndPakEzVjZHNXY1RGZITHhQaTN4VXItc1lkeDlhZFBOd19ZZ1FaQVBHaVhEZ2Qzdnk0ODlYSU50TFd4TS1RUldhcnROX3NsMks2ZE9ud1BucF9CaGZnNmxJdlU1R3Q4NjFvX0xhcnUwdi1B?oc=5</link>
-      <guid isPermaLink="false">0ea00372df64deb6</guid>
-      <pubDate>Thu, 20 Aug 2026 21:07:00 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>Wide Receiver Kayshon Boutte To Houston?! Maybe... &amp;nbsp;&amp;nbsp; 9News</description>
-    </item>
-    <item>
-      <title>A.J. Brown wasn&apos;t the only familiar face Eagles saw at Patriots joint practice - Inside the Iggles [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdERtMFdLVzVBdW5rTjNjTUlkOFF1Z0RFVTQ4QW5VMThMR2xZVFd2Qkx4Q3V6ZHhZUzR5VWREVTI4U3VGNnI5RGU4WmZoZ25rWHdKVXFoUHJEUkJJT0RISWloS1hGMG93V2puNi16UDNwVU1oYVNKNC1XdHdOLVQ0dURlMjhFWHdLWTNlZlgxaElORlJBMzRaeTc4YW4xX284b3V4N1cxN0g?oc=5</link>
-      <guid isPermaLink="false">b7992c730cdf5893</guid>
-      <pubDate>Thu, 20 Aug 2026 21:00:00 GMT</pubDate>
-      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
-      <description>A.J. Brown wasn&apos;t the only familiar face Eagles saw at Patriots joint practice &amp;nbsp;&amp;nbsp; Inside the Iggles</description>
     </item>
   </channel>
 </rss>

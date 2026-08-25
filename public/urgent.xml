@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787654810165"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787656395551"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - urgent only</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Availability and role changes only. Point your email service at this one.</description>
-    <lastBuildDate>Tue, 25 Aug 2026 10:46:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 11:13:15 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/urgent.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -1023,14 +1023,6 @@
       <pubDate>Thu, 20 Aug 2026 22:23:00 GMT</pubDate>
       <source>Google News: Tennessee Titans</source>
       <description>49ers re-sign Khalil Herbert after placing Patrick Taylor Jr. on injured reserve &amp;nbsp;&amp;nbsp; New York Post</description>
-    </item>
-    <item>
-      <title>Broncos add veteran safety Taylor Rapp with LB Levelle Bailey headed to injured reserve - The Denver Post [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE5pcE5iTmxVYTB5c21PbmhuV29GLU51ejZZOWltT3I4RkJQXzBJbGV2MHBUSGlTMjRJcTZSNUF3RUxSYjJXM3hKUWZDU2E1dVYtRlNPRUJDVVFqSXNFa0x6RTRzWVdvY1RKcjlCa1BrWEVEcFlhdVdiSDF3?oc=5</link>
-      <guid isPermaLink="false">ddbc400d4860086d</guid>
-      <pubDate>Thu, 20 Aug 2026 20:40:00 GMT</pubDate>
-      <source>Google News: Denver Broncos</source>
-      <description>Broncos add veteran safety Taylor Rapp with LB Levelle Bailey headed to injured reserve &amp;nbsp;&amp;nbsp; The Denver Post</description>
     </item>
   </channel>
 </rss>
