@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787719969522"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787722512315"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Wed, 26 Aug 2026 04:52:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 05:35:12 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Patriots trade Kayshon Boutte to Texans for Jaylen Reed - The Sporting Base [Kayshon Boutte]</title>
+      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxQS3VSeHNoYWFKSGRyaW1JRU5rQjNPTFVRQ085VUpoLW1feUdRVHJpUDZWUGUybWxHNDItbVhLUXd2NnlCbnltMEhxVkpzNlNqT0FndWZpR0dndmgwZ0d0WW0wb1lXYV8tS2VsY2VVRjNSMG5FUW5NeVJfZ1h0UUh5d0xkZXZGejNBcXZ5Qw?oc=5</link>
+      <guid isPermaLink="false">6e800a211d797314</guid>
+      <pubDate>Tue, 25 Aug 2026 20:13:42 GMT</pubDate>
+      <source>Google News: Spears, Brown, Williams, Egbuka, Boutte</source>
+      <description>Patriots trade Kayshon Boutte to Texans for Jaylen Reed &amp;nbsp;&amp;nbsp; The Sporting Base</description>
+    </item>
     <item>
       <title>Las Vegas Raiders say little about Ashton Jeanty - FOX5 Vegas [Ashton Jeanty]</title>
       <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPRUJsUlg1X0tRb3NCX1c0Y1RYajdEQmd2Ul9NRnU0S0Y0M0g1RlZzTW90azdyc2U3QnFEelUxODJuTXBHYXJZbXptZ1BtWmFSMXpZTXcwSlpnMDV5bzZSMUllM2JsWXBTYkdVcElPMzVnbzBudGlxQjZSRTY2LVF6TGQ1RGluNEh5TFRlS0s0UDl5cHEyUHNV?oc=5</link>
@@ -9599,14 +9607,6 @@
       <pubDate>Fri, 31 Jul 2026 07:00:00 GMT</pubDate>
       <source>Google News: McConkey, Lemon, Mims, Golden, Otton</source>
       <description>Fantasy Football: Latest On Matthew Golden’s Early Impression in Packers Training Camp &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Michael Penix Jr., Bijan Robinson and Kyle Pitts Sr. address media post-joint practice with Colts - Atlanta Falcons [Michael Penix, Kyle Pitts]</title>
-      <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxQR3ZWUVJyZGVvTjRmYTBuZVM4MXJiNDdnbkpaWjRYZVUwdkJyN2luTE9RX3dHanh1aVRzOFBrSU1BUU1keG5ScndKTDUtcWtmNkRYeXBWNk5DTmRQMWFhZktTQTdmZzFhTEQtT1ROa0pkaVVmV1ptQUM2dnhUaFBzd3RtZWVFTTRnajZSSzRmcFdfbEtKdFRiS0Z5SUhIaXRVNTQzSi1Ma0ZRTUJobWh6TzFZTjRnWVl0MXl5RnhYbFpLME1lc3BxMzc3VQ?oc=5</link>
-      <guid isPermaLink="false">3cb21f2de9ce2d80</guid>
-      <pubDate>Mon, 17 Aug 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Loveland, Sadiq, Pitts</source>
-      <description>Michael Penix Jr., Bijan Robinson and Kyle Pitts Sr. address media post-joint practice with Colts &amp;nbsp;&amp;nbsp; Atlanta Falcons</description>
     </item>
   </channel>
 </rss>
