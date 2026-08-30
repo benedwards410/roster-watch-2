@@ -1,57 +1,39 @@
 {
-  "builtAt": "2026-08-29T22:27:34.878Z",
+  "builtAt": "2026-08-30T00:36:39.020Z",
   "sources": [
+    {
+      "id": "gnews-players-5",
+      "label": "Google News: Loveland, Sadiq, Pitts",
+      "mode": "roster",
+      "ok": true,
+      "ms": 637,
+      "raw": 100,
+      "kept": 4
+    },
+    {
+      "id": "gnews-team-mia",
+      "label": "Google News: Miami Dolphins",
+      "mode": "team",
+      "ok": true,
+      "ms": 806,
+      "raw": 104,
+      "kept": 4
+    },
     {
       "id": "gnews-team-den",
       "label": "Google News: Denver Broncos",
       "mode": "team",
       "ok": true,
-      "ms": 823,
-      "raw": 103,
-      "kept": 13
-    },
-    {
-      "id": "gnews-team-ne",
-      "label": "Google News: New England Patriots",
-      "mode": "team",
-      "ok": true,
-      "ms": 881,
-      "raw": 104,
+      "ms": 732,
+      "raw": 100,
       "kept": 3
     },
     {
-      "id": "gnews-team-phi",
-      "label": "Google News: Philadelphia Eagles",
-      "mode": "team",
-      "ok": true,
-      "ms": 848,
-      "raw": 101,
-      "kept": 3
-    },
-    {
-      "id": "gnews-players-1",
-      "label": "Google News: Nix, Love, Penix, Jeanty, Brown",
+      "id": "gnews-players-4",
+      "label": "Google News: McConkey, Lemon, Mims, Golden, Otton",
       "mode": "roster",
       "ok": true,
-      "ms": 854,
-      "raw": 100,
-      "kept": 2
-    },
-    {
-      "id": "gnews-players-2",
-      "label": "Google News: Pacheco, Brooks, Johnson, Gordon, Henderson",
-      "mode": "roster",
-      "ok": true,
-      "ms": 807,
-      "raw": 100,
-      "kept": 2
-    },
-    {
-      "id": "gnews-players-3",
-      "label": "Google News: Spears, Brown, Williams, Egbuka, Boutte",
-      "mode": "roster",
-      "ok": true,
-      "ms": 874,
+      "ms": 724,
       "raw": 100,
       "kept": 2
     },
@@ -60,80 +42,80 @@
       "label": "Google News: Atlanta Falcons",
       "mode": "team",
       "ok": true,
-      "ms": 911,
-      "raw": 102,
-      "kept": 2
-    },
-    {
-      "id": "gnews-team-mia",
-      "label": "Google News: Miami Dolphins",
-      "mode": "team",
-      "ok": true,
-      "ms": 896,
+      "ms": 787,
       "raw": 104,
       "kept": 2
-    },
-    {
-      "id": "gnews-team-tb",
-      "label": "Google News: Tampa Bay Buccaneers",
-      "mode": "team",
-      "ok": true,
-      "ms": 796,
-      "raw": 100,
-      "kept": 2
-    },
-    {
-      "id": "gnews-players-4",
-      "label": "Google News: McConkey, Lemon, Mims, Golden, Otton",
-      "mode": "roster",
-      "ok": true,
-      "ms": 769,
-      "raw": 100,
-      "kept": 1
-    },
-    {
-      "id": "gnews-players-5",
-      "label": "Google News: Loveland, Sadiq, Pitts",
-      "mode": "roster",
-      "ok": true,
-      "ms": 797,
-      "raw": 100,
-      "kept": 1
-    },
-    {
-      "id": "gnews-team-chi",
-      "label": "Google News: Chicago Bears",
-      "mode": "team",
-      "ok": true,
-      "ms": 816,
-      "raw": 105,
-      "kept": 1
     },
     {
       "id": "gnews-team-det",
       "label": "Google News: Detroit Lions",
       "mode": "team",
       "ok": true,
-      "ms": 706,
-      "raw": 102,
-      "kept": 1
-    },
-    {
-      "id": "gnews-team-lv",
-      "label": "Google News: Las Vegas Raiders",
-      "mode": "team",
-      "ok": true,
-      "ms": 847,
-      "raw": 106,
-      "kept": 1
+      "ms": 665,
+      "raw": 100,
+      "kept": 2
     },
     {
       "id": "gnews-team-nyj",
       "label": "Google News: New York Jets",
       "mode": "team",
       "ok": true,
-      "ms": 771,
+      "ms": 592,
+      "raw": 102,
+      "kept": 2
+    },
+    {
+      "id": "gnews-team-was",
+      "label": "Google News: Washington Commanders",
+      "mode": "team",
+      "ok": true,
+      "ms": 647,
+      "raw": 102,
+      "kept": 2
+    },
+    {
+      "id": "gnews-players-1",
+      "label": "Google News: Nix, Love, Penix, Jeanty, Brown",
+      "mode": "roster",
+      "ok": true,
+      "ms": 800,
       "raw": 100,
+      "kept": 1
+    },
+    {
+      "id": "gnews-players-2",
+      "label": "Google News: Pacheco, Brooks, Johnson, Gordon, Henderson",
+      "mode": "roster",
+      "ok": true,
+      "ms": 685,
+      "raw": 100,
+      "kept": 1
+    },
+    {
+      "id": "gnews-players-3",
+      "label": "Google News: Spears, Brown, Williams, Egbuka, Boutte",
+      "mode": "roster",
+      "ok": true,
+      "ms": 770,
+      "raw": 100,
+      "kept": 1
+    },
+    {
+      "id": "gnews-team-lac",
+      "label": "Google News: Los Angeles Chargers",
+      "mode": "team",
+      "ok": true,
+      "ms": 724,
+      "raw": 102,
+      "kept": 1
+    },
+    {
+      "id": "gnews-team-ne",
+      "label": "Google News: New England Patriots",
+      "mode": "team",
+      "ok": true,
+      "ms": 683,
+      "raw": 103,
       "kept": 1
     },
     {
@@ -141,16 +123,16 @@
       "label": "Google News: Pittsburgh Steelers",
       "mode": "team",
       "ok": true,
-      "ms": 828,
-      "raw": 99,
+      "ms": 697,
+      "raw": 101,
       "kept": 1
     },
     {
-      "id": "gnews-team-was",
-      "label": "Google News: Washington Commanders",
+      "id": "gnews-team-tb",
+      "label": "Google News: Tampa Bay Buccaneers",
       "mode": "team",
       "ok": true,
-      "ms": 882,
+      "ms": 633,
       "raw": 100,
       "kept": 1
     },
@@ -159,7 +141,7 @@
       "label": "ESPN NFL",
       "mode": "roster",
       "ok": true,
-      "ms": 162,
+      "ms": 150,
       "raw": 0,
       "kept": 0
     },
@@ -168,7 +150,7 @@
       "label": "ProFootballTalk",
       "mode": "roster",
       "ok": true,
-      "ms": 415,
+      "ms": 326,
       "raw": 30,
       "kept": 0
     },
@@ -177,7 +159,7 @@
       "label": "CBS Sports NFL",
       "mode": "roster",
       "ok": true,
-      "ms": 204,
+      "ms": 126,
       "raw": 36,
       "kept": 0
     },
@@ -186,7 +168,7 @@
       "label": "Yahoo Sports NFL",
       "mode": "roster",
       "ok": true,
-      "ms": 976,
+      "ms": 565,
       "raw": 50,
       "kept": 0
     },
@@ -195,7 +177,7 @@
       "label": "r/fantasyfootball new",
       "mode": "roster",
       "ok": true,
-      "ms": 1421,
+      "ms": 1032,
       "raw": 0,
       "kept": 0
     },
@@ -204,8 +186,17 @@
       "label": "Google News: Carolina Panthers",
       "mode": "team",
       "ok": true,
-      "ms": 876,
+      "ms": 776,
       "raw": 100,
+      "kept": 0
+    },
+    {
+      "id": "gnews-team-chi",
+      "label": "Google News: Chicago Bears",
+      "mode": "team",
+      "ok": true,
+      "ms": 808,
+      "raw": 107,
       "kept": 0
     },
     {
@@ -213,7 +204,7 @@
       "label": "Google News: Cincinnati Bengals",
       "mode": "team",
       "ok": true,
-      "ms": 819,
+      "ms": 739,
       "raw": 100,
       "kept": 0
     },
@@ -222,16 +213,25 @@
       "label": "Google News: Green Bay Packers",
       "mode": "team",
       "ok": true,
-      "ms": 831,
-      "raw": 104,
+      "ms": 693,
+      "raw": 100,
       "kept": 0
     },
     {
-      "id": "gnews-team-lac",
-      "label": "Google News: Los Angeles Chargers",
+      "id": "gnews-team-lv",
+      "label": "Google News: Las Vegas Raiders",
       "mode": "team",
       "ok": true,
-      "ms": 722,
+      "ms": 739,
+      "raw": 100,
+      "kept": 0
+    },
+    {
+      "id": "gnews-team-phi",
+      "label": "Google News: Philadelphia Eagles",
+      "mode": "team",
+      "ok": true,
+      "ms": 793,
       "raw": 102,
       "kept": 0
     },
@@ -240,7 +240,7 @@
       "label": "Google News: Tennessee Titans",
       "mode": "team",
       "ok": true,
-      "ms": 815,
+      "ms": 743,
       "raw": 100,
       "kept": 0
     }
@@ -249,9 +249,9 @@
     "sources": 27,
     "ok": 27,
     "failed": 0,
-    "newThisRun": 39,
+    "newThisRun": 28,
     "inAllFeed": 1200,
-    "inUrgentFeed": 206
+    "inUrgentFeed": 221
   },
   "roster": [
     {
@@ -266,7 +266,7 @@
       "pos": "QB",
       "team": "GB",
       "verified": true,
-      "recent": 44
+      "recent": 45
     },
     {
       "name": "Michael Penix",
@@ -315,14 +315,14 @@
       "pos": "RB",
       "team": "MIA",
       "verified": true,
-      "recent": 2
+      "recent": 1
     },
     {
       "name": "TreVeyon Henderson",
       "pos": "RB",
       "team": "NE",
       "verified": true,
-      "recent": 43
+      "recent": 40
     },
     {
       "name": "Tyjae Spears",
@@ -336,7 +336,7 @@
       "pos": "WR",
       "team": "NE",
       "verified": true,
-      "recent": 14
+      "recent": 12
     },
     {
       "name": "Antonio Williams",
@@ -350,14 +350,14 @@
       "pos": "WR",
       "team": "TB",
       "verified": true,
-      "recent": 17
+      "recent": 18
     },
     {
       "name": "Kayshon Boutte",
       "pos": "WR",
       "team": "NE",
       "verified": true,
-      "recent": 248
+      "recent": 227
     },
     {
       "name": "Ladd McConkey",
@@ -378,14 +378,14 @@
       "pos": "WR",
       "team": "DEN",
       "verified": true,
-      "recent": 29
+      "recent": 30
     },
     {
       "name": "Matthew Golden",
       "pos": "WR",
       "team": "GB",
       "verified": true,
-      "recent": 16
+      "recent": 17
     },
     {
       "name": "Cade Otton",
@@ -413,7 +413,7 @@
       "pos": "TE",
       "team": "ATL",
       "verified": true,
-      "recent": 16
+      "recent": 21
     }
   ]
 }
