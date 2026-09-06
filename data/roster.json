@@ -3,7 +3,7 @@
   "_sleeper": {
     "leagueId": "1312070936467365888",
     "username": "jcedwards69",
-    "lastSync": "2026-08-09T01:04:02.557Z"
+    "lastSync": "2026-09-06T13:11:42.213Z"
   },
   "players": [
     {
@@ -58,6 +58,18 @@
       "sleeperId": "12527"
     },
     {
+      "id": "brian-robinson",
+      "sleeperId": "8154",
+      "name": "Brian Robinson",
+      "pos": "RB",
+      "team": "ATL",
+      "verified": true,
+      "aliases": [
+        "Brian Robinson"
+      ],
+      "exclude": []
+    },
+    {
       "id": "cbrown",
       "name": "Chase Brown",
       "pos": "RB",
@@ -98,7 +110,7 @@
       "id": "kjohnson",
       "name": "Kaleb Johnson",
       "pos": "RB",
-      "team": "PIT",
+      "team": "GB",
       "verified": true,
       "aliases": [
         "Kaleb Johnson"
@@ -188,7 +200,7 @@
       "id": "boutte",
       "name": "Kayshon Boutte",
       "pos": "WR",
-      "team": "NE",
+      "team": "HOU",
       "verified": true,
       "aliases": [
         "Kayshon Boutte",
@@ -314,13 +326,13 @@
     "DEN": "Denver Broncos",
     "DET": "Detroit Lions",
     "GB": "Green Bay Packers",
+    "HOU": "Houston Texans",
     "LAC": "Los Angeles Chargers",
     "LV": "Las Vegas Raiders",
     "MIA": "Miami Dolphins",
     "NE": "New England Patriots",
     "NYJ": "New York Jets",
     "PHI": "Philadelphia Eagles",
-    "PIT": "Pittsburgh Steelers",
     "TB": "Tampa Bay Buccaneers",
     "TEN": "Tennessee Titans",
     "WAS": "Washington Commanders"
