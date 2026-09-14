@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1789363330864"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1789383233800"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - urgent only</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Availability and role changes only. Point your email service at this one.</description>
-    <lastBuildDate>Mon, 14 Sep 2026 05:22:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 10:53:53 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/urgent.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -1519,14 +1519,6 @@
       <pubDate>Thu, 10 Sep 2026 02:05:52 GMT</pubDate>
       <source>ProFootballTalk</source>
       <description>Patriots receiver A.J.</description>
-    </item>
-    <item>
-      <title>A.J. Brown injury: Patriots WR ruled out with ankle injury [A.J. Brown]</title>
-      <link>https://sports.yahoo.com/articles/j-brown-injury-patriots-wr-021525096.html</link>
-      <guid isPermaLink="false">11f061a49c8d1cfd</guid>
-      <pubDate>Thu, 10 Sep 2026 02:15:25 GMT</pubDate>
-      <source>Yahoo Sports NFL</source>
-      <description>Patriots WR A.J. Brown suffered an ankle injury against the Seahawks</description>
     </item>
   </channel>
 </rss>
