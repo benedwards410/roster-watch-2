@@ -3,7 +3,7 @@
   "_sleeper": {
     "leagueId": "1312070936467365888",
     "username": "jcedwards69",
-    "lastSync": "2026-09-06T13:11:42.213Z"
+    "lastSync": "2026-09-17T14:57:38.168Z"
   },
   "players": [
     {
@@ -223,6 +223,18 @@
       "sleeperId": "11635"
     },
     {
+      "id": "mack-hollins",
+      "sleeperId": "4177",
+      "name": "Mack Hollins",
+      "pos": "WR",
+      "team": "NE",
+      "verified": true,
+      "aliases": [
+        "Mack Hollins"
+      ],
+      "exclude": []
+    },
+    {
       "id": "lemon",
       "name": "Makai Lemon",
       "pos": "WR",
@@ -260,19 +272,6 @@
       ],
       "exclude": [],
       "sleeperId": "12501"
-    },
-    {
-      "id": "otton",
-      "name": "Cade Otton",
-      "pos": "TE",
-      "team": "TB",
-      "verified": true,
-      "aliases": [
-        "Cade Otton",
-        "Otton"
-      ],
-      "exclude": [],
-      "sleeperId": "8111"
     },
     {
       "id": "loveland",
