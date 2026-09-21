@@ -1,13 +1,445 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1790008221458"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1790022844218"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Mon, 21 Sep 2026 16:30:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 20:34:04 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kevin Stefanski has a &quot;decent idea&quot; of Week 3 starter, but will address with team first [Michael Penix]</title>
+      <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-stefanski-has-a-decent-idea-of-week-3-starter-but-will-address-with-team-first</link>
+      <guid isPermaLink="false">42f9b86122149932</guid>
+      <pubDate>Mon, 21 Sep 2026 16:54:09 GMT</pubDate>
+      <source>ProFootballTalk</source>
+      <description>Michael Penix Jr.?</description>
+    </item>
+    <item>
+      <title>Packers Film Room: Christian Watson, Jordan Love adjust for a touchdown [Jordan Love]</title>
+      <link>https://sports.yahoo.com/articles/packers-film-room-christian-watson-201509634.html</link>
+      <guid isPermaLink="false">b45aea9be4f2e650</guid>
+      <pubDate>Mon, 21 Sep 2026 20:15:09 GMT</pubDate>
+      <source>Yahoo Sports NFL</source>
+      <description>Breaking down Christian Watson’s TD in the Packers Week 2 win over the Jets</description>
+    </item>
+    <item>
+      <title>Michael Penix Jr. named starting QB for Thursday Night Football vs. Packers - Atlanta Falcons [Michael Penix]</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxNeHJ1OHRDVEQ1NjIwbHZoN1NvZkpjZFNMblFzb0V5dVhfQmt5c0hUcVl3SzFnbmNqSG14Rm1Ob09xTFNIMVloeE1BZ2NrR2phVGdEbVBTeWNTRmhhQ2k3WE5oY0R5cUVsODNVUmU2VEVTRW1odENyQjFOdHduQmJxVkJySThKXzZ4czBTQV93Q01aYnM4MXFOSnRldFhqMjl1?oc=5</link>
+      <guid isPermaLink="false">919aa1e2e11af31c</guid>
+      <pubDate>Mon, 21 Sep 2026 20:33:06 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Michael Penix Jr. named starting QB for Thursday Night Football vs. Packers &amp;nbsp;&amp;nbsp; Atlanta Falcons</description>
+    </item>
+    <item>
+      <title>What Falcons coach Kevin Stefanski said about QB Michael Penix Jr.&apos;s return - Yahoo Sports [Michael Penix]</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcE9YTHNDVjRVcmJTZEp2eFhmOUEzOEduRlc5R29LY0F6d0FDdi0zZlBXTWdPX3dYWDZnaU16di1UTFpLRG1EazBBWFFVcjhrdzZQOEZPSjV4NmxCSUJTYl9lMTV4VDV3XzlOY1dlYzNYWFNYTHpWYUd0VGp3QkNFdGxUZnhMclBzQW44?oc=5</link>
+      <guid isPermaLink="false">3dbf0ec432d0995b</guid>
+      <pubDate>Mon, 21 Sep 2026 17:07:21 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>What Falcons coach Kevin Stefanski said about QB Michael Penix Jr.&apos;s return &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Jordan Love embraces pressure and reveals what the Packers are learning from late-game situations - A to Z Sports [Jordan Love]</title>
+      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxNYTdCeEI3Y3dxX18zZC1Pa2FPdEV4elA4OE5WamJQd1hCOGlfcjE1MU91RFhHUldSSkxhbUhISTY0UjVKNm15RG45OEpKdkxMMFZXRWJoV0tkd05NMTFiRnBmbWgzd2RPTWpMdU95YnZwNHJpNW9iQUUzbGdkNUM0eWcxZndfM2s?oc=5</link>
+      <guid isPermaLink="false">6a163761876700f1</guid>
+      <pubDate>Mon, 21 Sep 2026 17:00:00 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Jordan Love embraces pressure and reveals what the Packers are learning from late-game situations &amp;nbsp;&amp;nbsp; A to Z Sports</description>
+    </item>
+    <item>
+      <title>Broncos QB Bo Nix is in good company in this comeback stat - Broncos Wire [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQbW9rUDBzc3UyYjdDZ3BiWHJqb1hmWlB0dFJtSHBiNk9XVFBtc1d6VTNqR3Vud0o3N0pxeVptSHZINUNlQUNCSUF6NTlNeE1fZFV4Tm9wVEw4dFlkQklZTHhYNUdRQi1fN1drX2ZvdFdKZFlVRHYyOFhuTFBnQXRWdTdMV0ZVMnZ4SHhVRTA5Uko5UTRmX2NDZjZPdGNOTlpSX1IzTl9QWjl3ZS1pdXdqcA?oc=5</link>
+      <guid isPermaLink="false">9df5f188f6cd79b7</guid>
+      <pubDate>Mon, 21 Sep 2026 16:48:00 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Broncos QB Bo Nix is in good company in this comeback stat &amp;nbsp;&amp;nbsp; Broncos Wire</description>
+    </item>
+    <item>
+      <title>Bo Nix praises Jaylen Waddle&apos;s big game vs. Jags - NFL.com [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9vbG54VXVwZ1NBUjgtdUNqT0RVRUNqWEFTdkdBYk1oZVNSWTFEakZuX2xnQmYyWnJYUC1DTWtrVkpwNFlUMnQyWW1EQnNZUFdkWHJiaU5MUmN1b2dVNUFCcUJsUW0zUDNXeERKdHRlZ2RSVS1Cbi1ySFpQeHo2akk?oc=5</link>
+      <guid isPermaLink="false">2aea7971004de679</guid>
+      <pubDate>Mon, 21 Sep 2026 20:15:09 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Bo Nix praises Jaylen Waddle&apos;s big game vs. Jags &amp;nbsp;&amp;nbsp; NFL.com</description>
+    </item>
+    <item>
+      <title>Dave Archer: &apos;I&apos;m assuming Michael Penix Jr. plays&apos; Thursday vs. Packers - Audacy [Michael Penix]</title>
+      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVi1aMk9aV3hQTVZfdjdHa3oya2I2SkxqVFJNM3U1eWU4Y3BmaWVmNzNQR2JzSW1WT04tNnZmVDlleUQ5UncwY0Jrdlp3dGZsQng4WjVPV191emFOWTdoLXN1S0hoUEp6WlRkckVkSjRjNkF3Wmw1dFhuaG11RGxCeFl4NVg2ZXQ2Z3pHS3BkX2lVcWZlbjIxVmJGSlR5VGNhWjVLOU1mZ1Q0dWI3TUZuNTdIdk8yMUNoTnE4?oc=5</link>
+      <guid isPermaLink="false">41134f71b90f9f6b</guid>
+      <pubDate>Mon, 21 Sep 2026 17:33:00 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Dave Archer: &apos;I&apos;m assuming Michael Penix Jr. plays&apos; Thursday vs. Packers &amp;nbsp;&amp;nbsp; Audacy</description>
+    </item>
+    <item>
+      <title>Ashton Jeanty&apos;s bad game was lone blemish in Raiders&apos; stunning win over Chargers - Just Blog Baby [Ashton Jeanty]</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxOY3ozRlhEV3YwRkpuMmNlM1VrZTE0U1VhajAwdU9ZcUFLYTU1Zm5HMDVXaWJWV1BLSFcwU3FKMWl1dDhxY0JrQU5YbkVQTE1Qd0Q3NUlxU2Y3ODVTR2VLYTJ3Vy1GUU1rNUFpWXVPMjc4RFgwa0xMZURaeldKZjg1T1dGQWl5ZlcwdWY0cUo4a24tSXBadG10eUdKbnB2X1lkUnZMUA?oc=5</link>
+      <guid isPermaLink="false">39bb3fa6b80d570b</guid>
+      <pubDate>Mon, 21 Sep 2026 19:31:17 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Ashton Jeanty&apos;s bad game was lone blemish in Raiders&apos; stunning win over Chargers &amp;nbsp;&amp;nbsp; Just Blog Baby</description>
+    </item>
+    <item>
+      <title>Jordan Love supplies his thoughts on how Packers won in Week 2 - Yahoo Sports [Jordan Love]</title>
+      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxOX2JnZ1M1Z1dJUEJ0LW1EUmluQnNwZ1BpQTdsakduZzZkdW8wTmtsdFNmSm1TWW84dElDZEp3RmlNOWpaQVlOckZSUldBaWE4WUFjekRKYmg0TlZSNmZwWlVMTUxHbHFmcVFHemVqNjJYNm5VRTZmUzRJSk1FanpZUlhMYTRvVWQ3Z21GUw?oc=5</link>
+      <guid isPermaLink="false">0b8561b499bd4743</guid>
+      <pubDate>Mon, 21 Sep 2026 19:11:37 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Jordan Love supplies his thoughts on how Packers won in Week 2 &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Bo Nix on Impact of Broncos Newcomers Jaylen Waddle and Jonah Coleman - Yahoo Sports [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQSGhIeHczb2Q5VG84M1hzWWZoTDM0OFVLeWRBZVVJTWhHYTBoZGM3Ylp4c1JZazdvVmluWkxORkdwQ2hMNTM0dE8wRnUyZ2JKREkyVGR5SWIwdkgtbVNnNEpNMGcycTlNaS1mTXllX09UWUtwYVFtc2l2bGttbjRDZ01ZajI?oc=5</link>
+      <guid isPermaLink="false">17bd470457cdaea9</guid>
+      <pubDate>Mon, 21 Sep 2026 16:43:32 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Bo Nix on Impact of Broncos Newcomers Jaylen Waddle and Jonah Coleman &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>RESILIENCE: Denver Broncos, Bo Nix DOMINATE Jaguars in Second Half - KHOU [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMiggJBVV95cUxNeGoxWWR5V2w2Z0piUmV4NC0zVnVxM0JLT0hWVC1UNGVsVWhIWExqZjRtcm8zM0QtSjlYMXdVY3F2SmVHYUZvYm00V2Q2a0RhZ0ZWRzcxTHRGTmhlWDdTR2w0c3VOdXBwanlfajZlWUNnN3lqaXpTdjN4WEU2NmxqUzRDZmU2MU9CME5RcVBKT09pc0RNX3BYT0YxVWo0NEdMbDNOXzQzaE94SjRjVTNyYVhRc1JPLWZmeTY1eGJvZGZQT09KUDU2T0V3V0p3R1VHUElYNVItZTVPME5lVjlicU1KY1RtdF9Td1RicXNCYWRXME5LREFMdHcyZFo5OW5Zc1E?oc=5</link>
+      <guid isPermaLink="false">4e2cc4bdc7b5bba1</guid>
+      <pubDate>Mon, 21 Sep 2026 16:37:00 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>RESILIENCE: Denver Broncos, Bo Nix DOMINATE Jaguars in Second Half &amp;nbsp;&amp;nbsp; KHOU</description>
+    </item>
+    <item>
+      <title>Bo Nix&apos;s Belief in New OC Davis Webb Pays Off for Broncos - Yahoo Sports [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE55bWxwbE1XbEpFNHdZamZ6WkZ3YjdnSXgyZjJXS3BlN3p4UEVHRFJjSUxGOEpfRTdNWGJGeUhoVWVCWThWdGZmWV9yV0wwcHRWWGVwV0JMS0tHZ0g1MVlHODZXLWFndUZCbWluS2FDXzhDVGdGcXRpRlBB?oc=5</link>
+      <guid isPermaLink="false">57514c3dfac374cb</guid>
+      <pubDate>Mon, 21 Sep 2026 16:47:53 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Bo Nix&apos;s Belief in New OC Davis Webb Pays Off for Broncos &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Falcons’ Michael Penix Jr. on Verge of Being Too Far Gone - heavy.com [Michael Penix]</title>
+      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxOWkhYQlBldTRya3p3YTRhQkR3bHJtRXRMcWMxNU5BdUFUeTNjbWlJOEtmN2d2bDlMR1EyWHA2RTV4MmQ0WDc5NldQeVFOeWlsd2dRb0xwcVJ5eXFpaWd4TUk1UmhuVHh0YUhNWXlVekF0Q0VScWxsRTNKMlVEc1gxcVZ3WnRXR2NBQy1PTU9FRWVVek0?oc=5</link>
+      <guid isPermaLink="false">15e8e029dcbd514d</guid>
+      <pubDate>Mon, 21 Sep 2026 18:50:08 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Falcons’ Michael Penix Jr. on Verge of Being Too Far Gone &amp;nbsp;&amp;nbsp; heavy.com</description>
+    </item>
+    <item>
+      <title>Raiders | RB Ashton Jeanty returns to the game - Fantasy Guru [Ashton Jeanty]</title>
+      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTFA5MmxNQ191ejVpUVpsNWpFWjlYSjRtYlh5cDAtenZPdURpb2NsLUV4ZXNkU1JuZmpLYzZvWV85NWJpdHRuZmNjOU9FbkRpOTIzR1hnLVZVcjM1aDVSc1FFREY4MDMwWmNLOFRiNl90NHo1cUE1WlZGZUNUeFg?oc=5</link>
+      <guid isPermaLink="false">b61fa4dcd43c7af1</guid>
+      <pubDate>Mon, 21 Sep 2026 18:52:56 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Raiders | RB Ashton Jeanty returns to the game &amp;nbsp;&amp;nbsp; Fantasy Guru</description>
+    </item>
+    <item>
+      <title>Brian Robinson: Must-Add Waiver Wire Pickup for Week 3 Fantasy Football? - NFL News - RotoBaller [Brian Robinson]</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUUlRS0ZiT1BUT213LUpWa0dsVHdKOEZDWWRvRmRWSU96SkNMZUI2dEJPX3RtNGFIckFjYWxkNkhzTWdvdmpUcDh1cGlyMGYtWXh4THVVa19RQzYzekE4cm15Nkc5OUlXREQyT0VNNWpLN1hnQ0REUWFPN2ZMTER3X2xOR3JpME4zRlhuRlI4SXBJMFJRczhDWHlCVVlFNEFJaEE4Rl85bGh4TWlEUlA0clNrRTNoZlNJ?oc=5</link>
+      <guid isPermaLink="false">c328523d01c04f3b</guid>
+      <pubDate>Mon, 21 Sep 2026 20:12:06 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Brian Robinson: Must-Add Waiver Wire Pickup for Week 3 Fantasy Football? - NFL News &amp;nbsp;&amp;nbsp; RotoBaller</description>
+    </item>
+    <item>
+      <title>Jordan Love, Packers Put on Blast After Sloppy Win vs. Packers: ‘Something Wrong’ - heavy.com [Jordan Love]</title>
+      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxNS3hlT3RhNGRCWnpWZUNTS0o5cnU2LVhweDM2aXJPVWhUYWlCcWI3WkY3VXVUT2dsQUFzS1haeGlyNWhKUzZ2cmxfOGQtblBkU3I5R2JseHdGTFBBTEw2QlR4VUZVMVNoNURFd3VMWDhfeHdFQVVaRXB0TlU4VWpwNDZEZ0V3T29oeFA1SmgyUUxmdw?oc=5</link>
+      <guid isPermaLink="false">904bddbf07e4c57e</guid>
+      <pubDate>Mon, 21 Sep 2026 17:10:17 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Jordan Love, Packers Put on Blast After Sloppy Win vs. Packers: ‘Something Wrong’ &amp;nbsp;&amp;nbsp; heavy.com</description>
+    </item>
+    <item>
+      <title>Jonathon Brooks Undergoing tests on groin injury - Fantasy Footballers Podcast [Jonathon Brooks]</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxOYjROcExZS2gxenlLOTdpNTRoWXZqT19NRGQ1a1Z4eWs4b2g2Mjl0RDE4TFFkaldNYlkzVFhYckxNanJJdW1McG1HZGRBUlUwclJNRW1QRVVxbkFFTTZxM1FNUG11S1RHVS1GaWZDN2JDRkdrTVZIZHdhNmRKZUhNR21PMnI5anJZUlFKQ1hvNExBU1AyRF82cVlYelpiZDFw?oc=5</link>
+      <guid isPermaLink="false">beeafa4f350a264b</guid>
+      <pubDate>Mon, 21 Sep 2026 18:11:15 GMT</pubDate>
+      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
+      <description>Jonathon Brooks Undergoing tests on groin injury &amp;nbsp;&amp;nbsp; Fantasy Footballers Podcast</description>
+    </item>
+    <item>
+      <title>Panthers HC Dave Canales is asked if he&apos;s concerned about RB Jonathon Brooks&apos; latest injury - Panthers Wire [Jonathon Brooks]</title>
+      <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMmF1R1RlR2lMQVFyTmxHZFYzRVI4dlZ5QmdoSFFpOGt5djJWcHhxcmdMUjJxbG5wRElUN1hSN2FybUc0STN2RGV2aWQwb0NlRTlZM005ZFhFOHl1WTR3a1ZZamFHdENhdVNJZnNFUFZKckJMb1VLVl81WGN3M2NSdTgtZ1lsN0h2QUtoRFVfSkpTdUk0d3pZbXRENnZEdlJVMDBIZEJIUDFoWXkzZm5OQTJsd1ZSdjhhcmxKSDB1RW1xQkdZVGw4WHBuNXQtd1doZGRLZDdMZ1Y?oc=5</link>
+      <guid isPermaLink="false">c59fc660b01a18b4</guid>
+      <pubDate>Mon, 21 Sep 2026 17:43:00 GMT</pubDate>
+      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
+      <description>Panthers HC Dave Canales is asked if he&apos;s concerned about RB Jonathon Brooks&apos; latest injury &amp;nbsp;&amp;nbsp; Panthers Wire</description>
+    </item>
+    <item>
+      <title>Panthers&apos; Jonathon Brooks: Undergoing tests on groin injury - CBS Sports [Jonathon Brooks]</title>
+      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaWE3RkxvYzB5TFg5TU5fMXRHVTRMcU5rZXNJMHZOc2VFTG5CX3h0QXkxendwT1RXX0NFdUhWUmYxVVNFcTdxRTBmWkFBTl9hYm5JLWJjTWRCT01fcTkwTUYwbDhGV0M1ZHdrZU9HUDVQWldGQmVkbENQTjhydGxEa0RCUTJZRGFqbXFmRnhVanZhTnpZUVRyWERNN3dkaUFNLUlOZnJTdHRpUQ?oc=5</link>
+      <guid isPermaLink="false">a34d946dcdc93cf8</guid>
+      <pubDate>Mon, 21 Sep 2026 17:51:17 GMT</pubDate>
+      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
+      <description>Panthers&apos; Jonathon Brooks: Undergoing tests on groin injury &amp;nbsp;&amp;nbsp; CBS Sports</description>
+    </item>
+    <item>
+      <title>Jonathon Brooks (groin) undergoing tests - FantasyPros [Jonathon Brooks]</title>
+      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ1MtNUo3R1BHbS1VSzBFeThCSXBYYU05ZHAtTWJPSXBEc2ZVUUtSZ2w5UkZ0MGhjaHZtZ2ZjM1ZYWGdaSTYyZGFfNTFidml2VXlmQ3E0WlNrSjFDY2ZNYXRkWHhOUzNtcTd3bC1OQ2hXcElLX1BlakxILVdDc3UxWGNwbDN0S2tHYTVBSkpDSdIBlAFBVV95cUxQUFN3aFBQT0ROWG5kbXlRdWt3RUpidnRWeHFkSzhHdUdaRTcwekFBLUtKaUlHRGlKcWp3M2NGX1RpaW5IdUVxNmlNcHRGX0M3MkpWa2J0S2ZtdWF4aktsR3NIbFNBZWtzNllnSjVnN2sydS1kYUdNZlZDdFVCa05qR19BVmQ0VmdMU3o1M3dOXzlvajJG?oc=5</link>
+      <guid isPermaLink="false">2075961dd8dbd2ae</guid>
+      <pubDate>Mon, 21 Sep 2026 17:29:37 GMT</pubDate>
+      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
+      <description>Jonathon Brooks (groin) undergoing tests &amp;nbsp;&amp;nbsp; FantasyPros</description>
+    </item>
+    <item>
+      <title>Jonathon Brooks&apos; injury only adds to the Panthers&apos; concerns about their run game and finding a balanced offensive attack - A to Z Sports [Jonathon Brooks]</title>
+      <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcGd0dkc2aU9TdlltekxLZEcxMUtmQU1xUENJZXRFZGE3TzNkekZnZWZjRDdUMHRxaVJncjFRdmV1ZlFLUGNNcENWZXAtcXBpTWcxVjlaUjV4NjF5YkMzaTcwd3hkZEZMTjVGVlJjX2R1ei1GTU4yQlZnLWQzSFJaeVlJY0ZaQVFGZlRCcm9ja2lxQ2hTb19kS0UtcTlSbDh5eGh6a2JhQW5teFRNVTFKakR2czNoSV90YjJaWWh1TTBxQXJZUFMyd1M3b2VYeDRwZGZFZWY4TTNKVEY5?oc=5</link>
+      <guid isPermaLink="false">2f77c40f35f9d9f4</guid>
+      <pubDate>Mon, 21 Sep 2026 17:44:51 GMT</pubDate>
+      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
+      <description>Jonathon Brooks&apos; injury only adds to the Panthers&apos; concerns about their run game and finding a balanced offensive attack &amp;nbsp;&amp;nbsp; A to Z Sports</description>
+    </item>
+    <item>
+      <title>Jonathon Brooks Injury Update Leaves Questions For Panthers - heavy.com [Jonathon Brooks]</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxPUEZUeXU3MV94dVJBbFR1bFdwbUJKVmZNTkh4MEdZaHYwTi1WQ0cxRWhvZ0ZxWkpOdkJ0VkU2cEtLUjZiVWEtcnBJQUs1UmJtY0ZjdlRjSFZPTnliR09BREVoQlluRTBwZ1ZpUEpqb1NjWWVsT0J4RTZLNGxGLUExb2ZtenpTRnhtbTJxR1VCSnUyRGNndlp5cmkzV1k?oc=5</link>
+      <guid isPermaLink="false">1901494a396a7e5b</guid>
+      <pubDate>Mon, 21 Sep 2026 18:26:13 GMT</pubDate>
+      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
+      <description>Jonathon Brooks Injury Update Leaves Questions For Panthers &amp;nbsp;&amp;nbsp; heavy.com</description>
+    </item>
+    <item>
+      <title>Groin injury for Jonathon Brooks - USA Today [Jonathon Brooks]</title>
+      <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxQam5kdkV4SmJETGNVZU5WekFNVzBnVzRDV2hqN1FCS2VZaHdkWXQyOHJMVzByby1pamdZaW00SXVFXy1pc2E4a1ZuRnBjNldYczNBTG56cVFzSE1sMF9XTi0zTmtxbGJUc1gzRGZnUUxENlVNTzBMYVVyZVZOYmJxdkFZcUdtQnhoUUMtdjRKbENyLXNSVDdFNjc5RmxfUVZKR29DQzNfY21kc3ljQm81V2djNTM3U1lPdzdVN2l4QWdGWkdDTzRXbEY2UkVXYkk5VE5r?oc=5</link>
+      <guid isPermaLink="false">825d5ad16a7d2697</guid>
+      <pubDate>Mon, 21 Sep 2026 18:50:00 GMT</pubDate>
+      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
+      <description>Groin injury for Jonathon Brooks &amp;nbsp;&amp;nbsp; USA Today</description>
+    </item>
+    <item>
+      <title>Bengals&apos; Chase Brown: Solid production with 23 touches - CBS Sports [Chase Brown]</title>
+      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ1ZDUFc1SXNDR0hSMTJ2YUpGV3ZqSUxtWC1McS1RU2d5dHhnUm9fUlh2SFp0TmoxekhnczFia21ack5pNjJqU2YwMWNUNmRXTWVYXzVCdUhUMVdlV2toSnpDQndsZW0ybUFIS0JvUGxFNVptemlEY3pEOXVkSEdkSXdXTUIzWUhXbmlpaW9OZ1pXaVlFU1g2MW9RWXE1am43ZVFN?oc=5</link>
+      <guid isPermaLink="false">fef8797b016b6254</guid>
+      <pubDate>Thu, 17 Sep 2026 15:22:37 GMT</pubDate>
+      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
+      <description>Bengals&apos; Chase Brown: Solid production with 23 touches &amp;nbsp;&amp;nbsp; CBS Sports</description>
+    </item>
+    <item>
+      <title>Jonathon Brooks Injury: Heads to locker room with groin injury - RotoWire [Jonathon Brooks]</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQNjhxbnFtc2g1RWZ2U3AxWUdrX1VwTGZHM2YtTWVzUEJHWmNsMW1TcjNLMDU1MW9TZEEzSVdCQjh6UUcxNk5VN0wzYWRMRGhzbGtQUjVFMkduMU1faHF3YjZpMkJqX0R5LVU0Wk5xbTAycG1oVlFFZ19ESjV5d1ZocFF5ZkFjQ2VXWFI3UFh0N2E0NFpvNmZDWTBrTGxoOXZra0w1eU9XN1BvSWExNEpzZklR?oc=5</link>
+      <guid isPermaLink="false">1f0bd34d6d88b19c</guid>
+      <pubDate>Sun, 20 Sep 2026 19:53:11 GMT</pubDate>
+      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
+      <description>Jonathon Brooks Injury: Heads to locker room with groin injury &amp;nbsp;&amp;nbsp; RotoWire</description>
+    </item>
+    <item>
+      <title>Eagles&apos; Receiver Room is Showing It Can Succeed Without A.J. Brown - Belleville News-Democrat [A.J. Brown]</title>
+      <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aeGUwdk4xNDJQYlNKY2JxNGJpbHU1dVhtOGFzdTlTQkFQNS1iWmlzMlpnVFV1RFdTbVRQRk5jbGotRHE0NVlFTmY3WFMwczU1QWJ6eUJnQWY2T0RX?oc=5</link>
+      <guid isPermaLink="false">0419f0d8563b83d0</guid>
+      <pubDate>Mon, 21 Sep 2026 20:24:03 GMT</pubDate>
+      <source>Google News: Henderson, Spears, Brown, Williams, Egbuka</source>
+      <description>Eagles&apos; Receiver Room is Showing It Can Succeed Without A.J. Brown &amp;nbsp;&amp;nbsp; Belleville News-Democrat</description>
+    </item>
+    <item>
+      <title>The Patriots don&apos;t need TreVeyon Henderson to be RB1 yet (and that&apos;s completely fine) - Chowder and Champions [TreVeyon Henderson]</title>
+      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQSzRYbTIxaHBWSF8ydzl4amo1MEk5MGxJakVNdmZNVmk3T2owa2dXbmtWTlM4V3RNZDlrMURCb255bmVoX0FRZGs2Yl9iOVZEdXU2cV9NUDRLRFU0NG5wRjhhYVlQWnRZdHlpbGlqaE1rYl9Wb3VMTXc1VktDNnBncDVEVGZaTGVjNHMybzQwaHJqbmd5Y3J5bQ?oc=5</link>
+      <guid isPermaLink="false">dde4971595154280</guid>
+      <pubDate>Mon, 21 Sep 2026 17:40:38 GMT</pubDate>
+      <source>Google News: Henderson, Spears, Brown, Williams, Egbuka</source>
+      <description>The Patriots don&apos;t need TreVeyon Henderson to be RB1 yet (and that&apos;s completely fine) &amp;nbsp;&amp;nbsp; Chowder and Champions</description>
+    </item>
+    <item>
+      <title>Is TreVeyon Henderson the Guy for Patriots or Was Mike Vrabel Just Frustrated? - Athlon Sports [TreVeyon Henderson]</title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxQcFJBelEzNlRib3JERWlXZTRJWTE2U25UTnVfVHRQcVN6THNhWTVpRE1BUFZJYkEwbXlkeDU5eC1ON0xyYkY1LTA4Y3ZLQTZJSTlLajdyOGt0MGN6U0QxcV94ejdMc3NYcmFwelFaQTB1M3BTT1RScVdKalRBcEU1Q05Tb1k0azNjQnFMaU13Y3NWWWJ0SlJOYzhwbXhhZXZSY3c?oc=5</link>
+      <guid isPermaLink="false">fa1163bdcc986021</guid>
+      <pubDate>Mon, 21 Sep 2026 19:00:00 GMT</pubDate>
+      <source>Google News: Henderson, Spears, Brown, Williams, Egbuka</source>
+      <description>Is TreVeyon Henderson the Guy for Patriots or Was Mike Vrabel Just Frustrated? &amp;nbsp;&amp;nbsp; Athlon Sports</description>
+    </item>
+    <item>
+      <title>Tyjae Spears: Must-Add Waiver Wire Pickup for Week 3 Fantasy Football? - NFL News - RotoBaller [Tyjae Spears]</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxOTjc4QnhCOTBxY1E5WWVPeVRFWnBDWFlBVmRIdnVQZjlqcE1TSktZTnRrakN6YU9iQVVHMmhKYi1xN25jZTY0QjQ2dHZGTmJEa2QycmUtbWFDa0s2YjRoaGdzbDNBQ25oUlFrX2h1Z0l3ejBQQmVOOTJSN2ZCTUFnanYwQjBuQXM5YVQ0S0pMRE9JUGhiSDAwc1VHTzI?oc=5</link>
+      <guid isPermaLink="false">f107f5014161d8d0</guid>
+      <pubDate>Mon, 21 Sep 2026 18:04:43 GMT</pubDate>
+      <source>Google News: Henderson, Spears, Brown, Williams, Egbuka</source>
+      <description>Tyjae Spears: Must-Add Waiver Wire Pickup for Week 3 Fantasy Football? - NFL News &amp;nbsp;&amp;nbsp; RotoBaller</description>
+    </item>
+    <item>
+      <title>A.J. Brown Injury Creates A Brutal Test for Drake Maye Early in 2026 - Stadium Rant [A.J. Brown]</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNQURTb3NVNmpLTXVMcXl4dzFWRGtXa2Jfb0ZlRTM3bGR2OVY1MDNMU1VYM0xQUGNERzJQc2dMaE12VE1ibk0ybEMweW5wek05SzdyNk9fTFQ5RDY1cFlaN2dOSVR1bXpsbHpzazRlaDJOZk5HSU54cDRWcExGdF9Nc1RwLVJmMlItZDdialNRMWdUQkI0OC1ibEt4OGg?oc=5</link>
+      <guid isPermaLink="false">d3722304c1e8ffe6</guid>
+      <pubDate>Mon, 21 Sep 2026 16:51:58 GMT</pubDate>
+      <source>Google News: Henderson, Spears, Brown, Williams, Egbuka</source>
+      <description>A.J. Brown Injury Creates A Brutal Test for Drake Maye Early in 2026 &amp;nbsp;&amp;nbsp; Stadium Rant</description>
+    </item>
+    <item>
+      <title>The Patriots just showed exactly how they will survive A.J. Brown&apos;s massive absence - Chowder and Champions [A.J. Brown]</title>
+      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxOeUdLYlZxOFNMOVRDeWJmTGwwS0U5SzFXcG0tTTctSXJ4ZklvUnk0UThfM0huS3QtVGhwVnVNYlMwcGN1eFZ6bHdNdzRFMDJSU01VNFZDYUZNWmJWTXJ2ei1PckluUXVPM21PbURjTGFtc25lbEs4aVZuYXVxTzNYcndkT053VURlQmNCV0poSTlhOHlfRGZsWHREX3VkUQ?oc=5</link>
+      <guid isPermaLink="false">8667c1cbded4d069</guid>
+      <pubDate>Mon, 21 Sep 2026 17:02:13 GMT</pubDate>
+      <source>Google News: Henderson, Spears, Brown, Williams, Egbuka</source>
+      <description>The Patriots just showed exactly how they will survive A.J. Brown&apos;s massive absence &amp;nbsp;&amp;nbsp; Chowder and Champions</description>
+    </item>
+    <item>
+      <title>Patriots&apos; TreVeyon Henderson: Scores 39-yard TD in season debut - CBS Sports [TreVeyon Henderson]</title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNaW1tTXc3WWVHel8xR2hXMHdLY0RXNnY0dDJEQ1hTZTRoclJZc0liaVZMbWEyQVRXYll0ODE5VENqRkZITzRQT1NYbEg5M3h3blB3Q1JVZE5oYkNGdGhyeUJ0a3BtbXJTbTFpMUJLN1B1Y2dUcVYyMVRFUEN6T3FtSTZPUGlYOFZ4VGNBVlBqRVAweW5jS1hxVkZlVXliZWE0cm15b1RpOVkyczhIYi1n?oc=5</link>
+      <guid isPermaLink="false">7a7dcf979a701557</guid>
+      <pubDate>Sun, 20 Sep 2026 20:33:04 GMT</pubDate>
+      <source>Google News: Henderson, Spears, Brown, Williams, Egbuka</source>
+      <description>Patriots&apos; TreVeyon Henderson: Scores 39-yard TD in season debut &amp;nbsp;&amp;nbsp; CBS Sports</description>
+    </item>
+    <item>
+      <title>Why Colston Loveland Has Been a Non Factor in the Bears&apos; First 2 Games - Bleacher Nation [Colston Loveland]</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBtTXNPZ2xsVjV3ZXNRQ2dRTE9ZUjlwZWlrWHVaNW1JMnhLNV9pdnAzUU9yZjlEdzFicG9OMDlUSDJvenhZMDBQbjBsSEs3aDllRGRWbG9fQVc0T1g2ek92VndBQnJFQ0NFR19BanJZVUVCS3hCdTdzZkVEQ3BmeUU?oc=5</link>
+      <guid isPermaLink="false">b8e9e871a62b6aae</guid>
+      <pubDate>Mon, 21 Sep 2026 17:00:31 GMT</pubDate>
+      <source>Google News: Golden, Loveland, Sadiq, Pitts</source>
+      <description>Why Colston Loveland Has Been a Non Factor in the Bears&apos; First 2 Games &amp;nbsp;&amp;nbsp; Bleacher Nation</description>
+    </item>
+    <item>
+      <title>Fantasy Football Top Busts Of Week 2: Can You Cut Justin Herbert And What Do You Do With Colston Loveland? - Sports Illustrated [Colston Loveland]</title>
+      <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxNN2xYdHg0VjRPRUZmdS1qNjBoT3otZ2w2Nmo2MFpUN0lMOHExcUNEWHZXZkM4UVRoTVhBMVZGRjgzSEdYem82cFhhN0xQVWJfQXNfX1RQOURZaEdfVkJxdVBaVzlTY0loblVFZjlsTGwwdjJwaHBmbkViTDBkMWFLSlhfSzkwWkw0SkQzY09VNDRFbXVRTmF2aG41TE1SSExIUjAyb21rUU40SEV3Q29VN3FFVU9oYzBwVHhZaFo0Vy1VWEVNSlNCWTVJSHN3dGxQRGxTdGFSWQ?oc=5</link>
+      <guid isPermaLink="false">42cfd9de760430a6</guid>
+      <pubDate>Mon, 21 Sep 2026 18:45:22 GMT</pubDate>
+      <source>Google News: Golden, Loveland, Sadiq, Pitts</source>
+      <description>Fantasy Football Top Busts Of Week 2: Can You Cut Justin Herbert And What Do You Do With Colston Loveland? &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
+    </item>
+    <item>
+      <title>Bears’ Colston Loveland Details Caleb Williams’ Stunning Message to Team After Injury - heavy.com [Colston Loveland]</title>
+      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxNU3BKbW0xOUNFYVgtdVdMblRpMUY1WEE5MVkyenZyWW1meXo1S0UzQmNEY2duMWlsd1FqUVlKSUJqSjk3Q1JBZjd6enZnclk5TFE4T0lWanJsLVhBeW9qeEFzVExCVThDMmlHQXBKSWluTUtsTnEwc2JoUmZqRG10OXNqWld1RktiUGV5Um1vMkQ1WEZo?oc=5</link>
+      <guid isPermaLink="false">a13b2fda30b2e3bc</guid>
+      <pubDate>Mon, 21 Sep 2026 17:35:09 GMT</pubDate>
+      <source>Google News: Golden, Loveland, Sadiq, Pitts</source>
+      <description>Bears’ Colston Loveland Details Caleb Williams’ Stunning Message to Team After Injury &amp;nbsp;&amp;nbsp; heavy.com</description>
+    </item>
+    <item>
+      <title>Where’s the panic meter on Luther Burden and Colston Loveland? - Yahoo Sports [Colston Loveland]</title>
+      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTnBxRV84M1Fxa2ZGNk0xQkY3YnhOUS05UHdYOVJPQUF4dW9KVXZ2Tmk4LXlXRzFnc3BMVlhOMXFNYkNvQ0J5SU9VcWtZVzhBRjk4R25FVWJ3QU10a0R5aW5pTVlrRFBidlR2QWZ3ZFgtZ0RqTl9hMlpPMU5odWo3OTh2TVhmaGZ6LW5RZWpnVWU4QnAzTWgzVTlYVVJZTUtITVBpU1BnZVpWQQ?oc=5</link>
+      <guid isPermaLink="false">95aca0ca7f4a6027</guid>
+      <pubDate>Mon, 21 Sep 2026 20:24:33 GMT</pubDate>
+      <source>Google News: Golden, Loveland, Sadiq, Pitts</source>
+      <description>Where’s the panic meter on Luther Burden and Colston Loveland? &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>‘Praying for Caleb’: Colston Loveland reacts to unfortunate Bears development - ChiCitySports [Colston Loveland]</title>
+      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxPNElsUC14blFVclFJZU5XcEN3RGxBX3JUYUxmbURmTEx4RE5KVjd3VzY4UEVLSzFfOXhvbzdfTWFINklndjJ6b0JqSVpxWkl2VXo4Qm1qcHVHMjZUckdJcE53ejRkWWR0LW82dXpDRnNqdXRvZldBVjh3a1IzbktPQTE3ZzI0SndYRmM2VQ?oc=5</link>
+      <guid isPermaLink="false">e4d269c041904ddc</guid>
+      <pubDate>Mon, 21 Sep 2026 18:00:46 GMT</pubDate>
+      <source>Google News: Golden, Loveland, Sadiq, Pitts</source>
+      <description>‘Praying for Caleb’: Colston Loveland reacts to unfortunate Bears development &amp;nbsp;&amp;nbsp; ChiCitySports</description>
+    </item>
+    <item>
+      <title>Matthew Golden News: Posts team-high 58 receiving yards - RotoWire [Matthew Golden]</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU0ZWOVdLNGtITTBya05KN3JkQWFCTzRpR3NQd241SmZfNlo2RGhYVEZXV0NfellvZExvMF9aRGI2WVU2UVA5enVjc0c3TGxTdzViQjhxa2x6U3pYQUhHX0M4emhabnNIV0xjbzM1WllSOWJGY3k1NFdmNTlobHRJNEpXVktPMVJsTTRZTnlrdHFUVWVHU2JIbUk1ZlExOVFSVHRyc2tueUk?oc=5</link>
+      <guid isPermaLink="false">19aca5c257de9fef</guid>
+      <pubDate>Sun, 20 Sep 2026 22:53:04 GMT</pubDate>
+      <source>Google News: Golden, Loveland, Sadiq, Pitts</source>
+      <description>Matthew Golden News: Posts team-high 58 receiving yards &amp;nbsp;&amp;nbsp; RotoWire</description>
+    </item>
+    <item>
+      <title>Kyle Pitts News: Records first catch of season - RotoWire [Kyle Pitts]</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxQSlRxNmRZU1h2SEhnYlZrRERpb0sxdktMSzJLYTk0bE1PR0ZZeGs2UnNxV21NMFNRWnFLZkxtV2xEdE1YSXZvOExSeU5iVE1hbXJHek1JYW5nSVE0RWJFNkhXZTRBVEVremRQbldvUjFDMGF6X0NMMUw5dUthb0ZDMFpVc2Z0bkdtd3dMYXlkQjRsajkybHVEMm1GNkE?oc=5</link>
+      <guid isPermaLink="false">7e3d16f2126a6d88</guid>
+      <pubDate>Sun, 20 Sep 2026 22:02:46 GMT</pubDate>
+      <source>Google News: Golden, Loveland, Sadiq, Pitts</source>
+      <description>Kyle Pitts News: Records first catch of season &amp;nbsp;&amp;nbsp; RotoWire</description>
+    </item>
+    <item>
+      <title>What’s being said about the Atlanta Falcons quarterback situation? - AL.com [Michael Penix]</title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxPQlZUSFZpTC02VDM1NDc2MXQtcDlXRVdDVGx1Z2dFc0RNY3FDemVyUVg4Q0RRRVJqS0hvMy1pakJiVHRKWUVNV1ZteDhjQWlzbmxwSFdpSUt3MDI2Rll1WU82aE0wcTFTRnF0WWJQUjhqR2k4NVdScmZORDZBNGVxamhmclNjTXoyUTRlcFE2WUtOWkRqUDRFWGVvbTRCTHBWQ3c?oc=5</link>
+      <guid isPermaLink="false">89d63284aa4d9ae2</guid>
+      <pubDate>Sun, 20 Sep 2026 17:14:00 GMT</pubDate>
+      <source>Google News: Atlanta Falcons</source>
+      <description>What’s being said about the Atlanta Falcons quarterback situation? &amp;nbsp;&amp;nbsp; AL.com Sources: Falcons QB Michael Penix Jr. could play in Week 3 &amp;nbsp;&amp;nbsp; ESPN Falcons have ‘decent idea’ of starting QB plan vs. Packers &amp;nbsp;&amp;nbsp; The Atlanta Journal-Constitution</description>
+    </item>
+    <item>
+      <title>Falcons HC Kevin Stefanski ‘Not Pleased,’ Delivers Cryptic Tua-Penix Update - heavy.com [Michael Penix]</title>
+      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxNLTFGbzV6Z0RJdm0weXBTSkZ6QUdtZ0R2SzE2aVdzc3ZVcVcycEZSM1ZLMWVBZk9tVXdVT3JwVE9fQnJfay14T1FjZnoyZDRBMDB6NVN4VVJ5U2ExdnVxeVdidl8tR2dJcE4tcC1vblh3SGI4blBhLTRGbjhKMHVtRkZsZU1sYUF0UlJibmNmSGpaYjVxSDBkV3ZwQmloQQ?oc=5</link>
+      <guid isPermaLink="false">94050144ef9c26c1</guid>
+      <pubDate>Mon, 21 Sep 2026 17:19:00 GMT</pubDate>
+      <source>Google News: Atlanta Falcons</source>
+      <description>Falcons HC Kevin Stefanski ‘Not Pleased,’ Delivers Cryptic Tua-Penix Update &amp;nbsp;&amp;nbsp; heavy.com</description>
+    </item>
+    <item>
+      <title>Caleb Williams&apos; hamstring injury: New updates released after MRI on Bears QB - NBC 5 Chicago [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSEluTEJ4OU1jMk5ZcGlSOWFJd21kbXpjQ2FmcGNCNDV1NDBHR05PMi1sYjhGcU9EdlNVOTFqMnVxNGpKalpRbEpZR21jNmNqd1Z5cWlPaHFJU3Qzb3RfSUZGN1BQYTh3NVhGNTRteE16eXVVTEpZMjdpTno1cG00OEJib2Z1bTROR1dhZWo4ZFZyQ1Fsd2dhNlJyeS1zWkNnSXJVX0JjUVVpRXV5d1R2d2tPSDRBUG9weHVna20wdWJ3cTlhV2cwT3h6ZXdOU3lySi10cHFKZ3d5LTBveU83aVJOSXpIZnR5bzFUd1VB0gH2AUFVX3lxTE5ocEZQWXRzekVtT3JILW5MQ0xwVDR0c2JJOGg2WWVuVF8xYXV5bXVOZk4xOVRzWW42SjFPcXd4cGdURThvUmoySjR6T282enN0Q2dPZDYzSW4zQkpEZXJLQ2hGYzgwT3J4ZERtd3dNbzlWQ05qTkM5S2ZYUkhOUHlmT0N5QWM3Ul9ab1dXT185STNzV2htNjJ3VnlNYXNkdlYwTTZfem1Oa0lRMnM1RWZOYk94dW9JUHd2ZmhIdWpibXhaRHdYcDJwbXNZcE8wZTZRVXAyQ0NiR0tWaU1DUU4xS1p4T1lfMl9sWkRyMktHNGFBOU00QQ?oc=5</link>
+      <guid isPermaLink="false">914ead446093548c</guid>
+      <pubDate>Mon, 21 Sep 2026 15:57:27 GMT</pubDate>
+      <source>Google News: Chicago Bears</source>
+      <description>Caleb Williams&apos; hamstring injury: New updates released after MRI on Bears QB &amp;nbsp;&amp;nbsp; NBC 5 Chicago</description>
+    </item>
+    <item>
+      <title>More proof the Amarius Mims breakout for the Bengals is very real - Yahoo Sports [Marvin Mims]</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX2ZsSVJNbEYtYzVLN1p3SjkyUkw5OFpjT2M4aTdsUkFkdGZEWU4xTVUtMmVJbTVxZHdMaktDSGZBN0JUV1hINjVlX05kZ3BYVGwzd1JUdHZXOUhEbnkwUmhLaTFheDBWRGlHVmZJUTZaNmtYb2VTeFNSblY0Rm9iMU81WDF2M0N1?oc=5</link>
+      <guid isPermaLink="false">0116584e48136804</guid>
+      <pubDate>Mon, 21 Sep 2026 20:00:30 GMT</pubDate>
+      <source>Google News: Cincinnati Bengals</source>
+      <description>More proof the Amarius Mims breakout for the Bengals is very real &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>JK Dobbins&apos; Injury Opens The Door For Jonah Coleman To Become A Fantasy Football Waiver Wire Priority - San Luis Obispo Tribune [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTFBENVdVU3p5MmNGN2ppQjlnSU5BUXpTTmlFUGhuV2xtUlliT2lBcm12cXRza2R1U3pkS0dtZC1hYVRhYVY3SVljVEpqSF9naFN4aVdTTnh1TVRLSGtaWUZQek9HWVV4dndrSlE?oc=5</link>
+      <guid isPermaLink="false">c6f70252ac82774e</guid>
+      <pubDate>Mon, 21 Sep 2026 17:24:04 GMT</pubDate>
+      <source>Google News: Denver Broncos</source>
+      <description>JK Dobbins&apos; Injury Opens The Door For Jonah Coleman To Become A Fantasy Football Waiver Wire Priority &amp;nbsp;&amp;nbsp; San Luis Obispo Tribune</description>
+    </item>
+    <item>
+      <title>Detroit Lions Sign Veteran DB Back to Practice Squad - Sports Illustrated [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxPUVBvSVJQTHFMZHEtYnU1QXJtdTRuNERTR2ZubFRWTjRadS1vdWVvZmxHSWYtTjdDZnh2ZkZxaEItOENjaVhmSjB0dF9ScGNNdms0bVV4blp5R0F0VU81a3F2eEJDWkhXVVhhQlZmcnB2Y1NYZVAyUHVOZjYzV0ZSNThFa3p3R2RjSVFJV3pWaDVoQjZLbVVqeGI5MA?oc=5</link>
+      <guid isPermaLink="false">2da4f5d4b7b34d49</guid>
+      <pubDate>Mon, 21 Sep 2026 18:07:46 GMT</pubDate>
+      <source>Google News: Detroit Lions</source>
+      <description>Detroit Lions Sign Veteran DB Back to Practice Squad &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
+    </item>
+    <item>
+      <title>3 practice squad callups the Lions have to consider heading into Week 3 - SideLion Report [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQS2FUZi1kdjgtYXJwYVpYV2ZCSUZnSHZ4NVMwOGJ3a1ZOd25tTW9penpMdC15RnQyZnlYNURtZnBuMGc1R0xDU3ozUzU4cGVtZjhKQTZQZ1lLUHZTOVJQNU1zaXdmMC1xX1dBZUI3N2tCX2ROU1Q2NklLcWNRNVhXYnU1NDVKWW9neUw0OFZBcEtkanMtYkI5WmFCYXQ2VWNhRkdNTUJlVkk2N3YyU1JHZA?oc=5</link>
+      <guid isPermaLink="false">35bb19a2f7636886</guid>
+      <pubDate>Mon, 21 Sep 2026 16:00:04 GMT</pubDate>
+      <source>Google News: Detroit Lions</source>
+      <description>3 practice squad callups the Lions have to consider heading into Week 3 &amp;nbsp;&amp;nbsp; SideLion Report</description>
+    </item>
+    <item>
+      <title>Detroit Lions sign veteran safety Jalen Mills to practice squad - Yahoo Sports [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxNN21SSnBVNHBuUWNDU0hhanVYZkJOcGxmMEpUSnFqdFFiZmpNUTZ4ZDlJMFdFbGZrVjM0a0trOFRmdktYVVVPN3I3V1d6MGFrT3lINTMybGZoNk96VnFoSW1ITWhMZVJSaUZES2dTOEg0eUo3R1ZGcy1qVG44NE5TRWVfSnBXYWpyRVE?oc=5</link>
+      <guid isPermaLink="false">0b694e5244c7aa1e</guid>
+      <pubDate>Mon, 21 Sep 2026 19:05:20 GMT</pubDate>
+      <source>Google News: Detroit Lions</source>
+      <description>Detroit Lions sign veteran safety Jalen Mills to practice squad &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Jordan Love Captures Packers’ Mindset in Skid-Snapping Win Against the Jets - Yahoo Sports [Jordan Love]</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxNS3NWNUxjbktiYVdHdGoyTjVrODlPZmdYVUs2U3NUTFhieUdKbndISjdFT3NRVTVlVFgyZENfRmlBTkJHTVNfaE5vaVJ4TS0ycWktQ2gxWHdUVlRQXy1fbmt2RlllVjFkMEt0aVkyUEZWMTNXeGI1NE5VRGNIVmJEaTBxLTBsZEFZNDBUX053?oc=5</link>
+      <guid isPermaLink="false">ed4aa4292f1f9544</guid>
+      <pubDate>Mon, 21 Sep 2026 18:48:53 GMT</pubDate>
+      <source>Google News: Green Bay Packers</source>
+      <description>Jordan Love Captures Packers’ Mindset in Skid-Snapping Win Against the Jets &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Miami Dolphins sign defender from Buffalo Bills practice squad - Yahoo Sports [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPR3U3OG82S21xRzdydUNiVTNSS3cyNkZJMVlLRUhuUjRjeUtxSEVVb0I3dDhxY1VUZjRyNGdiT1JLX3NmOHFfbEpXVU5KOVF6X2FwU1Q4MDRtQ1NvTDFVUUhXdWpaYzFDSU1RQjFTTUVBclNqQkpKWXhvQnM5dkhWY1NLODQwallwc2Jubkxn?oc=5</link>
+      <guid isPermaLink="false">792a6a4c324e6727</guid>
+      <pubDate>Mon, 21 Sep 2026 19:45:12 GMT</pubDate>
+      <source>Google News: Miami Dolphins</source>
+      <description>Miami Dolphins sign defender from Buffalo Bills practice squad &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Dolphins steal veteran LB off Bills practice squad - Dolphins Wire [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxOR2V6ZkJJLVlwVGE5eklZaUtRMGJzcGdJSkVDS3B1bmMzMjd1WnZIYlU1RnhGUno0QnhBN2pyaGIwYmF5d0Vjd2REazN3TWFBM1J1Z1FBWVRpckdUQXhMR0lNUVdYX0RJUUFyLVpURXdYRlV0c2NjejhDeUowcVdQVDBRQUhrM3JINHAwOHYtWlBfNFlnVG1mVXlZY2Q4V0J0dE1mUElGMHFzaFNHRl82Q016dERCQVUzWGZJZUxpbldlY3I4?oc=5</link>
+      <guid isPermaLink="false">8122f52e46af645d</guid>
+      <pubDate>Mon, 21 Sep 2026 17:11:00 GMT</pubDate>
+      <source>Google News: Miami Dolphins</source>
+      <description>Dolphins steal veteran LB off Bills practice squad &amp;nbsp;&amp;nbsp; Dolphins Wire</description>
+    </item>
+    <item>
+      <title>Miami Dolphins Sign LB Andre Jones Jr. Off Bills Practice Squad - Dolphins Talk [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSHF2MXNTZ1c5LWRHVmM1VUx3cDNPdUxxc2o2SU8xSV9oNk1MTnQyMFI4ZnRsSm9raFp5SnJ1UU5SZjlEWXBlMklxN0tENVM4NjluRHVUZk1kOEZQRTN3LV9BYjczR1g2eEhDVWdWcTF5VUxobWFuLWRlYW1Hai1kQlBDb1hpbkRmTTFz?oc=5</link>
+      <guid isPermaLink="false">f1c14077c91b5718</guid>
+      <pubDate>Mon, 21 Sep 2026 18:43:51 GMT</pubDate>
+      <source>Google News: Miami Dolphins</source>
+      <description>Miami Dolphins Sign LB Andre Jones Jr. Off Bills Practice Squad &amp;nbsp;&amp;nbsp; Dolphins Talk</description>
+    </item>
+    <item>
+      <title>Miami Dolphins adding special teams help off Bills&apos; practice squad - Yahoo Sports [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxOOEJtV3JkanBiS0xhZDF6ZGVfZXp3YnIzZXVVNUlpQWlGWHZTWERXR085RWtYWlJHa3QySmFsTGNHU3hRT3VEdU5VNjh0T0x4bnVIX0JuMVVUaFh4QlJhNEp4ekh4S2RGaTlNVTBxSG9rNUs1U2Foam5EbHRCMlpZNjd2VF9vQ185N0swMw?oc=5</link>
+      <guid isPermaLink="false">41de29378bddeca5</guid>
+      <pubDate>Mon, 21 Sep 2026 18:57:51 GMT</pubDate>
+      <source>Google News: Miami Dolphins</source>
+      <description>Miami Dolphins adding special teams help off Bills&apos; practice squad &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Eagles Snap Count Analysis: Moro Ojomo Winner, Jordan Davis Loser From Week 2 - Sports Illustrated [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbFFwM2VHZkwwOURrNksxNjBCLVlodGx5aVQ2X0dMUy1vamJPdWE1Q1NCdk1Yam5uYWpsRlpTSlhjd1FTLTdJY1FjUTVxZ25YaHFfakVxQ0ZiMWNpYkhBcnVSZzdlS1VnRXhPbTNtRUxIZ25kelRuZ21ndTR0MF96VVVBLXoxOG5CQ3pjclBxZHIweHR2R0NHd2pydncyQUIxTDNHcW1rVWJ4SFU0THdhSFNMbGhZVFRVaUNQQVl2TlM?oc=5</link>
+      <guid isPermaLink="false">43589026d61126bf</guid>
+      <pubDate>Mon, 21 Sep 2026 19:00:00 GMT</pubDate>
+      <source>Google News: Philadelphia Eagles</source>
+      <description>Eagles Snap Count Analysis: Moro Ojomo Winner, Jordan Davis Loser From Week 2 &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
+    </item>
     <item>
       <title>The Win Column: A letter to Michael Penix Jr. - ajc.com [Michael Penix]</title>
       <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxOYlc3TTg2TWxoZFpFWURPV2J0ZDJNY0NJbVozNmFkUlV0QjU5eldLekVoQ1FaMWxUSW5XdDhpR2ZyNGFiMjMxdDh0ZzBXRnVTSGZNbk9pdXk4OHZ6NmRrSkhPYW5iX3hkblRsYmNNU0RtY0haSlVSdEtYbUs0Vlh1MFgxMFdGZw?oc=5</link>
@@ -9175,438 +9607,6 @@
       <pubDate>Tue, 04 Aug 2026 07:00:00 GMT</pubDate>
       <source>Google News: Otton, Loveland, Sadiq, Pitts</source>
       <description>‘He’s just a sponge right now’: How Colston Loveland is evolving ahead of Year 2 &amp;nbsp;&amp;nbsp; Chicago Bears</description>
-    </item>
-    <item>
-      <title>Vikings Injury Report: Kyler Murray takes step forward, with surprise addition ahead of Week 2 - Yahoo Sports [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY0pUWUhVU3duRjVjV29fX2NUelNiQnVVQ0NITms2UkdzaF9QU194T0t1bVktTEhyc3RYc181RnF0OEF2X25XTEpVOUNUMklzbzFiR2UzOHdkWW02LTVaX0NIWWVCdFJNaUhUbzJ0UlF1TTNHUmZ3QmZQSUdIcjJVaW14U25FUk5GOFlF?oc=5</link>
-      <guid isPermaLink="false">aefb95440613eb82</guid>
-      <pubDate>Wed, 16 Sep 2026 22:41:10 GMT</pubDate>
-      <source>Google News: Chicago Bears</source>
-      <description>Vikings Injury Report: Kyler Murray takes step forward, with surprise addition ahead of Week 2 &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Joe Burrow dealing with injury ahead of Texans game but plans to play Sunday - cincyjungle.com [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxPUUVnRXI4aFRBQWZySHkwQ2M4cDVZYmJvd1JCQ25jVjNCeFBPZ01NWVdtSVhjZVFyZEVXdkRGNzRtLUUycGVZcU5fTld5RkM5Vk1Dd2xLekpvMHpsTFFQZUlodW00YmY0V2I5TmVoS2RlbDhkZ2pZNk52dzA5WDhBczBUbENpT1U2WVFEdlNRSGNyLUdwTGZkSA?oc=5</link>
-      <guid isPermaLink="false">e73be178a887e9f1</guid>
-      <pubDate>Wed, 16 Sep 2026 18:43:49 GMT</pubDate>
-      <source>Google News: Cincinnati Bengals</source>
-      <description>Joe Burrow dealing with injury ahead of Texans game but plans to play Sunday &amp;nbsp;&amp;nbsp; cincyjungle.com What to know about Joe Burrow being on Bengals injury report &amp;nbsp;&amp;nbsp; Cincinnati Enquirer Joe Burrow dealing with ‘back tightness,’ expected to play at Houston &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>49ers vs. Dolphins injury report: 6 players don’t practice, 4 limited on Wednesday - 49ers Webzone [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxNY05mLTZsNTZ2RHI3eFBuT2RfLTZYc0lNUXctb2dDZ1gtT1FGcVU1a0VidlJOUnpnSEFEeVhXVE9wZW81aElZa0FlLVM5d29wRnEzTHF1MGUtdFVLTFQwd3J1N2tpSWUtX3pyRW9kT0c1TGh3SURXdDByWUZReGk0MmV5OGVnM1RuYXgwMA?oc=5</link>
-      <guid isPermaLink="false">acf6b171e14d7a29</guid>
-      <pubDate>Wed, 16 Sep 2026 22:34:00 GMT</pubDate>
-      <source>Google News: Miami Dolphins</source>
-      <description>49ers vs. Dolphins injury report: 6 players don’t practice, 4 limited on Wednesday &amp;nbsp;&amp;nbsp; 49ers Webzone</description>
-    </item>
-    <item>
-      <title>Jets can remove any caveats with a statement-making win against Packers - New York Post [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxPT3B1a3R0dVpuVDFBMDM4eVJEQ0NHLTR4emthRE41bGhKOEtmZDJhdTJVWlY2b2RjS2dONjBzblRBcGVDcTRvTUx2VWtxTkZBWFFHclczSmlNX1NZYXljS2REQWd3cHZpdzlySGJUVjJsd0hHbXBlX0YwbjZNQjJzYVBHX3RpYVJQcFNJQlJjYVYxQTlSVVhKOWlWT0VINS1Yd2c?oc=5</link>
-      <guid isPermaLink="false">f4aeb51f3cafebef</guid>
-      <pubDate>Thu, 17 Sep 2026 01:50:00 GMT</pubDate>
-      <source>Google News: New York Jets</source>
-      <description>Jets can remove any caveats with a statement-making win against Packers &amp;nbsp;&amp;nbsp; New York Post Geno Smith Stays Grounded Ahead of Home Opener vs. Packers &amp;nbsp;&amp;nbsp; New York Jets Packers-Jets Injury Report | Sept. 16, 2026 &amp;nbsp;&amp;nbsp; Green Bay Packers</description>
-    </item>
-    <item>
-      <title>Wednesday practice report for Broncos [Marvin Mims]</title>
-      <link>https://sports.yahoo.com/articles/wednesday-practice-report-broncos-010145441.html</link>
-      <guid isPermaLink="false">8af5e02583565206</guid>
-      <pubDate>Thu, 17 Sep 2026 01:01:45 GMT</pubDate>
-      <source>Yahoo Sports NFL</source>
-      <description>Broncos WR Marvin Mims among players on practice report</description>
-    </item>
-    <item>
-      <title>Falcons QB Michael Penix Jr. has been medically cleared, but he says he&apos;s not ready to return just yet - 11Alive.com [Michael Penix]</title>
-      <link>https://news.google.com/rss/articles/CBMimwJBVV95cUxQVjcyUEI2UGFzZDBJcFdTWXN3Z1V4OG9LNEJWOFVveE5hbFJteDhhWktZUGk3akNCYTF5N1JtclRfdUtGT3BfN3ZzaEdXMUNpTjMyY0lJWFBmQ1ZJakZiWmViUlducHlEckJfOTd3enJiN1QzOGFzR0VqMU0xUWtocGRPUmZJOWNEQ2hUYVdyWGdicG5maUxQVmlEUGZ2MXFHTDRoWmY5S1pad2RrNFU2Tms2Ykdtbjg5ZzN4Z1RvREFYMVVxTFdJT0EweW1XU01TZE1zLVgtYy1qamdpR3U4WkhSdVY1ME4xVzhJTEd3dGNfdm9Dc3lBSUJfdmNKSURQSjZKd3V3VVVNMXBIQ3VDdkZHZGo4eE1hRWFr?oc=5</link>
-      <guid isPermaLink="false">713f1d6439ee3000</guid>
-      <pubDate>Thu, 17 Sep 2026 02:56:00 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>Falcons QB Michael Penix Jr. has been medically cleared, but he says he&apos;s not ready to return just yet &amp;nbsp;&amp;nbsp; 11Alive.com</description>
-    </item>
-    <item>
-      <title>No better medicine than the next game’: Jordan Love moves past Week 1 loss - WSAW [Jordan Love]</title>
-      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVI1dWE0Sk00VGRidHNPY1ZkQzFoSlcyQThwUGZ4RDZ2NXdrQ1R6Q0lqTF9ZOGk3LVBrLWlfY0RGSzBweWpDQjFndXF6eHFDRllyN05PSkJpMDExUlF0VmRPMXRFQ3BKcDlGMHl5TFZ6QXpWNkVja3B3RElqaGxMZkpBMTR0WjBpN21pZGJINGd0anlrRVp3Y3pyVWtQQkJwa3dV0gG3AUFVX3lxTE1XbF9yX1o1aEZheGdjaTFSUXVlaFljeXNka0JzclRKU3BhLXVVQWJwV1NkLWdNbGhzWXBaZmZVclBGMlQyQWVJUHBUUEdta0NwZWQzMEEzbWRXSWZoSm01ekljUGliRmVEdm9SVTJ5ZHBUd2ZmSFJOZ20yaUtiaXI2X3JJVVFPVU1CRGdRcGNXQjhNTjNFR2xMTUNlcGlqNGhwRTU5Tkw1QWZtS0R3M19lM2hnbEJaYw?oc=5</link>
-      <guid isPermaLink="false">8853e0dafbd87292</guid>
-      <pubDate>Thu, 17 Sep 2026 02:57:00 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>No better medicine than the next game’: Jordan Love moves past Week 1 loss &amp;nbsp;&amp;nbsp; WSAW</description>
-    </item>
-    <item>
-      <title>Falcons news: Michael Penix Jr. on potentially returning from knee injury in Week 2 - sports.yahoo.com [Michael Penix]</title>
-      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxOc2h3V0xJSmo4VlcyZERyeWlsZFVJOVFSWmNmWjNqWHVKZWhNMVRLUUxXdWJyMDdpNHFIQnE2VHhEZk5PejBxUklGbGZNN0ZVNjB6YUNFNEFTTzRpTzBKTk1IMk1IUjBKSFozNDBfVlo4MndzN2s5V0x6a0pkZldNMTdXMjc?oc=5</link>
-      <guid isPermaLink="false">8d97e4522f7c0b45</guid>
-      <pubDate>Thu, 17 Sep 2026 00:18:00 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>Falcons news: Michael Penix Jr. on potentially returning from knee injury in Week 2 &amp;nbsp;&amp;nbsp; sports.yahoo.com</description>
-    </item>
-    <item>
-      <title>How Ashton Jeanty has been ‘unlocked’ in fantasy football - sports.yahoo.com [Ashton Jeanty]</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQd3JmcDQ2dWhWZGVkQkliOS1CbXQycjFKSWxNZFVoTlE3YzByajlXVEstUmlzcnVLNjZkOTZZOHplRkFYb3FqVXJWZGJ6ZzltZ180YUdjUTZtY2NvU0ZQNGpzZDA4MW9yMUlCRnl6aWM5dUxBeUtXQkN3VDJaWVJJd05YaEpSYzZtRHI3bjNR?oc=5</link>
-      <guid isPermaLink="false">6c4a63df55b01ef0</guid>
-      <pubDate>Thu, 17 Sep 2026 00:36:00 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>How Ashton Jeanty has been ‘unlocked’ in fantasy football &amp;nbsp;&amp;nbsp; sports.yahoo.com</description>
-    </item>
-    <item>
-      <title>What grade would James Palmer give Bo Nix for his poor performance against the Kansas City Chiefs? - Denver Sports 104.3 The Fan [Bo Nix]</title>
-      <link>https://news.google.com/rss/articles/CBMi-AFBVV95cUxOd3EyS21UTUlEMGlqYWZvbmtUdGlodTN0M0RzUnpUSkItU3Y5VVNzMjNhRUhPbzZyeFBDZ0dydV9XMVRROGsxTUo2anNyVDVaczhYMnVLdGZscDBRd3VfZEh2TGFKWEZxcVRWbmRsNG1YSkxYNVRlX01GMHVzVGxib1AyWEpyT0IyblNTRkxyM1FlNnZWNk9vMmpZaHl5OHlBV244Y3BDNmg3U3JRbHAwVU5TWkZ4YzV4Y1ktdm5XTnlqWlhYT2JSTnhETWliV1VyM1BtSUNMQ2FOSUxPRnA2RXRIVENoT2dycHUtNnZ6YlVrX0ZibUx0eA?oc=5</link>
-      <guid isPermaLink="false">55fe8b0cfec8902c</guid>
-      <pubDate>Thu, 17 Sep 2026 00:35:59 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>What grade would James Palmer give Bo Nix for his poor performance against the Kansas City Chiefs? &amp;nbsp;&amp;nbsp; Denver Sports 104.3 The Fan</description>
-    </item>
-    <item>
-      <title>Bo Nix&apos;s Rough Debut Grading His Performance - Denver Sports 104.3 The Fan [Bo Nix]</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQek5QVUwtQXBCLVFXcWlDUE9KeEh0TW5WMHNrX2psd2ltc0NDdmV5QVdEOEh4MnV6X1hwVGFPWkNVaTZXaXI4cnBVX3FkWGVENmkyU1VjWW83SG0xaHEzd2tqSmJSazYwVzF4NkstdWt2TFUwSDJVN1UtclZKVTEwTDMyNFBscmJIUEJIQmJXYUZ6bWxhaEhyTDQ3blR1X2xrbmV4anlsMS1SY2VQRERXMg?oc=5</link>
-      <guid isPermaLink="false">a53293d39c6438e5</guid>
-      <pubDate>Thu, 17 Sep 2026 00:35:59 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>Bo Nix&apos;s Rough Debut Grading His Performance &amp;nbsp;&amp;nbsp; Denver Sports 104.3 The Fan</description>
-    </item>
-    <item>
-      <title>No limitations for Ashton Jeanty - USA Today [Ashton Jeanty]</title>
-      <link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNnBNbTdsbHItX2YxaWlVbXNweFk1bkY5elJTM1NmMHF5ejQ1LVdlSk9HTjhGOEd3TnJPTWJWS0pWU2l2eUJvLWRiZ3F2ZzZDZ3RJbkVldUZVT1hwSEVTS2tGSjIzcWE0b1ZuX2M1MXZybGFnUE9XRC1VU3dEN1F6c09LZUh6ZGlwVkdENjFQLWdhazlxZjZTMkJRT3hmNWllZllxdHNqVXJDTmR6YXJQcFIwYTdXSlB3VDhDLWMzRy1HUVVrQ3dyQ254WTlKUHNzWkpPYTdDejdOWV9kb3k3aA?oc=5</link>
-      <guid isPermaLink="false">2eedf99261266d64</guid>
-      <pubDate>Thu, 17 Sep 2026 01:55:00 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>No limitations for Ashton Jeanty &amp;nbsp;&amp;nbsp; USA Today</description>
-    </item>
-    <item>
-      <title>Michael Penix Jr. logs full practice - USA Today [Michael Penix]</title>
-      <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVEhURVVWMnNUOHZoejU3Skx1X2RMb0RIWnNEWTc2NFp2TU4ybVNpS1plOGZSdVFzdXVMN1NCazRqRldaZmtLUVpZd2hkN05nNDhYd1NYeUxhdHZoblBTUHBGclU3cXJoZlN2WjV1YWJvTFM3N09URWFUd1UzbDh2djZfaG5WcFRSZWZ1Q1ZsTFcyVVhlcTNkX05yZEJUbl9kRFlkYlJnVG0tVGhQMFMxNkpDSWs2aE55czV2a29XOHBkeWRSelNLVVpZU0h3bDFGM3FhQUg4MA?oc=5</link>
-      <guid isPermaLink="false">e13b57a0e0d3df01</guid>
-      <pubDate>Thu, 17 Sep 2026 00:36:00 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>Michael Penix Jr. logs full practice &amp;nbsp;&amp;nbsp; USA Today</description>
-    </item>
-    <item>
-      <title>Falcons Get Bad News on Michael Penix Jr. via ESPN’s Adam Schefter - heavy.com [Michael Penix]</title>
-      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxQSklJZ1dVTEpwOFBDYXFQcDZrR3JLUVBXU2NPeHVVNjBYdnIxekhQRm5McHJBQ2Mwa0RsWFpuMEw4aGtWZmlfdHp2Y21uMEdWcy1OTUYzWUFkekE2LUgxdjRPeGdpbVg1bFEyS1o0cGl1amYzLUFNRlcyZ2k1S0pXb2pWQUtJRUl4YmpLX0ZMX0pFcDUt?oc=5</link>
-      <guid isPermaLink="false">4abfd6280c1a786a</guid>
-      <pubDate>Thu, 17 Sep 2026 02:19:00 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>Falcons Get Bad News on Michael Penix Jr. via ESPN’s Adam Schefter &amp;nbsp;&amp;nbsp; heavy.com</description>
-    </item>
-    <item>
-      <title>PROTECTION PLAN: The Jets are going to make the Packers PROVE they can protect Jordan Love in Week 2 - KTVB [Jordan Love]</title>
-      <link>https://news.google.com/rss/articles/CBMitAJBVV95cUxOYlJ4M1A0UHBSaUdVYXRGZG10SGdXUkN1S242RV9MX3lPbmJsS3Fubm92VlBVaVNjTVBOaHQwdW12bUVUNkVIQkw0MGlzbUpFcXc5d2NvMGlqaVdyb3FabF9xSU55STdpM0ZBVzhDa0Izc08wbUE1eW1oQ3V1Umd2SmU3cWJBaXBmOU8xektsWnROYzVqWmpUdG9JUmx4UGJVZHhpTVRYWmNCWlJTLTJYUmhNR1hsb2g1LWNCZGNoMGRLcDhNX3BZN0FlaFJfYUJKdUM0aFdXbjVhQnZDV1cwRGswdVdKanBnZldSSk1zVHJ4bjhtWUdRRDZQOW00dlVoM2gxUmdGb29wbVVydHNueTVoc19FaG1BUlY1SDNjRU1wbmRkT0RyVGRwRXNtQ1BKd0lVRQ?oc=5</link>
-      <guid isPermaLink="false">c37f8a1d42016f6a</guid>
-      <pubDate>Thu, 17 Sep 2026 02:48:00 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>PROTECTION PLAN: The Jets are going to make the Packers PROVE they can protect Jordan Love in Week 2 &amp;nbsp;&amp;nbsp; KTVB</description>
-    </item>
-    <item>
-      <title>Report: Isiah Pacheco Facing Surgery, Extended Absence - sports.yahoo.com [Isiah Pacheco]</title>
-      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxNNDlwSWJCTEtfUTYtQlhBZFBBQWtZMDd6Qi1KeFlhSUxxdDg4ZERGbEZUWGg3RmhkM1lHVEtuYzgzdG5oekYybG1KX3JGeHpaam9KR3NJNkxJdEk4VWEyUFZNX00yaVU3R1FXREJzZVNicWZDT0NLRnRiOWFuSGdNdDlNT1l4MzFlWUNjdw?oc=5</link>
-      <guid isPermaLink="false">9a9901ed9afdc55b</guid>
-      <pubDate>Wed, 16 Sep 2026 19:35:51 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Report: Isiah Pacheco Facing Surgery, Extended Absence &amp;nbsp;&amp;nbsp; sports.yahoo.com</description>
-    </item>
-    <item>
-      <title>Dan Campbell Reveals Brutal Isiah Pacheco Injury Update - sports.yahoo.com [Isiah Pacheco]</title>
-      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxOQjl3akdzdWI3NUkxd3MtckFCVi04dlRmcm4yQzZGb2ZNOEg1X1JrRTJoMXlxTkxXTi0wcnp5QlBoV240b0N2WUpCZGQtTzk5MUxBYXM0MGdQNHZiZnFLODlNVmRwLTNaWjR0X3NRckNCNmtRT3JwN0ZHeGE2X2UtOGpKbDZMZjNSOFE?oc=5</link>
-      <guid isPermaLink="false">5fc4a340af8619ee</guid>
-      <pubDate>Mon, 14 Sep 2026 21:26:45 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Dan Campbell Reveals Brutal Isiah Pacheco Injury Update &amp;nbsp;&amp;nbsp; sports.yahoo.com</description>
-    </item>
-    <item>
-      <title>TreVeyon Henderson tracking to play Week 2 vs. Steelers - ESPN [TreVeyon Henderson]</title>
-      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxOVllaVkNNSXJTYTRCZ1M0YXZIcHo4MDNBS3JWbEhXdmJySGk4a1Z1RXZHSURQUEFWeU9nNU5DZ2R3OWpJeFhXTE1pdGNWUmx4TXhmVzRaQnFRcS1QY24teFZDd1JOUHNQckNLRk40ZlE5aHB0cW50dkx1WW1uaXRISDJaSWwtV1Q5X29yQV9yZXBpN1BKS2dzVy1GclpsZw?oc=5</link>
-      <guid isPermaLink="false">59166fe97501925d</guid>
-      <pubDate>Thu, 17 Sep 2026 00:52:00 GMT</pubDate>
-      <source>Google News: Henderson, Spears, Brown, Williams, Egbuka</source>
-      <description>TreVeyon Henderson tracking to play Week 2 vs. Steelers &amp;nbsp;&amp;nbsp; ESPN</description>
-    </item>
-    <item>
-      <title>Patriots news: TreVeyon Henderson injury update hints at Week 2 return - sports.yahoo.com [TreVeyon Henderson]</title>
-      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQTy10NnVJc3d4U0NPZ2dQeXZaTUlTNWMxMHNyam9ScmFrZkpFdFRHR1pZZGJEa0RpZGU4eHpkV2luSTZJR1NOWEI1R2hBcXVCQlFvRjRtUGFhTDRSVmVEUlVLOWw0UFNadVVEaEYybktScjdRVWw2aWZ0SDV6Skc1bk51eXlzdHRfZTkxWjBLa3hrQQ?oc=5</link>
-      <guid isPermaLink="false">0cd735674f4d3069</guid>
-      <pubDate>Thu, 17 Sep 2026 00:40:00 GMT</pubDate>
-      <source>Google News: Henderson, Spears, Brown, Williams, Egbuka</source>
-      <description>Patriots news: TreVeyon Henderson injury update hints at Week 2 return &amp;nbsp;&amp;nbsp; sports.yahoo.com</description>
-    </item>
-    <item>
-      <title>Drake Maye spent most of training camp this summer thinking about how the addition of wide receiver A.J. Brown could bring a new dynamic to the Patriots’ offense. - facebook.com [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeXRtVFRpWkgtOGtqalBFa2lVYWRaX1h2S29RUFVQV3o3ajBtYWpFYUNjTU14R2FQSzJXTzc5RUY1SHQ4aWU5Y2p4X0kydWJJbzl1MzFtZnEzXzBzRDM0bVZqOFZtUW1aOUNwWEM1eFItdkQ2Q3BEUE1yX2ltTnVfREpBbEpOT2tybTJnbnBOSVdnZHROeklHWXhmVGMzUWxJSVhoY2FiRklYV1ducVMzSS1hekU1MGZNNXl3Q1FScWR3ZGNDOUpCR0c0SU5kQ2NWdFpMR2Y5bXotdw?oc=5</link>
-      <guid isPermaLink="false">86da499d8047c760</guid>
-      <pubDate>Thu, 17 Sep 2026 03:39:08 GMT</pubDate>
-      <source>Google News: Henderson, Spears, Brown, Williams, Egbuka</source>
-      <description>Drake Maye spent most of training camp this summer thinking about how the addition of wide receiver A.J. Brown could bring a new dynamic to the Patriots’ offense. &amp;nbsp;&amp;nbsp; facebook.com</description>
-    </item>
-    <item>
-      <title>Dr. Ron Tabaddor of University Orthopedics offers insight on A.J. Brown injury - WPRI.com [A.J. Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxPOGdQYkhORERlc25mY0lJWGFQa0Z1WnZXbFItNGZkYjZ4QjdLb0M4aUUtSnp5cWdUUEdqbXBIX053ekwwbld3TDVNZjdVRzdfYm5DUTIzeHhTSXY2Wlp6SFp0dVA5UXZxVVA5V1Z0aS1HMTlnTnpSSWNkM2JSY1BRc1lvdFB1TzFQbGhrSFM4bHNoZkVWQjR4c2VQWEVtR1ptWUpSNHRpUXBDaERNVHNhYmp5WFlES2FEanFYSmw0NVRmV3pFbC1KNTVfTkxqd9IB0wFBVV95cUxNLVhBbzhEOW8xX3E0RGNUWlZQVGhxY3JzbGxxWGt0SFFVTm5jcFdhZmZOQXZGQzRNdlp5a2ZLNFNQZ2I0Q3BFQXQ5TlpWNGVIdmVmWHFrZ05aYmVRRnNPREdxLVdDdnVBcEtMeHpDeXVuaURiaXF4T0tmdk5zNzJoY2p6SHBHcDM2aXdaTmVNYThMVE8yMTlYLTl3clRHSHZMVjFQb0wwZ1MwWURyODJyb0xOTTYzaXZFbUNkTjJvNGNsOUgyZjBERVNLUGFqSk8xdEk0?oc=5</link>
-      <guid isPermaLink="false">81728e84de4dab26</guid>
-      <pubDate>Thu, 17 Sep 2026 00:43:23 GMT</pubDate>
-      <source>Google News: Henderson, Spears, Brown, Williams, Egbuka</source>
-      <description>Dr. Ron Tabaddor of University Orthopedics offers insight on A.J. Brown injury &amp;nbsp;&amp;nbsp; WPRI.com</description>
-    </item>
-    <item>
-      <title>2026 NFL Week 2 Injury Report: Jordan Mason to IR, updates on Nico Collins, TreVeyon Henderson - NBC Sports [TreVeyon Henderson]</title>
-      <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxNWnlYbFVQX0VtaTlOdjlSekRCVU5NQzRZaC1EWXRGQnVPTDUzTE1Gb1o4ZEFyYlhTTjlzUjBveE0xYWtJckJnVnN6RXQwcDBUdEwtM0w3cUtaTk5YWEFlbHdsc2wzckxTQVYzSmpfbXhmZmxIVWd6Q21LSk5mdnpYVnRuWnNNam9mN1k4ZzhkVjM2dHVUdnFDRXdpcXVyWXFwSE5yeVJMeTlxSkQ4S0N0WW5vWGZUbDJ1ZjFNeS1TWkdqOEtlRW9VS0N3?oc=5</link>
-      <guid isPermaLink="false">d29f8caa537f51e4</guid>
-      <pubDate>Thu, 17 Sep 2026 01:26:21 GMT</pubDate>
-      <source>Google News: Henderson, Spears, Brown, Williams, Egbuka</source>
-      <description>2026 NFL Week 2 Injury Report: Jordan Mason to IR, updates on Nico Collins, TreVeyon Henderson &amp;nbsp;&amp;nbsp; NBC Sports</description>
-    </item>
-    <item>
-      <title>Big Day For Emeka Egbuka Loading? - joebucsfan.com [Emeka Egbuka]</title>
-      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE9SMDExMkxTRUVhdlg2bmM2eEhWU3Z0UDVMaDZ4MUZNaGlOTmMyd05icll6RWhxbUVwdFB1LWlIS1Fmb0s4UHRpWDd5cG5yRXlzSl9WNHlUTEc3bXYwenlTUjBMWkZWTG55SmJkei1LS1lLR1VhZXc?oc=5</link>
-      <guid isPermaLink="false">c18ebdce9bbc6691</guid>
-      <pubDate>Thu, 17 Sep 2026 04:17:26 GMT</pubDate>
-      <source>Google News: Henderson, Spears, Brown, Williams, Egbuka</source>
-      <description>Big Day For Emeka Egbuka Loading? &amp;nbsp;&amp;nbsp; joebucsfan.com</description>
-    </item>
-    <item>
-      <title>Ladd McConkey not practicing Wednesday - sports.yahoo.com [Ladd McConkey]</title>
-      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNWVNXeFc4cmdxbmh4clhUQ0tIWXJTbnh6V3FTRzA4M1FMYkxBcWNSRDdCcWFQTjNCSXFPR3BITHVhX1pxbE4zc2wzNUFTcG1KdHNvUm5ocjRaWWozTnRfM1YxNTMzVWhkV1A5TGNTZExFQTF1SF9ENVphbGVQRFNyeGYwUndIcW9Vb251Mk8waHM?oc=5</link>
-      <guid isPermaLink="false">9e3637eaf38e8189</guid>
-      <pubDate>Thu, 17 Sep 2026 02:28:00 GMT</pubDate>
-      <source>Google News: Boutte, McConkey, Lemon, Mims, Golden</source>
-      <description>Ladd McConkey not practicing Wednesday &amp;nbsp;&amp;nbsp; sports.yahoo.com</description>
-    </item>
-    <item>
-      <title>If Ladd McConkey Misses Time, Will the Chargers Play Brenen Thompson? - sports.yahoo.com [Ladd McConkey]</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdktBVUdKbThlZlpuQUZoUmtlMUEyYzF0OEMtTnNuaTV1NXJxeXlqcGtJa2ZOZWpWTU92c2RONHVVYWJyaFZoVnhmTW45dEltUGhFVzZ0ZzhOM2t0dFlWcWw3SUF5c3RTZGF0ZnBVLUhsZk1zdDF2ZTRFSHJGRkwxTW9pMFM5amlteDdV?oc=5</link>
-      <guid isPermaLink="false">5b46334d43a88b5c</guid>
-      <pubDate>Thu, 17 Sep 2026 01:23:00 GMT</pubDate>
-      <source>Google News: Boutte, McConkey, Lemon, Mims, Golden</source>
-      <description>If Ladd McConkey Misses Time, Will the Chargers Play Brenen Thompson? &amp;nbsp;&amp;nbsp; sports.yahoo.com</description>
-    </item>
-    <item>
-      <title>Chargers Wednesday injury report: Ladd McConkey among notable names - Chargers Wire [Ladd McConkey]</title>
-      <link>https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZUxpekJ4WHdrLUpMaU1hVmJ6Q3lNbHY2ZVFIUUhITjZyWGVhN00yMC1WYkY0NjNGU2dUeU8wSjZ1endGWkpNVDBRVVVKQXFUQzRBNTFYSzRJcnhhWkcxN29fc1EtNk0tQjNDMndTdWxlMERsSnVoc0E4NTFZQ1BvcHEwdUFISTMxN3BJb1RfLUhzaEtwVHBNbE1aMTJpM1ZZYTNyZVJGWDBEVTB3SngtcEU5Q280elNqSEY5bFhtaHo5bWF0czFBUm5vWVZsblZRTmJJRDM4RTZBREhOWjhTeFIwVjA?oc=5</link>
-      <guid isPermaLink="false">69391359749fe861</guid>
-      <pubDate>Thu, 17 Sep 2026 05:10:00 GMT</pubDate>
-      <source>Google News: Boutte, McConkey, Lemon, Mims, Golden</source>
-      <description>Chargers Wednesday injury report: Ladd McConkey among notable names &amp;nbsp;&amp;nbsp; Chargers Wire</description>
-    </item>
-    <item>
-      <title>Five thoughts on the Eagles offense: What the numbers say about Jalen Hurts vs. zone coverage, Makai Lemon&apos;s usage - PHLY Sports [Makai Lemon]</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnRXazJFX2N6ZVlWVWJkTk9qSmRXT1BhZkNrQzdxQ1JhaFQyVG1NSlJ1RjN3NWM1MGZYaEkxdWd0QW41N1NDMV92VE9kY1c0czdrZzlNQXV5VXhsdnVIS2dkdG16cE9Cdi05TU1OR18wTXRHelZYM2lvUy1sQjVTTGVSc1hBTjZy?oc=5</link>
-      <guid isPermaLink="false">d1940c802257dc52</guid>
-      <pubDate>Wed, 16 Sep 2026 20:18:33 GMT</pubDate>
-      <source>Google News: Boutte, McConkey, Lemon, Mims, Golden</source>
-      <description>Five thoughts on the Eagles offense: What the numbers say about Jalen Hurts vs. zone coverage, Makai Lemon&apos;s usage &amp;nbsp;&amp;nbsp; PHLY Sports</description>
-    </item>
-    <item>
-      <title>Ladd McConkey and More Chargers Injury Updates Heading Into Week 2 vs. Raiders - Athlon Sports [Ladd McConkey]</title>
-      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxQYjFpUzNYQV8wb2dvT1FObHp2c2pwR0NGcnAyS1hmUUZxSHh6SkRPeWhtV0swOExqV3hyWDBUX014WElVcUtIUEtkNFVIeUMxQUtlRXJqbW5RR3pFNzA3M1FfMk1teXdmZkZfV184amdMSXkycFY4ZXJDWmp6VDFkM1dmYkwyWEpfNE5zaHBVMWRLdW1IRXMyVlNn?oc=5</link>
-      <guid isPermaLink="false">72198bcc95ea17df</guid>
-      <pubDate>Thu, 17 Sep 2026 02:56:00 GMT</pubDate>
-      <source>Google News: Boutte, McConkey, Lemon, Mims, Golden</source>
-      <description>Ladd McConkey and More Chargers Injury Updates Heading Into Week 2 vs. Raiders &amp;nbsp;&amp;nbsp; Athlon Sports</description>
-    </item>
-    <item>
-      <title>Mims listed as a DNP on Wednesday - NBC Sports [Marvin Mims]</title>
-      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQaDhwbDN3bWlVQ29Ec0p6TXl1anI2ZlJyb1dKVm81R1ZJVl84a0FReGx3c2xwZTFfTDQyYmJqcXJjV2RXNktaRkJrcUU1WjJmMmh6bXdkOHg0X253Z2pEVzVaX2NPckFxTE1xSlhER0xQTUpGQnpmQlBjOE1RX3Q2bGJxQnlrNnJKU1dYcG41Mkh4NzU0SEZ5S19DMWFtX1Jl?oc=5</link>
-      <guid isPermaLink="false">c21737fd27a5ba80</guid>
-      <pubDate>Wed, 16 Sep 2026 20:47:29 GMT</pubDate>
-      <source>Google News: Boutte, McConkey, Lemon, Mims, Golden</source>
-      <description>Mims listed as a DNP on Wednesday &amp;nbsp;&amp;nbsp; NBC Sports</description>
-    </item>
-    <item>
-      <title>Analyzing How Jets Should Use Kenyon Sadiq, D&apos;Angelo Ponds in Week 1 After Promising Injury Update - si.com [Kenyon Sadiq]</title>
-      <link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWDkwSURiaHB3SGFBQnFzZExINWJLNkRaNXZIMFVzaHk4dmRhZlFDU2t1TFIteE5yYTBfMTV3WE52NE9Wa19WWTNJMU5lWFhRM01NZkMyVjk2U3Bzc0FNRnV4OVY5dXBISVN3eGxpaG9LQ2pNdjRid0lDSC1LNl9wSnRETndMNTdqSXBNaXE2SEd4WDFDMHZwWGd2cGlLd1BZcEdIZWUyWVY0VGxLMGthUGJZQ3h1SG5iQ0FFVDkwOGhxVVlIVDFaUEo1Mk5YS0drMG1jNFVHdnRnRHc?oc=5</link>
-      <guid isPermaLink="false">25f9fb4cf78c6035</guid>
-      <pubDate>Wed, 02 Sep 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Otton, Loveland, Sadiq, Pitts</source>
-      <description>Analyzing How Jets Should Use Kenyon Sadiq, D&apos;Angelo Ponds in Week 1 After Promising Injury Update &amp;nbsp;&amp;nbsp; si.com</description>
-    </item>
-    <item>
-      <title>Who Should I Start for Fantasy Football Week 2? Dallas Goedert, Harold Fannin Jr., George Kittle, Tyler Warren, Kyle Pitts Sr., Dalton Schultz, Tucker Kraft, Brenton Strange, Michael Mayer - rotoballer.com [Kyle Pitts]</title>
-      <link>https://news.google.com/rss/articles/CBMioAJBVV95cUxNb1djMW1OYWljdFZ3OTRiSGJDS0dObnZKZVVEUHR6NF9lOHFGYlRjWk1CcWk2ekJQRXF1dVU4aTRpenhMRjhkajhnRk9OSks2UTg1TGYxd1RZSFFOSmwtWnJlWVBzeF9VRVRnaVVBRXJ1Z1pvRlFFTmJNV2RRZHpSU0hOaG54dmxPc2NRRkRvUllMTFU5SkZVUFZZRGJyU2lVN3lxUGtpVTlJVDcxX0YxRjdpcHFudnpQbzNmZjFkZ250ZUcta1hQV3V1b3ZYU3ZDRzdKUnppeFF1dTZ4SzNjbDgzUnR2QmpCNTcxOS1kUWpIdk10UWl0YXV2Nk51OC15WHNWZC1TOVIwaXF0MHBuTzlGSi1qR29FRlVfZk11NEQ?oc=5</link>
-      <guid isPermaLink="false">70dd599ee75aada7</guid>
-      <pubDate>Wed, 16 Sep 2026 18:51:37 GMT</pubDate>
-      <source>Google News: Otton, Loveland, Sadiq, Pitts</source>
-      <description>Who Should I Start for Fantasy Football Week 2? Dallas Goedert, Harold Fannin Jr., George Kittle, Tyler Warren, Kyle Pitts Sr., Dalton Schultz, Tucker Kraft, Brenton Strange, Michael Mayer &amp;nbsp;&amp;nbsp; rotoballer.com</description>
-    </item>
-    <item>
-      <title>Bengals’ Joe Burrow dealing with back tightness, expects to play vs. Texans - The New York Times [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQZnRVbFE4c0dXZmkwLWJrN3dPSDRmelhhWTBDbG1SNGZKSEUyeXBrVjd1V2ZoTDFLdVgtdWtzbXotVllnM0R3RUFMLVJyMEl3cFpxSmdheTk0X21HU0xKUm0ycmRFNEljQlpjbDZzd1h0UWZfamkzMUNOYmFRMEk4MlFRVjdMSkpMZHZtQ0RDaw?oc=5</link>
-      <guid isPermaLink="false">dd34f645464cc7b7</guid>
-      <pubDate>Wed, 16 Sep 2026 20:55:52 GMT</pubDate>
-      <source>Google News: Cincinnati Bengals</source>
-      <description>Bengals’ Joe Burrow dealing with back tightness, expects to play vs. Texans &amp;nbsp;&amp;nbsp; The New York Times What to know about Joe Burrow being on Bengals injury report &amp;nbsp;&amp;nbsp; Cincinnati Enquirer Texans Star Suffers Injury Ahead of Matchup With Bengals &amp;nbsp;&amp;nbsp; si.com</description>
-    </item>
-    <item>
-      <title>What to know about Joe Burrow being on Bengals injury report - sports.yahoo.com [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxPTkt3WFdGbU5fNGNtZVlKWHJXbHd5NXc3YkFPRFZGZ090dFV5bXQ0QTZmVEpPT2JmajlzZ2VXdDRQSUxNTDVONGhZZkJkT3ZBU1NLQTRzY2NZN1lsOFNYQU9Sb2duZ09OaFk4cDFmMjU1Q3p5VlUzTkh2Y1hlRXBRMndTQ0Q?oc=5</link>
-      <guid isPermaLink="false">04bbcb9b63843263</guid>
-      <pubDate>Wed, 16 Sep 2026 22:20:29 GMT</pubDate>
-      <source>Google News: Cincinnati Bengals</source>
-      <description>What to know about Joe Burrow being on Bengals injury report &amp;nbsp;&amp;nbsp; sports.yahoo.com</description>
-    </item>
-    <item>
-      <title>Detroit Lions injury report: 2 players out, 1 questionable for Thursday Night Football game vs. Bills - ClickOnDetroit | WDIV Local 4 [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUS1VeXhtN1dBdWxUZnFEMkwyTUF3SnJsZDFXem1fSTNkV0RlTGZ2d2dhREx0OThpcDJ5cmpfdFBDZUdOdzJaVWpQMUlUZzM2dmdWODQyc2ZtbDJHc0twNHMtTFU2bk4yb0xIdkVPZlNJcllmVUtacWZvYjllSUsyTGNpR2s2dXl3dnlvOXJKSXJhRzJGZm14THhxZ19tTXBnekYtcldWRzB1RFFlT2ZTMzUyWTZ2SWtWVEVaMFpVRU1UdjR0VTkxdUN3blRRWlBydWpYS0NlODM2NmtXcWE1R1RR?oc=5</link>
-      <guid isPermaLink="false">ee93b8c4df4421aa</guid>
-      <pubDate>Thu, 17 Sep 2026 01:03:33 GMT</pubDate>
-      <source>Google News: Detroit Lions</source>
-      <description>Detroit Lions injury report: 2 players out, 1 questionable for Thursday Night Football game vs. Bills &amp;nbsp;&amp;nbsp; ClickOnDetroit | WDIV Local 4</description>
-    </item>
-    <item>
-      <title>Buffalo Bills injury report vs. Lions | Week 2 - Buffalo Bills [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxQVlYwVGhMMFJXMHJULWtBTW96NnN1MjllWTMwVnRsNXJnaUhfWWhLZUZic3FxbkJ6ZWR6SnVXQzhpWlpaWnIwS3M3czJtOVRlVWlrNERrTVVSdzF0b0I0cHBpVVFaRE1XUUpHV1ZEUmFBQlRxLUxfVzhMcGswdVZBWjVtYw?oc=5</link>
-      <guid isPermaLink="false">90c310207a0e732f</guid>
-      <pubDate>Thu, 17 Sep 2026 00:48:18 GMT</pubDate>
-      <source>Google News: Detroit Lions</source>
-      <description>Buffalo Bills injury report vs. Lions | Week 2 &amp;nbsp;&amp;nbsp; Buffalo Bills</description>
-    </item>
-    <item>
-      <title>Buffalo Bills&apos; Final Week 2 Injury Report: Three Cleared, Three Questionable for Thursday - si.com [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOHlOWmprYlNYY01fLTduejF5ZzBzQnpxLVRCSTRncXR6R0ViSG8zQVp3N1lyRWd6SHBEWXcxa0tXUzN4QnhITmJSTGlvRFRmdWp0NEhvT3czMF9KdkZpN0VzZHE0eFZvSkV0MlQ3TExHNnVicWVuSGlkdUhjVExVSEFETTZmOUtPM2Y5d3dLR2NFSHBtVUl1TUNra1FHd0lTRjR4RUVMWXBXdEhqY1N5MTF0NkQ2VjdqWGlQRzltbzV5R3BKdmctVw?oc=5</link>
-      <guid isPermaLink="false">ecc7de943f6934c0</guid>
-      <pubDate>Thu, 17 Sep 2026 01:32:02 GMT</pubDate>
-      <source>Google News: Detroit Lions</source>
-      <description>Buffalo Bills&apos; Final Week 2 Injury Report: Three Cleared, Three Questionable for Thursday &amp;nbsp;&amp;nbsp; si.com</description>
-    </item>
-    <item>
-      <title>Are changes coming to the Green Bay Packers’ offensive line after Week 1 disaster? - The Athletic - The New York Times [Jordan Love]</title>
-      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxNTU1BalVmQTBEUE1VWUpqY2RTUnlSMEhCUkZBQnVoYWdteDZqaGppNU5rcWY3MnEzMmNYT0I1dlFvUm1jN0FKUHlRMlFNbkhlczhmeGpKbnB5c1diTlQxZUhvcnRodTYtNjc5NlAzT2RSTTdaYnhYMHRFSHh2U0xJb1BPTHhLMGJ0S0Y3VHNTNFJsVHMzbkRSaA?oc=5</link>
-      <guid isPermaLink="false">9aaee0c094a14496</guid>
-      <pubDate>Wed, 16 Sep 2026 12:12:05 GMT</pubDate>
-      <source>Google News: Green Bay Packers</source>
-      <description>Are changes coming to the Green Bay Packers’ offensive line after Week 1 disaster? - The Athletic &amp;nbsp;&amp;nbsp; The New York Times Evan Williams delivers clear message on officiating inconsistency after Packers&apos; Week 1 loss to the Vikings &amp;nbsp;&amp;nbsp; A to Z Sports Packers&apos; No. 1 task after loss: Protect Jordan Love &amp;nbsp;&amp;nbsp; ESPN</description>
-    </item>
-    <item>
-      <title>Packers injury report: Lukas Van Ness, Javon Hargrave in concussion protocol - Packers Wire [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMi7AFBVV95cUxNLUpGeHZOM3NLbEhJSUNzdG5aSjNheXM3ZU5hVUNTSzhuV0w0SUh4RnEwa0c4T0tRRVRiYnFSbmExdlNOOHp2SkZXdlA2VXdxZTVRYVZzTHJOdmF2MnFJWnJIRll2bUZjS1NzdkF0TFdUaVlsdGg0VUZCdWZHeVF3d1RDeld2MXdlcGpkZ0NNam4zMkxuNzBWc3hoU1FQUXpCeTFwTDNqOE82WkJKb0RLNHVEbnp0TmxJV191bVVKRnkxM1d2Z0JDeXpIVHp0OHFZdV9HTG04WEZlcVFZY09xN1FIcmFybHdhVmZETA?oc=5</link>
-      <guid isPermaLink="false">98d99b2655a7daae</guid>
-      <pubDate>Wed, 16 Sep 2026 20:50:00 GMT</pubDate>
-      <source>Google News: Green Bay Packers</source>
-      <description>Packers injury report: Lukas Van Ness, Javon Hargrave in concussion protocol &amp;nbsp;&amp;nbsp; Packers Wire</description>
-    </item>
-    <item>
-      <title>Packers Injury Report: Lukas Van Ness and Javon Hargrave have concussions - Acme Packing Company [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbFlQVmU5cVVCMENZVWZYZTA1ckZjWVNnaUlSMS1oTWNLcmlfeW9PVEdZSHIySUtfbUk5aWxQTDdXWk9UelZobEp1R3FURG9EVWxSTFBMYXotTER2d005MzhYQ1Z6ekpTVEVKOWR1M2cyZEtEam9UVVVpb0haTGMtaWtqR1VWdks3eWJKMHE0ZjBUOFlJb0psWlhSS25QYVRzeHRIaDRjUlo4R3FJWEl2Z0hOU05oSVZsXzRGdHNuWWw2RnlKb2FleXJ2STFremFPN3c?oc=5</link>
-      <guid isPermaLink="false">6f6ba6c2133f864b</guid>
-      <pubDate>Wed, 16 Sep 2026 20:53:37 GMT</pubDate>
-      <source>Google News: Green Bay Packers</source>
-      <description>Packers Injury Report: Lukas Van Ness and Javon Hargrave have concussions &amp;nbsp;&amp;nbsp; Acme Packing Company</description>
-    </item>
-    <item>
-      <title>Week 1 Injury Report: Patriots at Seahawks - New England Patriots [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE4xTnpGVGhfZzdLMU9jNXRsVVNHMTBsamR4WjFLUG9wY19aQzc0d3d1cm9UXzg4d1NQMUpYMUsxQTVKT2M1aERJQmRyT3poV0tReERHeWJyTlBLX0RGMnBhT1phbksyVjlyUk1tY0ZqZmdNZ3U5aEptZ3Jzbw?oc=5</link>
-      <guid isPermaLink="false">1c49dba172a2cb6b</guid>
-      <pubDate>Tue, 08 Sep 2026 07:00:00 GMT</pubDate>
-      <source>Google News: New England Patriots</source>
-      <description>Week 1 Injury Report: Patriots at Seahawks &amp;nbsp;&amp;nbsp; New England Patriots</description>
-    </item>
-    <item>
-      <title>THE JETS JUST SIGNED A PRODUCTIVE RECEIVER... - KHOU [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMi7wFBVV95cUxONEh6MUd4SC11M1BwUW1HVUdKUmotcUNLcXhzM0NqaDFEWWdiUVBhNDRDLW5wYXdrTVpZRVBMa3llX1lfa3JNdGI3TU5xaEFtZUlxTWlJdTVZVlE4MWFzMWx6cjVIcGJkQzc4MlVualhTNjRBa0FFVXZOZko1OWtwU25RQ2VjbnVoSkFLaHVUVktMcXY5T3d0ZUhXZ0lCcHBIZTFxeGtZUkhyLUNKY1hmb05OTjJrQmpOeU8zUjJ2dzN3LTlBU0thdkxPNTVlcHNkUHpNNFhUd0Y0M09rNUtwSXdDS3BHVGx4UWwtUWxXYw?oc=5</link>
-      <guid isPermaLink="false">9e81cd72d6d402ea</guid>
-      <pubDate>Thu, 17 Sep 2026 02:36:00 GMT</pubDate>
-      <source>Google News: New York Jets</source>
-      <description>THE JETS JUST SIGNED A PRODUCTIVE RECEIVER... &amp;nbsp;&amp;nbsp; KHOU</description>
-    </item>
-    <item>
-      <title>Eagles defensive back Cooper DeJean held out of practice; Zack Baun earns NFC weekly honors - Inquirer.com [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ0pZNzBubXZKZW05cF9lTDFDNGZ2U0hJMExiTndickN2czl1TG5sZVBuUG8xWFdOd054VmdYa09GTWVqNHZaN2ZoRGhQY0U0NGdJLXJtaF9KVkdERTIzb3NhRzZGUGpJQ25TVFk1bHRSX0txXzFVUjBXN0RiOVJadUpKNWlOdW9zNE9vR0NDVkdidw?oc=5</link>
-      <guid isPermaLink="false">9ccbd5478524ec96</guid>
-      <pubDate>Wed, 16 Sep 2026 20:46:03 GMT</pubDate>
-      <source>Google News: Philadelphia Eagles</source>
-      <description>Eagles defensive back Cooper DeJean held out of practice; Zack Baun earns NFC weekly honors &amp;nbsp;&amp;nbsp; Inquirer.com Eagles injury report: A couple defensive stars miss practice &amp;nbsp;&amp;nbsp; NBC Sports Philadelphia Eagles Week 2 Injury Report: Latest Updates on Jalen Carter, Cooper DeJean and Replacement Options &amp;nbsp;&amp;nbsp; sports.yahoo.com</description>
-    </item>
-    <item>
-      <title>Buccaneers vs. Browns: Initial injury report for Week 2 - Bucs Nation [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxQN3BuVW1EcFJPMVJYUHVheVQtNkxNMktfSHctOTdKYkJTOHZqeFFPaUEzamprRFQ4UktZY3JkcDhLQ1EyRTMxN1dybnQ1cldNaVRNWHBrTzFCd29jMENZV3J4WF9TQmRoSGdZN0R3MU1IeGFnaUozczFUcGVSdjVwYWNkZGx5TzM3cFBEcnFYY1BxZmk3LVNObEZ2WmQ3UGZCZ1pCR0xZaDM5SkJlWnNDRzNZOWNaNUp0OFJVNUFvR3U1RTBRM1NN?oc=5</link>
-      <guid isPermaLink="false">acabb0717d9be2b7</guid>
-      <pubDate>Thu, 17 Sep 2026 00:51:00 GMT</pubDate>
-      <source>Google News: Tampa Bay Buccaneers</source>
-      <description>Buccaneers vs. Browns: Initial injury report for Week 2 &amp;nbsp;&amp;nbsp; Bucs Nation</description>
-    </item>
-    <item>
-      <title>Titans injury report: Cedric Gray returns, James Williams limited - Titans Wire [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWjJwWkdndjNrODU0OUJhRTJUV2Rrd3djcDBxWEYtOF9jQnJFNmNtZXgybnNOQnZkR2FKMVlzRjlmVXdLT0lYRnlhdVR6Z3pNbXBZZ0FLLVVvVS01UFBxdDRDYjE0N2xPYjFtMGk3dlMycUQ4VlU3MjhJdUJqbzItYXg4aG1FV0RjUkdKRnczbk1DbVRSNm9JLVZTbjRmMllqLWV5MWNRT0pEdDlhaXZBSi1pTnhuQmp1VGxubFk2b2NlT25IMmxJamtYS0YtN1BMaHpURFBVZU9sSGp0SXVWTEZlbmM3N3Ff?oc=5</link>
-      <guid isPermaLink="false">13e8ff64b81a8745</guid>
-      <pubDate>Thu, 17 Sep 2026 02:31:00 GMT</pubDate>
-      <source>Google News: Tennessee Titans</source>
-      <description>Titans injury report: Cedric Gray returns, James Williams limited &amp;nbsp;&amp;nbsp; Titans Wire</description>
-    </item>
-    <item>
-      <title>Titans Add Four to Practice Squad, Waive Three Others From Practice Squad - Tennessee Titans [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxPRUJaaUl2aUFXNG1takJyR2FzQkc4UG5zR01uVHQxajZLNWFBeFluM0xCT0VmSlNheVV5LTRnS1hwc3BTRzB0X0FKUmFTMWlSN19qdDhkb05mZkJCaE5ud0NSdGdYQzhqRTRCZW16QVBsNWstSngtVlp4a29TeUtRUkkySHRUd3ZYZXJ6a1BHaS1tc2xMc1hfVldoQUJLMURvT0ZieXp3NThLNUVEakE?oc=5</link>
-      <guid isPermaLink="false">e3a33a0dce648a72</guid>
-      <pubDate>Wed, 02 Sep 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Tennessee Titans</source>
-      <description>Titans Add Four to Practice Squad, Waive Three Others From Practice Squad &amp;nbsp;&amp;nbsp; Tennessee Titans</description>
-    </item>
-    <item>
-      <title>Commanders Injury Report: Frankie Luvu Sits Out as 8 Players Limited or DNP - sports.yahoo.com [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxPbV90aGNoRlhYeE95ZWZBN0x3dWVsRlpwQ2ZxMlFKbkpJWlZudkVtX2hTaExPd0RsX2FvZTVjM0dwQm9pZXc4MlpmN0NuMWVnaVBTelAtYXBESFdQbGxHMDdLVm1RTUltUlJyY0VyaXBycnMwZDZkbXNveV9zTWNjV0tPR1U4dHB0QVNnMElZNA?oc=5</link>
-      <guid isPermaLink="false">bdf0586551ed09de</guid>
-      <pubDate>Wed, 16 Sep 2026 21:35:19 GMT</pubDate>
-      <source>Google News: Washington Commanders</source>
-      <description>Commanders Injury Report: Frankie Luvu Sits Out as 8 Players Limited or DNP &amp;nbsp;&amp;nbsp; sports.yahoo.com</description>
-    </item>
-    <item>
-      <title>RJ Harvey, Marvin Mims listed as out of practice Wednesday [Marvin Mims]</title>
-      <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rj-harvey-marvin-mims-listed-as-out-of-practice-wednesday</link>
-      <guid isPermaLink="false">bb4b6f7cf22e26b0</guid>
-      <pubDate>Wed, 16 Sep 2026 22:06:02 GMT</pubDate>
-      <source>ProFootballTalk</source>
-      <description>The Broncos didn&apos;t practice on Wednesday, but they said they would have been missing a couple of offensive players if they had gotten on the field.</description>
-    </item>
-    <item>
-      <title>Chargers Injury Report Week 2: Ladd McConkey sits out Wednesday’s practice [Ladd McConkey]</title>
-      <link>https://sports.yahoo.com/articles/chargers-injury-report-week-2-234407967.html</link>
-      <guid isPermaLink="false">892d9c44391f7710</guid>
-      <pubDate>Wed, 16 Sep 2026 23:44:07 GMT</pubDate>
-      <source>Yahoo Sports NFL</source>
-      <description>Chargers WR Ladd McConkey did not participate in Wednesday’s practice due to his rib injury.</description>
-    </item>
-    <item>
-      <title>Michael Penix Jr. says ‘I want to be out there’ but has physical goals to hit first - Atlanta Falcons [Michael Penix]</title>
-      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxPUjFWdmFuYXc3ank5MmVsTTRPbV9zbEFfQjA1WENGZ1h5MlE2VUl3RDh4V25nZVlGczdZQS1oUGNCZlF4SGk2d3VnMmQ0YmVtR1FLZWd6U0lFSkI5NW9FbElyQ1dUaWtOSkhaU01razducXFOamxOVGRUakF0X09QMFU2cGNKUEh0dGdXeUIybEtLbFh2RU12c21ncEpOdw?oc=5</link>
-      <guid isPermaLink="false">b7127d8517a9e34d</guid>
-      <pubDate>Wed, 16 Sep 2026 22:24:32 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>Michael Penix Jr. says ‘I want to be out there’ but has physical goals to hit first &amp;nbsp;&amp;nbsp; Atlanta Falcons</description>
-    </item>
-    <item>
-      <title>Falcons split first-team QB snaps; Michael Penix Jr. ‘working toward’ playing. - AJC.com [Michael Penix]</title>
-      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxOLWJQNGFsS3NURmFJVmluUTBEd3FnRXp0enVGd0t4SlVzWXprZ3FETGM0cDhQRXVLNC1uYlQ0LXptb0hSNG03cjdhSDFyUTZuUHpFUlloX093UlJoUXJWcWhZRGpfdllSTW5xdXNLVkhOTjF6UmJiQS05RnVOYlZBaWV1dTJpMnVYdUMyUTY3Tm56aUQ0bHQtekhUWC1HUDhMY1kyZldpSGZwMlYwdEE?oc=5</link>
-      <guid isPermaLink="false">80851f41b8700b3c</guid>
-      <pubDate>Wed, 16 Sep 2026 23:52:21 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>Falcons split first-team QB snaps; Michael Penix Jr. ‘working toward’ playing. &amp;nbsp;&amp;nbsp; AJC.com</description>
-    </item>
-    <item>
-      <title>‘Bo Nix Is in Trouble’ — Colin Cowherd Pours Cold Water on Broncos QB’s Future With Franchise After Frustrating Chiefs Loss - Yahoo Sports [Bo Nix]</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxOZEhNaHRHVkRUODVlT1Y4UGNtUmE0MEdpd3ZNTGY1NnlwcXpQc20tT2VoaDN5ckpGVEgzSjZPUl93ZFJGTnZNZHI3S1pZV29mVVY2TUVDV2ozeFN1U0NEay1jNVh0bXVUTEdtYTlyb2pfVWlTNHBrQ0pUaS1wM3A3c3hObw?oc=5</link>
-      <guid isPermaLink="false">bdb2d7b29bd8c1c9</guid>
-      <pubDate>Wed, 16 Sep 2026 22:54:49 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>‘Bo Nix Is in Trouble’ — Colin Cowherd Pours Cold Water on Broncos QB’s Future With Franchise After Frustrating Chiefs Loss &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Packers need Jordan Love to bounce back from dreadful performance vs. Vikings - Yahoo Sports [Jordan Love]</title>
-      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxOV0J2Z1BpcW5GNjR6dDBrZmhtaVpFd2hFQ0l1WTNaNms3WjRtbnNwSnhZY05nblhKcHFySWNGWWF4ZXRRZjBtTDJZRWVzWDVTZ2VVemFsMFdONUVqNXd6R3FWQURPajB3anJfZEVISEpCUHdHS3hfNmhRWF8zaWF3YTJvRUk2cTg?oc=5</link>
-      <guid isPermaLink="false">eac13e02b6c87d29</guid>
-      <pubDate>Wed, 16 Sep 2026 23:34:00 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>Packers need Jordan Love to bounce back from dreadful performance vs. Vikings &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Michael Penix Jr. contradicted himself on ACL recovery as Falcons remain in QB limbo - Yahoo Sports [Michael Penix]</title>
-      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ0VmdnA1NlMzRzZBNUxtX3BOdUZjVzN4U2xkSEtmbzlzb0VVNzgxT1BoYUpDV3JwdUFiV1dJV1paRXpDOHloa2d1UVFfYVRIbmllc1FUNGYzc1pRdER6X3NkcE8teHVmZnJtSm45b3U5Q0ppUDBUdFYwLXZOZmlpWXNQeTF6YW1FM1JGZmNudw?oc=5</link>
-      <guid isPermaLink="false">989996e0cc296e79</guid>
-      <pubDate>Wed, 16 Sep 2026 23:00:00 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>Michael Penix Jr. contradicted himself on ACL recovery as Falcons remain in QB limbo &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Michael Penix Jr. Gives Injury Update Ahead of Falcons-Panthers After Missing Week 1 Amid Knee Issue - Bleacher Report [Michael Penix]</title>
-      <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTjRFcDBHRXpSdVo3WGVmUjc2bjctY0lNdTg4bHhGRThXemlsUG5nREM2QjNiNGt6RGd2OWk0by0xX1p3d1NlcTlvOWFkSTVTdDZwTTVRbzZIbENUb1ZOWlhZS2p3WTVWajRvVmY5U1U2VEZfd0lDMTNyejROQmVpeW1wSlRFSnA5OE5vc2ZxcjV3Wjc0d01feW5lMW9NaDBsWHlqbVRodjU4OUgzLU5SUnlmMHpMZEl1ZVJPNFN3eDlWOG1xMUhSV0xsOFJ2emtMQkd1YlA0OHo?oc=5</link>
-      <guid isPermaLink="false">ef5f39a5625223dc</guid>
-      <pubDate>Wed, 16 Sep 2026 21:44:47 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>Michael Penix Jr. Gives Injury Update Ahead of Falcons-Panthers After Missing Week 1 Amid Knee Issue &amp;nbsp;&amp;nbsp; Bleacher Report</description>
     </item>
   </channel>
 </rss>
