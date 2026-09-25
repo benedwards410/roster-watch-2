@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1790318537463"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1790338833772"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Fri, 25 Sep 2026 06:42:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 12:20:33 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drake London: Michael Penix is the definition of resiliency [Michael Penix]</title>
+      <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drake-london-michael-penix-is-the-definition-of-resiliency</link>
+      <guid isPermaLink="false">5e16abbaf2349a13</guid>
+      <pubDate>Fri, 25 Sep 2026 10:34:30 GMT</pubDate>
+      <source>ProFootballTalk</source>
+      <description>Michael Penix&apos;s return to the Falcons starting lineup didn&apos;t get off to a great start, but that just turned out to be one more chance for him to show his ability to bounce back from an adverse situation.</description>
+    </item>
     <item>
       <title>Thursday Night Football: Drake London, Bijan Robinson run by Packers 35-14 [Michael Penix]</title>
       <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-drake-london-bijan-robinson-run-by-packers-35-14</link>
@@ -9599,14 +9607,6 @@
       <pubDate>Mon, 21 Sep 2026 00:33:07 GMT</pubDate>
       <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
       <description>Ashton Jeanty Handles 25 touches in Week 2 upset &amp;nbsp;&amp;nbsp; Fantasy Footballers Podcast</description>
-    </item>
-    <item>
-      <title>Falcons Desperately Need Michael Penix to Return This Week for Game vs. Packers - roundtable.io [Michael Penix]</title>
-      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxONVRHdXpETEUwaldmQTdnb292c3NfUjNjODRfOG1tZGhZWjNCWUJEZ3k5MTJVemJPT1RiVXh2VGtfZWxkeG1NT2tfdXZZODFWLXJQQXY3cnN2MjBiSTJRVnhrX2NvR2VCNGVvNnF4ZTc5MzlSWF9SR2NMUEVvbTdCd2JpTC1GOXA3NnFuN01kZF9ZVDZpVG1wazJXYmFVU0xBdFpMbDBLRTBqOVFyQ2lsWEpLOXlzR0ZaSHdubjV0aHVaZw?oc=5</link>
-      <guid isPermaLink="false">9e6396b71b99f448</guid>
-      <pubDate>Mon, 21 Sep 2026 10:03:02 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>Falcons Desperately Need Michael Penix to Return This Week for Game vs. Packers &amp;nbsp;&amp;nbsp; roundtable.io</description>
     </item>
   </channel>
 </rss>
