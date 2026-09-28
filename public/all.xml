@@ -1,13 +1,493 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1790556774581"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1790576638080"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Mon, 28 Sep 2026 00:52:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 06:23:58 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bo Nix throws two TD passes, two-point conversions, Broncos-Rams tied at 16-16 [Bo Nix]</title>
+      <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bo-nix-throws-two-td-passes-two-point-conversions-broncos-rams-tied-at-16-16</link>
+      <guid isPermaLink="false">89281432754d9b42</guid>
+      <pubDate>Mon, 28 Sep 2026 02:49:21 GMT</pubDate>
+      <source>ProFootballTalk</source>
+      <description>The Broncos were down 16-0 to the Rams at halftime.</description>
+    </item>
+    <item>
+      <title>Bo Nix sizzles, Rams D fizzles. Winners and losers of Broncos&amp;#39; comeback [Bo Nix]</title>
+      <link>https://sports.yahoo.com/articles/rams-crumble-against-relentless-broncos-041714036.html</link>
+      <guid isPermaLink="false">4991d6258601d3b7</guid>
+      <pubDate>Mon, 28 Sep 2026 04:17:14 GMT</pubDate>
+      <source>Yahoo Sports NFL</source>
+      <description>What started as a blowout-in-the-making turned into a thriller on Sunday Night Football. Here are the winners and losers from the Broncos comeback.</description>
+    </item>
+    <item>
+      <title>Week 3 Stock Up, Stock Down: Sadiq seizes big role with Jets [Kenyon Sadiq]</title>
+      <link>https://sports.yahoo.com/articles/week-3-stock-stock-down-041539270.html</link>
+      <guid isPermaLink="false">5c644af71095559e</guid>
+      <pubDate>Mon, 28 Sep 2026 04:15:39 GMT</pubDate>
+      <source>Yahoo Sports NFL</source>
+      <description>Rivers McCown highlights four fantasy players whose stock rose in Week 3 of the NFL season and four whose stock fell.</description>
+    </item>
+    <item>
+      <title>Kenyon Sadiq makes history in New York Jets loss [Kenyon Sadiq]</title>
+      <link>https://sports.yahoo.com/articles/kenyon-sadiq-makes-history-york-021500941.html</link>
+      <guid isPermaLink="false">96549825ec646e73</guid>
+      <pubDate>Mon, 28 Sep 2026 02:15:00 GMT</pubDate>
+      <source>Yahoo Sports NFL</source>
+      <description>The talented Jets tight end made a statement in his 3rd NFL game</description>
+    </item>
+    <item>
+      <title>HIGHLIGHTS: Rams DE Aaron Donald pressures Broncos&apos; QB Bo Nix into a third-down incompletion after a slick spin move - TheRams.com [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxOOTZGTHowX2I1WU1QWi1rTXdlLVdCMHVlTy1MN09MT3dGZVpVcUFsSlRfdHk4THF3ZGV1TWwtTnY3di1sNWxSdEJnN3lXbkxiNVVxTTExNWFXRWJBajZrRnBrRld4b2paMmdFRDdWZUhpOXltYUtmMlpGTDhDQzNkQ3RlQkppVC1fLVF2TmxxNFJCTTB3bDMwR0ZyY3VPaTBBOG91ZkRXWG9ybzdPd2FQM1dpbkVJckZ4bmxDNFNCUUNlbVBqTmtURE1B?oc=5</link>
+      <guid isPermaLink="false">84535020405cc34c</guid>
+      <pubDate>Mon, 28 Sep 2026 02:27:21 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>HIGHLIGHTS: Rams DE Aaron Donald pressures Broncos&apos; QB Bo Nix into a third-down incompletion after a slick spin move &amp;nbsp;&amp;nbsp; TheRams.com</description>
+    </item>
+    <item>
+      <title>Mark Kiszla: Even when Bo Nix stinks, he makes miracle wins happen - denvergazette.com [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQWRPNEw3Y2ZNMnhSSW5WMFRpT1FYNjc2SG4tbS02WFZkUnJqMjFmb2p1TERyeV9EMkhPd1JWRkhkMTJEdTljSGRxM29qdFVZckNoZmV2c3RKYm1rWjE0cGttU0hCZFFaWkY1dnk2c2ZtcGZlWWp0RU1xOG1TRUxrWmxmd3JlSEpsNEow?oc=5</link>
+      <guid isPermaLink="false">ac3aeb0a81bac9de</guid>
+      <pubDate>Mon, 28 Sep 2026 04:43:12 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Mark Kiszla: Even when Bo Nix stinks, he makes miracle wins happen &amp;nbsp;&amp;nbsp; denvergazette.com</description>
+    </item>
+    <item>
+      <title>Aaron Donald pressures Bo Nix into a third-down incompletion after slick spin move - NFL.com [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxOa041MmdRUUc4YW1pVzdFeVlDSjVKdThmYWV5T1BTWjhxM0h0Z2EyakhQc25jNXl1dWxQaGdkSGxkc1pOTl9aMWg0WXgxMDlVSjhPbURqUE5vbjZma01kMEpXdHljbG1rQUxyTzBOcWdTemZRaFVuTDNTeU5NT0ktUmdXZUJ6TlB3VWJMYmpPY3ZXQVpCSjFHNXpETG9xN0VvYk8yN1Q0X0lwQm9aTkE?oc=5</link>
+      <guid isPermaLink="false">c3db993aa65799c7</guid>
+      <pubDate>Mon, 28 Sep 2026 02:23:14 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Aaron Donald pressures Bo Nix into a third-down incompletion after slick spin move &amp;nbsp;&amp;nbsp; NFL.com</description>
+    </item>
+    <item>
+      <title>Bo Nix explains the Broncos mindset in final minutes of another insane win – Denver Sports - Denver Sports 104.3 The Fan [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxNQl9nMS1VM2pZU0liRndyMERucS1sbWRsTzJRNEZCVzR3ekNnZ0VSZlVYUkpqQU5JTVBuOFFwcEZrVktoU2hjRFN1OE96UUZWR3JvbENOclh2Mm1DM3REQ25Pd3VYN0U3OEpNejBSZjZzVmY0VS1SV0ltZ3NiOFU1OGtqc3cydlNGYjFfRjgzQkwxM0F2OHl0SmhYWXlRM2lNZmFaVWQtbHBQRE1BcVFBUkJoTUFuS180cVE?oc=5</link>
+      <guid isPermaLink="false">b1d6534b6581c3ba</guid>
+      <pubDate>Mon, 28 Sep 2026 05:04:24 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Bo Nix explains the Broncos mindset in final minutes of another insane win – Denver Sports &amp;nbsp;&amp;nbsp; Denver Sports 104.3 The Fan</description>
+    </item>
+    <item>
+      <title>Late TD run by Bo Nix gives Broncos wild 30-26 comeback win over Rams - Colorado Springs Gazette [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxPT0tWQnJ3RDRucTVqWVpFZnBvZkxzTFhueVhYR3JQUW1FdE5EZENxX3ZtamJOVTRUcU9xcWRzblhzV0RoWmZZRzkwYWRQSzUtQ3MwQnBpSUVYd3V3TmN3S3EyQ2Z1eEpNd3hzU3NiQW9DLWMxQWhhYzN6aUd2N1BocHRqX19BSGlXUmlwTjJTMjBmUHc?oc=5</link>
+      <guid isPermaLink="false">e09074b16c88596a</guid>
+      <pubDate>Mon, 28 Sep 2026 04:02:36 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Late TD run by Bo Nix gives Broncos wild 30-26 comeback win over Rams &amp;nbsp;&amp;nbsp; Colorado Springs Gazette</description>
+    </item>
+    <item>
+      <title>Broncos four downs: Bo Nix answers Matthew Stafford, rallies Broncos past Rams - The Denver Post [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTFA5UzhCVWtVSFpKMXlsLUR5bnJfdFJwRjNfZkFlY1hDTzk0aFRERjlMYnJFLXBRUjJ4ZkRFc3BTdm1Kd2pkQTBXc2tjZXlYUVduMTFwZEZDTUlvWmpJMm4tMjNrYzUtbkY0cThSejY1dEhoTzJPWFE?oc=5</link>
+      <guid isPermaLink="false">4fc7dfca0fbf29f4</guid>
+      <pubDate>Mon, 28 Sep 2026 03:59:51 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Broncos four downs: Bo Nix answers Matthew Stafford, rallies Broncos past Rams &amp;nbsp;&amp;nbsp; The Denver Post</description>
+    </item>
+    <item>
+      <title>Bo Nix and Talanoa Hufanga lead the Broncos past the Rams 30-26 in a Sunday night thriller - Bozeman Daily Chronicle [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUFlTaGg4Q2VSZ1dJdk8zeHFCYkdzb0tRRmp6QkpENUQ1ZTRQMG9FQ0dCNDdtTnVPMnJCNzF3M1VaQnkwQmtPM1V3UktOdmZ5MUdGN3U4YWVJUDZ1ZWRtLTNfWEJjYnRMTXhVOXctdE5fQ0lsWUZielB1UWxEM3JXZlJuWW5PN0lqLTJkXzd6RTJPcnUxZ3lSOU1ObnF3UkRwVl8wNWVYMmNGYkZOS3JhNm5JelFBNHNLb0ItM0pCOGUzNlFGSm5aSXR0VXVYTU5MLUltVzZBNFRBSXFGSEhRZ0xmQzFRNDQ4M01zQzkySmd3ZmJpMGhYcngxUzI?oc=5</link>
+      <guid isPermaLink="false">47892085bc7c3b4e</guid>
+      <pubDate>Mon, 28 Sep 2026 04:18:31 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Bo Nix and Talanoa Hufanga lead the Broncos past the Rams 30-26 in a Sunday night thriller &amp;nbsp;&amp;nbsp; Bozeman Daily Chronicle</description>
+    </item>
+    <item>
+      <title>Bo Nix, Broncos rally from 16 down to beat Rams 30-26 - CBS Sports [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxNbkRHcFo3SkpQRTlvMDlWWFBKNG55SjZKMXFYOEQxcTdmd2VEdE5PRFozclp2Vm9XUHJESV9uQVI0M01iQjlRM3c2R253dHM5SDFwa3Jkb1Noa0NUajdVWFhnRTZnRUV2bVRtZFpndWh5S1BUODlwbHNPRU5WSzJfWld1cUFtQkhoS1h4RFBrSnV4dw?oc=5</link>
+      <guid isPermaLink="false">6bf47df3c8969437</guid>
+      <pubDate>Mon, 28 Sep 2026 04:19:00 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Bo Nix, Broncos rally from 16 down to beat Rams 30-26 &amp;nbsp;&amp;nbsp; CBS Sports</description>
+    </item>
+    <item>
+      <title>Bo Nix Three totals TDs in second-half comeback - Fantasy Footballers Podcast [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNYkF0WWtfOFJmV3VEQ0tyN3lKbk52NVpwaXhraEl0NFBZQXB3NGJRdTViOEhOZkhrUC1GemhQLUY3Z0htSHlnd2U4X3pvRjI4cF9fVmI0VmJSTGk0NEFWcWppcmgwVUh0WTlweVcwb1NxZjZqQ0oweTQ1azRuSnh0SnYzSUVad3YtbEd2cFVJSlpVSjFuczYzVm9XOXM2eFk?oc=5</link>
+      <guid isPermaLink="false">5e4fbee220f30f6b</guid>
+      <pubDate>Mon, 28 Sep 2026 04:52:30 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Bo Nix Three totals TDs in second-half comeback &amp;nbsp;&amp;nbsp; Fantasy Footballers Podcast</description>
+    </item>
+    <item>
+      <title>Bo Nix talks about last-second drive, second half fixes in wild Sunday night win - AL.com [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxOVWVMbHF2cld6bWNuWnpZS0RZcUNlSGMxRVZEc1pCbHZCZnVEaDhBT2xJNHhPalhXNVIzMDVFV2FwYXVzYmFGUThQbENzVGFUeEdsSHhqMFd2QWJtTmpucmRRYlFhcjE3RGVsRDNLbTU4QXRtQWtvUXNXTGpfdkZ2bTBvWDZqdEp6YlpDcFhfM1pVakwtZThsRGRSRWFIVzAyVzBicUN5d1FodzZtNk1leTNGcTRQZw?oc=5</link>
+      <guid isPermaLink="false">5155a199744eef94</guid>
+      <pubDate>Mon, 28 Sep 2026 04:38:00 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Bo Nix talks about last-second drive, second half fixes in wild Sunday night win &amp;nbsp;&amp;nbsp; AL.com</description>
+    </item>
+    <item>
+      <title>‘So Ridiculous,’ ‘Refs Bailing Out Bo Nix’ — 5-Time All-Pro, NFL World Erupt As Rams Get Hosed by Controversial Call In SNF Loss to Broncos - Yahoo Sports [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPTEtrUHItOFllWVZHUmg1SUtzQXN0MlV5d0lUNEMwekxXeFpWY1JWck1nUmhIdDRDUmE4MXB0QWhvalkwRjhwazhQdkRMWUgzY2ZEM09FMGhmdk1JclVaN1VPTUN0MnlJQmRIdVhWb2VoZWJQek96SnB3X0hVRDZRWDFwTGlhdw?oc=5</link>
+      <guid isPermaLink="false">8bb5c97d5bcd1ada</guid>
+      <pubDate>Mon, 28 Sep 2026 05:10:00 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>‘So Ridiculous,’ ‘Refs Bailing Out Bo Nix’ — 5-Time All-Pro, NFL World Erupt As Rams Get Hosed by Controversial Call In SNF Loss to Broncos &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Bo Nix&apos;s best play from 2-TD game vs. Rams | Week 3 - NFL.com [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxPT0tIb2RSbHpnSXVtYi1QQWpEZTEySUE4dy1TWTZOc09hQW0xY3gtcGM0c2QzYzcyOFNfOWZrREZCNVVxYTZIMEtvQzJPQUx2YlJwRnRpb1JvV3JDTC0wWmtkV1pIdHA5QlpyMngyTXF2X3RnUFZxWkUxdjdlQXk3cQ?oc=5</link>
+      <guid isPermaLink="false">e9ea30abf497d596</guid>
+      <pubDate>Mon, 28 Sep 2026 04:22:33 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Bo Nix&apos;s best play from 2-TD game vs. Rams | Week 3 &amp;nbsp;&amp;nbsp; NFL.com</description>
+    </item>
+    <item>
+      <title>Sean Payton says &apos;moments aren&apos;t too big&apos; for Bo Nix, but has word of caution – Denver Sports - Denver Sports 104.3 The Fan [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVGFFempvTDFWbzdxRENSdk43dmhfOVg2TDc5VzBvbzBWRDNQR0pNbmNqNU1qZFIyZHgycElkQVdFazljSDA3aDJwSVZSLU5QT0ZXNWFwSFk2OEtPRTRldGNpUTREUlFNZGtzOVFCbHQwT3pETEpQdzFrVFh4UnhKaGI5cDdYRWUxekdkcG05aTg2aG5uQVlTT0Y1UWlvVkNlVGZwSTJWWlY3aUEwbWJGdFo5enlhNFNB?oc=5</link>
+      <guid isPermaLink="false">ef133aca5589c6df</guid>
+      <pubDate>Mon, 28 Sep 2026 04:39:40 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Sean Payton says &apos;moments aren&apos;t too big&apos; for Bo Nix, but has word of caution – Denver Sports &amp;nbsp;&amp;nbsp; Denver Sports 104.3 The Fan</description>
+    </item>
+    <item>
+      <title>Bo Nix&apos;s 39-yard completion to Pat Bryant gets Broncos into Rams&apos; territory late in fourth quarter - NFL.com [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSmRxRklWdVRWTTVXbFRCSFpfaGJGMDVYMkRiVGxXM1UwZjJNanQwQTExV0ZGUE1OS3RUWnNNeEd0LUFfejRLYWdPSHN1R3hoN3NsSjlWczFEOUdnRWF1dmxtdkctTDlxck1SMnZzMllUbU0xQjJ6ZnY4QzJaUGRxREZtRHRZUUUzaGkxbXZxSm9LOW1DZUNFRlR4UEt0T2FyN2xaczVNSkM0dE1SRUx0X3BPbjNLZmtaamRCNFJnZnVhQQ?oc=5</link>
+      <guid isPermaLink="false">230202d62835786f</guid>
+      <pubDate>Mon, 28 Sep 2026 03:41:46 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Bo Nix&apos;s 39-yard completion to Pat Bryant gets Broncos into Rams&apos; territory late in fourth quarter &amp;nbsp;&amp;nbsp; NFL.com</description>
+    </item>
+    <item>
+      <title>Defense overcomes poor play from Bo Nix in win - NBC Sports [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxOaU5hVFc4Y1NYelZ5ejR1MVZ0dnItNG53RnVTTFJBa1o0TFJ6Y3c5eTJKUldldVNOQm1ZSjR4clphQ2NoLWJtdldQV214dEdaSFRoT284Q1dGN3FpcDRHaVZuUWpkNUYyR1FUQ2JTRXo2RGV2czZWSHFucjNTR2JDemljMnhnMzBLc3I3OERRdVp6MXFWcDNiWC1wTkhYc0t2ejlwbUlTVEE2ek9ucWlnODZ3?oc=5</link>
+      <guid isPermaLink="false">7a3017130e0a8725</guid>
+      <pubDate>Mon, 28 Sep 2026 04:58:34 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Defense overcomes poor play from Bo Nix in win &amp;nbsp;&amp;nbsp; NBC Sports</description>
+    </item>
+    <item>
+      <title>Los Angeles Rams 26-30 Denver Broncos: Bo Nix scores in final minute of fourth quarter to complete thrilling comeback - Sky Sports [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMFMxb2VEczFNTmR0M2M5QVZnMl9ua3FtajFvUW5pWFlmbEZ5bE9BTldlZnlPcWM5WUZxaE55V2lNTHloeEk5MlJ1VGY0SjhpOVQ4SGxQVWhxUXZNVDNULUJwMnRKV1NjWmtDbVN4NUZyaUVYV1Q5YmRKUXVjN0RyTlFNTkk5c0NRb2JuY2xOSHEyODE3cEk2QXlObHJ4eHN1c0hBUkc4a01wdGNsdXd6VmNLQTBVaERDQ2JKQ3lsT3loa3RwS05Ld2lsdTBJbUV6c2lzcHo3TFlVWG1JeVhVSkFZT3dZM2t3UnVPWk5CQkFQQQ?oc=5</link>
+      <guid isPermaLink="false">4461838523ac20ae</guid>
+      <pubDate>Mon, 28 Sep 2026 06:00:11 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Los Angeles Rams 26-30 Denver Broncos: Bo Nix scores in final minute of fourth quarter to complete thrilling comeback &amp;nbsp;&amp;nbsp; Sky Sports</description>
+    </item>
+    <item>
+      <title>Should fantasy managers be worried about Ashton Jeanty? - Yahoo Sports [Ashton Jeanty]</title>
+      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxOb0VUVlRrbDdUcDdLZnl2RUlrUmV6MlJLVG9wUU84TXlVUmFhLVpxdHJvMnVZb1NIclhzcjQtUUk4WFhTZkpYZl9NTmNrZFdJZElPWV9zdmdMc3lqMmRrRDNCOFh2VmU4TEctTmQ2OXd0Q0JDTWdrMm52QUlZVmtJNXExRjhZMGVmM19PNg?oc=5</link>
+      <guid isPermaLink="false">d1050fead8b2391f</guid>
+      <pubDate>Mon, 28 Sep 2026 01:05:00 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Should fantasy managers be worried about Ashton Jeanty? &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Jaylen Waddle catches Bo Nix&apos;s perfectly placed pass to get Broncos back in game - Broncos Wire [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS2JadEpUTEVWQWtnUEQ1Y3p3NnJfUU5FRmtRakwyV3NhOXg4a18yZWFiRFhuZFNGNFVRS1JPRmVvV2RoTEt4NzlYMzN6cXkzOXVocVNhb0J4UWZ4eUgyT0ZONlJCTnhtQlgwWHBEcm5kVUlPNVEtbWRUYzlLN1kwYjdRVXVleEl2U1QyeDM4TlJGekdiVVc4M3BidDM5OTNHS0NnQV92cWpMV3hsR2M4clVIYkRtMGRIcXJFUUxiTDg2SGs?oc=5</link>
+      <guid isPermaLink="false">b010fdca4f86c274</guid>
+      <pubDate>Mon, 28 Sep 2026 02:42:00 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Jaylen Waddle catches Bo Nix&apos;s perfectly placed pass to get Broncos back in game &amp;nbsp;&amp;nbsp; Broncos Wire</description>
+    </item>
+    <item>
+      <title>Bo Nix&apos;s clutch gene can&apos;t be stopped as Broncos defeat Rams in Week 3 - Predominantly Orange [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxQMEJZNFdmTi1UeEVUVnhuQUFJQ0xZYjh0cXNuS29NNU0yRVp3Mi1SWVlTQjhmenhndUw5a0JMNmtac2szYUgxUnV6eGRzeERPaWd2bmhqMHNIcWkwOGFIdV80dFZ5bWplQ3ZZS0U1RGFCbzhEeWZ3Rmdnck5Deks5dkRUM0lxcjlHNXBpUDJIdUhSOFA5QmI4RXotWDJsQ1pTXy1ENA?oc=5</link>
+      <guid isPermaLink="false">bca3379657d80db0</guid>
+      <pubDate>Mon, 28 Sep 2026 04:07:12 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Bo Nix&apos;s clutch gene can&apos;t be stopped as Broncos defeat Rams in Week 3 &amp;nbsp;&amp;nbsp; Predominantly Orange</description>
+    </item>
+    <item>
+      <title>Broncos dig out of 16-0 hole, beat Rams on Bo Nix&apos;s TD in final minute - The Lufkin Daily News [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSV8zaTBucnZ6dk1fZjRnaHU1ZVdvVXp2SEpHT0kxV2xXXzl1dHRxV1V6OW52cC12dU9ZSzlrV1FSSGp5ZnpHbjdOTmxmcmpONVc0OUVNUTRJczY1b0VmcFI4dDlrcUdZOUZvVE90MzFYaXhsMDhyeU5GX0tJZUYwUXIxUFdlN2Jkd29MMEFqbERmS1g1ZTZ2OTdUQ3lFd1A5T3JuaXdCb1N1MkNHOXBxMG4wOHJNZXFuUWpLUDZLdmlONVNqTlI4azJUNjZjVlRYM25zSjJvWHN6TlhyMjlLcU5qWFI0UWtBa1QtdTlDcmQ?oc=5</link>
+      <guid isPermaLink="false">b6528c0054c9e925</guid>
+      <pubDate>Mon, 28 Sep 2026 04:29:02 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Broncos dig out of 16-0 hole, beat Rams on Bo Nix&apos;s TD in final minute &amp;nbsp;&amp;nbsp; The Lufkin Daily News</description>
+    </item>
+    <item>
+      <title>Bo Nix&apos;s TD caps improbable Broncos comeback against Rams – Denver Sports - Denver Sports 104.3 The Fan [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxOYV9nd21BYktzbUdZVVBtOXN0bVY2cF9vb3ZPWUptc0lyY2lhVHEzeE5jUzNhR3BXWVhfa25KYlhLbU1yYnZxX2lydC05cVhhdjlrajUzdVE3OVNKeF84TmdTMmdTYXhiRjRpY1Z2dF8zX2ZWT0x3bHNlUkhIR3lwdQ?oc=5</link>
+      <guid isPermaLink="false">1dcc41b71f4c1fd1</guid>
+      <pubDate>Mon, 28 Sep 2026 03:56:43 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Bo Nix&apos;s TD caps improbable Broncos comeback against Rams – Denver Sports &amp;nbsp;&amp;nbsp; Denver Sports 104.3 The Fan</description>
+    </item>
+    <item>
+      <title>Three touchdowns for Bo Nix in Week 3 - usatoday.com [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOGhuRTJVVENCMk91aXZ4NUF6cTlmalN3TDlBUFliMnlidnplbWUyMHpud0NCeEh6ZXBza3Ewa3hzdjVDend2SjcyVjNBN2RPSVJaYjVmWkJtUkRJSWQzRDVYcm04NlZQR2JRX3lJT0dzOVFYWTlSYnJjNmJmWjhINzNVNkd4UHIwdUxiX010MjdNU25KSkt5bG9yeTA5UWxoNWVfTGxCcDR2dWRXYlA3RUxYZmViZGdyb1dxY3cwNS1HaVVxWFh0QkpWUE84eXZHQTBPY0pXVl9LXzIzOGc?oc=5</link>
+      <guid isPermaLink="false">2100f4173112b2e4</guid>
+      <pubDate>Mon, 28 Sep 2026 06:05:46 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Three touchdowns for Bo Nix in Week 3 &amp;nbsp;&amp;nbsp; usatoday.com</description>
+    </item>
+    <item>
+      <title>Broncos news: Sean Payton identifies big issue despite Bo Nix&apos;s heroics vs. Rams - Yahoo Sports [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxPX19pM0hLZ2c0WlZ2T2NqQjkxZ2xUaGhJaVVOeUEtZEgtTHVCcUJHM3VVN09MWWE1V3gzNFp6WTZqRndlbWhGeEZJbldHUWxmeXBROWEzY0x3SVR1VzFkRDVXWXphaUdrZXlkdHRmVzAtRTZsa0xLSjEwLWpGMXRTa295X2FPbHV5elM4bw?oc=5</link>
+      <guid isPermaLink="false">85bb1e702535f746</guid>
+      <pubDate>Mon, 28 Sep 2026 06:11:04 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Broncos news: Sean Payton identifies big issue despite Bo Nix&apos;s heroics vs. Rams &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Broncos news: Bo Nix scores wild TD vs. Rams after controversial review - Yahoo Sports [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxOQjRJekF1ZEVBRThuOFI4Nk5HT1pZTkJ1VktOVFdqRktHdzBYMVZYWnk4b2h2Y1A0clJ5V0JiSDdnNmsxYjRSWlB2amJkaHpLMnRBQ0xmX2loQ3lHbXhsOERYX1ZMWEx4dzFKVi16WWhPbHI4M0tQbWl2ek8tMThhRg?oc=5</link>
+      <guid isPermaLink="false">90f1bc116fe31389</guid>
+      <pubDate>Mon, 28 Sep 2026 05:11:00 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Broncos news: Bo Nix scores wild TD vs. Rams after controversial review &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Ashton Jeanty busy in Week 3 - usatoday.com [Ashton Jeanty]</title>
+      <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaW5vc04yaWRHNzlSSWxDVFFSOEFOa0Z4OFBYOElzN2poZ2pxcUo4MHRVWnozUGYxWEtwR0JqVmo2RXRWRTFyNXhJVUJ4Q2phblpvd09VcjRfaUI5RnpiLVI4NkFJZ0tpeEZKbmtlWkFienpnTDMzVkpZVmVrSE9ZaVlSUk1hNjQycnR1b0tzSzJHS0ttTjEtNkZYdnZLOWRoem53dFJ3WDdnOElocFRTUFBRejRsVTk1aFFCTXpNS055SFhzc1pQbDF2c0VwM1lYVWxBYUkwRQ?oc=5</link>
+      <guid isPermaLink="false">79fe02bcdc93f33b</guid>
+      <pubDate>Mon, 28 Sep 2026 01:43:00 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Ashton Jeanty busy in Week 3 &amp;nbsp;&amp;nbsp; usatoday.com</description>
+    </item>
+    <item>
+      <title>4 winners and 1 loser from Denver Broncos&apos; improbable comeback against the Rams: Bo Nix shows up when it matters most on SNF - atozsports.com [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT0lveHNQajNBeTRoZ201S29OMzBVTC00ZTNKQU53Rzd0ZEd0a253a3JoNmdaMTNQdFRYa0dMaV8wSGNzeWQ5TUZsSUczZ2o3eE96WmRHOUp4cnFNVUZpMFdFTGt0TG0tNzBUa0xTN0lzWnhvc1NPYUdseExTMlQyTUNuR2J1Sy0yaHRNLXlpalUzN0lPZ01kWVdId0E2ZF9lblp5b1I4SjlQcjBrRzFJbmFaWlpLMDFKaS1oNk1wc04?oc=5</link>
+      <guid isPermaLink="false">707c34f987867904</guid>
+      <pubDate>Mon, 28 Sep 2026 05:07:45 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>4 winners and 1 loser from Denver Broncos&apos; improbable comeback against the Rams: Bo Nix shows up when it matters most on SNF &amp;nbsp;&amp;nbsp; atozsports.com</description>
+    </item>
+    <item>
+      <title>Bo Nix, Broncos Make NFL History With Win Over Rams on ‘Sunday Night Football’ - heavy.com [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxNNG0xanpCai1ZNl9VcEhyd1FaY3p3NTJxNXp3M19JbmtpUlAzNG1odXdZVm1LcU9qTDhwNWpSd205SlV0Nnl3bUQ4eEdlMk02MVQ4VHdVTV9tWlhHX3ZHNmtIejU3X1dsNHFNSEV0elhQRWtpc09yME44d203bEprbTJySQ?oc=5</link>
+      <guid isPermaLink="false">ac49fc49f4517795</guid>
+      <pubDate>Mon, 28 Sep 2026 05:33:29 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Bo Nix, Broncos Make NFL History With Win Over Rams on ‘Sunday Night Football’ &amp;nbsp;&amp;nbsp; heavy.com</description>
+    </item>
+    <item>
+      <title>Ashton Jeanty News: Busy again in Week 3 win - RotoWire [Ashton Jeanty]</title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxPR19KVVM1NEhrYWpyTWNta3B0MjN0UUN1dVYyaUZkNzdySnREWGFYRnhITFI1dnZIbEY0dWp1S2JxUExieFFrQkVCVDVqLTNnb2psT09pb0FBNUYydXJpeXhYNjR6dFd0bVA2VjNtbDZBeFdsMHZZa0J4UXo3clF4emloTGVjX1JYRHBvLUdvS1hVNEYzQ1ZzWThR?oc=5</link>
+      <guid isPermaLink="false">44c838d98666baf3</guid>
+      <pubDate>Mon, 28 Sep 2026 00:39:57 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Ashton Jeanty News: Busy again in Week 3 win &amp;nbsp;&amp;nbsp; RotoWire</description>
+    </item>
+    <item>
+      <title>Bo Nix&apos;s late touchdown caps Broncos&apos; comeback win over Rams - 247Sports [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxON3o3RnFKZXRhWDc3MWhUQ09xN0R5RlJfWlhtZUdWVUhaMFdkdU93Y25QUi1lWWo5QXp2ZjZBUXF4SnAzTDBKQ29zMXdXcmlOTVlBdms0Q1ZNUEcwQ1RuUFFVQ1E5ZWVIMW5ROVVJWUc1MFVYeDV1cDA5QmxoazI0NUJOcFlycFNHcnlDN0xRYjZSSm5Gb0lqb2JyandYdFJZbTBta2lCM3VYdE11eFVBd2paZTdTM05GQ0JhN0IwYjFqb0p4?oc=5</link>
+      <guid isPermaLink="false">15a20dda6ec40510</guid>
+      <pubDate>Mon, 28 Sep 2026 04:55:00 GMT</pubDate>
+      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
+      <description>Bo Nix&apos;s late touchdown caps Broncos&apos; comeback win over Rams &amp;nbsp;&amp;nbsp; 247Sports</description>
+    </item>
+    <item>
+      <title>Early Fantasy Football Waiver Wire For Week 4: Spend Up On Ollie Gordon - FantasyLife [Ollie Gordon]</title>
+      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxOMDNYZ0h0eGY1QTFwd05ONVZFaUJKSks2QTNPSVpwTTNlMFQtYkRaZTdBeWJUWFJjMVlUb3A2LV9ob3Y0dzhRYWg1RTNnQkhFWk5nd00zd1BUVzdSZzVOMkc4dGZEZFJqaUNVZjhNdndNUUVKbEZyWEtGdjQ4VkJvc3FvRk83X1hFT1BDNUExZEpMRTVr?oc=5</link>
+      <guid isPermaLink="false">9551daca331447d8</guid>
+      <pubDate>Mon, 28 Sep 2026 04:30:24 GMT</pubDate>
+      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
+      <description>Early Fantasy Football Waiver Wire For Week 4: Spend Up On Ollie Gordon &amp;nbsp;&amp;nbsp; FantasyLife</description>
+    </item>
+    <item>
+      <title>Ollie Gordon II reaches end zone in Week 3 loss to Chiefs - FantasyPros [Ollie Gordon]</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxQdVlvbGRpMU1DTFFVal9zQ0RvempMWXNTenp1cklWR2ZDNWd5Q0lvWlR6Q3B4MGV6b2d2LTVFaERPTDdWcXVfWTBlSlZid1ZJTXViREQ4NEJfNXdmNjZWS3JxRERDekl4cHUxUDZCX0pfbjFsUmhjN2hyQTdqd3IwTWZsbUhWejdkV2huV1JiYW1md0VDN2VzVHdTNFpCRHpEcWk0d9IBqgFBVV95cUxQWG5Wd2N6SHhtZzFKSmliMmxtMUlSN2piOE50ZXRLeEtEbVV0TlB5WWItWWFTbE5aVmJIZVFvQV85ZFdFTFFndTZ3am51TmtHOUJtUVlWTU1oRGdma1UwcF9DdWRVX25GZ1BHU1I1dmlZYWNpQnhVZ0ZZRUx4VEtJelp6Y01QMjJLQjFQa2FtLTVpQV8tUlJnTHZuRjNWaUNUMEplaWZCNGJOQQ?oc=5</link>
+      <guid isPermaLink="false">fce742b4961ad631</guid>
+      <pubDate>Mon, 28 Sep 2026 00:25:00 GMT</pubDate>
+      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
+      <description>Ollie Gordon II reaches end zone in Week 3 loss to Chiefs &amp;nbsp;&amp;nbsp; FantasyPros</description>
+    </item>
+    <item>
+      <title>Week 4 Fantasy Waiver Wire: Add Ollie Gordon II, Braelon Allen - Sports Illustrated [Ollie Gordon]</title>
+      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NQkRpWTdVaHhjdnpodHlCZlZla3hDd0JtdjdtNDNGbUxBVmdWTnlpbGRkVVFzLTd4QXdLS2lwT1pRQzhrUnlfNnJZRGlMM1ZwcFlmZnRKclhiUldoWVZ2UzMxbw?oc=5</link>
+      <guid isPermaLink="false">d95f793e80052ad4</guid>
+      <pubDate>Mon, 28 Sep 2026 00:55:01 GMT</pubDate>
+      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
+      <description>Week 4 Fantasy Waiver Wire: Add Ollie Gordon II, Braelon Allen &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
+    </item>
+    <item>
+      <title>Chase Brown quiet in Week 3 loss - FantasyPros [Chase Brown]</title>
+      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxPdERSNk13eXZNTjRJRWpNSFJLNDRoS1NxR21lTTZzdG5oVkZsd2Vib2V5UGxJTjZwQTZYOGZXNDM2YTNYb0xHY09yd1J5bDN1RU9iXzFmSzh2czFFejRjcEthTmtGNHdRQXRQZUl5VlBaSDktdjRDaGdvM1NlQ2FmWUpWY9IBiAFBVV95cUxPVF8yMVBOQU4waDVweDl6dmRSczV3ajRQUV9FQmo5LWFqU3VGNHNUOTBlbDY1NjR5UnkwbjNSdlFnMFV3S081bDhuUnctMVBvSWpSemdsOGVQd2dNbmFfVVlrY2VCbWU1OTlFMG5fWHAzSUlETUZBcXFZcVdlZXRJSjlqUVIyUy0x?oc=5</link>
+      <guid isPermaLink="false">0b238b402e0f358a</guid>
+      <pubDate>Mon, 28 Sep 2026 00:57:00 GMT</pubDate>
+      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
+      <description>Chase Brown quiet in Week 3 loss &amp;nbsp;&amp;nbsp; FantasyPros</description>
+    </item>
+    <item>
+      <title>Ollie Gordon In Week 4 Waiver Wire Demand After De’Von Achane Injury - lindyssports.com [Ollie Gordon]</title>
+      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxNZlFpaUkyNzhwSktoVVd4TW85aWJXemhaUnlTdDB2QWZpS3RUSnMwTS1BeFhZdmNFVmttb0pCLVRBeUxySWFPOHVtY3loSEhDOGswZHltaDhuczZPT1psUUw0SEl5S1dhU3c2SloyWkNMeDNxQ3QwMk54WUdhcEZ2MnBreF9WT2FzdzlyY0syZw?oc=5</link>
+      <guid isPermaLink="false">3f94f5ae617b8c73</guid>
+      <pubDate>Mon, 28 Sep 2026 04:53:37 GMT</pubDate>
+      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
+      <description>Ollie Gordon In Week 4 Waiver Wire Demand After De’Von Achane Injury &amp;nbsp;&amp;nbsp; lindyssports.com</description>
+    </item>
+    <item>
+      <title>TreVeyon Henderson shut down in Week 3 - Yahoo Sports [TreVeyon Henderson]</title>
+      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxPS2w5b2xqTndwNzIyY2VibGdUbWN5UFlUOWMzWk1JTktJY1oxUXo2ZXlMRzBMOWZjRHNWMGkwRkNaRGRmQ1RrSDNBWVZyM0JkamhHUUpiSnFXWTFsVXNIbDlLR0l6blN4ZkduVW5QbmxINUNKNVpnNS1xcUZPV2hNSkQ2ODBsYU45Snc?oc=5</link>
+      <guid isPermaLink="false">e3bb8e37cb696d2a</guid>
+      <pubDate>Mon, 28 Sep 2026 01:05:00 GMT</pubDate>
+      <source>Google News: Henderson, Spears, Brown, Williams, Egbuka</source>
+      <description>TreVeyon Henderson shut down in Week 3 &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>TreVeyon Henderson Stymied in Week 3 loss - Fantasy Footballers Podcast [TreVeyon Henderson]</title>
+      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPNmwzUVZ1Njc5UkNNYV9JOHVvYmNLOXVId2hQZlVxaWdURTVmYmlHN05zWVJlUUVEczdvNlFoanB3ZXhoQnVKLURnSHJyd3VPU3YxUlNpMzlzMWVkNmluNmVyQkV6c2xRcE1MX3kwS3JOYzl1TGt0Z2N3T0Vsa1JvaHRMMjdMU2ZGUVdURWRwRUF0MVg1OUtR?oc=5</link>
+      <guid isPermaLink="false">aaa75c1c02d047e3</guid>
+      <pubDate>Mon, 28 Sep 2026 00:56:15 GMT</pubDate>
+      <source>Google News: Henderson, Spears, Brown, Williams, Egbuka</source>
+      <description>TreVeyon Henderson Stymied in Week 3 loss &amp;nbsp;&amp;nbsp; Fantasy Footballers Podcast</description>
+    </item>
+    <item>
+      <title>Buccaneers&apos; Emeka Egbuka: Gets nine targets in Week 3 - CBS Sports [Emeka Egbuka]</title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxQZy1CeUdmSm4wY2tjaWl1b2RGSS1YSG1xUlF0MndpaFNzUVFweGc5VkVMT3pGLUZSSUVmY2dZeWdDZWNqcnUyMXByX0F4MS1XWjdIS2d6MzQ4aTItRDhPdnVfU0I5bVZPNHdhMUVDaUVaOG5VZmM3WVF3NWJxMThyT0NtQi1lcFU0dTQzMlotblBFVFFKdThfYVJWODZ1cUVFQVE?oc=5</link>
+      <guid isPermaLink="false">e69e3f4a918a7b52</guid>
+      <pubDate>Mon, 28 Sep 2026 01:24:15 GMT</pubDate>
+      <source>Google News: Henderson, Spears, Brown, Williams, Egbuka</source>
+      <description>Buccaneers&apos; Emeka Egbuka: Gets nine targets in Week 3 &amp;nbsp;&amp;nbsp; CBS Sports</description>
+    </item>
+    <item>
+      <title>Emeka Egbuka posts team-high 62 yards - AOL.com [Emeka Egbuka]</title>
+      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE04NkN2eGhBVWhQMHdsTVpOQWxHVm84SmlyWXAzdlh5QXE0VmNNb0NPeWdEZ1lSU0NIcWNxUVVCZ0o0cEFtZHZMSlFBd1RtVkJpcnZVNEpZYzF5cXZxU1RzUE5rVHV6aUpJZzFUWldBb1ExQXlsdzhDR3ZIMVQ?oc=5</link>
+      <guid isPermaLink="false">f5e8f20301bfbac1</guid>
+      <pubDate>Mon, 28 Sep 2026 03:02:00 GMT</pubDate>
+      <source>Google News: Henderson, Spears, Brown, Williams, Egbuka</source>
+      <description>Emeka Egbuka posts team-high 62 yards &amp;nbsp;&amp;nbsp; AOL.com</description>
+    </item>
+    <item>
+      <title>Patriots&apos; TreVeyon Henderson: Stymied in Week 3 loss - CBS Sports [TreVeyon Henderson]</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQSk13eWlSbWVKbDd1OUtFVkx0ZGxKcTBTUl9YOG8wTW5obHY1aDduS1hpRHM2ejJBYWZJMVFTT0h2TlVxa29MbllJZWs1MlJJZjNwa0pUSzlSQ2htcFUzdTIwcmx4UTBRNjR6bXdQRkNrQkcyd3RiRTZld2RYT3pQRnlqYVl6UzBMX2ZpYUpmdFFzRm01YVdkZHk0dWJrT1BD?oc=5</link>
+      <guid isPermaLink="false">bce3016230c9f4b2</guid>
+      <pubDate>Mon, 28 Sep 2026 00:47:34 GMT</pubDate>
+      <source>Google News: Henderson, Spears, Brown, Williams, Egbuka</source>
+      <description>Patriots&apos; TreVeyon Henderson: Stymied in Week 3 loss &amp;nbsp;&amp;nbsp; CBS Sports</description>
+    </item>
+    <item>
+      <title>Tyjae Spears Active Against Giants - NFL News | Fantasy Football - RotoBaller [Tyjae Spears]</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTmYxSmRtNEVaczBtQi13NHBwcnM3WG43N1FWVG1pOFphU1BBTlBWWWFGdEs2UHNnR2QzS3NhZTk1djBobjVGMFc0V0o0REl6OTcwN0x2M2xkZ0laeGQ2SHN4cnVUSVBHNkx5SzdxTEsyWU9CNFU5ZjdNcUJvZFYwbkxwNkh6MlEw?oc=5</link>
+      <guid isPermaLink="false">21244351c30ef1e6</guid>
+      <pubDate>Sun, 27 Sep 2026 16:02:07 GMT</pubDate>
+      <source>Google News: Henderson, Spears, Brown, Williams, Egbuka</source>
+      <description>Tyjae Spears Active Against Giants - NFL News | Fantasy Football &amp;nbsp;&amp;nbsp; RotoBaller</description>
+    </item>
+    <item>
+      <title>Mack Hollins leads Patriots in Week 3 with six grabs - Yahoo Sports [Mack Hollins]</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxONEJqaFVuUnJub190d3ZYbFJJT0N4QWVEU1VhUklzNFU2eUI4OXFMOTJtRWNUUENhMmlMM1VxNHNjM2hQOHlxV3lUTkVzdWttVWE5WXNDRHd4YkU3NHVMNnM2elpkbHQ1bW5SR3ZieDFUcW95bW53X2JmNmN4M2dvM1R2V0ktcnpq?oc=5</link>
+      <guid isPermaLink="false">6edfc2a212bda79b</guid>
+      <pubDate>Mon, 28 Sep 2026 01:29:00 GMT</pubDate>
+      <source>Google News: Boutte, McConkey, Hollins, Lemon, Mims</source>
+      <description>Mack Hollins leads Patriots in Week 3 with six grabs &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Mack Hollins Six catches during defeat - Fantasy Footballers Podcast [Mack Hollins]</title>
+      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxQUFhBM01YaW5aTUw4U2RvN1pDMFQtVDlOdXFEQjRKamljMTEwdExVaDRFZmdmS3o4di1Qa1ZGUVNwY0NiZXMxdVM0QnZDNXBJWEdOZHh6UmZuWEV4S0E1YUx0T2xEek1IblFNbUZyUTNUYl96M21SQUpDcGl6em9jenowSjRIV2hCSVg5LVFQZFhGblU?oc=5</link>
+      <guid isPermaLink="false">d712e16e92213aea</guid>
+      <pubDate>Mon, 28 Sep 2026 03:37:46 GMT</pubDate>
+      <source>Google News: Boutte, McConkey, Hollins, Lemon, Mims</source>
+      <description>Mack Hollins Six catches during defeat &amp;nbsp;&amp;nbsp; Fantasy Footballers Podcast</description>
+    </item>
+    <item>
+      <title>Patriots&apos; Mack Hollins: Six catches during defeat - CBS Sports [Mack Hollins]</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxOb08xcmltcG9keWFIVG1vWlhvNHhULUJCNHVXQS1ZZmZJU2hUSUtkS1FrVm9yVGJ6aUpEWXV6NDN3RWpRMFRtMUk0T1A3eFZKNXp3N3htRXQ4al9aZTVlYWJhNGd0RTAtaU5fUWZUT0o3aFN6c1duenVNczVkUHZBeXdLRVBycGlPVHNTWkdzMVdTblg3TVlXTUZMZEk?oc=5</link>
+      <guid isPermaLink="false">51d7dadff1e91959</guid>
+      <pubDate>Mon, 28 Sep 2026 03:26:12 GMT</pubDate>
+      <source>Google News: Boutte, McConkey, Hollins, Lemon, Mims</source>
+      <description>Patriots&apos; Mack Hollins: Six catches during defeat &amp;nbsp;&amp;nbsp; CBS Sports</description>
+    </item>
+    <item>
+      <title>Ladd McConkey&apos;s All the Way Back -- Minus Production - Draft Sharks [Ladd McConkey]</title>
+      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxNbU9vVTZrMnB6bmVjRjc2cm1FSHN6MHItUDJwRndMSU82Mlptam8wZmlmdkpibUpZMnoyZzNteTZUWVhULWlCa3hvU2lmeEJCVGttQnE4Y25ndWRPLXkwZEJDejFfRVBIZTJPdkdfcU5nTzhwVE5vYnd5S3o5R1ZNQl9lcTJ2NDJsU0FvSUZ5NElyS2dJM01jamJZZDY0UEx2d05ZaGc5VQ?oc=5</link>
+      <guid isPermaLink="false">7d184f5f397fa23e</guid>
+      <pubDate>Mon, 28 Sep 2026 00:52:43 GMT</pubDate>
+      <source>Google News: Boutte, McConkey, Hollins, Lemon, Mims</source>
+      <description>Ladd McConkey&apos;s All the Way Back -- Minus Production &amp;nbsp;&amp;nbsp; Draft Sharks</description>
+    </item>
+    <item>
+      <title>Four grabs for Ladd McConkey - AOL.com [Ladd McConkey]</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE5oRTF2UXZYNGprWi04SzhKelJHWjl6VVJOUmIzV3pXU25EUVhfYTBEbWhQeTNMd1M1ZGVEc0dHSkFpY2Y1SFdDY1JvUDRQcXN3N1RVZWIxMW9QdEhIRDZsT0M4VjBRMWJTZkRKaE9Ma0NHNU1Bd0FR?oc=5</link>
+      <guid isPermaLink="false">de159c107fed5b1c</guid>
+      <pubDate>Mon, 28 Sep 2026 01:02:00 GMT</pubDate>
+      <source>Google News: Boutte, McConkey, Hollins, Lemon, Mims</source>
+      <description>Four grabs for Ladd McConkey &amp;nbsp;&amp;nbsp; AOL.com</description>
+    </item>
+    <item>
+      <title>Sep 27, 2026; Indianapolis, Indiana, USA; Houston Texans wide receiver Kayshon Boutte (14) makes a catch over Indianapolis Colts cornerback Sauce Gardner (1) at Lucas Oil Stadium. Mandatory Credit: Trevor Ruszkowski-Imagn Images - The Lufkin Daily News [Kayshon Boutte]</title>
+      <link>https://news.google.com/rss/articles/CBMilAJBVV95cUxOMnpGVFUwX2laQ2RkVndSWFRzZkVnUTBMTnZaWGQtSUVLRC1MNUlKaDJKTTQ1S24wTW9rdEt1dzk5ZUJYOGNsNHhRcE5xQUhxSnI2c1pSNVc2NEs0X05DUGdWMkhOakRVbHNWaVk5TWc1SGlOUmh2N05YSElhSVY4RHctQUxlRDY5UGFEdHFBRnpLb1dKRjVLRkhXNDBfSl9tUk1Hb0xpWnI3eVUtOURrQmFaMDBKRGhqdmttcGsxb0VRWElYSzNGc0pvdUNLc1RiNnRHMHg4eVFIQXotbWp0WVc3OF81TGhUNERGTDhvUXp3Qy1LMDVKVmhORUNTenlINTcxREJmd3FpckJDNF9tX3p6ZkE?oc=5</link>
+      <guid isPermaLink="false">0a4414dbe32fd51d</guid>
+      <pubDate>Sun, 27 Sep 2026 22:29:04 GMT</pubDate>
+      <source>Google News: Boutte, McConkey, Hollins, Lemon, Mims</source>
+      <description>Sep 27, 2026; Indianapolis, Indiana, USA; Houston Texans wide receiver Kayshon Boutte (14) makes a catch over Indianapolis Colts cornerback Sauce Gardner (1) at Lucas Oil Stadium. Mandatory Credit: Trevor Ruszkowski-Imagn Images &amp;nbsp;&amp;nbsp; The Lufkin Daily News</description>
+    </item>
+    <item>
+      <title>Mack Hollins or Najee Harris | Who Should I Pickup? Fantasy Football Waiver Wire (2026) | Fantasy News - RotoBaller [Mack Hollins]</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOTh0dFVlaE4tcDYyazVjNU82dC1BNVN3YzRyZjFxOXhmZUdldDZMUFZ0VHVHUEh6WExXeFBBenhPZ2N4RmhOU1YxcV8wZ2RiOTY2WlZoeC1HakZLbEVqWWVIdFVMX0taTHJINEFOUURPMUd1Z2o5MWZNbW1tNTZ3UEl0MEd3V0ZUTXk1cGNBYkZNOXowSXdwUHR3QzBiU2pGTWtTOWhRMGY?oc=5</link>
+      <guid isPermaLink="false">52d320f495d2b88f</guid>
+      <pubDate>Mon, 28 Sep 2026 06:00:33 GMT</pubDate>
+      <source>Google News: Boutte, McConkey, Hollins, Lemon, Mims</source>
+      <description>Mack Hollins or Najee Harris | Who Should I Pickup? Fantasy Football Waiver Wire (2026) | Fantasy News &amp;nbsp;&amp;nbsp; RotoBaller</description>
+    </item>
+    <item>
+      <title>Ladd McConkey injury update: Chargers WR misses Wednesday practice - Chargers Wire [Ladd McConkey]</title>
+      <link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQ0RMUmk4UmxrdDZCYlZNQXFOU1pfYzJFeWlBaXVMM0lfaWZMS2tjSFUyOEJoeG1ac0s1aXhGUG9tc042RkxvY3VmejZKY21zWjBrQVJYUFZ3T2xtLS1HVmdyOENpQWdfRzdVMENaRk1kNDRvYlJUaXBmUkRNQ2dtTHhUaWU2M3Bod0F0LXRrcUZPWHFTTF91OWpmaUZZOGFzY0tDRTIxQ2l2V1RRSkx2NnprUGZZMlB3eVh4TklmTUlXMTc1cVpfemNqZlhpQmlXdXFnUXdsakZTdUU?oc=5</link>
+      <guid isPermaLink="false">81a204229125598f</guid>
+      <pubDate>Wed, 16 Sep 2026 07:00:00 GMT</pubDate>
+      <source>Google News: Boutte, McConkey, Hollins, Lemon, Mims</source>
+      <description>Ladd McConkey injury update: Chargers WR misses Wednesday practice &amp;nbsp;&amp;nbsp; Chargers Wire</description>
+    </item>
+    <item>
+      <title>Kenyon Sadiq has entered the fantasy flex option - Yahoo Sports [Kenyon Sadiq]</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNQjR0eXpJUXd6SUZJU3RwZTM5WEFNYlk1MVlmNVhoRzBwY0kycFpLejd2QVd1WUlpUHZCbDdRUGRyNjVvWmZ1emxlYk5wSi1KV0ZxLUZ3eW5TYWFDb0pvM1V5YzhYM2FuWHdERTlIeERydmViUTRqWHpGMUFTVG9CYkZUenJzZw?oc=5</link>
+      <guid isPermaLink="false">a35f7a22f9b76d57</guid>
+      <pubDate>Mon, 28 Sep 2026 00:47:00 GMT</pubDate>
+      <source>Google News: Golden, Loveland, Sadiq, Pitts</source>
+      <description>Kenyon Sadiq has entered the fantasy flex option &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Week 3 Fantasy Football panic meter: Early Week 4 waiver wire adds, Kenyon Sadiq breaks out as must add - CBS Sports [Kenyon Sadiq]</title>
+      <link>https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdGExUDlTQVZGZUNjV0xrTEhEYVFCWGp6a3lXd3Z6QjdZOEpMekpjY3drZVNCNnJ5N2VMa2J1cVpRZ2hqVEdsSFR5NXFSclZFSzR0Z0hFM3U2MG1UZTR4RGxxWnI3ZG5OcUZOYzk0RG80LTBmbnh5UG0zRXk3UVBjYXQwSEpWMEF0dE5lT3p1X2lzeGFDTS1pd3ZPLS1fSGwwSXpkVzZyR2xwdkhBNGFncDZGanVMU2xmUTR0aVJ1NV81S0tHQVZJb09iZUlvTC1pYkRDcGFOWHJYZ2pPSnNzaHpZTlQ?oc=5</link>
+      <guid isPermaLink="false">692ed89af611e11f</guid>
+      <pubDate>Sun, 27 Sep 2026 22:59:00 GMT</pubDate>
+      <source>Google News: Golden, Loveland, Sadiq, Pitts</source>
+      <description>Week 3 Fantasy Football panic meter: Early Week 4 waiver wire adds, Kenyon Sadiq breaks out as must add &amp;nbsp;&amp;nbsp; CBS Sports</description>
+    </item>
+    <item>
+      <title>Kenyon Sadiq or Kareem Hunt | Who Should I Pickup? Fantasy Football Waiver Wire (2026) | Fantasy News - RotoBaller [Kenyon Sadiq]</title>
+      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxPNmd5c1RmUy1WQmRyMGdHMk1nMmdCb0J1eFh2bWRzYnVYSDZENmNKSXJMcTJ5NmRyLXVFbzFaSjZXcEdyaGtLN2pIQi1NMkhEaHdBNl9qZWZFclN4ekcwWkxEZzRQVmFrN005QWdVc1owR2cybWkydlc1eXJmc25MSzFpYm9aY2tQZU9kcFYwWVpxcjlrazh1NzdWYlpBTW5KNnMwQjVCaw?oc=5</link>
+      <guid isPermaLink="false">3d9a820e7182c5be</guid>
+      <pubDate>Mon, 28 Sep 2026 06:08:36 GMT</pubDate>
+      <source>Google News: Golden, Loveland, Sadiq, Pitts</source>
+      <description>Kenyon Sadiq or Kareem Hunt | Who Should I Pickup? Fantasy Football Waiver Wire (2026) | Fantasy News &amp;nbsp;&amp;nbsp; RotoBaller</description>
+    </item>
+    <item>
+      <title>Bo Nix&apos;s leaping QB-sneak TD gives Broncos a 29-26 lead vs. Rams - NFL.com [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxPRmx0emxYeXdzaW9nUDNaY2lMcl9va0VUeXBESkxnbDBoTWpRbFQ1SnlKNklweGswbW02RkhaRUdNZVI1QXc5azRsalFpakxMczVld3FJRlcycThNSHBFdXY1M3VrZDVma25NTGlDQUluRWlUREFDY2RhVlZZT2dyRjlMWWxRTldsd3VIc3pmRk95bFM0?oc=5</link>
+      <guid isPermaLink="false">b08041f027c8ec02</guid>
+      <pubDate>Mon, 28 Sep 2026 03:56:43 GMT</pubDate>
+      <source>Google News: Denver Broncos</source>
+      <description>Bo Nix&apos;s leaping QB-sneak TD gives Broncos a 29-26 lead vs. Rams &amp;nbsp;&amp;nbsp; NFL.com</description>
+    </item>
+    <item>
+      <title>Bo Nix throws an interception to Josh Wallace at pivotal moment in fourth quarter of &apos;SNF&apos; - NFL.com [Bo Nix]</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxOcTdjWFRYSXVJYjR4cHFCZWE1QnJaWmFNZktlN2RkMkVRRFVQR05KRnFyZERUcy1ESGhIQndTR01FSkdzM2V1b0VpVjRoT2t3RXdzazU1aU91T1g4bUdlNHlhNmJWbGV5SmdjempsYXVhX0dpMWFISVFsM196cTlLZTBxcXJWMTloZjlkTWJMa0NDWWJLUG5CS2pqbS1NRjJKVUlnV3NEcEZ2T3E5TmFSVVpDdlJ2UQ?oc=5</link>
+      <guid isPermaLink="false">67a5d0b0d8ac6535</guid>
+      <pubDate>Mon, 28 Sep 2026 03:17:24 GMT</pubDate>
+      <source>Google News: Denver Broncos</source>
+      <description>Bo Nix throws an interception to Josh Wallace at pivotal moment in fourth quarter of &apos;SNF&apos; &amp;nbsp;&amp;nbsp; NFL.com</description>
+    </item>
+    <item>
+      <title>Raiders injury news: Jack Bech out, reportedly headed to injured reserve - Silver And Black Pride [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNX2lFMk9ncE5nOWRJN0Y5ZmhuQnhQYTJjRk81OHZhbG9YOHlJSWZlRGtfOTZmbTFZVnVtS3hvbWFsNlZ3XzhFaXNzYl9yUjloSkxtbW01Z3ZuMzlORWo4TkE2R0dNSHk2OVNGLTg1T3J1SDN1emtKLUZGaFA3b2ZIVEdra3ZFdmQ0WUx0ajFvNHZYVWJmdldUdTBWOFFiY0xpODJ1dTJpcnNIREN1UTJBQg?oc=5</link>
+      <guid isPermaLink="false">42366efa742c7a9c</guid>
+      <pubDate>Sun, 27 Sep 2026 23:05:24 GMT</pubDate>
+      <source>Google News: Las Vegas Raiders</source>
+      <description>Raiders injury news: Jack Bech out, reportedly headed to injured reserve &amp;nbsp;&amp;nbsp; Silver And Black Pride</description>
+    </item>
+    <item>
+      <title>Kenyon Sadiq makes history in Jets loss - Gang Green Nation [Kenyon Sadiq]</title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxOeVVKLWw3QWg1eUwxODdwcUZ4cXZjSjZMOEkwaEJ0and6TTg2R3FjTmNOOGdVN0hNU0FSbkxiajdxM056aE9fczZEYnUyVzkyNFlDMnRSWldFamJqZ1hCWnVZdmh6WkFQTm1EZ3lTcHNpZzh3OWxhXzg0XzBfY1lxb3d5VXgwanBMU2lrVUFOWGgwcFZRelhuSjVxbGxhQ0RQX3c?oc=5</link>
+      <guid isPermaLink="false">d2af1937306e96f5</guid>
+      <pubDate>Mon, 28 Sep 2026 02:15:00 GMT</pubDate>
+      <source>Google News: New York Jets</source>
+      <description>Kenyon Sadiq makes history in Jets loss &amp;nbsp;&amp;nbsp; Gang Green Nation</description>
+    </item>
+    <item>
+      <title>What happened to Baker Mayfield vs Vikings? Bucs QB depth chart in 2026 NFL season - bolavip.com [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeXQ4UG5hckpKLTVFaWdRMDhJd3BmRFcwbFBzODYtVmkyV1N1RkVyUXJHMHpCaHN4R2dDVFRta1pIeTVfb3l2WkxWNHRybFIway1ZOVZRV2t4c2NCVkgtdGtBb3FXR2pwb3owQlFZRUIxMVU3UXlUUGNyX0dyOTRtNnBfSUsyZ2ZUTTAwZ0I3QUphTUZWczdYMmh6MnFQR29mMXNpb3ZRUGdIY2vSAbABQVVfeXFMUC15dks5aDdfTHJ5ZTI2TGtreUxfS3k1WTkyek1uU0RfSFkyUFpaUFNHYTZscTI0NzRDOHF5TUhpZUhoOGFhNm1KZlVURVdaVHVtNWpPNjlBbkVpTUViQ0VndWdYd1dNVHYyZGdWNEtuNExSSDVRUHZVLURURGJaVHgtOXM4VGJKbmduZGRmMk9ocEpyVkJZdEQxY3JhN19rdjJ4UTJQNHhldnpCdjRSRTE?oc=5</link>
+      <guid isPermaLink="false">71b40b2e315ff869</guid>
+      <pubDate>Sun, 27 Sep 2026 23:29:09 GMT</pubDate>
+      <source>Google News: Tampa Bay Buccaneers</source>
+      <description>What happened to Baker Mayfield vs Vikings? Bucs QB depth chart in 2026 NFL season &amp;nbsp;&amp;nbsp; bolavip.com</description>
+    </item>
     <item>
       <title>Sunday Night Football: Marvin Mims, Puka Nacua inactive for Broncos-Rams [Marvin Mims]</title>
       <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-marvin-mims-puka-nacua-inactive-for-broncos-rams</link>
@@ -9127,486 +9607,6 @@
       <pubDate>Wed, 23 Sep 2026 20:18:13 GMT</pubDate>
       <source>Google News: Tennessee Titans</source>
       <description>Week 3 Injury Report | Titans at Giants &amp;nbsp;&amp;nbsp; Tennessee Titans</description>
-    </item>
-    <item>
-      <title>Kevin Stefanski: Tua Tagovailoa &quot;trending in the right direction&quot; to be QB2 on Thursday [Michael Penix]</title>
-      <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-stefanski-tua-tagovailoa-trending-in-the-right-direction-to-be-qb2-on-thursday</link>
-      <guid isPermaLink="false">c9e220187bdda422</guid>
-      <pubDate>Wed, 23 Sep 2026 15:28:55 GMT</pubDate>
-      <source>ProFootballTalk</source>
-      <description>Michael Penix Jr. may not be the only Falcons quarterback returning to the scene in Week 3.</description>
-    </item>
-    <item>
-      <title>Panthers place RB Jonathon Brooks on IR, sign Isaiah Simmons to 53-man roster [Jonathon Brooks]</title>
-      <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-place-rb-jonathon-brooks-on-ir-sign-isaiah-simmons-to-53-man-roster</link>
-      <guid isPermaLink="false">769db92a117fdc10</guid>
-      <pubDate>Wed, 23 Sep 2026 14:06:21 GMT</pubDate>
-      <source>ProFootballTalk</source>
-      <description>The Panthers have made a couple of roster moves official.</description>
-    </item>
-    <item>
-      <title>Panthers RB Jonathon Brooks headed to IR, Austin Ekeler scheduled for workout [Jonathon Brooks]</title>
-      <link>https://www.cbssports.com/nfl/news/jonathon-brooks-injury-panthers-austin-ekeler/</link>
-      <guid isPermaLink="false">b3cd7dfeeaab9371</guid>
-      <pubDate>Wed, 23 Sep 2026 12:34:38 GMT</pubDate>
-      <source>CBS Sports NFL</source>
-      <description>Brooks has played in just five games over the last three seasons and will miss another six weeks with core muscle surgery</description>
-    </item>
-    <item>
-      <title>Bengals Film Room: Amarius Mims shines while Orlando Brown Jr. falters vs. Texans [Marvin Mims]</title>
-      <link>https://sports.yahoo.com/articles/bengals-film-room-amarius-mims-165705945.html</link>
-      <guid isPermaLink="false">525a3ab5c1ddca4c</guid>
-      <pubDate>Wed, 23 Sep 2026 16:57:05 GMT</pubDate>
-      <source>Yahoo Sports NFL</source>
-      <description>Are you concerned about left tackle Orlando Brown Jr.?</description>
-    </item>
-    <item>
-      <title>Raiders need Week 1 Ashton Jeanty to return - Silver And Black Pride [Ashton Jeanty]</title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUFlPUXdBMmZyX3Iyc0s3cjdESEFFQmRSNU1neEUtZEJ6NDNZU05KTkFuYWQ1WGJKNkdFZTV3eHhKRzZvdElpM1dzRTgzM0I1OGpuUUd3N002Zlo0M3BScmlxOWhGd1E3WXhpMjZzdUNlOXR4WEtudUgzVmRPMFVtN2tDeUl1bmp4SlNZRkhHRlF6YzVISFNSWFc1aXdISlczTkUtYURhNFd5Zw?oc=5</link>
-      <guid isPermaLink="false">8651d183f5287c42</guid>
-      <pubDate>Wed, 23 Sep 2026 15:01:00 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>Raiders need Week 1 Ashton Jeanty to return &amp;nbsp;&amp;nbsp; Silver And Black Pride</description>
-    </item>
-    <item>
-      <title>Michael Penix Jr.&apos;s return only settles part of the Falcons&apos; QB controversy - Blogging Dirty [Michael Penix]</title>
-      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxPWlJpY1dEcGppUU8yU1k4NjBzanlaUzctNi0tQjBieEVUaWl3S3A0Qk85b056YlZTVWdoS21QNTA4Rk43eUxmby1rMWRuZEV1Ymg1WXdkRmlCNTBDQ1gycGVaT3gtWGxSb2RhcGJtNmpPZ1Y4bWxnc1htcnNRbTZIOFRTeEhFWU1DMzdIZVdKRG9rdkVYTzhsSVV0dnF1eThwbklRUVlDVklrVWNNbDQ3VGln?oc=5</link>
-      <guid isPermaLink="false">3ae95c5de5ee85cf</guid>
-      <pubDate>Wed, 23 Sep 2026 13:00:00 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>Michael Penix Jr.&apos;s return only settles part of the Falcons&apos; QB controversy &amp;nbsp;&amp;nbsp; Blogging Dirty</description>
-    </item>
-    <item>
-      <title>Tua&apos;s Role Updated by Falcons HC After Michael Penix Jr. Gets Named QB1 vs. Packers - Bleacher Report [Michael Penix]</title>
-      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxOVFRCQjNmUDlOWE1ObmJBMXNxcFR4X1hvbEk2a1MyamVuWnE3T1pTTkd4SnJ6TjlNaGJGSEdyaF96MV9Wb01oM3k5WGFfeGMxS0ZqQ0VZM3Q5WXN6QW1MRXFLb1VJTmthSVdyWDlVeUpLaHlqbkV0LVdoX3N2R3hSc3hpUDg1Qkt3aDN1Zkp6dmtUbnVHaTlTbmZmbFp5R2lfNldzei1QU2V6LWxTT2JmR0pFNUlHajVDTWxSZUtRNA?oc=5</link>
-      <guid isPermaLink="false">bc4ef5b84cb98299</guid>
-      <pubDate>Wed, 23 Sep 2026 16:12:27 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>Tua&apos;s Role Updated by Falcons HC After Michael Penix Jr. Gets Named QB1 vs. Packers &amp;nbsp;&amp;nbsp; Bleacher Report</description>
-    </item>
-    <item>
-      <title>Jordan Love’s ‘Hands of 10ve’ foundation gives $45K to Menasha tornado relief - NBC26 [Jordan Love]</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxOanZXRjEtTkVaaFRBbjlTWlQtUTAzbEpJSXlXRXUtcUlrQmc4dVBCZndWa056YnVnUzNYVzBBTWUzcHppVEViZUhoOE9yNnFsbEx1M3hlUlBaTll6RTJpbWpSd25DQ01pNTlnUDAxdFMxQy1sVmpTU0NRTWpDWFl1U2tTQ3dkX1h4M2Z4ZGxSNjEwSjZVSExjS2hObXZ6LU83U0ZFQUFVQ1Mwbmt6NVVOVw?oc=5</link>
-      <guid isPermaLink="false">78818ba0e3a68b82</guid>
-      <pubDate>Wed, 23 Sep 2026 14:02:08 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>Jordan Love’s ‘Hands of 10ve’ foundation gives $45K to Menasha tornado relief &amp;nbsp;&amp;nbsp; NBC26</description>
-    </item>
-    <item>
-      <title>Michael Penix Jr. is back, but will it make a difference for Falcons against Packers? - Yahoo Sports [Michael Penix]</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTnItYWtxaTBfOWhfblQzaW1qMTJRSXptLWs5V19mOWw1UEU0OGNxZ01tREl6QXlHZnJ0UDdkdS1yRXB3cEpXV3EtVVRBdmtQXzJaTGl3UzM5aFhyT2ZjZU5KVUVLWmFnbEY5bTNfQ0NFZEk5dEFyc0lVdTZsd1RlSFVKcUY2ZVND?oc=5</link>
-      <guid isPermaLink="false">262a7bde368b51fe</guid>
-      <pubDate>Wed, 23 Sep 2026 16:09:06 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>Michael Penix Jr. is back, but will it make a difference for Falcons against Packers? &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Michael Penix Jr.&apos;s return may pour cold water on Tua Tagovailoa&apos;s Falcons tenure - Blogging Dirty [Michael Penix]</title>
-      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLU5vQU44dGlBOS1NYTNSRHoxOHVKOTlFaENyakNFcmJZcDhBWXl3cnl4bUtjbEt1YlU1Q0kyS0pJU3dFWnNpdXFGci1QM2pHc0FmUU9uV3RyNHFiSXBpa2I5MEIxU0JwNG1YQ1h0UkEtNEl4LUtvZExIU2RBTENhd0FTSHN6Ymd3NFl2c0dnaHZsUjJqRFc2SzRiU0xyNTJpRUpmcXhvUWVPQmpCTkpzbnhQNDh4dmN1RV9z?oc=5</link>
-      <guid isPermaLink="false">a1e92a80d695a7b1</guid>
-      <pubDate>Wed, 23 Sep 2026 17:00:01 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>Michael Penix Jr.&apos;s return may pour cold water on Tua Tagovailoa&apos;s Falcons tenure &amp;nbsp;&amp;nbsp; Blogging Dirty</description>
-    </item>
-    <item>
-      <title>&quot;I&apos;m Never Gonna Sit Out&quot;: Michael Penix Jr Puts Tua Tagovailoa on Guard Over Falcons&apos; QB1 Job - Yahoo Sports [Michael Penix]</title>
-      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxPcjUyQ1hWZ1MzeGJpcDVieXQwemJFTDZPc0pVZE1wbk0yQlM2M1BYUjR1NmdJZzJYakJ0TTFBUWFTNmVyTWpQemh2MTZGdktqY3RrVWRvVGh4aUlrZnpyeVdwUXBYeUk4VTBwRVdEdU9pbm5SeGZmYlBWV1ZpbDB5ZQ?oc=5</link>
-      <guid isPermaLink="false">f908617650e7c107</guid>
-      <pubDate>Wed, 23 Sep 2026 16:09:56 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>&quot;I&apos;m Never Gonna Sit Out&quot;: Michael Penix Jr Puts Tua Tagovailoa on Guard Over Falcons&apos; QB1 Job &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>The Atlanta Falcons Have Announced the Return of Michael Penix Jr. but What is he Retunring to? - Yahoo Sports [Michael Penix]</title>
-      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxQR2t6Ymo4dDk3LURSYjY1WmZzblZGVHZ4MDUzS3FzZXhGcEl5WWdvUEVqNUd3ajJqMG1ieTlrX1RwUkxfcGlRZ1BFdE9KUENGd2pGaGJXelEtN2dCX2JEVXZlRTR6aUJhYXJFNmFTeUdQekNpenlqVDZCUWpBTzFFcFlGOXhTNnBFcnVRbWczUHkxbW8?oc=5</link>
-      <guid isPermaLink="false">88483542c5d54e86</guid>
-      <pubDate>Wed, 23 Sep 2026 12:24:56 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>The Atlanta Falcons Have Announced the Return of Michael Penix Jr. but What is he Retunring to? &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Packers news: What GB&apos;s expecting from Michael Penix Jr. to spice up Falcons offense - Yahoo Sports [Michael Penix]</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYXprd2l2OFk0bWliYzNQcDJxckJud2pvZlQxbDRfdVVfOENLaV9oRkpsOTlCb3ZwX2JPLVNablNDT1h2YmJoeFpFM0FMbEJrQUhrWXBFM3l0bkl3TTRsVUFkLWhKajZndHJlNjV2T3c2c3VhZHJuZWllVl8tTnFYQkRnaUlHMlF6ZVE0?oc=5</link>
-      <guid isPermaLink="false">b33384d1cda1a567</guid>
-      <pubDate>Wed, 23 Sep 2026 15:39:30 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>Packers news: What GB&apos;s expecting from Michael Penix Jr. to spice up Falcons offense &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Kalshi markets shift following latest Jayden Reed, Michael Penix Jr. injury updates: Experts adjust Falcons vs. Packers TNF predictions - SILive.com [Michael Penix]</title>
-      <link>https://news.google.com/rss/articles/CBMihgJBVV95cUxONlI2TU1hMXcwcVc0VF9Ya0h5TnB5WjF0N3ZqVHhvS1M1VjE4TnY0LXpOcXJpU3VnOFhLUnh3UXAxY1h2WjIxc212UTVscDk2d3VxaVN2aWR4NkpnNmpmUXdZTDJ6RDhJSDRDem16ZG4zaFNRUU5sRlFlbkZpNFY1WVNiUDJQM2hqaXF6aXlrYmJUcm5QdzBkT3h0NHJtOWkwMHBpLTIyVlptQzdmVzhiSnp0UjZXWjJFQ1VNSFQwVG5Jd2ZvR3dfdXM1SEU5SzFzbkhzbW1BME1sQlJTc043LThuTWVucTRFNWU1NkhuZU1WV2dob0QzMDlYa1JidkxGZnFPN1FB?oc=5</link>
-      <guid isPermaLink="false">8f108ee8f2fddb66</guid>
-      <pubDate>Wed, 23 Sep 2026 14:15:00 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>Kalshi markets shift following latest Jayden Reed, Michael Penix Jr. injury updates: Experts adjust Falcons vs. Packers TNF predictions &amp;nbsp;&amp;nbsp; SILive.com</description>
-    </item>
-    <item>
-      <title>How Falcons&apos; Michael Penix Jr. determined he was ready to play vs. Packers - Yardbarker [Michael Penix]</title>
-      <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb3BRSTNFa3otdHdwM0thYzk0V3A5WXdOLUZXWGMzQ3QwaGZpZUxzVXRWdkJXR0JMejdWSzlIbHlSdVp6SnRwYWRuZ2paUnB2VDVlbVNiVm5mUFBEZWZrMHhrZzNZcG9abEJNNmFoY1dUQVA1V0k4bHVfaWhRcGEwQ0k3QVpyREI3cVlXVmFqTUo4eFdPbEw1ajhXeC1MM3FFUlBwdGxzYkxITGxDUEpDdS1SZTRoWDUtRnNZdXdNdzcxZ2tZdFFDbQ?oc=5</link>
-      <guid isPermaLink="false">0960efe8a7ca09a1</guid>
-      <pubDate>Wed, 23 Sep 2026 12:10:45 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>How Falcons&apos; Michael Penix Jr. determined he was ready to play vs. Packers &amp;nbsp;&amp;nbsp; Yardbarker</description>
-    </item>
-    <item>
-      <title>MATTHEW STAFFORD AND LOS ANGELES RAMS VISIT BO NIX AND DENVER BRONCOS IN WEEK 3 EDITION OF SUNDAY NIGHT FOOTBALL ON NBC, PEACOCK AND UNIVERSO - NBC Sports [Bo Nix]</title>
-      <link>https://news.google.com/rss/articles/CBMimgJBVV95cUxOWWJNNVR5WEZobTZ2cGJyQkZSN19TUEtYVUhwN3c2VWczR2dWOTFPVGFodWVBQXRZeDFyYVJ2dHVIZDFMTVRqZkhmbC1oTHNpZ3RaNGN3UnFmNDl5dklRNE1iVnZkVnliWHdYUmxsRlNTX3UyemRsTnZXeEV5SFVhaEpLUFZIYTNTVUpjM0tvalozLWJXTC1nWEZiTmlDdWNsZ3NVUVVOVWhfdjFtT0ZrcktidHpEUlhVdmV5NWJBcjNRMkRDUk54c2dUNzVPNzAtRmNJanlFM2pxV3NucEt3TXlfNjZlaDhTOWxqbjg4dllBR1BTOTk4MDRFVzZ3YWZhZTZaS3hhcEtYMmpqOW5HMEJXRFZDbHJSU2c?oc=5</link>
-      <guid isPermaLink="false">d48d69de19417e90</guid>
-      <pubDate>Wed, 23 Sep 2026 15:08:11 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>MATTHEW STAFFORD AND LOS ANGELES RAMS VISIT BO NIX AND DENVER BRONCOS IN WEEK 3 EDITION OF SUNDAY NIGHT FOOTBALL ON NBC, PEACOCK AND UNIVERSO &amp;nbsp;&amp;nbsp; NBC Sports</description>
-    </item>
-    <item>
-      <title>Jordan Love Stats vs. Atlanta Falcons - betmgm.com [Jordan Love]</title>
-      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxOU2dHTHNUZDZJY0liXzJ6b3Fxckk1eWw1NkZ4UDBHZ3MxcWFvWFdXZFM1NXF6N2NQLXNFdUtjV2lCX08zeTJxb3VXNVh6eV9PUEM5VGZDTXRnU2ZqaXNZSEk2ZE1aRExuUndVc2tyNnE4TGNSZHRmZG9acXBQeG9XaVVYN1UxSmM?oc=5</link>
-      <guid isPermaLink="false">ee26c77d38c62776</guid>
-      <pubDate>Wed, 23 Sep 2026 12:34:44 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>Jordan Love Stats vs. Atlanta Falcons &amp;nbsp;&amp;nbsp; betmgm.com</description>
-    </item>
-    <item>
-      <title>Sean Rhyan leads Packers offense in coming to Jordan Love’s defense - Packers News [Jordan Love]</title>
-      <link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVndYQUxBYWtlODB0N3RfNnBKMmt5RjRaaEd6YlF1MXlNVmJzRVlMOG5ERUxGNURHdnFPZ2E5aGppVHoyNUNMMUFGWE9rbkRNV2NQNVdhRWRaX1JZWDJ1a0Z0cF9HWFRfd2d5cnd1Mm5BQ0dhcGRGRE43ME1EWm1pVm1zRmlTUFV2Q3BnSUg0NzBRdGZSNjZlakJBUFpYNnJlTmhFMGpVc1ZaSmc0TUY4Vi1PY1JobXZ6MTBFeURfSmRyRkMyVXhJdThPT2t1SU1zS0tVNzlLdWNvdlk?oc=5</link>
-      <guid isPermaLink="false">7ed569bbf6a8f8af</guid>
-      <pubDate>Wed, 23 Sep 2026 14:18:00 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>Sean Rhyan leads Packers offense in coming to Jordan Love’s defense &amp;nbsp;&amp;nbsp; Packers News</description>
-    </item>
-    <item>
-      <title>Amendment 87: Progressive taxes and the Bo Nix problem - Complete Colorado [Bo Nix]</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxNRktWb3k4SV9oMkwzM3dBQUdVdnNLNGRRcVFoWGZRTE85NE1sRDZaQ0NOemRzc1UxZlZyNDFzTkVMejFSQkxjVHd3bkxmbkJQVGNWcEIycGQ0bS1aSFlPTlQwWENGNEtLOWRPNE1uR1FhTk5SMURSUXRzQTNpcFRmYk0tdw?oc=5</link>
-      <guid isPermaLink="false">950571a34e1d4cdf</guid>
-      <pubDate>Wed, 23 Sep 2026 14:11:45 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>Amendment 87: Progressive taxes and the Bo Nix problem &amp;nbsp;&amp;nbsp; Complete Colorado</description>
-    </item>
-    <item>
-      <title>Michael Penix Jr. is Returning to Falcons, But What He’s Returning to is the Problem - Athlon Sports [Michael Penix]</title>
-      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWF3anlZQnR4UDJmN0NrbF9QYndnbmNHYVJ0MDBOOTI5QUNzNFpMUW9yM2lNQXZnMnpLMDEzNjROMFFMNTlDdmlmSHZrOHFacEpkOUlPNVcyWlozTFQyWFhUbXlBaVZIbHJ1RmMtVGpTOWRVRXJlLWQ4bkhQejRrYVVjQVA4Mm90dDZ4eQ?oc=5</link>
-      <guid isPermaLink="false">e68fa3b06d012346</guid>
-      <pubDate>Wed, 23 Sep 2026 12:24:56 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>Michael Penix Jr. is Returning to Falcons, But What He’s Returning to is the Problem &amp;nbsp;&amp;nbsp; Athlon Sports</description>
-    </item>
-    <item>
-      <title>Joel Klatt breakdown: How HUGE were the two late Bronco touchdowns for Bo Nix and Davis Webb? - Denver Sports 104.3 The Fan [Bo Nix]</title>
-      <link>https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQUxfTElTTGxYQ1RWbFhmZV83YXA1UVN1SUFjRHduU3U3eGUxYk1BblNRTUZuUXpTSEpBdUw2NjI3ejNoLWVKVHFrd1BGQmpwUHpRTkFpY2wwTnN6VnV4LUZ0UFcxNzBBZnVlbUdaS3NnNHN0UGVVX3RELVNBckp1RDFEVTlUQkh2OGZfc0VnbzFYZEFYWHQyanN2Sk1lQW1VSEZ6ZFo2eGl2SGhPY3k2cWtNeUNCYjE0azVJeHN4YTI4dnBHdS1HRVRwSnQ5eW9GS1FqTHNlcS12V3hidzl6M2RXUzlLWl90U3UtZ0N5eFg?oc=5</link>
-      <guid isPermaLink="false">82193728cf8b1947</guid>
-      <pubDate>Wed, 23 Sep 2026 15:49:53 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>Joel Klatt breakdown: How HUGE were the two late Bronco touchdowns for Bo Nix and Davis Webb? &amp;nbsp;&amp;nbsp; Denver Sports 104.3 The Fan</description>
-    </item>
-    <item>
-      <title>“I’m Not Smiling”: Falcons’ Kyle Pitts Responds to Viral Clip of Him Holding Back Laughter After Michael Penix Jr.’s Return - Yahoo Sports [Michael Penix, Kyle Pitts]</title>
-      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxQaUFEM2p6QkEyeG9mU3l0aGplcjBSQzRCRzFsaGdEaW5FSzFfR3ZjT1hOcFludVBMeWtfejJISWZLQmg2V2ZjcTFEQ2gtd1I5SEgtR1JTdE5xVTJYbFQ2NVNEbGs0RlVmTXlmMk5Xb0NFYzZhdE5MWXBqWnpadG5hOA?oc=5</link>
-      <guid isPermaLink="false">711826b7358beb66</guid>
-      <pubDate>Wed, 23 Sep 2026 03:59:00 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>“I’m Not Smiling”: Falcons’ Kyle Pitts Responds to Viral Clip of Him Holding Back Laughter After Michael Penix Jr.’s Return &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Packers news: Jordan Love insists Green Bay running game isn&apos;t actually that bad - Yahoo Sports [Jordan Love]</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM3JleEFxRlAzZzkyTHJLOElZa0pUc09SaW5aQ1dIM2Q1VENpc2d3R0t6NnVkM01JMmhJOEdxZXQtN2tEU1dLelFzOGlDNllVUkxVRUIyLTNMT01TeHlVVGVMdlVxUjktakpja1duT1dNcDRHRm9zMTNTbzQ4dUtKVlBoRy1BSnpz?oc=5</link>
-      <guid isPermaLink="false">1cd11143af725e54</guid>
-      <pubDate>Tue, 22 Sep 2026 21:41:24 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>Packers news: Jordan Love insists Green Bay running game isn&apos;t actually that bad &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Jonathon Brooks placed on injured reserve - Carolina Panthers [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxNZkJXb0dZRTRVY3BkNVhJWFhJNEpmaDN0T21ldjVNYTg5V2ozd0o3WlltTGJUMkpCSXBBektyVDNkUWxhamp5cW00SW5XRmFIbVBsejdKSWkzNUhhZUItNUF0R0xzckY2bndkVkRLTnFsczVnal9XUlBhSTFGNEZJQUpQTVRlMFNZRkVFS0JTSF9kUlhiYkpXbQ?oc=5</link>
-      <guid isPermaLink="false">034433f398ec1872</guid>
-      <pubDate>Wed, 23 Sep 2026 13:39:56 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Jonathon Brooks placed on injured reserve &amp;nbsp;&amp;nbsp; Carolina Panthers</description>
-    </item>
-    <item>
-      <title>Panthers place RB Jonathon Brooks on injured reserve after latest injury - The New York Times [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxPcGNybDJZaEZqWGFITHFTVzQyXzIyN3lJMGxMN1I1QnZzMnNuNmlGcGdsMlFhMzAwMVQ2UlhFSVRYVXBYTTRORmVLWjFlZ0c4VEQ3c3BIcDFnYUR3THZ2bVU3OElNYTJhT1Q3eUlmUi15a0RjbEtLOEtHU3hmYWM2X2JEVHZPcVltZmh1dnE3Nkl4eTFCSmc?oc=5</link>
-      <guid isPermaLink="false">a1bb78dc7e3ea063</guid>
-      <pubDate>Wed, 23 Sep 2026 15:19:20 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Panthers place RB Jonathon Brooks on injured reserve after latest injury &amp;nbsp;&amp;nbsp; The New York Times</description>
-    </item>
-    <item>
-      <title>Panthers RB Jonathon Brooks to have surgery, put on IR - Reuters [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxNajJxZ2JoM2VkUmI4QXE2WTcyZUFJSFN6aUtTYU9STXBwMnZ3dm1SUjhZeGJ4LW5XQnp5el81Zmx1dkIwSHYyTVN1Vk1YUzNOYkNhM3VWQzlsMllPb28wMWFVR0pnc2NpdmhrNzhaalJlLTJUTExfNnpkQ2VOUHdMZTNQRFlLcTg1MEdtUDhwUGNJcF9BRXp6RXBETQ?oc=5</link>
-      <guid isPermaLink="false">8300afc8cecc8c35</guid>
-      <pubDate>Wed, 23 Sep 2026 14:20:38 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Panthers RB Jonathon Brooks to have surgery, put on IR &amp;nbsp;&amp;nbsp; Reuters</description>
-    </item>
-    <item>
-      <title>Panthers RB Jonathon Brooks Placed On IR, To Undergo Surgery - FOX Sports [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxOUHlZc1o2eXNZQXhDbFJxUWdvRVBqMFVlRTl6eVFCMEc3cGVZRFVmZmJmUFh3YW9yYTFBQk1hRWdnZl9ETlR2MF9YN2tWZ0lLek8zdVBpNlJ2NmZCN05KNUJmSjZqZ09yN3lXVnBCS1pfMVZXcjJUQ0h6enZMZVh6cFJJRHJ6X1lPbmRhSVlpbTliS0s0VF9PbS1xUWlMUGdvd1HSAaIBQVVfeXFMUExBcktCeU1RdXR3UEQ0Tk1ibUZMUFpCdjhJbFRVTEJCMm9GUXhJaFZJTHd0cmxYaE1NLXl3dWxYbnBTWmRQbncwWW40djNiYzhEdm54RkhaSjNfdXFGRGtyOUV4RUp3N3NJNkJJcjQtQzFqQ2lSSjU1NDVOcGl0MlBVNXd0ZGVPbnNGSjFVbjU4Q3RITlQyMUFUMzZrTFROWm5R?oc=5</link>
-      <guid isPermaLink="false">d47a765df7b835c1</guid>
-      <pubDate>Wed, 23 Sep 2026 15:42:00 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Panthers RB Jonathon Brooks Placed On IR, To Undergo Surgery &amp;nbsp;&amp;nbsp; FOX Sports</description>
-    </item>
-    <item>
-      <title>Panthers RB Jonathon Brooks set to miss 6 weeks with core muscle injury, AP source says - Bozeman Daily Chronicle [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMijgJBVV95cUxNTHI0ZE42bm1UZGhJWXh2UUZlNTUwd0dodVcyb29vRmNBd0FPcHhqRDlHZHdKWDlUb1EtMm4wa1NSbVVvT255YXhLWUxvQU1Kb2JxUDV2dzZxa2pxeXdwU20xM1RoLXA3dXVZSGo2LVRlVTRuNXZQTTEwWWFieUVCbmtLazNTbE93S1dESXhHZ2RiMXRBbldUeU16djZvb3Z4a0g3a0laM0VHVzBpWTNDc19mOXpUTGlqQTVfeUtZQ1djSklhV3FrUW1xdW5XaW9ubnJIamJodmFIa3haNXNwZUYwbkRqS09uYmFJVEJwWHJLangxb2c0SnlZUXN5WWpSNThIaFlPckxFYU5HWHc?oc=5</link>
-      <guid isPermaLink="false">57ea7129ef04257b</guid>
-      <pubDate>Wed, 23 Sep 2026 13:04:31 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Panthers RB Jonathon Brooks set to miss 6 weeks with core muscle injury, AP source says &amp;nbsp;&amp;nbsp; Bozeman Daily Chronicle</description>
-    </item>
-    <item>
-      <title>Jonathon Brooks Moved to IR - Fantasy Footballers Podcast [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxPMlg1MkE2RUtWcnNFMEt4b0VNOXJncGpYMjFKeGN4djhqVEk4YUNNWDF3dWhXenRYWldJWk9FTnN2ZmpzRXh5WnA4eHVwdUFvUk9FX0dQS3hBMHNFX0ozOGp4aHlOUjd5cHQ2Y2ZfbGZSMEdXSWtvd18zNmsyMHpwUUJaWmo?oc=5</link>
-      <guid isPermaLink="false">8c35a941c3c7cd27</guid>
-      <pubDate>Wed, 23 Sep 2026 14:15:00 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Jonathon Brooks Moved to IR &amp;nbsp;&amp;nbsp; Fantasy Footballers Podcast</description>
-    </item>
-    <item>
-      <title>Jonathon Brooks will undergo surgery, miss 6 weeks for Carolina Panthers - Charlotte Observer [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFQxTjY5ZU5wMUMxNXRkRHRoY1htODhIazN3TC10c1h4WWNucVU2UWVCeFhPbG1WMW1SSlZGYVVMN0xPa3dEOTdNUDA3V1FGQkpwdGNCRGR6alltSV8tcVpHUmZidzZieGVnTFVTQzk3S0Fhb3JuYlJlWTB4V1dzU0d3RFJpNUs4VEJJVNIBjAFBVV95cUxQaUFadE9vX0ZjaGJFMklMaWY2NWV5Qy1lWnlpSWhEdFJzNmc4eVRzNDdsckRuekdtSjlvVlRQTm5hNF94N0NyUUtFWTJhWVVuY1JVY2FnaktuNW1ncXRhSDJaY2htTVNSV0xYWEVxM3RqSXIza3B1SW8zSW9XancwSmdYUm94OW10YXNHNA?oc=5</link>
-      <guid isPermaLink="false">9e168523d257e98e</guid>
-      <pubDate>Wed, 23 Sep 2026 13:44:30 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Jonathon Brooks will undergo surgery, miss 6 weeks for Carolina Panthers &amp;nbsp;&amp;nbsp; Charlotte Observer</description>
-    </item>
-    <item>
-      <title>Jonathon Brooks Injured, Latest Updates, Timeline for Panthers RB&apos;s Return After Surgery - Bleacher Report [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxQbi1ZZzVtRHprNjdOM2R3Q2FHQVU3MkNJNGhmbkgyT0E5NWFuWmwwWHRObmRfZnpTQWFBblZkTWFDZkVlMElUNFpPSjlPamhWSlNXYktkVUFONHRPQWlUUXFsQW5sLXBubkxTV0lDOWdFYkwyVGRIbnBzdW1OWHViaG91U2RzN2xTTmZDcUNqaUtYYWlVWGRhVXZ3Q3p0cGFBQXZSQ2IxVnltcVFlX184d3o5ZVNKcllkSF8wZXJ3S1RzR2h5?oc=5</link>
-      <guid isPermaLink="false">469214ce388e9dc5</guid>
-      <pubDate>Wed, 23 Sep 2026 14:05:45 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Jonathon Brooks Injured, Latest Updates, Timeline for Panthers RB&apos;s Return After Surgery &amp;nbsp;&amp;nbsp; Bleacher Report</description>
-    </item>
-    <item>
-      <title>Panthers To Place RB Jonathon Brooks On IR, Work Out Austin Ekeler - NFL Rumors - ProFootballRumors.com [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSGFXRmhDd3ZoSWxNVWRaN29pWlc3NHRMX1lhUlIxT3NoQjlLX1BQRDRpbTVmMXM2TWoyc1A4RWFpWWdiY1otN0kzS0ZxR0VUMkc3TUg1am1KbUpvS2JHN1BNQVhab3NpVUNBbWNfODBKUTJUY1Y2SGpvdlMweEk3eWJkZXpYZVF6M0xfTmpqWkFvVjRzdnNPaXQ0blp2VWwzS0RPRmxib3hqVVE?oc=5</link>
-      <guid isPermaLink="false">d001ad03b98bba0c</guid>
-      <pubDate>Wed, 23 Sep 2026 13:09:23 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Panthers To Place RB Jonathon Brooks On IR, Work Out Austin Ekeler &amp;nbsp;&amp;nbsp; NFL Rumors - ProFootballRumors.com</description>
-    </item>
-    <item>
-      <title>NFL Network: Panthers RB Jonathon Brooks to undergo surgery, miss at least six weeks - NFL.com [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFB1dlJhUXZvTzZ4b2NzaVp2bGtvTzIycmlQZW9lREhRR0RyWXRaTDBxanl4Q3o1bWxiRk9BUENfcXJCa3FyZFFzWUN1eEFOMm1tMEwxQ3pNRl80SWU2OUMyOUdlbXhYNXlTSkgzWmNlZFlPaWhKTWJhTUZ1ejUxMDQ?oc=5</link>
-      <guid isPermaLink="false">413545a80b1a64e8</guid>
-      <pubDate>Wed, 23 Sep 2026 12:44:05 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>NFL Network: Panthers RB Jonathon Brooks to undergo surgery, miss at least six weeks &amp;nbsp;&amp;nbsp; NFL.com</description>
-    </item>
-    <item>
-      <title>BREAKING: Jonathon Brooks Heads to IR—What&apos;s NEXT for Carolina? - firstcoastnews.com [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMimgJBVV95cUxPTlRITXdCeGc1RnFrUFIzREl5Q1lFUEdtZ04zOUJYdmV2amQtWFRxWGltT0MtZGRTSGQtMFhiMkctOW9qVjhTb1RHSFFqZThPX0VKeVlNX01CVVIzcmxGZnZOdmJQcElNX0dTZG0wbm54V3VEWUJRdWhXaVdLdHJtM2Z5RjBpMnhhLWNlS2xjTzRGM0t3OV9ubFJqMFQ2WTdXZ1hfUU9FMG9NZFQxMm1xdm5pN0Z2VTVRRlpHNnRTYUhGbzlHb2YzS1FYWS1acGt2RERoRTR1U3FMSUl4LUF0T3Z6YjdQNG5DSmVNNlpwZHQ5dlY2OGtZRXZOUy15UGp1V0NKQ1VBU3pWUzdudmJlUXNfOGQ3dmVaOFE?oc=5</link>
-      <guid isPermaLink="false">ba60c30e50a0b8c1</guid>
-      <pubDate>Wed, 23 Sep 2026 13:35:00 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>BREAKING: Jonathon Brooks Heads to IR—What&apos;s NEXT for Carolina? &amp;nbsp;&amp;nbsp; firstcoastnews.com</description>
-    </item>
-    <item>
-      <title>Jonathon Brooks Requires surgery, out six weeks - Fantasy Footballers Podcast [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxNTlNxRGQxWFRDTkk4elpLQnZxckVQYW1INGI2SmpZLThtMk04cDBEZnRuampzcGtNZWc1WGJyREMySnd1aURYRExOZDBsOGZZZTZJM3otb3RkN3lvWDdlSGkza0xuaFZ2M1FWc1hUd3FDRG9WNXY4WjBUMGZUeGtDclZhcjJ2N2FGNktndVdKSzVnbDh2TFBBc1p0YUZxQQ?oc=5</link>
-      <guid isPermaLink="false">d8997a45f8b1d5ad</guid>
-      <pubDate>Wed, 23 Sep 2026 13:25:05 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Jonathon Brooks Requires surgery, out six weeks &amp;nbsp;&amp;nbsp; Fantasy Footballers Podcast</description>
-    </item>
-    <item>
-      <title>Jonathon Brooks (core) out at least 6 weeks - NBC Sports [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbFFYOV9qOTgyRnVuZVpUOTRtd2Q5RzEwNkd1SkN3dnYwNG80X0FWV0JSdnoycjJ2aDBwaGVlMzVmbTVXWFdubFVSRGg0Rm1JeWZpdVlYOWpGbEYyZGt3aFpEd09MdHFtMGNPTkNaUWhtWlhLSk8wNk14NmpGUVlTU2ZyQkR4TEpCVmNPSTBZaEVoWEdsdGdCbkI1dVZncmwtTFRvSFFrbkZ6YTQ?oc=5</link>
-      <guid isPermaLink="false">9e404cdea85dfe4e</guid>
-      <pubDate>Wed, 23 Sep 2026 15:55:46 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Jonathon Brooks (core) out at least 6 weeks &amp;nbsp;&amp;nbsp; NBC Sports</description>
-    </item>
-    <item>
-      <title>Jonathon Brooks returns to injured reserve - Cat Scratch Reader [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxPWGFDV3lfUk1HQnpoUzNiei1lM2JmNUJIUVZMa1FOSkRmSFM5MWltOE45bTZXbjFzVjJzcWNHMmpabG1yUVpDeDQ2MVNFbF91TXlGUmk0VVRCcWUtQW92RW5GSGZIZmZRQmhQdmJIY19KQlpUcVhqTmFxUS1qMTZHcUc5dkFEUVk3XzJ5QS1INWNSN09YSnA0aXVpRFNndFFrVTB4bkYxbFE5bEgt?oc=5</link>
-      <guid isPermaLink="false">67dce3b04605443d</guid>
-      <pubDate>Wed, 23 Sep 2026 14:52:41 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Jonathon Brooks returns to injured reserve &amp;nbsp;&amp;nbsp; Cat Scratch Reader</description>
-    </item>
-    <item>
-      <title>Chase Brown&apos;s favorite part of his game might surprise Bengals fans - WKRC [Chase Brown]</title>
-      <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxQTXZZb2RiSjh2WUJHcjZtT29LbGExQXkxcmREUDhtMldqU0dnLTZPMmMwYTQ1MlFTRHg0Mm1ta3VsRHpkVXlIV2hXWjZEY0RlTTllOGhwR2NneExtSWRuN1IwV014MllVM3lkNVRiVTJ0MmFDa1Y2WE9EY0VWQW5tYWx4YzdBOUZrdnhxUzJUTzREaHNPTXFHRHBuUlRXWHBvVGNteFhCVzY5Ym5mejVKSUhrZ3BHTFdoWXJDN0w3S3l2SHlGM3JV?oc=5</link>
-      <guid isPermaLink="false">5914206a3737ea00</guid>
-      <pubDate>Wed, 23 Sep 2026 15:12:10 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Chase Brown&apos;s favorite part of his game might surprise Bengals fans &amp;nbsp;&amp;nbsp; WKRC</description>
-    </item>
-    <item>
-      <title>Jonathon Brooks injury update as Panthers place RB on IR - USA Today [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaVdUcXBQRFpLOVZwQnhtMkN5MmY0d1BhaGhvRTBBS2NGeTkxeXNVeEVId05aVHV3cnhuLU5XVVBTUzA4VmFKWldaQm82VDJxUEZPRjQySnlCOWpxYU5xVnNyTU8tZ2pOWFdDek52TXg0UXFfcFhPSW5PTnE3RC1tWWNCVGNVYzlkQ2l2R0JHaGRxZ2tCQ1h6SERlaHBuTEg4VnBzN0d5UUk?oc=5</link>
-      <guid isPermaLink="false">6dbb8d1bf856958b</guid>
-      <pubDate>Wed, 23 Sep 2026 15:06:00 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Jonathon Brooks injury update as Panthers place RB on IR &amp;nbsp;&amp;nbsp; USA Today</description>
-    </item>
-    <item>
-      <title>Jonathon Brooks’ surgery makes next Panthers comeback more important than ever - Cat Crave [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxQUl9fVW55QXFvNk0ydVh6Wjdpd2Vpc1ppaXpMUG8tSWc5bU8tUUpXYkoxY21QUXppU25SZEdjam95UlJ3c1dtWmFaeFVSbXFYb1k3bUNzbkF2QkpfeExfVjlOWThBUy1rdGt6QzJlVlJUWEVPeVRhVkdXT3lNNVFmVGczT3d0T1lrcE1PZTJTY3Awc3g1NWg5Y3A5ei1OWVU?oc=5</link>
-      <guid isPermaLink="false">8f966c972be1294f</guid>
-      <pubDate>Wed, 23 Sep 2026 15:00:04 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Jonathon Brooks’ surgery makes next Panthers comeback more important than ever &amp;nbsp;&amp;nbsp; Cat Crave</description>
-    </item>
-    <item>
-      <title>Chuba Hubbard is a top-15 RB with Jonathon Brooks out - Yahoo Sports [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE5XTlJpV1BMbEFGQ2R3REJ6T1F0ZjJUSk9CSUtQX3AxT3hUT1dTZGdvX0stUG1kOGZHQlItMXg2eVUxbHZuWTlRT1RZQk1GVklFdUlPZ2ktaE45WjJ4M0VkdndOM2RzMHEzOEM0cHVlTzF5UU1BS3VlUg?oc=5</link>
-      <guid isPermaLink="false">6fd928a5a89df041</guid>
-      <pubDate>Wed, 23 Sep 2026 16:55:37 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Chuba Hubbard is a top-15 RB with Jonathon Brooks out &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Jonathon Brooks Lands On Injured Reserve, Opening The Door For A Potential Austin Ekeler Fantasy Football Return - Sports Illustrated [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVTBSTEFnRExrbS1naTViQk9BYXRnZjc3RENXMWw2eTdxdTVjdzQzR0pMVnBLazBnVWIxWU91eElJSGJZNUJSSnpxbk03NWdMNlVVZjBwZzhnQ1dfWXBpaE15SE5xbC1uUEdoVGdzMUxfRHhiSXlGeENRQWxydmFoZUk5Z1d0eTl3RGRpZ2dkanY3M2tQOTN4dkNwNVBsY3BLaUQ0WEJhMENESEtjdFZ1SGNpOTVQUDlOWVlXUHJWempTcTVncklsaUQ1QnNqc0lLV2tXU3Zvdjkwb2RQSjJZNGF1S1dtSkU?oc=5</link>
-      <guid isPermaLink="false">95676ef0a254c95a</guid>
-      <pubDate>Wed, 23 Sep 2026 15:45:58 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Jonathon Brooks Lands On Injured Reserve, Opening The Door For A Potential Austin Ekeler Fantasy Football Return &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
-    </item>
-    <item>
-      <title>Jonathon Brooks injury update: Surgery sends Panthers RB to injured reserve again - The Big Lead [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS19pRHZHTkxOdndUb1VrRVBtRFoybDJITzlPcEhwck01RDNyNmtrWmtzYzNTenNJbWphcnMxbkZ2YWtTc19GSXVydXZ3NHJ5SXBfMmU5U3pEc3pPNjZxRWRXdnlZNTVBN0YyTmN5WjRVLS1uU2laYXE1X05vSXFpM1dZWnBlMTRJaS1YMVpkcnJkdDN5bW94RWNSQ19Ed0lER0ZCVzRySkw?oc=5</link>
-      <guid isPermaLink="false">1abc022bb284dcc3</guid>
-      <pubDate>Wed, 23 Sep 2026 12:12:12 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Jonathon Brooks injury update: Surgery sends Panthers RB to injured reserve again &amp;nbsp;&amp;nbsp; The Big Lead</description>
-    </item>
-    <item>
-      <title>Panthers&apos; Jonathon Brooks To Undergo Surgery, Miss Six Weeks - RealGM [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxNTHVEMG9CdVh4alg5azUyN2pSMFgyLTczWnp0UjhwSHhlSkF1eGpweEVOclNmZDlzWmNSLUM5djgtN1hPcHdDVG5fd19VbjVxLTItOXJFdHBwcEpLM3ZpXzczRkNFa19oME5Ydkdtd2IxZG11ZXI1YjJwRzlHTXctdFJuRUFVTlViSk5tLTlZVU5tYkZkdnBfblk0SXEzTW94SWc?oc=5</link>
-      <guid isPermaLink="false">30ea57b4fcfd39d1</guid>
-      <pubDate>Wed, 23 Sep 2026 14:55:31 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Panthers&apos; Jonathon Brooks To Undergo Surgery, Miss Six Weeks &amp;nbsp;&amp;nbsp; RealGM</description>
-    </item>
-    <item>
-      <title>Jonathon Brooks (core) officially on IR - FantasyPros [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxNdkxiN2lqNUU0Y0RqRFJnRjI5MnJZN2JIcXBXYmRBTy1JcUo2S0xLeDRFUGtYRjBUUzA2TmFYek1fVHBST09RWHB4UjU3dEt2VkFrZFJOdm1HYXBqTy1mY0MxYXVCRENiQjhIWXJPM2xicEhTV1o2Q2d5eFFZS1lsMDNmdmZrOTVpQmotb2tB0gGTAUFVX3lxTE4wN0k3aVlLSzU4T1pXbGtLekE3ci16dXU4NmJzNE5oazV4bXV1Mm84WXlLcGVRQjFuNlNycHJlaGlzZWtwa0ZpNWhzWGc4TjR5eDBOZV9uYXRCRlBpSHV4U21DV3p5ZXdKSXRhd3gyT2Y5S1pXbDZ3QTBDazZCMlJJVXBvQW1oUEh2aXZtdmJldzJ0aw?oc=5</link>
-      <guid isPermaLink="false">c43a4c8cd795fd0e</guid>
-      <pubDate>Wed, 23 Sep 2026 15:28:39 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Jonathon Brooks (core) officially on IR &amp;nbsp;&amp;nbsp; FantasyPros</description>
-    </item>
-    <item>
-      <title>Panthers RB Jonathon Brooks Going On IR After Core Muscle Surgery - NFLTradeRumors.co [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2NycUw1RTU2Tk9GMUFUcmlSNmpwMi1KeTlTY0VaQ3FTNlpnYVYyQkp1WmlyNlRvRnlMQlhKZHJ3YTFvUzdkNTRaNjFWZl80NzVKLV9MdVF5aFZ5T3YtaEdvcXhrSzZMa1dMMVJIWFJMUGZkMTZIaEFGUVhrOFMzaG10alpCZzN2T3ZyckNfWjRiOVFTaVNB?oc=5</link>
-      <guid isPermaLink="false">9db8c72f87ac4c4a</guid>
-      <pubDate>Wed, 23 Sep 2026 13:04:55 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Panthers RB Jonathon Brooks Going On IR After Core Muscle Surgery &amp;nbsp;&amp;nbsp; NFLTradeRumors.co</description>
-    </item>
-    <item>
-      <title>Panthers Officially Put Jonathon Brooks On IR, Made Two More Moves - NFLTradeRumors.co [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxNWUdBWVNyMGNxdzZtSEFTcm1ncTdLWDYtVVN6SHNnRnhvN3BVLUd3eFdYVDc4QWFmNEx5OGt1azZaRmh4MVlKSXlxMk5EVDdMQjJJYjZiRENpcjZ5TWdmaXRscUd2TmZINjUyUzNkbkhGdFFqeW1haVRvcXI1MTR1eDRLZnR5V1dWNlRkY25IOUxSa08tRzdz?oc=5</link>
-      <guid isPermaLink="false">458ffaa5429ed7b5</guid>
-      <pubDate>Wed, 23 Sep 2026 13:47:20 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Panthers Officially Put Jonathon Brooks On IR, Made Two More Moves &amp;nbsp;&amp;nbsp; NFLTradeRumors.co</description>
-    </item>
-    <item>
-      <title>Panthers Could Turn to Austin Ekeler After Bad Jonathon Brooks News - Lexington Herald Leader [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SSEVUN1dnYjhybS1fV0Rubi1RQ0kyZjJJX0FLcTNSN2xsSDVOeTNjWWNyWHAwbmRwT0hRUHlqTHltMEF1SUIyR3hpS0N4VXNsSnQybkpWakowRTMwMVBBY3FLQQ?oc=5</link>
-      <guid isPermaLink="false">d01e1c2b89a422ec</guid>
-      <pubDate>Wed, 23 Sep 2026 15:24:11 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Panthers Could Turn to Austin Ekeler After Bad Jonathon Brooks News &amp;nbsp;&amp;nbsp; Lexington Herald Leader</description>
-    </item>
-    <item>
-      <title>Ollie Gordon II uninvolved in loss Sunday - FantasyPros [Ollie Gordon]</title>
-      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxPcVhCV1ZCVG1zX3ZPaXJ0QVdia0ZxaVotMFo5b2dDTXlPdEpReDZHWS1kYkVObFNxN0MyT2IwdDBWX2hScE0wVUhadWxxT3l2cXBWelRlbmVVYldyTDlIak1MN25FeTRHQmtHMGJySWF5M3Y1czRaNHliWXZyVGZiRmFLazQtb3VNdVhPbGl5UdIBlAFBVV95cUxQZTY0Ny1BSFRLWGlCQVlCRU9jWnlwRmoxamZ2ODZyRFlrSFlUN3JTam02ekFvU0VzQUpweFJQY2g5WnNmNm1RSW1DVUdCWXlWMEZtTzNHcE1Qd3VlazJ1bF9NX1puc0dOVUZhQUlUUFVsX191T0pZX25tLURWVFhYQ0dkdVRtbG85eXhUWVRaWkktNGdO?oc=5</link>
-      <guid isPermaLink="false">3f5e09fbd4ee592a</guid>
-      <pubDate>Wed, 23 Sep 2026 13:54:36 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Ollie Gordon II uninvolved in loss Sunday &amp;nbsp;&amp;nbsp; FantasyPros</description>
-    </item>
-    <item>
-      <title>Jonathon Brooks out six weeks - AOL.com [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE5DUEIteS02Q0V0eTJhUXIwdlQ0UjMxQzhtZnNJRG04NDFYNXFrVExGZjliQmt0QVpZY3pSMUgyNWc4ZnpZX0dvN2hMX0pmZXlneTR4N2p6cnhQdFp5ZmlBY2JyMnJQUm9WQnNKX3hnVWQ4b1JRT2txWA?oc=5</link>
-      <guid isPermaLink="false">383b5759da4d8c89</guid>
-      <pubDate>Wed, 23 Sep 2026 13:57:14 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Jonathon Brooks out six weeks &amp;nbsp;&amp;nbsp; AOL.com</description>
-    </item>
-    <item>
-      <title>Jonathon Brooks Injury History is Painful for Panthers After Latest Update - heavy.com [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQRGNZM0xwbWdMU3FsYWl6aEsybTdwbHJKQ1I3VTJVajlvb0NnaFc4MlZwR2pPMmdjWUtIWS1rSzRQbDVnOHpDcGxyMXZ4eGlheWVaN2VSSlV3VkpKVzBhazUxQVJZQXJCbjJYRDhDdU54dnRJNnZvRjVuNVByd1dkRVhhdGRnZUdnNmJYWFBB?oc=5</link>
-      <guid isPermaLink="false">83a9435266b4bbcd</guid>
-      <pubDate>Wed, 23 Sep 2026 14:06:08 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Jonathon Brooks Injury History is Painful for Panthers After Latest Update &amp;nbsp;&amp;nbsp; heavy.com</description>
-    </item>
-    <item>
-      <title>Jonathon Brooks Injury: Moved to IR - RotoWire [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxNUk1JSU9KUjlMNERBRFRyVEZ0MWZHbTVncXlVMVZ0dHlncEFRdEE1NWxLT2J5OHlUSDNwVEg1Q3RrdE9CcGRWVmxxR2d4U1REVHhZYk93Sm9WU2FNMTAtbjVfOUIxWmNLWEdfblFVUjlIYS1hTkYtX2VfOWxiV2NwbWt6TWJBTlB1VzZqVDR3?oc=5</link>
-      <guid isPermaLink="false">a3dc12189b424e28</guid>
-      <pubDate>Wed, 23 Sep 2026 13:48:40 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Jonathon Brooks Injury: Moved to IR &amp;nbsp;&amp;nbsp; RotoWire</description>
-    </item>
-    <item>
-      <title>Why Panthers aren&apos;t &apos;upset&apos; amid latest Jonathon Brooks injury setback - Yardbarker [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNUlXRUJiZzNqZ205UDdRZVoxbXdiWXZwQ1RKVEVhYXZPNjc2UDZPelczalFjNzlGOVYzeDJ6Sl9jT3BQQWtIWTR3Nlp3cWd1czBLTFpyNjdIQ0JzMDdXa1FoWjFQQjZVazNvNXNJd2xna1FxbnlKa3lhQ2VSYlpXOUZIbElZTGhDMHM4eGZZeE9HeEdHdXdnZ2J0dFZudE9YSHJzWnZ4Yk5MTXRwTTNackJKckY0XzNyakl3WWdRX2JwYXM?oc=5</link>
-      <guid isPermaLink="false">bfbad376f9282c45</guid>
-      <pubDate>Wed, 23 Sep 2026 12:19:20 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Why Panthers aren&apos;t &apos;upset&apos; amid latest Jonathon Brooks injury setback &amp;nbsp;&amp;nbsp; Yardbarker</description>
-    </item>
-    <item>
-      <title>Jonathon Brooks Injury: Requires surgery, out six weeks - RotoWire [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxOb25jc25pSUNNZE9mRXd6OXItX0pFMlVXSzBaNXp0WG9ROGFoaHU2NWt6MGNKMGljSEZkc1RSanl0Sms1NDU5SzJNMmM3djBhU2Y0eXdpcFJnZm5YazR1eFN2ZGZQQl9XRHVfOTBsMXprRnhiMld4bmFfZ3k4NFdqcTVvY19rX09JWlJHWkRvSDFMYS1wV3MydUpqRU1ZRGRXempPczlObw?oc=5</link>
-      <guid isPermaLink="false">d9f02ba971fabb1e</guid>
-      <pubDate>Wed, 23 Sep 2026 13:10:35 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Jonathon Brooks Injury: Requires surgery, out six weeks &amp;nbsp;&amp;nbsp; RotoWire</description>
-    </item>
-    <item>
-      <title>Carolina Panthers: RB Jonathon Brooks placed on Injured Reserve - roundtable.io [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPTFZ0Wjg2cDlDaE5xVlFwcExmMC1fZ01xbl91SHBmQl9xOXdJS3dYUE9Dak8zeERfaEN2bGRKbzhzejk0bk1fb2VFSnhFemVhNU5zaEZJSUctUUVtbm44eUgxY3RYZWNNTk9qbkJVSWFHcW1uWXAtMU1XdXNLQVFQc29ndnFfWWdDRDBZdUVlM09jSF9odkcw?oc=5</link>
-      <guid isPermaLink="false">652a091b975671cd</guid>
-      <pubDate>Wed, 23 Sep 2026 14:23:50 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Carolina Panthers: RB Jonathon Brooks placed on Injured Reserve &amp;nbsp;&amp;nbsp; roundtable.io</description>
-    </item>
-    <item>
-      <title>Panthers RB Jonathon Brooks Slated for Surgery, IR Stint - TheLines.com [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxOSUVvR2lfallZZXRKZnJNLU1pU2l3YVQzMmxVNThBWXVhRlVNWGJvbnFlcjMta2JNREpMQU41N0xva1lTNzFlUFZ3T0J4UEJmejhUMjM5MThfTVRSa0RHWGExUzI4eUpJQklDNngyQjdadzcxQjU2M3AwU0xFMVJUUUhielBEZnB6bFJRYmdR?oc=5</link>
-      <guid isPermaLink="false">48103a87a57a8209</guid>
-      <pubDate>Wed, 23 Sep 2026 16:52:04 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Panthers RB Jonathon Brooks Slated for Surgery, IR Stint &amp;nbsp;&amp;nbsp; TheLines.com</description>
-    </item>
-    <item>
-      <title>Carolina Panthers Reportedly Working Out Touchdown Machine to Replace Jonathon Brooks - Sportsnaut [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTFBHRUNqQzBGUnk5YUg0ZlU0VHdtUTkxaHZCdlNLai1WcWV4ZGl0Slc1Wkw3MnloSHlpMm5jSXJlSXBocmlDNW9FT1J3c3p1NjdLODJpa2I5OS1aVFdKczc0bWdXX2JOMG15VllXM3U5ZlRvd0pybkF5a3dB?oc=5</link>
-      <guid isPermaLink="false">e414aa423b6c6b53</guid>
-      <pubDate>Wed, 23 Sep 2026 14:21:15 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Carolina Panthers Reportedly Working Out Touchdown Machine to Replace Jonathon Brooks &amp;nbsp;&amp;nbsp; Sportsnaut</description>
-    </item>
-    <item>
-      <title>Panthers reportedly working out 2-time NFL TD leader after latest blow to RB Jonathon Brooks - Panthers Wire [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMjM0TF9pdlVLQUgxcDF3WTJsVlhTRjhndmhPeUZKSUtiZFloR0lvSk1GcUpYTzZaeDI1QVAxMWZLV002dDJHTW10NHFUUHpfVTUzXzR0bUhjbmtLN1AwVE9DcXFxclphRGJSMkVHTnFCTXNCZ2pESi1NSmxlS1c3anAwcF9zYjdva1JOa1pKQjZIX0UwT2E2VTJWbHpFZHh1ekc1ODc3dHI3b0hZamNsbGJlZlVybUVoLXF5enRGQnladjUtR1VsUA?oc=5</link>
-      <guid isPermaLink="false">c02551931d6b1ed7</guid>
-      <pubDate>Wed, 23 Sep 2026 12:07:00 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Panthers reportedly working out 2-time NFL TD leader after latest blow to RB Jonathon Brooks &amp;nbsp;&amp;nbsp; Panthers Wire</description>
-    </item>
-    <item>
-      <title>Inside Panthers Star Jonathon Brooks’ $539K North Carolina Home Where He’ll Recover Following Latest Injury - Yahoo [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxNaV9ETlRYWGlKaWhLTE04TVBKbGVMY0Jqc0ZYb3MxcTBHUzdNVG1NZ0N4NGJ2d3RnTjdtTmlwSm9HMVpESDRWdGpUU3d2NmZMZGhEX0p0b2JoRXIwbnpnSW5uZUpDWTNncWF0TXdXaWNkVlBQTkJRaThOc3VpVXRxTVZpRERkZjlLOUc5ZERzLU1PWmtJV0hR?oc=5</link>
-      <guid isPermaLink="false">4b4497c718430dd3</guid>
-      <pubDate>Wed, 23 Sep 2026 16:56:46 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Inside Panthers Star Jonathon Brooks’ $539K North Carolina Home Where He’ll Recover Following Latest Injury &amp;nbsp;&amp;nbsp; Yahoo</description>
-    </item>
-    <item>
-      <title>Jonathon Brooks heads to injured reserve again, forcing the Panthers to explore a familiar NFL name in Aus - The Economic Times [Jonathon Brooks]</title>
-      <link>https://news.google.com/rss/articles/CBMiqgJBVV95cUxPdEJoeV9uZWd6RW4xWG5HSENGWWxDb3dHS2tIXzVZS25UR1FQc0Y5U21JbGJ0ZnRuNnFYdkhxX3dhSWNFeUJIOFJUdENQQWl5bGpfb2tsOHNoVzB5cnI3QldnaTFiQ2ZiVndpY0lTUkxHd09SZ0VoZHoxTnlxTnhCczdrVF9ER0NzVU02WTZCQThDZllYV3IyV09DaXZnTk9CYjNTOU1RRXgxOEtlUWJPRWV3M21MOWw4bkw5WjNvM0NaTjZBWkxjU2JOWkVzYW5uc2lGejJDYnVoa0UwWlpEbUhqS0pKaGtNMmpFdFNLVUZoYnJENDR5Y2trSERHTHJrZktZeGN5VkZJU04zd00wb0ZYRm14RUNNRU5LSzAxYk82bC1reldMRWtn0gGvAkFVX3lxTE9SMjhyWVVERE5uVHVoeGM1YzZqTXFIT2lXVmJsQV9SUXdzVUphRE54NHVuT1g5enlENUxjeTJNczJDV1dvLTQzam9yTlJwVXVWWlZBdktTbGFVNFJlS2dfVnRqOWFKQ0ZtLUNyTU9YaHRNWEFJeXRDUGI5Y2dNdGJDV09yQTBCOGF4Z1V0cm1EMkJ0d3lEbklCeDI1cEtSeGdIUzFxdVpwaTBvWnpZMjVyMHJJRW1KelgzRkRFcGRselBzUlAtRUl4Y3p1UE9aMjdac25JQkswZkZoRVVxY1dLNmRrRlJLZkFPdUpYREEtUWtjcFgyMno5WC1Ma3AyZFEzTk1DalN4ck9FaWFRc0VwcGdvbDk3VWVpbTdWTTRyRWNLWkhhUXJ6SE9NUXZVMA?oc=5</link>
-      <guid isPermaLink="false">5025f30f8e799b66</guid>
-      <pubDate>Wed, 23 Sep 2026 14:00:08 GMT</pubDate>
-      <source>Google News: Brown, Pacheco, Brooks, Johnson, Gordon</source>
-      <description>Jonathon Brooks heads to injured reserve again, forcing the Panthers to explore a familiar NFL name in Aus &amp;nbsp;&amp;nbsp; The Economic Times</description>
     </item>
   </channel>
 </rss>
