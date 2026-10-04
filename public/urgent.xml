@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1791133256458"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1791136602397"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - urgent only</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Availability and role changes only. Point your email service at this one.</description>
-    <lastBuildDate>Sun, 04 Oct 2026 17:00:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 17:56:42 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/urgent.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -1863,14 +1863,6 @@
       <pubDate>Tue, 29 Sep 2026 14:48:53 GMT</pubDate>
       <source>Google News: Houston Texans</source>
       <description>Texans Lose Practice Squad WR to Bengals, But They Shouldn&apos;t Sweat It &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
-    </item>
-    <item>
-      <title>Broncos snaps and analysis for the win over the Rams [Marvin Mims]</title>
-      <link>https://sports.yahoo.com/articles/broncos-snaps-analysis-win-over-110000367.html</link>
-      <guid isPermaLink="false">2b5a94ffdde823e2</guid>
-      <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
-      <source>Yahoo Sports NFL</source>
-      <description>The Denver Broncos inactives against the Los Angeles Rams were: QB Sam Ehlinger, WR Marvin Mims Jr., DL Sai’vion Jones, TE Dallen Bentley, OL Kage Casey, WR Lil’Jordan Humphrey, and DT Tyler Onyedim. Jones being inactive is a change since he played 33 and 21 snaps on defense in the first two games. The other […]</description>
     </item>
   </channel>
 </rss>
