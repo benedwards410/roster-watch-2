@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1791292741670"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1791313027515"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Tue, 06 Oct 2026 13:19:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 18:57:07 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Michael Penix Jr. has completely revived the Falcons&amp;#039; offense. Can it continue after a hot start? [Michael Penix]</title>
+      <link>https://www.cbssports.com/nfl/news/michael-penix-jr-has-completely-revived-the-falcons-offense/</link>
+      <guid isPermaLink="false">d37868a2856ac064</guid>
+      <pubDate>Tue, 06 Oct 2026 18:10:29 GMT</pubDate>
+      <source>CBS Sports NFL</source>
+      <description>The Falcons are leading the league in scoring over the last two weeks with Penix, but the question remains whether this is real or a mirage</description>
+    </item>
     <item>
       <title>Falcons average NFL-high 40.0 points with Michael Penix, after NFL-low 8.0 without him [Michael Penix]</title>
       <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-average-nfl-high-40-0-points-with-michael-penix-after-nfl-low-8-0-without-him</link>
@@ -9599,14 +9607,6 @@
       <pubDate>Thu, 01 Oct 2026 10:32:20 GMT</pubDate>
       <source>Google News: Golden, Loveland, Sadiq, Pitts</source>
       <description>Dirty Birds Dispatch: Falcons need to get Kyle Pitts going in Domecoming &amp;nbsp;&amp;nbsp; The Atlanta Journal-Constitution</description>
-    </item>
-    <item>
-      <title>Kenyon Sadiq And Keenan Allen Lead Our Fantasy Football Must-Start Fringe Options For Week 4 - Sports Illustrated [Kenyon Sadiq]</title>
-      <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxONjRNUVJDeW9BX3BDbHBVcEJrY3lGUXZKc3hvX0JrVnA4TUpGdWtVUXVlNnh0WHFiTGd4dVZHNDN0T0RkYm51YjdSSE4zTGh1Mzl1SFV1dTBpOE9VSlhONDVFM1VvOHRTX2wwWm1mRTVDQzUzbnpRWGpEZE1CT21xYTRpWjZQclNKZElnMGpRcWNlTUxhTzI0VUtUVF85QU9IVE5waExYZDRQTUxCazVCY1phNXBrUU9JT2JuYU5WX01QdTBnc28wUFdlNEUzZVRaZF83NWZoVQ?oc=5</link>
-      <guid isPermaLink="false">e61b63d05d4e99ea</guid>
-      <pubDate>Thu, 01 Oct 2026 15:12:29 GMT</pubDate>
-      <source>Google News: Golden, Loveland, Sadiq, Pitts</source>
-      <description>Kenyon Sadiq And Keenan Allen Lead Our Fantasy Football Must-Start Fringe Options For Week 4 &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
     </item>
   </channel>
 </rss>
