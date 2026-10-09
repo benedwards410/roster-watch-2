@@ -3,7 +3,7 @@
   "_sleeper": {
     "leagueId": "1312070936467365888",
     "username": "jcedwards69",
-    "lastSync": "2026-09-17T14:57:38.168Z"
+    "lastSync": "2026-10-09T13:43:49.924Z"
   },
   "players": [
     {
@@ -197,6 +197,18 @@
       "sleeperId": "12514"
     },
     {
+      "id": "jaylin-noel",
+      "sleeperId": "12536",
+      "name": "Jaylin Noel",
+      "pos": "WR",
+      "team": "HOU",
+      "verified": true,
+      "aliases": [
+        "Jaylin Noel"
+      ],
+      "exclude": []
+    },
+    {
       "id": "boutte",
       "name": "Kayshon Boutte",
       "pos": "WR",
@@ -221,18 +233,6 @@
       ],
       "exclude": [],
       "sleeperId": "11635"
-    },
-    {
-      "id": "mack-hollins",
-      "sleeperId": "4177",
-      "name": "Mack Hollins",
-      "pos": "WR",
-      "team": "NE",
-      "verified": true,
-      "aliases": [
-        "Mack Hollins"
-      ],
-      "exclude": []
     },
     {
       "id": "lemon",
