@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1792024223164"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1792040953296"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Thu, 15 Oct 2026 00:30:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 05:09:13 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NFL Week 6 injury report: Broncos&amp;#039; Patrick Surtain, Talanoa Hufanga ruled out [Michael Penix]</title>
+      <link>https://www.cbssports.com/nfl/news/nfl-week-6-injury-report-broncos-patrick-surtain-talanoa-hufanga-ruled-out/</link>
+      <guid isPermaLink="false">783bbfa3cfc71821</guid>
+      <pubDate>Thu, 15 Oct 2026 01:00:37 GMT</pubDate>
+      <source>CBS Sports NFL</source>
+      <description>Lamar Jackson, Caleb Williams and Michael Penix Jr. could be back under center this week, while the Eagles hope to regain Saquon Barkley</description>
+    </item>
+    <item>
+      <title>Samaje Perine is pushing to be RB1 after out-carrying Chase Brown vs. Dolphins [Chase Brown]</title>
+      <link>https://sports.yahoo.com/articles/samaje-perine-pushing-rb1-carrying-022337249.html</link>
+      <guid isPermaLink="false">a13a080121fa8974</guid>
+      <pubDate>Thu, 15 Oct 2026 02:23:37 GMT</pubDate>
+      <source>Yahoo Sports NFL</source>
+      <description>Is the Bengals offense better off with Samaje Perine out-snapping Chase Brown?</description>
+    </item>
     <item>
       <title>Caleb Williams, Ben Johnson to make Hallmark debuts [Colston Loveland]</title>
       <link>https://sports.yahoo.com/nfl/article/caleb-williams-ben-johnson-to-make-hallmark-debuts-233144547.html</link>
@@ -9591,22 +9607,6 @@
       <pubDate>Sun, 11 Oct 2026 14:42:42 GMT</pubDate>
       <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
       <description>Is Ashton Jeanty playing today? Raiders injury report with RB questionable &amp;nbsp;&amp;nbsp; FanSided</description>
-    </item>
-    <item>
-      <title>Ashton Jeanty Active as Raiders Take on Patriots - Athlon Sports [Ashton Jeanty]</title>
-      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNX2VCR0JFX0d6X0Z6YTg2MmdPMUtVbWxIYjJSZzNhaGlWZFdpUmI1Nkt5UFdQbFlONHMyQkc2dHp4UHdsOHN1d3B4MW9Hd1FyV3F6MHR6Wnc0MEFxb0VsYVN3RHJTRjd2MU1mdU5vX1lLY2MwOFcwVHlOb1lYTHdHWl9FbmlQZ1Rhd0dKa2FMeDhickR0NHF2eWRnWWZGNlE?oc=5</link>
-      <guid isPermaLink="false">e2ff384dc96a5f40</guid>
-      <pubDate>Sun, 11 Oct 2026 15:35:03 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>Ashton Jeanty Active as Raiders Take on Patriots &amp;nbsp;&amp;nbsp; Athlon Sports</description>
-    </item>
-    <item>
-      <title>Raiders Announce Ashton Jeanty Decision 90 Minutes Before Patriots Game - Heavy.com [Ashton Jeanty]</title>
-      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxQa2JPOGJwbkNDY2NFYzVvNnZqMjhTbFJXWkJUYWlIZ2pwOFV3MkVXWGx4OXJUTWtZQnBrN1NMRmJFS2cwV1JBOFVYRUtBSlVxVngtLXFRTDktZkU0MEZVTlVVLUwxZ0Q3TjZIcWFMd3dqQVhmb203bWRyWEFZbEpncjhWUi1tREN2WXJNOHJhRFRHcHJmenc?oc=5</link>
-      <guid isPermaLink="false">f8696c4814d37a65</guid>
-      <pubDate>Sun, 11 Oct 2026 16:12:52 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>Raiders Announce Ashton Jeanty Decision 90 Minutes Before Patriots Game &amp;nbsp;&amp;nbsp; Heavy.com</description>
     </item>
   </channel>
 </rss>
