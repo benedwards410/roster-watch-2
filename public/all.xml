@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1793062493772"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1793080963657"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Tue, 27 Oct 2026 00:54:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 06:02:43 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eagles take 21-20 lead on Cowboys to open second half [Makai Lemon]</title>
+      <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-take-21-20-lead-on-cowboys-to-open-second-half</link>
+      <guid isPermaLink="false">dea4b553f504db8a</guid>
+      <pubDate>Tue, 27 Oct 2026 02:20:37 GMT</pubDate>
+      <source>ProFootballTalk</source>
+      <description>Rookie Makai Lemon scored his first NFL touchdown, a 4-yard reception from Tanner McKee.</description>
+    </item>
+    <item>
+      <title>Packers Injury Report: 7 to start the list on Monday [Matthew Golden]</title>
+      <link>https://sports.yahoo.com/articles/packers-injury-report-7-start-024931852.html</link>
+      <guid isPermaLink="false">f70e67ebbdd59edb</guid>
+      <pubDate>Tue, 27 Oct 2026 02:49:31 GMT</pubDate>
+      <source>Yahoo Sports NFL</source>
+      <description>Keep an eye on Matthew Golden, Devonte Wyatt and Anthony Campbell this week</description>
+    </item>
     <item>
       <title>Jordan Love, Christian Watson off Packers&apos; injury report [Jordan Love]</title>
       <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jordan-love-christian-watson-off-packers-injury-report</link>
@@ -9591,22 +9607,6 @@
       <pubDate>Wed, 21 Oct 2026 20:13:41 GMT</pubDate>
       <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
       <description>Packers&apos; Jordan Love: Dealing with back injury &amp;nbsp;&amp;nbsp; CBS Sports</description>
-    </item>
-    <item>
-      <title>Brian Robinson Jr. (hamstring) limited participant Wednesday - FantasyPros [Brian Robinson]</title>
-      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdVRlazktVHA5MnZXcDF1X3pFZ3o4QzlTdHhXT1hhWURRRi12NFNmRzVPUTZqd2tLX24xc01qSlFVYlpiZVVSRDdsbnZMV3NFWVI5ZGktWHhhbGVWdjZoTVJJNC1rQzJ4ZVFqaG1JUmMzNDZpN01ZZFRleUxxcUFDODA1RDZvT1hXdHNPNUVTNldocmpaN19Ma1AwMEtkam9PQWt3SEs0VGPSAa4BQVVfeXFMTmFKT0NaTTFGUFhjSm8xWDJ0UzRSX2VEdmZQU2hqV3VGQW02YUNvV0JBak41b2IzSEJDYm1jbEpYQTZjd0NBNUJJVW5oVnhZVU1WYVBRZFVmUkZ4N2hfN0xxUTVUdHdjTnpudlMxWDh0MHhEMGxIMnM5SHFCUjRYM2tYNXY4cDByc3lUTlJXREtWdnhhWGNURFhOeFFJZUwtd1d2RF9xMlFuMlR4U0pR?oc=5</link>
-      <guid isPermaLink="false">bef5b4f9a82290a5</guid>
-      <pubDate>Thu, 22 Oct 2026 00:57:00 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>Brian Robinson Jr. (hamstring) limited participant Wednesday &amp;nbsp;&amp;nbsp; FantasyPros</description>
-    </item>
-    <item>
-      <title>The defense was a bigger problem than Michael Penix - Audacy [Michael Penix]</title>
-      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxPRUFnZ3R4eTZGTlQwRlJuVWZEOHRJZ202SlFEeVJwTWZ3OFJibzB6dXEzZWhMRi1NSDA5eHlVYU41amJOMXhPWG9zUU55dDhmMXE0RWl4cU5FRlVtelM2MXhQQ3JKZ183QWRIOGNDM3M5RWR2WXlXNm5iWHpyM3U4cXQwaUJ5S2hLc1FsTlpGbHhTbkI1QmxyUnZRX1ZCNWds?oc=5</link>
-      <guid isPermaLink="false">21b5f25e94166acc</guid>
-      <pubDate>Wed, 21 Oct 2026 16:16:05 GMT</pubDate>
-      <source>Google News: Nix, Love, Penix, Jeanty, Robinson</source>
-      <description>The defense was a bigger problem than Michael Penix &amp;nbsp;&amp;nbsp; Audacy</description>
     </item>
   </channel>
 </rss>
