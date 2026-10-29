@@ -3,7 +3,7 @@
   "_sleeper": {
     "leagueId": "1312070936467365888",
     "username": "jcedwards69",
-    "lastSync": "2026-10-27T12:03:16.293Z"
+    "lastSync": "2026-10-29T15:55:35.453Z"
   },
   "players": [
     {
@@ -260,6 +260,18 @@
       ],
       "exclude": [],
       "sleeperId": "12517"
+    },
+    {
+      "id": "eli-raridon",
+      "sleeperId": "13421",
+      "name": "Eli Raridon",
+      "pos": "TE",
+      "team": "NE",
+      "verified": true,
+      "aliases": [
+        "Eli Raridon"
+      ],
+      "exclude": []
     },
     {
       "id": "sadiq",
