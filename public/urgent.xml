@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1793456987442"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1793472162825"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - urgent only</title>
     <link>https://benedwards410.github.io/roster-watch-2/public</link>
     <description>Availability and role changes only. Point your email service at this one.</description>
-    <lastBuildDate>Sat, 31 Oct 2026 14:29:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 18:42:42 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch-2/public/urgent.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -1383,22 +1383,6 @@
       <pubDate>Wed, 28 Oct 2026 13:45:37 GMT</pubDate>
       <source>Google News: Philadelphia Eagles</source>
       <description>NFL Insider Linked Eagles To Recently Traded All-Pro Player &amp;nbsp;&amp;nbsp; heavy.com</description>
-    </item>
-    <item>
-      <title>New York Jets Tight End Kenyon Sadiq is in NFL Concussion Protocol - Yahoo Sports [Kenyon Sadiq]</title>
-      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxPaVhQT0hZZW94UzlCcUYyQWd6UVo2VDkweDdnSXlTQlc3RFBlQy1MMFhySklWSzZqcVpuTXVPV3FIejQzSHlaSno3SzlsRlRlelVfVGRGbTJ4aVpISmt4Ui01MVpad1BkOW81RXV2Yk5rT2dOS3h2ZVMyYkl0QUFPZw?oc=5</link>
-      <guid isPermaLink="false">f0e0533d067b2daa</guid>
-      <pubDate>Mon, 12 Oct 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Sadiq, Pitts</source>
-      <description>New York Jets Tight End Kenyon Sadiq is in NFL Concussion Protocol &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Kenyon Sadiq receives questionable tag - Yahoo Sports [Kenyon Sadiq]</title>
-      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxPbWlzNzRLWVRmbDdaZHhIR1o1dklqU3NGS1RzX2hXTDdWYkN4Y29fc0JWZzMxeW84TXFUbWg4LWl4QTBiZzZGenRmR0dzUEl2YzQwSnlwckozb2JuUXpzYk5RR0xqVmpQR0NHR3VqYTVkOUI3bm9Oa055dGNTTUhLOEh2Y1lJUDZoeE1Sd0NSSzE?oc=5</link>
-      <guid isPermaLink="false">0cca123095d76306</guid>
-      <pubDate>Fri, 16 Oct 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Sadiq, Pitts</source>
-      <description>Kenyon Sadiq receives questionable tag &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
     </item>
   </channel>
 </rss>
