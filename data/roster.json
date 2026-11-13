@@ -3,7 +3,7 @@
   "_sleeper": {
     "leagueId": "1312070936467365888",
     "username": "jcedwards69",
-    "lastSync": "2026-11-01T18:42:45.346Z"
+    "lastSync": "2026-11-13T15:29:27.666Z"
   },
   "players": [
     {
@@ -249,6 +249,18 @@
       "sleeperId": "12501"
     },
     {
+      "id": "reggie-virgil",
+      "sleeperId": "13297",
+      "name": "Reggie Virgil",
+      "pos": "WR",
+      "team": "ARI",
+      "verified": true,
+      "aliases": [
+        "Reggie Virgil"
+      ],
+      "exclude": []
+    },
+    {
       "id": "loveland",
       "name": "Colston Loveland",
       "pos": "TE",
@@ -304,6 +316,7 @@
     }
   ],
   "teams": {
+    "ARI": "Arizona Cardinals",
     "ATL": "Atlanta Falcons",
     "BAL": "Baltimore Ravens",
     "CAR": "Carolina Panthers",
